@@ -1,0 +1,68 @@
+name: Fetch and publish new match data
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout League-of-Legends
+        uses: actions/checkout@v2
+        
+      - name: Checkout scripts
+        uses: actions/checkout@v2
+        with:
+          repository: ics-tools/scripts
+          path: "external-scripts"
+        
+      - name: Set up Python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.X'
+
+      - uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}-lol.ics.tools
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+      - name: Convert notebook to script
+        run: jupyter nbconvert --to script "Get matches data.ipynb"
+      
+      - name: Run script
+        run: python3 "Get matches data.py"
+      
+      - name: Commit updated ics files
+        uses: actions-x/commit@v2
+        with:
+          email: actions@github.com
+          name: GitHub Actions
+          message: Update match data
+          files: leagues/
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate index tree
+        run: python3 generate_index.py "../leagues/" "" "../index_template.md" "../docs/index.md"
+        working-directory: "external-scripts"
+      
+      - name: Copy/Override builded ics files
+        run: cp -f leagues/* "docs/"
+
+      - name: Push public files
+        uses: actions-x/commit@v2
+        with:
+          email: actions@github.com
+          name: GitHub Actions
+          branch: public
+          message: Update public files
+          files: docs/
+          token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
