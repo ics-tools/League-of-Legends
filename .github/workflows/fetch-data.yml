@@ -46,7 +46,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate index tree
-        run: python3 generate_index.py "leagues/" "" "index_template.md" "docs/index.md"
+        run: python3 generate_index.py "../leagues/" "" "../index_template.md" "../docs/index.md"
         working-directory: "external-scripts"
       
       - name: Copy/Override builded ics files
