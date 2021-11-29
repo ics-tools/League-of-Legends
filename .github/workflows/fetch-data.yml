@@ -34,3 +34,34 @@ jobs:
       
       - name: Run script
         run: python3 "Get matches data.py"
+      
+      - name: Commit updated ics files
+        uses: actions-x/commit@v2
+        with:
+          email: actions@github.com
+          name: GitHub Actions
+          message: Update match data
+          branch: test
+          files: leagues/
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate index tree
+        run: python3 generate_index.py "leagues/" "" "index_template.md" "docs/index.md"
+        working-directory: "external-scripts"
+      
+      - name: Copy/Override builded ics files
+        run: cp -f leagues/* "docs/"
+      
+      - name: Move/Override index.md
+        run: mv -f "index.md" "docs/"
+
+      - name: Push public files
+        uses: actions-x/commit@v2
+        with:
+          email: actions@github.com
+          name: GitHub Actions
+          branch: test2
+          message: Update public files
+          files: docs/
+          token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
