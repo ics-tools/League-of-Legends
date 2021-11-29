@@ -33,4 +33,4 @@ jobs:
         run: jupyter nbconvert --to script "Get matches data.ipynb"
       
       - name: Run script
-        run: python3 "Get matches data.ipynb"
+        run: python3 "Get matches data.py"
