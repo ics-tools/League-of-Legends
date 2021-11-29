@@ -1,0 +1,1559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[Hitpoint Masters] VIK vs. SIN
+UID:hitpoint_masters-105596516632250436@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Vikingekrig 
+ Esports vs. SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. SINNERS Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T190000Z
+DTEND:20210127T200000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-105596516632250438@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
+ vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T190000Z
+DTEND:20210131T200000Z
+SUMMARY:[Hitpoint Masters] BRT vs. SIN
+UID:hitpoint_masters-105596516632250440@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  BRUTE (0) vs. SINNERS Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210207T200000Z
+DTEND:20210207T210000Z
+SUMMARY:[Hitpoint Masters] DTG vs. SIN
+UID:hitpoint_masters-105596516632250442@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dark Tigers vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Dark Tigers (1) vs. SINNERS Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T170000Z
+DTEND:20210204T180000Z
+SUMMARY:[Hitpoint Masters] INAE vs. SIN
+UID:hitpoint_masters-105596516632250444@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Inaequalis vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Inaequalis (0) vs. SINNERS Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T170000Z
+DTEND:20210131T180000Z
+SUMMARY:[Hitpoint Masters] ECT vs. SIN
+UID:hitpoint_masters-105596516632250446@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Eclot Gaming vs.
+  SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Eclot Gaming (0) vs. SINNERS Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ESB
+UID:hitpoint_masters-105596516632250448@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: SINNERS Esports 
+ vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. eSuba (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ING
+UID:hitpoint_masters-105596516632250450@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Vikingekrig 
+ Esports vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T200000Z
+DTEND:20210211T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. VIK
+UID:hitpoint_masters-105596516632250452@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: BRUTE vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRUTE (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T180000Z
+DTEND:20210131T190000Z
+SUMMARY:[Hitpoint Masters] DTG vs. VIK
+UID:hitpoint_masters-105596516632250454@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Tigers (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T140000Z
+DTEND:20210131T150000Z
+SUMMARY:[Hitpoint Masters] VIK vs. INAE
+UID:hitpoint_masters-105596516632250456@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Vikingekrig 
+ Esports vs. Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (1) vs. Inaequalis (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T170000Z
+DTEND:20210127T180000Z
+SUMMARY:[Hitpoint Masters] ECT vs. VIK
+UID:hitpoint_masters-105596516632250458@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Eclot Gaming vs.
+  Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Eclot Gaming (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210207T190000Z
+DTEND:20210207T200000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ESB
+UID:hitpoint_masters-105596516632315996@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Vikingekrig 
+ Esports vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210207T170000Z
+DTEND:20210207T180000Z
+SUMMARY:[Hitpoint Masters] BRT vs. ING
+UID:hitpoint_masters-105596516632315998@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: BRUTE vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T150000Z
+DTEND:20210131T160000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ING
+UID:hitpoint_masters-105596516632316000@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Tigers (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[Hitpoint Masters] INAE vs. ING
+UID:hitpoint_masters-105596516632316002@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inaequalis vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T210000Z
+DTEND:20210131T220000Z
+SUMMARY:[Hitpoint Masters] ECT vs. ING
+UID:hitpoint_masters-105596516632316004@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Eclot Gaming vs.
+  Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Eclot Gaming (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[Hitpoint Masters] ING vs. ESB
+UID:hitpoint_masters-105596516632316006@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inside Games vs.
+  eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Inside 
+ Games (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T190000Z
+DTEND:20210204T200000Z
+SUMMARY:[Hitpoint Masters] BRT vs. DTG
+UID:hitpoint_masters-105596516632316008@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: BRUTE vs. Dark 
+ Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T200000Z
+DTEND:20210127T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. INAE
+UID:hitpoint_masters-105596516632316010@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ BRUTE (1) vs. Inaequalis (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T200000Z
+DTEND:20210128T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. ECT
+UID:hitpoint_masters-105596516632316012@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. Eclot 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (0) vs. Eclot Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T160000Z
+DTEND:20210131T170000Z
+SUMMARY:[Hitpoint Masters] ESB vs. BRT
+UID:hitpoint_masters-105596516632316014@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: eSuba vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (1)
+  vs. BRUTE (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T170000Z
+DTEND:20210128T180000Z
+SUMMARY:[Hitpoint Masters] INAE vs. DTG
+UID:hitpoint_masters-105596516632316016@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inaequalis vs. 
+ Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. Dark Tigers (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T170000Z
+DTEND:20210211T180000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ECT
+UID:hitpoint_masters-105596516632316018@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ Eclot Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Tigers (1) vs. Eclot Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T180000Z
+DTEND:20210127T190000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ESB
+UID:hitpoint_masters-105596516632316020@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210207T180000Z
+DTEND:20210207T190000Z
+SUMMARY:[Hitpoint Masters] ECT vs. INAE
+UID:hitpoint_masters-105596516632316022@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Eclot Gaming vs.
+  Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Eclot Gaming (1) vs. Inaequalis (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210131T200000Z
+DTEND:20210131T210000Z
+SUMMARY:[Hitpoint Masters] INAE vs. ESB
+UID:hitpoint_masters-105596516632316024@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inaequalis vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T200000Z
+DTEND:20210204T210000Z
+SUMMARY:[Hitpoint Masters] ESB vs. ECT
+UID:hitpoint_masters-105596516632316026@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: eSuba vs. Eclot 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Eclot Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T190000Z
+DTEND:20210214T200000Z
+SUMMARY:[Hitpoint Masters] SIN vs. VIK
+UID:hitpoint_masters-105596516632316028@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: SINNERS Esports 
+ vs. Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T170000Z
+DTEND:20210214T180000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-105596516632316030@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: SINNERS Esports 
+ vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Inside Games (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210221T183000Z
+DTEND:20210221T193000Z
+SUMMARY:[Hitpoint Masters] SIN vs. BRT
+UID:hitpoint_masters-105596516632316032@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: SINNERS Esports 
+ vs. BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. BRUTE (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T170000Z
+DTEND:20210228T180000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DTG
+UID:hitpoint_masters-105596516632316034@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SINNERS Esports (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T170000Z
+DTEND:20210225T180000Z
+SUMMARY:[Hitpoint Masters] SIN vs. INAE
+UID:hitpoint_masters-105596516632316036@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. Inaequalis (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ECT
+UID:hitpoint_masters-105596516632316038@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: SINNERS Esports 
+ vs. Eclot Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Eclot Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T200000Z
+DTEND:20210228T210000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ESB
+UID:hitpoint_masters-105596516632316040@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[Hitpoint Masters] ING vs. VIK
+UID:hitpoint_masters-105596516632316042@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inside Games vs.
+  Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Inside Games (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T210000Z
+DTEND:20210228T220000Z
+SUMMARY:[Hitpoint Masters] VIK vs. BRT
+UID:hitpoint_masters-105596516632316044@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Vikingekrig 
+ Esports vs. BRUTE\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (1) vs. BRUTE (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210221T173000Z
+DTEND:20210221T183000Z
+SUMMARY:[Hitpoint Masters] DTG vs. VIK
+UID:hitpoint_masters-105596516632316046@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Dark Tigers vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Tigers (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T170000Z
+DTEND:20210218T180000Z
+SUMMARY:[Hitpoint Masters] INAE vs. VIK
+UID:hitpoint_masters-105596516632316048@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inaequalis vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Inaequalis (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T140000Z
+DTEND:20210214T150000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ECT
+UID:hitpoint_masters-105596516632316050@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Vikingekrig 
+ Esports vs. Eclot Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. Eclot Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T160000Z
+DTEND:20210228T170000Z
+SUMMARY:[Hitpoint Masters] ESB vs. VIK
+UID:hitpoint_masters-105596516632316052@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: eSuba vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: eSuba (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T140000Z
+DTEND:20210228T150000Z
+SUMMARY:[Hitpoint Masters] BRT vs. ING
+UID:hitpoint_masters-105596516632316054@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: BRUTE vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ING
+UID:hitpoint_masters-105596516632316056@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Dark Tigers vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Tigers (0) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T180000Z
+DTEND:20210228T190000Z
+SUMMARY:[Hitpoint Masters] INAE vs. ING
+UID:hitpoint_masters-105596516632316058@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inaequalis vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (1) vs. Inside Games (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210221T193000Z
+DTEND:20210221T203000Z
+SUMMARY:[Hitpoint Masters] ING vs. ECT
+UID:hitpoint_masters-105596516632316060@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inside Games vs.
+  Eclot Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Eclot Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T200000Z
+DTEND:20210214T210000Z
+SUMMARY:[Hitpoint Masters] ING vs. ESB
+UID:hitpoint_masters-105596516632316062@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inside Games vs.
+  eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Inside 
+ Games (1) vs. eSuba (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[Hitpoint Masters] DTG vs. BRT
+UID:hitpoint_masters-105596516632316064@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Dark Tigers vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (0) vs. BRUTE (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T160000Z
+DTEND:20210214T170000Z
+SUMMARY:[Hitpoint Masters] INAE vs. BRT
+UID:hitpoint_masters-105596516632316066@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inaequalis vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (1) vs. BRUTE (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T180000Z
+DTEND:20210214T190000Z
+SUMMARY:[Hitpoint Masters] ECT vs. BRT
+UID:hitpoint_masters-105596516632316068@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Eclot Gaming vs.
+  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Eclot 
+ Gaming (1) vs. BRUTE (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[Hitpoint Masters] BRT vs. ESB
+UID:hitpoint_masters-105596516632316070@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: BRUTE vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE (0)
+  vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T210000Z
+DTEND:20210214T220000Z
+SUMMARY:[Hitpoint Masters] DTG vs. INAE
+UID:hitpoint_masters-105596516632316072@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark
+  Tigers (1) vs. Inaequalis (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T190000Z
+DTEND:20210228T200000Z
+SUMMARY:[Hitpoint Masters] ECT vs. DTG
+UID:hitpoint_masters-105596516632316074@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Eclot Gaming vs.
+  Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Eclot Gaming (0) vs. Dark Tigers (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210214T150000Z
+DTEND:20210214T160000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ESB
+UID:hitpoint_masters-105596516632316076@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (1) vs. eSuba (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T150000Z
+DTEND:20210228T160000Z
+SUMMARY:[Hitpoint Masters] INAE vs. ECT
+UID:hitpoint_masters-105596516632316078@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inaequalis vs. 
+ Eclot Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (1) vs. Eclot Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210221T203000Z
+DTEND:20210221T213000Z
+SUMMARY:[Hitpoint Masters] INAE vs. ESB
+UID:hitpoint_masters-105596516632316080@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inaequalis vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[Hitpoint Masters] ECT vs. ESB
+UID:hitpoint_masters-105596516632316082@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Eclot Gaming vs.
+  eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Eclot 
+ Gaming (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T220000Z
+DTEND:20210228T230000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ESB
+UID:hitpoint_masters-105811207035753096@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (0) vs. eSuba (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210307T130000Z
+DTEND:20210307T180000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ING
+UID:hitpoint_masters-105832788794047041@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Vikingekrig Esports vs. Inside Games\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Vikingekrig Esports (1) vs. Inside Games
+  (3)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210307T173000Z
+DTEND:20210307T223000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ESB
+UID:hitpoint_masters-105832788794047047@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: SINNERS Esports vs. eSuba\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (3) vs. eSuba (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T173000Z
+DTEND:20210304T223000Z
+SUMMARY:[Hitpoint Masters] ECT vs. DTG
+UID:hitpoint_masters-105832788794047049@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Eclot Gaming vs. Dark Tigers\nSpiel-Strategie: bestOf 5\nStatus:
+  completed\nErgebnisse: Eclot Gaming (1) vs. Dark Tigers (3)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T170000Z
+DTEND:20210311T220000Z
+SUMMARY:[Hitpoint Masters] DTG vs. VIK
+UID:hitpoint_masters-105832856319608736@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Dark Tigers vs. Vikingekrig Esports\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Dark Tigers (2) vs. Vikingekrig Esports 
+ (3)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T173000Z
+DTEND:20210314T223000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-105832856319608742@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: SINNERS Esports vs. Inside Games\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: SINNERS Esports (3) vs. Inside Games 
+ (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210318T170000Z
+DTEND:20210318T220000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ESB
+UID:hitpoint_masters-105832856319608748@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 3\nTeams: Vikingekrig Esports vs. eSuba\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Vikingekrig Esports (2) vs. eSuba (3)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T173000Z
+DTEND:20210320T223000Z
+SUMMARY:[Hitpoint Masters] ESB vs. ING
+UID:hitpoint_masters-105916187362106620@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Halbfinale\nTeams: eSuba vs. 
+ Inside Games\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ eSuba (3) vs. Inside Games (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210321T173000Z
+DTEND:20210321T223000Z
+SUMMARY:[Hitpoint Masters] ESB vs. SIN
+UID:hitpoint_masters-105916187362106626@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Finale\nTeams: eSuba vs. SINNERS
+  Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: eSuba 
+ (3) vs. SINNERS Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T150000Z
+DTEND:20210627T160000Z
+SUMMARY:[Hitpoint Masters] DTG vs. BRT
+UID:hitpoint_masters-106419362026706283@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dark Tigers vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (0) vs. BRUTE (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T140000Z
+DTEND:20210620T150000Z
+SUMMARY:[Hitpoint Masters] DNE vs. BRT
+UID:hitpoint_masters-106419362027885933@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dynamo Eclot vs.
+  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynamo 
+ Eclot (0) vs. BRUTE (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T190000Z
+DTEND:20210620T200000Z
+SUMMARY:[Hitpoint Masters] ESB vs. BRT
+UID:hitpoint_masters-106419362027885935@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: eSuba vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (1)
+  vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T193000Z
+DTEND:20210617T203000Z
+SUMMARY:[Hitpoint Masters] BRT vs. INAE
+UID:hitpoint_masters-106419362027885937@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ BRUTE (0) vs. Inaequalis (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T170000Z
+DTEND:20210627T180000Z
+SUMMARY:[Hitpoint Masters] BRT vs. ING
+UID:hitpoint_masters-106419362027885939@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: BRUTE vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (0) vs. Inside Games (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T170000Z
+DTEND:20210624T180000Z
+SUMMARY:[Hitpoint Masters] SIN vs. BRT
+UID:hitpoint_masters-106419362027885941@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: SINNERS Esports 
+ vs. BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T190000Z
+DTEND:20210701T200000Z
+SUMMARY:[Hitpoint Masters] BRT vs. VIK
+UID:hitpoint_masters-106419362027885943@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: BRUTE vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRUTE (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T160000Z
+DTEND:20210701T170000Z
+SUMMARY:[Hitpoint Masters] DTG vs. DNE
+UID:hitpoint_masters-106419362027885945@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Tigers (0) vs. Dynamo Eclot (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T173000Z
+DTEND:20210617T183000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ESB
+UID:hitpoint_masters-106419362027885947@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (0) vs. eSuba (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T130000Z
+DTEND:20210620T140000Z
+SUMMARY:[Hitpoint Masters] DTG vs. INAE
+UID:hitpoint_masters-106419362027885949@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark
+  Tigers (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T180000Z
+DTEND:20210620T190000Z
+SUMMARY:[Hitpoint Masters] ING vs. DTG
+UID:hitpoint_masters-106419362027885951@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inside Games vs.
+  Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T200000Z
+DTEND:20210627T210000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DTG
+UID:hitpoint_masters-106419362027885953@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: SINNERS Esports 
+ vs. Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SINNERS Esports (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T160000Z
+DTEND:20210624T170000Z
+SUMMARY:[Hitpoint Masters] DTG vs. VIK
+UID:hitpoint_masters-106419362027885955@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dark Tigers vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Tigers (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T160000Z
+DTEND:20210627T170000Z
+SUMMARY:[Hitpoint Masters] DNE vs. ESB
+UID:hitpoint_masters-106419362027885957@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dynamo Eclot vs.
+  eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynamo 
+ Eclot (1) vs. eSuba (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T180000Z
+DTEND:20210627T190000Z
+SUMMARY:[Hitpoint Masters] INAE vs. DNE
+UID:hitpoint_masters-106419362027885959@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Inaequalis vs. 
+ Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. Dynamo Eclot (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T190000Z
+DTEND:20210624T200000Z
+SUMMARY:[Hitpoint Masters] ING vs. DNE
+UID:hitpoint_masters-106419362027885961@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Inside Games vs.
+  Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Dynamo Eclot (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T200000Z
+DTEND:20210620T210000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DNE
+UID:hitpoint_masters-106419362027885963@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
+ vs. Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Dynamo Eclot (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T163000Z
+DTEND:20210617T173000Z
+SUMMARY:[Hitpoint Masters] VIK vs. DNE
+UID:hitpoint_masters-106419362027885965@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Vikingekrig 
+ Esports vs. Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. Dynamo Eclot (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T180000Z
+DTEND:20210624T190000Z
+SUMMARY:[Hitpoint Masters] ESB vs. INAE
+UID:hitpoint_masters-106419362027885967@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: eSuba vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eSuba (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T160000Z
+DTEND:20210620T170000Z
+SUMMARY:[Hitpoint Masters] ESB vs. ING
+UID:hitpoint_masters-106419362027885969@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: eSuba vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Inside Games (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[Hitpoint Masters] ESB vs. SIN
+UID:hitpoint_masters-106419362027885971@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: eSuba vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  eSuba (1) vs. SINNERS Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T190000Z
+DTEND:20210627T200000Z
+SUMMARY:[Hitpoint Masters] ESB vs. VIK
+UID:hitpoint_masters-106419362027885973@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: eSuba vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: eSuba (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[Hitpoint Masters] ING vs. INAE
+UID:hitpoint_masters-106419362027885975@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inside Games vs.
+  Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T130000Z
+DTEND:20210627T140000Z
+SUMMARY:[Hitpoint Masters] SIN vs. INAE
+UID:hitpoint_masters-106419362027885977@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: SINNERS Esports 
+ vs. Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T170000Z
+DTEND:20210620T180000Z
+SUMMARY:[Hitpoint Masters] INAE vs. VIK
+UID:hitpoint_masters-106419362027885979@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inaequalis vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Inaequalis (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T183000Z
+DTEND:20210617T193000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-106419362027885981@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
+ vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Inside Games (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210627T140000Z
+DTEND:20210627T150000Z
+SUMMARY:[Hitpoint Masters] ING vs. VIK
+UID:hitpoint_masters-106419362027885983@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Inside Games vs.
+  Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Inside Games (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210620T150000Z
+DTEND:20210620T160000Z
+SUMMARY:[Hitpoint Masters] SIN vs. VIK
+UID:hitpoint_masters-106419362027885985@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
+ vs. Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[Hitpoint Masters] BRT vs. DTG
+UID:hitpoint_masters-106419362027885987@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: BRUTE vs. Dark 
+ Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T190000Z
+DTEND:20210704T200000Z
+SUMMARY:[Hitpoint Masters] DNE vs. BRT
+UID:hitpoint_masters-106419362027885989@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dynamo Eclot vs.
+  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynamo 
+ Eclot (1) vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[Hitpoint Masters] ESB vs. BRT
+UID:hitpoint_masters-106419362027885991@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: eSuba vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (1)
+  vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T150000Z
+DTEND:20210704T160000Z
+SUMMARY:[Hitpoint Masters] INAE vs. BRT
+UID:hitpoint_masters-106419362027885993@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inaequalis vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. BRUTE (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T130000Z
+DTEND:20210718T140000Z
+SUMMARY:[Hitpoint Masters] ING vs. BRT
+UID:hitpoint_masters-106419362027885995@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inside Games vs.
+  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Inside 
+ Games (1) vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210711T180000Z
+DTEND:20210711T190000Z
+SUMMARY:[Hitpoint Masters] SIN vs. BRT
+UID:hitpoint_masters-106419362027885997@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: SINNERS Esports 
+ vs. BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. BRUTE (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T200000Z
+DTEND:20210718T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. VIK
+UID:hitpoint_masters-106419362027885999@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: BRUTE vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRUTE (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T190000Z
+DTEND:20210718T200000Z
+SUMMARY:[Hitpoint Masters] DNE vs. DTG
+UID:hitpoint_masters-106419362027886001@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Dynamo Eclot vs.
+  Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynamo Eclot (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T140000Z
+DTEND:20210704T150000Z
+SUMMARY:[Hitpoint Masters] ESB vs. DTG
+UID:hitpoint_masters-106419362027886003@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: eSuba vs. Dark 
+ Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T200000Z
+DTEND:20210704T210000Z
+SUMMARY:[Hitpoint Masters] DTG vs. INAE
+UID:hitpoint_masters-106419362027886005@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark
+  Tigers (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[Hitpoint Masters] ING vs. DTG
+UID:hitpoint_masters-106419362027886007@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inside Games vs.
+  Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T160000Z
+DTEND:20210718T170000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DTG
+UID:hitpoint_masters-106419362027951545@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SINNERS Esports (1) vs. Dark Tigers (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210711T170000Z
+DTEND:20210711T180000Z
+SUMMARY:[Hitpoint Masters] DTG vs. VIK
+UID:hitpoint_masters-106419362027951547@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Dark Tigers vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Tigers (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T190000Z
+DTEND:20210715T200000Z
+SUMMARY:[Hitpoint Masters] ESB vs. DNE
+UID:hitpoint_masters-106419362027951549@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: eSuba vs. Dynamo
+  Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Dynamo Eclot (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T140000Z
+DTEND:20210718T150000Z
+SUMMARY:[Hitpoint Masters] INAE vs. DNE
+UID:hitpoint_masters-106419362027951551@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inaequalis vs. 
+ Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inaequalis (0) vs. Dynamo Eclot (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210711T190000Z
+DTEND:20210711T200000Z
+SUMMARY:[Hitpoint Masters] ING vs. DNE
+UID:hitpoint_masters-106419362027951553@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inside Games vs.
+  Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Dynamo Eclot (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T190000Z
+DTEND:20210708T200000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DNE
+UID:hitpoint_masters-106419362027951555@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: SINNERS Esports 
+ vs. Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (0) vs. Dynamo Eclot (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T130000Z
+DTEND:20210704T140000Z
+SUMMARY:[Hitpoint Masters] VIK vs. DNE
+UID:hitpoint_masters-106419362027951557@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Vikingekrig 
+ Esports vs. Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (1) vs. Dynamo Eclot (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210711T200000Z
+DTEND:20210711T210000Z
+SUMMARY:[Hitpoint Masters] ESB vs. INAE
+UID:hitpoint_masters-106419362027951559@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: eSuba vs. 
+ Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eSuba (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T170000Z
+DTEND:20210704T180000Z
+SUMMARY:[Hitpoint Masters] ESB vs. ING
+UID:hitpoint_masters-106419362027951561@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: eSuba vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Inside Games (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T180000Z
+DTEND:20210718T190000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ESB
+UID:hitpoint_masters-106419362027951563@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (0) vs. eSuba (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T150000Z
+DTEND:20210718T160000Z
+SUMMARY:[Hitpoint Masters] ESB vs. VIK
+UID:hitpoint_masters-106419362027951565@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: eSuba vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: eSuba (1) vs. Vikingekrig Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210718T170000Z
+DTEND:20210718T180000Z
+SUMMARY:[Hitpoint Masters] ING vs. INAE
+UID:hitpoint_masters-106419362027951567@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Inside Games vs.
+  Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+SUMMARY:[Hitpoint Masters] SIN vs. INAE
+UID:hitpoint_masters-106419362027951569@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: SINNERS Esports 
+ vs. Inaequalis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. Inaequalis (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T160000Z
+DTEND:20210708T170000Z
+SUMMARY:[Hitpoint Masters] INAE vs. VIK
+UID:hitpoint_masters-106419362027951571@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 4\nTeams: Inaequalis vs. 
+ Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Inaequalis (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T180000Z
+DTEND:20210704T190000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-106419362027951573@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: SINNERS Esports 
+ vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Inside Games (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[Hitpoint Masters] VIK vs. ING
+UID:hitpoint_masters-106419362027951575@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 5\nTeams: Vikingekrig 
+ Esports vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vikingekrig Esports (0) vs. Inside Games (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210704T160000Z
+DTEND:20210704T170000Z
+SUMMARY:[Hitpoint Masters] SIN vs. VIK
+UID:hitpoint_masters-106419362027951577@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: SINNERS Esports 
+ vs. Vikingekrig Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (0) vs. Vikingekrig Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210725T120000Z
+DTEND:20210725T170000Z
+SUMMARY:[Hitpoint Masters] DNE vs. ESB
+UID:hitpoint_masters-106606458926342701@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Dynamo Eclot vs. eSuba\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Dynamo Eclot (2) vs. eSuba (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210725T163000Z
+DTEND:20210725T213000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-106606458926342707@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: SINNERS Esports vs. Inside Games\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: SINNERS Esports (3) vs. Inside Games 
+ (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T160000Z
+DTEND:20210722T210000Z
+SUMMARY:[Hitpoint Masters] VIK vs. BRT
+UID:hitpoint_masters-106606458926342713@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Vikingekrig Esports vs. BRUTE\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Vikingekrig Esports (0) vs. BRUTE (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T160000Z
+DTEND:20210729T210000Z
+SUMMARY:[Hitpoint Masters] DNE vs. BRT
+UID:hitpoint_masters-106606458926342719@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 3\nTeams: Dynamo Eclot vs. BRUTE\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Dynamo Eclot (3) vs. BRUTE (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210801T100000Z
+DTEND:20210801T150000Z
+SUMMARY:[Hitpoint Masters] ESB vs. SIN
+UID:hitpoint_masters-106606458926342725@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Halbfinale\nTeams: eSuba vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  eSuba (3) vs. SINNERS Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210805T160000Z
+DTEND:20210805T210000Z
+SUMMARY:[Hitpoint Masters] ING vs. DNE
+UID:hitpoint_masters-106606458926408267@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
+ 4\nTeams: Inside Games vs. Dynamo Eclot\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Inside Games (0) vs. Dynamo Eclot (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210807T163000Z
+DTEND:20210807T213000Z
+SUMMARY:[Hitpoint Masters] SIN vs. DNE
+UID:hitpoint_masters-106606458926408273@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Halbfinale\nTeams: SINNERS 
+ Esports vs. Dynamo Eclot\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (3) vs. Dynamo Eclot (2)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210808T163000Z
+DTEND:20210808T213000Z
+SUMMARY:[Hitpoint Masters] ESB vs. SIN
+UID:hitpoint_masters-106606458926408279@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Finale\nTeams: eSuba vs. SINNERS
+  Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: eSuba 
+ (3) vs. SINNERS Esports (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+NAME:Hitpoint Masters Spielplan
+X-WR-CALNAME:Hitpoint Masters Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

@@ -1,0 +1,824 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210201T190000Z
+DTEND:20210201T200000Z
+SUMMARY:[Belgian League] S1 vs. 4E
+UID:belgian_league-105522922469164589@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: Sector One vs. 4 
+ Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector
+  One (1) vs. 4 Elements (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T180000Z
+DTEND:20210125T190000Z
+SUMMARY:[Belgian League] S1 vs. ION
+UID:belgian_league-105522922469164591@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: Sector One vs. Ion
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector 
+ One (0) vs. Ion Squad (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T200000Z
+DTEND:20210125T210000Z
+SUMMARY:[Belgian League] GENK vs. S1
+UID:belgian_league-105522922469164593@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: KRC Genk Esports 
+ vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (0) vs. Sector One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210111T200000Z
+DTEND:20210111T210000Z
+SUMMARY:[Belgian League] KVM vs. S1
+UID:belgian_league-105522922469164595@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: KV Mechelen vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Sector One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T180000Z
+DTEND:20210118T190000Z
+SUMMARY:[Belgian League] S1 vs. 7AM
+UID:belgian_league-105522922469164597@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: Sector One vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector
+  One (1) vs. Team 7AM (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210111T210000Z
+DTEND:20210111T220000Z
+SUMMARY:[Belgian League] ION vs. 4E
+UID:belgian_league-105522922469164599@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Ion Squad vs. 4 
+ Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Ion 
+ Squad (1) vs. 4 Elements (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T190000Z
+DTEND:20210118T200000Z
+SUMMARY:[Belgian League] GENK vs. 4E
+UID:belgian_league-105522922469230137@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: KRC Genk Esports 
+ vs. 4 Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. 4 Elements (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T190000Z
+DTEND:20210125T200000Z
+SUMMARY:[Belgian League] 4E vs. KVM
+UID:belgian_league-105522922469230139@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: 4 Elements vs. KV 
+ Mechelen\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 4 
+ Elements (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T210000Z
+DTEND:20210125T220000Z
+SUMMARY:[Belgian League] 7AM vs. 4E
+UID:belgian_league-105522922469230141@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: Team 7AM vs. 4 
+ Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ 7AM (0) vs. 4 Elements (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T210000Z
+DTEND:20210118T220000Z
+SUMMARY:[Belgian League] ION vs. GENK
+UID:belgian_league-105522922469230143@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: Ion Squad vs. KRC 
+ Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Ion Squad (1) vs. KRC Genk Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T180000Z
+DTEND:20210201T190000Z
+SUMMARY:[Belgian League] KVM vs. ION
+UID:belgian_league-105522922469230145@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: KV Mechelen vs. 
+ Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Ion Squad (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210111T190000Z
+DTEND:20210111T200000Z
+SUMMARY:[Belgian League] ION vs. 7AM
+UID:belgian_league-105522922469230147@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Ion Squad vs. Team
+  7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Ion Squad 
+ (1) vs. Team 7AM (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210111T180000Z
+DTEND:20210111T190000Z
+SUMMARY:[Belgian League] KVM vs. GENK
+UID:belgian_league-105522922469230149@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: KV Mechelen vs. 
+ KRC Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen (1) vs. KRC Genk Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T200000Z
+DTEND:20210201T210000Z
+SUMMARY:[Belgian League] GENK vs. 7AM
+UID:belgian_league-105522922469230151@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: KRC Genk Esports 
+ vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. Team 7AM (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T200000Z
+DTEND:20210118T210000Z
+SUMMARY:[Belgian League] 7AM vs. KVM
+UID:belgian_league-105522922469230153@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: Team 7AM vs. KV 
+ Mechelen\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ 7AM (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T190000Z
+DTEND:20210301T200000Z
+SUMMARY:[Belgian League] 4E vs. S1
+UID:belgian_league-105522922469230155@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: 4 Elements vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 4 
+ Elements (0) vs. Sector One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T210000Z
+DTEND:20210222T220000Z
+SUMMARY:[Belgian League] S1 vs. ION
+UID:belgian_league-105522922469230157@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: Sector One vs. Ion
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector 
+ One (0) vs. Ion Squad (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T190000Z
+DTEND:20210222T200000Z
+SUMMARY:[Belgian League] GENK vs. S1
+UID:belgian_league-105522922469230159@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: KRC Genk Esports 
+ vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (0) vs. Sector One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T190000Z
+DTEND:20210208T200000Z
+SUMMARY:[Belgian League] KVM vs. S1
+UID:belgian_league-105522922469230161@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: KV Mechelen vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Sector One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T210000Z
+DTEND:20210215T220000Z
+SUMMARY:[Belgian League] S1 vs. 7AM
+UID:belgian_league-105522922469230163@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: Sector One vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector
+  One (1) vs. Team 7AM (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T180000Z
+DTEND:20210208T190000Z
+SUMMARY:[Belgian League] 4E vs. ION
+UID:belgian_league-105522922469230165@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: 4 Elements vs. Ion
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 4 
+ Elements (0) vs. Ion Squad (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T200000Z
+DTEND:20210215T210000Z
+SUMMARY:[Belgian League] GENK vs. 4E
+UID:belgian_league-105522922469230167@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KRC Genk Esports 
+ vs. 4 Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (0) vs. 4 Elements (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T200000Z
+DTEND:20210222T210000Z
+SUMMARY:[Belgian League] KVM vs. 4E
+UID:belgian_league-105522922469230169@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: KV Mechelen vs. 4 
+ Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. 4 Elements (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T180000Z
+DTEND:20210222T190000Z
+SUMMARY:[Belgian League] 7AM vs. 4E
+UID:belgian_league-105522922469230171@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: Team 7AM vs. 4 
+ Elements\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ 7AM (0) vs. 4 Elements (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T180000Z
+DTEND:20210215T190000Z
+SUMMARY:[Belgian League] GENK vs. ION
+UID:belgian_league-105522922469230173@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KRC Genk Esports 
+ vs. Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (0) vs. Ion Squad (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T200000Z
+DTEND:20210301T210000Z
+SUMMARY:[Belgian League] KVM vs. ION
+UID:belgian_league-105522922469230175@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: KV Mechelen vs. 
+ Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Ion Squad (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T200000Z
+DTEND:20210208T210000Z
+SUMMARY:[Belgian League] 7AM vs. ION
+UID:belgian_league-105522922469230177@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: Team 7AM vs. Ion 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 7AM 
+ (0) vs. Ion Squad (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T210000Z
+DTEND:20210208T220000Z
+SUMMARY:[Belgian League] GENK vs. KVM
+UID:belgian_league-105522922469230179@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: KRC Genk Esports 
+ vs. KV Mechelen\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  KRC Genk Esports (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T180000Z
+DTEND:20210301T190000Z
+SUMMARY:[Belgian League] 7AM vs. GENK
+UID:belgian_league-105522922469230181@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: Team 7AM vs. KRC 
+ Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team 7AM (1) vs. KRC Genk Esports (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T190000Z
+DTEND:20210215T200000Z
+SUMMARY:[Belgian League] KVM vs. 7AM
+UID:belgian_league-105522922469230183@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KV Mechelen vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Team 7AM (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T180000Z
+DTEND:20210308T230000Z
+SUMMARY:[Belgian League] KVM vs. ION
+UID:belgian_league-105825298622313505@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: KV Mechelen vs. Ion Squad\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: KV Mechelen (3) vs. Ion Squad (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T180000Z
+DTEND:20210311T230000Z
+SUMMARY:[Belgian League] S1 vs. 4E
+UID:belgian_league-105825298622641191@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Sector One vs. 4 Elements\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Sector One (3) vs. 4 Elements (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210315T180000Z
+DTEND:20210315T230000Z
+SUMMARY:[Belgian League] S1 vs. ION
+UID:belgian_league-105825298622641197@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Sector One vs. Ion Squad\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Sector One (3) vs. Ion Squad (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210322T180000Z
+DTEND:20210322T230000Z
+SUMMARY:[Belgian League] S1 vs. KVM
+UID:belgian_league-105825298622641203@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Finale\nTeams: Sector One vs. KV 
+ Mechelen\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Sector
+  One (2) vs. KV Mechelen (3)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T190000Z
+DTEND:20210614T200000Z
+SUMMARY:[Belgian League] GENK vs. ION
+UID:belgian_league-106306810681874048@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: KRC Genk Esports 
+ vs. Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T190000Z
+DTEND:20210531T200000Z
+SUMMARY:[Belgian League] ION vs. S1
+UID:belgian_league-106306810681874050@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Ion Squad vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Ion 
+ Squad (0) vs. Sector One (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T170000Z
+DTEND:20210614T180000Z
+SUMMARY:[Belgian League] SGC vs. ION
+UID:belgian_league-106306810681874052@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: Starlan Gaming 
+ Club vs. Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (0) vs. Ion Squad (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T180000Z
+DTEND:20210621T190000Z
+SUMMARY:[Belgian League] 7AM vs. ION
+UID:belgian_league-106306810681874054@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: Team 7AM vs. Ion 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 7AM 
+ (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T170000Z
+DTEND:20210607T180000Z
+SUMMARY:[Belgian League] KVM vs. ION
+UID:belgian_league-106306810681874056@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: KV Mechelen vs. 
+ Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T170000Z
+DTEND:20210531T180000Z
+SUMMARY:[Belgian League] S1 vs. GENK
+UID:belgian_league-106306810681874058@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Sector One vs. KRC
+  Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Sector One (1) vs. KRC Genk Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T200000Z
+DTEND:20210607T210000Z
+SUMMARY:[Belgian League] GENK vs. SGC
+UID:belgian_league-106306810681874060@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: KRC Genk Esports 
+ vs. Starlan Gaming Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KRC Genk Esports (1) vs. Starlan Gaming Club (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T180000Z
+DTEND:20210607T190000Z
+SUMMARY:[Belgian League] GENK vs. 7AM
+UID:belgian_league-106306810681874062@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: KRC Genk Esports 
+ vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. Team 7AM (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T190000Z
+DTEND:20210621T200000Z
+SUMMARY:[Belgian League] KVM vs. GENK
+UID:belgian_league-106306810681874064@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: KV Mechelen vs. 
+ KRC Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen (1) vs. KRC Genk Esports (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T170000Z
+DTEND:20210621T180000Z
+SUMMARY:[Belgian League] SGC vs. S1
+UID:belgian_league-106306810681874066@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 4\nTeams: Starlan Gaming 
+ Club vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (0) vs. Sector One (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T180000Z
+DTEND:20210614T190000Z
+SUMMARY:[Belgian League] S1 vs. 7AM
+UID:belgian_league-106306810681874068@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: Sector One vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector
+  One (1) vs. Team 7AM (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T190000Z
+DTEND:20210607T200000Z
+SUMMARY:[Belgian League] S1 vs. KVM
+UID:belgian_league-106306810681874070@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 2\nTeams: Sector One vs. KV 
+ Mechelen\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Sector
+  One (1) vs. KV Mechelen (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T200000Z
+DTEND:20210531T210000Z
+SUMMARY:[Belgian League] 7AM vs. SGC
+UID:belgian_league-106306810681874072@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Team 7AM vs. 
+ Starlan Gaming Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team 7AM (0) vs. Starlan Gaming Club (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T180000Z
+DTEND:20210531T190000Z
+SUMMARY:[Belgian League] SGC vs. KVM
+UID:belgian_league-106306810681874074@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 1\nTeams: Starlan Gaming 
+ Club vs. KV Mechelen\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T200000Z
+DTEND:20210614T210000Z
+SUMMARY:[Belgian League] KVM vs. 7AM
+UID:belgian_league-106306810681874076@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 3\nTeams: KV Mechelen vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Team 7AM (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T180000Z
+DTEND:20210712T190000Z
+SUMMARY:[Belgian League] GENK vs. ION
+UID:belgian_league-106306810681874078@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: KRC Genk Esports 
+ vs. Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T180000Z
+DTEND:20210628T190000Z
+SUMMARY:[Belgian League] ION vs. S1
+UID:belgian_league-106306810681874080@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: Ion Squad vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Ion 
+ Squad (0) vs. Sector One (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T200000Z
+DTEND:20210712T210000Z
+SUMMARY:[Belgian League] SGC vs. ION
+UID:belgian_league-106306810681939618@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: Starlan Gaming 
+ Club vs. Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T180000Z
+DTEND:20210719T190000Z
+SUMMARY:[Belgian League] ION vs. 7AM
+UID:belgian_league-106306810681939620@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: Ion Squad vs. Team
+  7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Ion Squad 
+ (0) vs. Team 7AM (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T200000Z
+DTEND:20210705T210000Z
+SUMMARY:[Belgian League] KVM vs. ION
+UID:belgian_league-106306810681939622@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KV Mechelen vs. 
+ Ion Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Ion Squad (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T200000Z
+DTEND:20210628T210000Z
+SUMMARY:[Belgian League] GENK vs. S1
+UID:belgian_league-106306810681939624@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: KRC Genk Esports 
+ vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (1) vs. Sector One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T170000Z
+DTEND:20210705T180000Z
+SUMMARY:[Belgian League] GENK vs. SGC
+UID:belgian_league-106306810681939626@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KRC Genk Esports 
+ vs. Starlan Gaming Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KRC Genk Esports (1) vs. Starlan Gaming Club (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T190000Z
+DTEND:20210705T200000Z
+SUMMARY:[Belgian League] GENK vs. 7AM
+UID:belgian_league-106306810681939628@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KRC Genk Esports 
+ vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRC Genk Esports (0) vs. Team 7AM (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T170000Z
+DTEND:20210719T180000Z
+SUMMARY:[Belgian League] GENK vs. KVM
+UID:belgian_league-106306810681939630@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: KRC Genk Esports 
+ vs. KV Mechelen\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  KRC Genk Esports (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T190000Z
+DTEND:20210719T200000Z
+SUMMARY:[Belgian League] S1 vs. SGC
+UID:belgian_league-106306810681939632@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 8\nTeams: Sector One vs. 
+ Starlan Gaming Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Sector One (1) vs. Starlan Gaming Club (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T190000Z
+DTEND:20210712T200000Z
+SUMMARY:[Belgian League] 7AM vs. S1
+UID:belgian_league-106306810681939634@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: Team 7AM vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  7AM (1) vs. Sector One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T180000Z
+DTEND:20210705T190000Z
+SUMMARY:[Belgian League] KVM vs. S1
+UID:belgian_league-106306810681939636@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 6\nTeams: KV Mechelen vs. 
+ Sector One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (0) vs. Sector One (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T170000Z
+DTEND:20210628T180000Z
+SUMMARY:[Belgian League] SGC vs. 7AM
+UID:belgian_league-106306810681939638@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: Starlan Gaming 
+ Club vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (1) vs. Team 7AM (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T190000Z
+DTEND:20210628T200000Z
+SUMMARY:[Belgian League] SGC vs. KVM
+UID:belgian_league-106306810681939640@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 5\nTeams: Starlan Gaming 
+ Club vs. KV Mechelen\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Starlan Gaming Club (0) vs. KV Mechelen (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T170000Z
+DTEND:20210712T180000Z
+SUMMARY:[Belgian League] KVM vs. 7AM
+UID:belgian_league-106306810681939642@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Woche 7\nTeams: KV Mechelen vs. 
+ Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Team 7AM (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T170000Z
+DTEND:20210726T220000Z
+SUMMARY:[Belgian League] S1 vs. KVM
+UID:belgian_league-106306810681939644@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Sector One vs. KV Mechelen\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Sector One (1) vs. KV Mechelen (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T170000Z
+DTEND:20210728T220000Z
+SUMMARY:[Belgian League] 7AM vs. GENK
+UID:belgian_league-106306810681939650@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Team 7AM vs. KRC Genk Esports\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Team 7AM (1) vs. KRC Genk Esports (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210802T170000Z
+DTEND:20210802T220000Z
+SUMMARY:[Belgian League] S1 vs. GENK
+UID:belgian_league-106306810681939656@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Sector One vs. KRC Genk Esports\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Sector One (3) vs. KRC Genk Esports 
+ (2)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210809T170000Z
+DTEND:20210809T220000Z
+SUMMARY:[Belgian League] KVM vs. S1
+UID:belgian_league-106306810681939662@lol.ics.tools
+DESCRIPTION:Liga: Belgian League\nPhase: Finale\nTeams: KV Mechelen vs. 
+ Sector One\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: KV 
+ Mechelen (1) vs. Sector One (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+NAME:Belgian League Spielplan
+X-WR-CALNAME:Belgian League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

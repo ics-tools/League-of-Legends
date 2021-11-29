@@ -1,0 +1,1507 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210127T183000Z
+DTEND:20210127T193000Z
+SUMMARY:[Ultraliga] RGO vs. PT7
+UID:ultraliga-105562656844435622@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: AGO Rogue vs. 7more7 
+ Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. 7more7 Pompa Team (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T163000Z
+DTEND:20210126T173000Z
+SUMMARY:[Ultraliga] DV1 vs. PT7
+UID:ultraliga-105562656844435624@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Devils.One vs. 7more7 
+ Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T193000Z
+DTEND:20210120T203000Z
+SUMMARY:[Ultraliga] GGM vs. PT7
+UID:ultraliga-105562656844435626@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Gentlemen's Gaming vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T173000Z
+DTEND:20210202T183000Z
+SUMMARY:[Ultraliga] IHG vs. PT7
+UID:ultraliga-105562656844435628@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Illuminar Gaming vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T163000Z
+DTEND:20210209T173000Z
+SUMMARY:[Ultraliga] K1 vs. PT7
+UID:ultraliga-105562656844435630@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: K1CK Neosurf vs. 7more7
+  Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T173000Z
+DTEND:20210203T183000Z
+SUMMARY:[Ultraliga] PT7 vs. KNF
+UID:ultraliga-105562656844435632@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: 7more7 Pompa Team vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ 7more7 Pompa Team (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T163000Z
+DTEND:20210119T173000Z
+SUMMARY:[Ultraliga] TEG vs. PT7
+UID:ultraliga-105562656844435634@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Team ESCA Gaming vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team ESCA Gaming (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T183000Z
+DTEND:20210120T193000Z
+SUMMARY:[Ultraliga] RGO vs. DV1
+UID:ultraliga-105562656844435636@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: AGO Rogue vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T183000Z
+DTEND:20210203T193000Z
+SUMMARY:[Ultraliga] RGO vs. GGM
+UID:ultraliga-105562656844435638@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: AGO Rogue vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AGO Rogue (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T183000Z
+DTEND:20210209T193000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-105562656844435640@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: AGO Rogue vs. Illuminar
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T193000Z
+DTEND:20210119T203000Z
+SUMMARY:[Ultraliga] K1 vs. RGO
+UID:ultraliga-105562656844435642@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: K1CK Neosurf vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK 
+ Neosurf (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T183000Z
+DTEND:20210126T193000Z
+SUMMARY:[Ultraliga] RGO vs. KNF
+UID:ultraliga-105562656844435644@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: AGO Rogue vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ AGO Rogue (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T163000Z
+DTEND:20210202T173000Z
+SUMMARY:[Ultraliga] TEG vs. RGO
+UID:ultraliga-105562656844435646@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Team ESCA Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ ESCA Gaming (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T183000Z
+DTEND:20210202T193000Z
+SUMMARY:[Ultraliga] GGM vs. DV1
+UID:ultraliga-105562656844435648@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Gentlemen's Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. Devils.One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T193000Z
+DTEND:20210203T203000Z
+SUMMARY:[Ultraliga] IHG vs. DV1
+UID:ultraliga-105562656844435650@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Illuminar Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T193000Z
+DTEND:20210127T203000Z
+SUMMARY:[Ultraliga] K1 vs. DV1
+UID:ultraliga-105562656844435652@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: K1CK Neosurf vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK
+  Neosurf (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T173000Z
+DTEND:20210119T183000Z
+SUMMARY:[Ultraliga] KNF vs. DV1
+UID:ultraliga-105562656844435654@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Devils.One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T173000Z
+DTEND:20210209T183000Z
+SUMMARY:[Ultraliga] TEG vs. DV1
+UID:ultraliga-105562656844435656@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Team ESCA Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  ESCA Gaming (0) vs. Devils.One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T183000Z
+DTEND:20210119T193000Z
+SUMMARY:[Ultraliga] IHG vs. GGM
+UID:ultraliga-105562656844435658@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Illuminar Gaming vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T173000Z
+DTEND:20210126T183000Z
+SUMMARY:[Ultraliga] GGM vs. K1
+UID:ultraliga-105562656844435660@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Gentlemen's Gaming vs. 
+ K1CK Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. K1CK Neosurf (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T193000Z
+DTEND:20210209T203000Z
+SUMMARY:[Ultraliga] GGM vs. KNF
+UID:ultraliga-105562656844435662@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Gentlemen's Gaming vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T173000Z
+DTEND:20210127T183000Z
+SUMMARY:[Ultraliga] TEG vs. GGM
+UID:ultraliga-105562656844435664@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Team ESCA Gaming vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team ESCA Gaming (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T163000Z
+DTEND:20210120T173000Z
+SUMMARY:[Ultraliga] IHG vs. K1
+UID:ultraliga-105562656844435666@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Illuminar Gaming vs. 
+ K1CK Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. K1CK Neosurf (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T163000Z
+DTEND:20210127T173000Z
+SUMMARY:[Ultraliga] KNF vs. IHG
+UID:ultraliga-105562656844435668@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Komil&Friends vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T193000Z
+DTEND:20210126T203000Z
+SUMMARY:[Ultraliga] IHG vs. TEG
+UID:ultraliga-105562656844435670@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Illuminar Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T193000Z
+DTEND:20210202T203000Z
+SUMMARY:[Ultraliga] K1 vs. KNF
+UID:ultraliga-105562656844435672@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: K1CK Neosurf vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T163000Z
+DTEND:20210203T173000Z
+SUMMARY:[Ultraliga] K1 vs. TEG
+UID:ultraliga-105562656844435674@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: K1CK Neosurf vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T173000Z
+DTEND:20210120T183000Z
+SUMMARY:[Ultraliga] KNF vs. TEG
+UID:ultraliga-105562656844435676@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T173000Z
+DTEND:20210224T183000Z
+SUMMARY:[Ultraliga] RGO vs. PT7
+UID:ultraliga-105562656844435678@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: AGO Rogue vs. 7more7 
+ Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. 7more7 Pompa Team (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T183000Z
+DTEND:20210217T193000Z
+SUMMARY:[Ultraliga] PT7 vs. DV1
+UID:ultraliga-105562656844435680@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: 7more7 Pompa Team vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ 7more7 Pompa Team (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T163000Z
+DTEND:20210210T173000Z
+SUMMARY:[Ultraliga] GGM vs. PT7
+UID:ultraliga-105562656844501218@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Gentlemen's Gaming vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T183000Z
+DTEND:20210216T193000Z
+SUMMARY:[Ultraliga] IHG vs. PT7
+UID:ultraliga-105562656844501220@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Illuminar Gaming vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (1) vs. 7more7 Pompa Team (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T193000Z
+DTEND:20210303T203000Z
+SUMMARY:[Ultraliga] K1 vs. PT7
+UID:ultraliga-105562656844501222@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: K1CK Neosurf vs. 7more7
+  Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. 7more7 Pompa Team (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T163000Z
+DTEND:20210223T173000Z
+SUMMARY:[Ultraliga] KNF vs. PT7
+UID:ultraliga-105562656844501224@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Komil&Friends vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (0) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T163000Z
+DTEND:20210302T173000Z
+SUMMARY:[Ultraliga] PT7 vs. TEG
+UID:ultraliga-105562656844501226@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: 7more7 Pompa Team vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 7more7 Pompa Team (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T193000Z
+DTEND:20210210T203000Z
+SUMMARY:[Ultraliga] RGO vs. DV1
+UID:ultraliga-105562656844501228@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: AGO Rogue vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T173000Z
+DTEND:20210223T183000Z
+SUMMARY:[Ultraliga] GGM vs. RGO
+UID:ultraliga-105562656844501230@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Gentlemen's Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T163000Z
+DTEND:20210303T173000Z
+SUMMARY:[Ultraliga] IHG vs. RGO
+UID:ultraliga-105562656844501232@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Illuminar Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. AGO Rogue (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T193000Z
+DTEND:20210302T203000Z
+SUMMARY:[Ultraliga] RGO vs. K1
+UID:ultraliga-105562656844501234@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: AGO Rogue vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. K1CK Neosurf (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T163000Z
+DTEND:20210217T173000Z
+SUMMARY:[Ultraliga] RGO vs. KNF
+UID:ultraliga-105562656844501236@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: AGO Rogue vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ AGO Rogue (0) vs. Komil&Friends (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T163000Z
+DTEND:20210216T173000Z
+SUMMARY:[Ultraliga] RGO vs. TEG
+UID:ultraliga-105562656844501238@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: AGO Rogue vs. Team ESCA
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T193000Z
+DTEND:20210216T203000Z
+SUMMARY:[Ultraliga] DV1 vs. GGM
+UID:ultraliga-105562656844501240@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Devils.One vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Devils.One (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T183000Z
+DTEND:20210223T193000Z
+SUMMARY:[Ultraliga] IHG vs. DV1
+UID:ultraliga-105562656844501242@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Illuminar Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T193000Z
+DTEND:20210224T203000Z
+SUMMARY:[Ultraliga] DV1 vs. K1
+UID:ultraliga-105562656844501244@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Devils.One vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (1) vs. K1CK Neosurf (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T173000Z
+DTEND:20210302T183000Z
+SUMMARY:[Ultraliga] KNF vs. DV1
+UID:ultraliga-105562656844501246@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Komil&Friends vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Devils.One (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T173000Z
+DTEND:20210303T183000Z
+SUMMARY:[Ultraliga] DV1 vs. TEG
+UID:ultraliga-105562656844501248@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Devils.One vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T183000Z
+DTEND:20210302T193000Z
+SUMMARY:[Ultraliga] GGM vs. IHG
+UID:ultraliga-105562656844501250@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Gentlemen's Gaming vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T173000Z
+DTEND:20210217T183000Z
+SUMMARY:[Ultraliga] GGM vs. K1
+UID:ultraliga-105562656844501252@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Gentlemen's Gaming vs. 
+ K1CK Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. K1CK Neosurf (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T183000Z
+DTEND:20210303T193000Z
+SUMMARY:[Ultraliga] KNF vs. GGM
+UID:ultraliga-105562656844501254@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Komil&Friends vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (0) vs. Gentlemen's Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T163000Z
+DTEND:20210224T173000Z
+SUMMARY:[Ultraliga] TEG vs. GGM
+UID:ultraliga-105562656844501256@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Team ESCA Gaming vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team ESCA Gaming (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T183000Z
+DTEND:20210210T193000Z
+SUMMARY:[Ultraliga] K1 vs. IHG
+UID:ultraliga-105562656844501258@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: K1CK Neosurf vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T183000Z
+DTEND:20210224T193000Z
+SUMMARY:[Ultraliga] IHG vs. KNF
+UID:ultraliga-105562656844501260@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Illuminar Gaming vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T193000Z
+DTEND:20210217T203000Z
+SUMMARY:[Ultraliga] IHG vs. TEG
+UID:ultraliga-105562656844501262@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Illuminar Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T173000Z
+DTEND:20210216T183000Z
+SUMMARY:[Ultraliga] K1 vs. KNF
+UID:ultraliga-105562656844501264@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: K1CK Neosurf vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T193000Z
+DTEND:20210223T203000Z
+SUMMARY:[Ultraliga] K1 vs. TEG
+UID:ultraliga-105562656844501266@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: K1CK Neosurf vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T173000Z
+DTEND:20210210T183000Z
+SUMMARY:[Ultraliga] KNF vs. TEG
+UID:ultraliga-105562656844501268@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Komil&Friends vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T163000Z
+DTEND:20210310T213000Z
+SUMMARY:[Ultraliga] K1 vs. DV1
+UID:ultraliga-105831960180849061@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ K1CK Neosurf vs. Devils.One\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (3) vs. Devils.One (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T163000Z
+DTEND:20210309T213000Z
+SUMMARY:[Ultraliga] IHG vs. PT7
+UID:ultraliga-105831960180849067@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ Illuminar Gaming vs. 7more7 Pompa Team\nSpiel-Strategie: bestOf 5\nStatus:
+  completed\nErgebnisse: Illuminar Gaming (3) vs. 7more7 Pompa Team (1)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210316T163000Z
+DTEND:20210316T213000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-105831960180914609@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ AGO Rogue vs. Illuminar Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: AGO Rogue (3) vs. Illuminar Gaming (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210317T163000Z
+DTEND:20210317T213000Z
+SUMMARY:[Ultraliga] K1 vs. PT7
+UID:ultraliga-105831960180914615@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ K1CK Neosurf vs. 7more7 Pompa Team\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (3) vs. 7more7 Pompa Team (0)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210323T163000Z
+DTEND:20210323T213000Z
+SUMMARY:[Ultraliga] K1 vs. IHG
+UID:ultraliga-105831960180914621@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 3\nTeams: 
+ K1CK Neosurf vs. Illuminar Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (3) vs. Illuminar Gaming (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210324T163000Z
+DTEND:20210324T213000Z
+SUMMARY:[Ultraliga] RGO vs. K1
+UID:ultraliga-105831960180914627@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: AGO Rogue vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: AGO 
+ Rogue (3) vs. K1CK Neosurf (2)\n
+CREATED:20211129T024214Z
+LAST-MODIFIED:20211129T024214Z
+DTSTAMP:20211129T024214Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T153000Z
+DTEND:20210609T163000Z
+SUMMARY:[Ultraliga] DV1 vs. RGO
+UID:ultraliga-106301901328095590@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Devils.One vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T183000Z
+DTEND:20210616T193000Z
+SUMMARY:[Ultraliga] GGM vs. RGO
+UID:ultraliga-106301901328095592@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Gentlemen's Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T163000Z
+DTEND:20210629T173000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-106301901328095594@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: AGO Rogue vs. Illuminar
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T183000Z
+DTEND:20210608T193000Z
+SUMMARY:[Ultraliga] RGO vs. K1
+UID:ultraliga-106301901328095596@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: AGO Rogue vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. K1CK Neosurf (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T183000Z
+DTEND:20210622T193000Z
+SUMMARY:[Ultraliga] RGO vs. KNF
+UID:ultraliga-106301901328161134@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: AGO Rogue vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ AGO Rogue (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T163000Z
+DTEND:20210615T173000Z
+SUMMARY:[Ultraliga] RGO vs. PDW
+UID:ultraliga-106301901328161136@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: AGO Rogue vs. 
+ PDW\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO Rogue 
+ (1) vs. PDW (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T163000Z
+DTEND:20210623T173000Z
+SUMMARY:[Ultraliga] TEG vs. RGO
+UID:ultraliga-106301901328161138@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Team ESCA Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ ESCA Gaming (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T183000Z
+DTEND:20210623T193000Z
+SUMMARY:[Ultraliga] DV1 vs. GGM
+UID:ultraliga-106301901328161140@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Devils.One vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Devils.One (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T173000Z
+DTEND:20210622T183000Z
+SUMMARY:[Ultraliga] IHG vs. DV1
+UID:ultraliga-106301901328161142@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Illuminar Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T173000Z
+DTEND:20210629T183000Z
+SUMMARY:[Ultraliga] K1 vs. DV1
+UID:ultraliga-106301901328161144@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: K1CK Neosurf vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK
+  Neosurf (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T153000Z
+DTEND:20210616T163000Z
+SUMMARY:[Ultraliga] DV1 vs. KNF
+UID:ultraliga-106301901328161146@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Devils.One vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. Komil&Friends (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T153000Z
+DTEND:20210608T163000Z
+SUMMARY:[Ultraliga] DV1 vs. PDW
+UID:ultraliga-106301901328161148@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Devils.One vs. 
+ PDW\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Devils.One 
+ (0) vs. PDW (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T183000Z
+DTEND:20210615T193000Z
+SUMMARY:[Ultraliga] DV1 vs. TEG
+UID:ultraliga-106301901328161150@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Devils.One vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T153000Z
+DTEND:20210615T163000Z
+SUMMARY:[Ultraliga] GGM vs. IHG
+UID:ultraliga-106301901328161152@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Gentlemen's Gaming vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T163000Z
+DTEND:20210609T173000Z
+SUMMARY:[Ultraliga] K1 vs. GGM
+UID:ultraliga-106301901328161154@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: K1CK Neosurf vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (0) vs. Gentlemen's Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T163000Z
+DTEND:20210608T173000Z
+SUMMARY:[Ultraliga] KNF vs. GGM
+UID:ultraliga-106301901328161156@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T163000Z
+DTEND:20210622T173000Z
+SUMMARY:[Ultraliga] PDW vs. GGM
+UID:ultraliga-106301901328161158@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: PDW vs. Gentlemen's 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (1) 
+ vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T153000Z
+DTEND:20210629T163000Z
+SUMMARY:[Ultraliga] GGM vs. TEG
+UID:ultraliga-106301901328161160@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Gentlemen's Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T173000Z
+DTEND:20210616T183000Z
+SUMMARY:[Ultraliga] IHG vs. K1
+UID:ultraliga-106301901328161162@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Illuminar Gaming vs. 
+ K1CK Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (0) vs. K1CK Neosurf (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T153000Z
+DTEND:20210623T163000Z
+SUMMARY:[Ultraliga] KNF vs. IHG
+UID:ultraliga-106301901328161164@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Komil&Friends vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T183000Z
+DTEND:20210609T193000Z
+SUMMARY:[Ultraliga] PDW vs. IHG
+UID:ultraliga-106301901328161166@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: PDW vs. Illuminar 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (0) 
+ vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T173000Z
+DTEND:20210608T183000Z
+SUMMARY:[Ultraliga] IHG vs. TEG
+UID:ultraliga-106301901328161168@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Illuminar Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T173000Z
+DTEND:20210615T183000Z
+SUMMARY:[Ultraliga] KNF vs. K1
+UID:ultraliga-106301901328161170@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Komil&Friends vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. K1CK Neosurf (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T173000Z
+DTEND:20210623T183000Z
+SUMMARY:[Ultraliga] K1 vs. PDW
+UID:ultraliga-106301901328161172@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: K1CK Neosurf vs. 
+ PDW\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK 
+ Neosurf (0) vs. PDW (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T153000Z
+DTEND:20210622T163000Z
+SUMMARY:[Ultraliga] K1 vs. TEG
+UID:ultraliga-106301901328161174@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: K1CK Neosurf vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T183000Z
+DTEND:20210629T193000Z
+SUMMARY:[Ultraliga] PDW vs. KNF
+UID:ultraliga-106301901328161176@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: PDW vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PDW (0) vs. Komil&Friends (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T173000Z
+DTEND:20210609T183000Z
+SUMMARY:[Ultraliga] KNF vs. TEG
+UID:ultraliga-106301901328161178@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T163000Z
+DTEND:20210616T173000Z
+SUMMARY:[Ultraliga] TEG vs. PDW
+UID:ultraliga-106301901328161180@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Team ESCA Gaming vs. 
+ PDW\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team ESCA 
+ Gaming (1) vs. PDW (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T173000Z
+DTEND:20210630T183000Z
+SUMMARY:[Ultraliga] DV1 vs. RGO
+UID:ultraliga-106301901328161182@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Devils.One vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T173000Z
+DTEND:20210714T183000Z
+SUMMARY:[Ultraliga] RGO vs. GGM
+UID:ultraliga-106301901328161184@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: AGO Rogue vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AGO Rogue (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T183000Z
+DTEND:20210721T193000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-106301901328161186@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: AGO Rogue vs. Illuminar
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T163000Z
+DTEND:20210720T173000Z
+SUMMARY:[Ultraliga] RGO vs. K1
+UID:ultraliga-106301901328161188@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: AGO Rogue vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (0) vs. K1CK Neosurf (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T163000Z
+DTEND:20210706T173000Z
+SUMMARY:[Ultraliga] KNF vs. RGO
+UID:ultraliga-106301901328161190@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Komil&Friends vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T183000Z
+DTEND:20210707T193000Z
+SUMMARY:[Ultraliga] PDW vs. RGO
+UID:ultraliga-106301901328161192@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: PDW vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (0) 
+ vs. AGO Rogue (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T173000Z
+DTEND:20210713T183000Z
+SUMMARY:[Ultraliga] RGO vs. TEG
+UID:ultraliga-106301901328161194@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: AGO Rogue vs. Team ESCA
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Team ESCA Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T183000Z
+DTEND:20210713T193000Z
+SUMMARY:[Ultraliga] GGM vs. DV1
+UID:ultraliga-106301901328161196@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Gentlemen's Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T183000Z
+DTEND:20210706T193000Z
+SUMMARY:[Ultraliga] DV1 vs. IHG
+UID:ultraliga-106301901328161198@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Devils.One vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Devils.One (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T173000Z
+DTEND:20210721T183000Z
+SUMMARY:[Ultraliga] K1 vs. DV1
+UID:ultraliga-106301901328161200@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: K1CK Neosurf vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK
+  Neosurf (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T183000Z
+DTEND:20210714T193000Z
+SUMMARY:[Ultraliga] KNF vs. DV1
+UID:ultraliga-106301901328161202@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Komil&Friends vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Devils.One (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T183000Z
+DTEND:20210720T193000Z
+SUMMARY:[Ultraliga] PDW vs. DV1
+UID:ultraliga-106301901328161204@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: PDW vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW 
+ (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T163000Z
+DTEND:20210707T173000Z
+SUMMARY:[Ultraliga] TEG vs. DV1
+UID:ultraliga-106301901328161206@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Team ESCA Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  ESCA Gaming (1) vs. Devils.One (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T153000Z
+DTEND:20210707T163000Z
+SUMMARY:[Ultraliga] GGM vs. IHG
+UID:ultraliga-106301901328161208@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Gentlemen's Gaming vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T183000Z
+DTEND:20210630T193000Z
+SUMMARY:[Ultraliga] K1 vs. GGM
+UID:ultraliga-106301901328161210@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: K1CK Neosurf vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T173000Z
+DTEND:20210720T183000Z
+SUMMARY:[Ultraliga] GGM vs. KNF
+UID:ultraliga-106301901328161212@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Gentlemen's Gaming vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T153000Z
+DTEND:20210706T163000Z
+SUMMARY:[Ultraliga] PDW vs. GGM
+UID:ultraliga-106301901328161214@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: PDW vs. Gentlemen's 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (1) 
+ vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T163000Z
+DTEND:20210721T173000Z
+SUMMARY:[Ultraliga] TEG vs. GGM
+UID:ultraliga-106301901328161216@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Team ESCA Gaming vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team ESCA Gaming (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T163000Z
+DTEND:20210714T173000Z
+SUMMARY:[Ultraliga] K1 vs. IHG
+UID:ultraliga-106301901328161218@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: K1CK Neosurf vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: K1CK Neosurf (0) vs. Illuminar Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T153000Z
+DTEND:20210713T163000Z
+SUMMARY:[Ultraliga] KNF vs. IHG
+UID:ultraliga-106301901328161220@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: Komil&Friends vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T153000Z
+DTEND:20210630T163000Z
+SUMMARY:[Ultraliga] IHG vs. PDW
+UID:ultraliga-106301901328161222@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Illuminar Gaming vs. 
+ PDW\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Illuminar 
+ Gaming (0) vs. PDW (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T153000Z
+DTEND:20210720T163000Z
+SUMMARY:[Ultraliga] TEG vs. IHG
+UID:ultraliga-106301901328161224@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Team ESCA Gaming vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team ESCA Gaming (1) vs. Illuminar Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T173000Z
+DTEND:20210707T183000Z
+SUMMARY:[Ultraliga] KNF vs. K1
+UID:ultraliga-106301901328161226@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: Komil&Friends vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. K1CK Neosurf (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T163000Z
+DTEND:20210713T173000Z
+SUMMARY:[Ultraliga] PDW vs. K1
+UID:ultraliga-106301901328161228@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: PDW vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (1)
+  vs. K1CK Neosurf (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T173000Z
+DTEND:20210706T183000Z
+SUMMARY:[Ultraliga] K1 vs. TEG
+UID:ultraliga-106301901328161230@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 5\nTeams: K1CK Neosurf vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ K1CK Neosurf (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T153000Z
+DTEND:20210721T163000Z
+SUMMARY:[Ultraliga] PDW vs. KNF
+UID:ultraliga-106301901328161232@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: PDW vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PDW (1) vs. Komil&Friends (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T163000Z
+DTEND:20210630T173000Z
+SUMMARY:[Ultraliga] KNF vs. TEG
+UID:ultraliga-106301901328161234@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 4\nTeams: Komil&Friends vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T153000Z
+DTEND:20210714T163000Z
+SUMMARY:[Ultraliga] PDW vs. TEG
+UID:ultraliga-106301901328161236@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 6\nTeams: PDW vs. Team ESCA 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PDW (0) 
+ vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T190000Z
+DTEND:20210721T200000Z
+SUMMARY:[Ultraliga] KNF vs. GGM
+UID:ultraliga-106619748070466699@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Komil&Friends vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (1) vs. Gentlemen's Gaming (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T153000Z
+DTEND:20210728T203000Z
+SUMMARY:[Ultraliga] IHG vs. K1
+UID:ultraliga-106629609018314491@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ Illuminar Gaming vs. K1CK Neosurf\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (3) vs. K1CK Neosurf (2)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T153000Z
+DTEND:20210727T203000Z
+SUMMARY:[Ultraliga] PDW vs. TEG
+UID:ultraliga-106629609018314497@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ PDW vs. Team ESCA Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: PDW (3) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T153000Z
+DTEND:20210803T203000Z
+SUMMARY:[Ultraliga] PDW vs. RGO
+UID:ultraliga-106629609018314503@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ PDW vs. AGO Rogue\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: PDW (3) vs. AGO Rogue (0)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210804T153000Z
+DTEND:20210804T203000Z
+SUMMARY:[Ultraliga] IHG vs. TEG
+UID:ultraliga-106629609018314509@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ Illuminar Gaming vs. Team ESCA Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (3) vs. Team ESCA Gaming (1)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210810T153000Z
+DTEND:20210810T203000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-106629609018314515@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Entscheidungsspiele – Runde 3\nTeams: 
+ AGO Rogue vs. Illuminar Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: AGO Rogue (0) vs. Illuminar Gaming (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210811T153000Z
+DTEND:20210811T203000Z
+SUMMARY:[Ultraliga] IHG vs. PDW
+UID:ultraliga-106629609018314521@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: Illuminar Gaming vs. 
+ PDW\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Illuminar 
+ Gaming (2) vs. PDW (3)\n
+CREATED:20211129T024215Z
+LAST-MODIFIED:20211129T024215Z
+DTSTAMP:20211129T024215Z
+END:VEVENT
+NAME:Ultraliga Spielplan
+X-WR-CALNAME:Ultraliga Spielplan
+METHOD:PUBLISH
+END:VCALENDAR
