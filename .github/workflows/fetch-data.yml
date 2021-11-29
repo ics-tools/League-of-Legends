@@ -50,9 +50,6 @@ jobs:
       
       - name: Copy/Override builded ics files
         run: cp -f leagues/* "docs/"
-      
-      - name: Move/Override index.md
-        run: mv -f "index.md" "docs/"
 
       - name: Push public files
         uses: actions-x/commit@v2
