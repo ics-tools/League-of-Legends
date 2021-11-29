@@ -1,0 +1,2403 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210120T170000Z
+DTEND:20210120T180000Z
+SUMMARY:[Prime League] WAVE vs. ESG
+UID:primeleague-105562556575697747@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Wave Esports (0) vs. EURONICS Gaming (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T190000Z
+DTEND:20210119T200000Z
+SUMMARY:[Prime League] WAVE vs. PTA
+UID:primeleague-105562556575697749@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wave
+  Esports (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T170000Z
+DTEND:20210203T180000Z
+SUMMARY:[Prime League] EWI vs. WAVE
+UID:primeleague-105562556575697751@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Wave Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[Prime League] WAVE vs. USE
+UID:primeleague-105562556575697753@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Wave Esports vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. Unicorns of Love Sexy Edition 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T210000Z
+DTEND:20210128T220000Z
+SUMMARY:[Prime League] BIG vs. WAVE
+UID:primeleague-105562556575697755@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Berlin International
+  Gaming vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. Wave Esports 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T180000Z
+DTEND:20210209T190000Z
+SUMMARY:[Prime League] GL vs. WAVE
+UID:primeleague-105562556575697757@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: GamerLegion vs. Wave
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (1) vs. Wave Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T170000Z
+DTEND:20210121T180000Z
+SUMMARY:[Prime League] WAVE vs. MOUZ
+UID:primeleague-105562556575697759@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. Mousesports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T190000Z
+DTEND:20210202T200000Z
+SUMMARY:[Prime League] WAVE vs. S04E
+UID:primeleague-105562556575697761@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Wave Esports vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T210000Z
+DTEND:20210126T220000Z
+SUMMARY:[Prime League] SKP vs. WAVE
+UID:primeleague-105562556575697763@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: SK Gaming Prime vs. 
+ Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK
+  Gaming Prime (1) vs. Wave Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T190000Z
+DTEND:20210209T200000Z
+SUMMARY:[Prime League] PTA vs. ESG
+UID:primeleague-105562556575697765@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: PENTA 1860 vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  PENTA 1860 (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T180000Z
+DTEND:20210202T190000Z
+SUMMARY:[Prime League] EWI vs. ESG
+UID:primeleague-105562556575697767@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: E WIE EINFACH 
+ E-SPORTS vs. EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. EURONICS Gaming 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T200000Z
+DTEND:20210203T210000Z
+SUMMARY:[Prime League] USE vs. ESG
+UID:primeleague-105562556575697769@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Unicorns of Love 
+ Sexy Edition vs. EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. EURONICS 
+ Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T200000Z
+DTEND:20210126T210000Z
+SUMMARY:[Prime League] ESG vs. BIG
+UID:primeleague-105562556575697771@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: EURONICS Gaming vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. Berlin International Gaming
+  (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T200000Z
+DTEND:20210204T210000Z
+SUMMARY:[Prime League] GL vs. ESG
+UID:primeleague-105562556575697773@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: GamerLegion vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  GamerLegion (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T170000Z
+DTEND:20210119T180000Z
+SUMMARY:[Prime League] MOUZ vs. ESG
+UID:primeleague-105562556575697775@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Mousesports (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T200000Z
+DTEND:20210128T210000Z
+SUMMARY:[Prime League] ESG vs. S04E
+UID:primeleague-105562556575697777@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: EURONICS Gaming vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T190000Z
+DTEND:20210121T200000Z
+SUMMARY:[Prime League] SKP vs. ESG
+UID:primeleague-105562556575697779@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: SK Gaming Prime vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SK Gaming Prime (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[Prime League] EWI vs. PTA
+UID:primeleague-105562556575697781@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: E WIE EINFACH 
+ E-SPORTS vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T210000Z
+DTEND:20210202T220000Z
+SUMMARY:[Prime League] USE vs. PTA
+UID:primeleague-105562556575697783@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Unicorns of Love 
+ Sexy Edition vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. PENTA 1860 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T180000Z
+DTEND:20210121T190000Z
+SUMMARY:[Prime League] BIG vs. PTA
+UID:primeleague-105562556575763321@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
+  Gaming vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. PENTA 1860 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T210000Z
+DTEND:20210203T220000Z
+SUMMARY:[Prime League] GL vs. PTA
+UID:primeleague-105562556575763323@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: GamerLegion vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T210000Z
+DTEND:20210204T220000Z
+SUMMARY:[Prime League] MOUZ vs. PTA
+UID:primeleague-105562556575763325@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Mousesports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T180000Z
+DTEND:20210126T190000Z
+SUMMARY:[Prime League] S04E vs. PTA
+UID:primeleague-105562556575763327@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Schalke 04 Evolution
+  vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Schalke 04 Evolution (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T210000Z
+DTEND:20210120T220000Z
+SUMMARY:[Prime League] PTA vs. SKP
+UID:primeleague-105562556575763329@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: PENTA 1860 vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PENTA 1860 (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T210000Z
+DTEND:20210121T220000Z
+SUMMARY:[Prime League] EWI vs. USE
+UID:primeleague-105562556575763331@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Unicorns 
+ of Love Sexy Edition (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T210000Z
+DTEND:20210209T220000Z
+SUMMARY:[Prime League] EWI vs. BIG
+UID:primeleague-105562556575763333@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Berlin 
+ International Gaming (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T170000Z
+DTEND:20210126T180000Z
+SUMMARY:[Prime League] GL vs. EWI
+UID:primeleague-105562556575763335@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: GamerLegion vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (0) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T180000Z
+DTEND:20210120T190000Z
+SUMMARY:[Prime League] MOUZ vs. EWI
+UID:primeleague-105562556575763337@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (1) vs. E WIE EINFACH E-SPORTS (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T210000Z
+DTEND:20210119T220000Z
+SUMMARY:[Prime League] EWI vs. S04E
+UID:primeleague-105562556575763339@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Schalke 04 Evolution
+  (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T190000Z
+DTEND:20210204T200000Z
+SUMMARY:[Prime League] SKP vs. EWI
+UID:primeleague-105562556575763341@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: SK Gaming Prime vs. 
+ E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. E WIE EINFACH E-SPORTS 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T180000Z
+DTEND:20210119T190000Z
+SUMMARY:[Prime League] BIG vs. USE
+UID:primeleague-105562556575763343@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
+  Gaming vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Berlin International Gaming (1) vs. 
+ Unicorns of Love Sexy Edition (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T170000Z
+DTEND:20210128T180000Z
+SUMMARY:[Prime League] USE vs. GL
+UID:primeleague-105562556575763345@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Unicorns of Love 
+ Sexy Edition vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. GamerLegion 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T190000Z
+DTEND:20210126T200000Z
+SUMMARY:[Prime League] USE vs. MOUZ
+UID:primeleague-105562556575763347@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Unicorns of Love 
+ Sexy Edition vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. Mousesports 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T190000Z
+DTEND:20210120T200000Z
+SUMMARY:[Prime League] USE vs. S04E
+UID:primeleague-105562556575763349@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
+ Sexy Edition vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. Schalke 04 
+ Evolution (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T170000Z
+DTEND:20210209T180000Z
+SUMMARY:[Prime League] USE vs. SKP
+UID:primeleague-105562556575763351@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Unicorns of Love 
+ Sexy Edition vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. SK Gaming 
+ Prime (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T200000Z
+DTEND:20210120T210000Z
+SUMMARY:[Prime League] GL vs. BIG
+UID:primeleague-105562556575763353@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: GamerLegion vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Berlin International Gaming 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T190000Z
+DTEND:20210203T200000Z
+SUMMARY:[Prime League] MOUZ vs. BIG
+UID:primeleague-105562556575763355@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Mousesports vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (1) vs. Berlin International Gaming 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T170000Z
+DTEND:20210204T180000Z
+SUMMARY:[Prime League] S04E vs. BIG
+UID:primeleague-105562556575763357@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Schalke 04 Evolution
+  vs. Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. Berlin International 
+ Gaming (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T170000Z
+DTEND:20210202T180000Z
+SUMMARY:[Prime League] SKP vs. BIG
+UID:primeleague-105562556575763359@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: SK Gaming Prime vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. Berlin International Gaming
+  (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T200000Z
+DTEND:20210202T210000Z
+SUMMARY:[Prime League] MOUZ vs. GL
+UID:primeleague-105562556575763361@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Mousesports vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. GamerLegion (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T200000Z
+DTEND:20210121T210000Z
+SUMMARY:[Prime League] GL vs. S04E
+UID:primeleague-105562556575763363@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: GamerLegion vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T200000Z
+DTEND:20210119T210000Z
+SUMMARY:[Prime League] GL vs. SKP
+UID:primeleague-105562556575763365@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: GamerLegion vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T200000Z
+DTEND:20210209T210000Z
+SUMMARY:[Prime League] MOUZ vs. S04E
+UID:primeleague-105562556575763367@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Mousesports vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[Prime League] MOUZ vs. SKP
+UID:primeleague-105562556575763369@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Mousesports vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T180000Z
+DTEND:20210203T190000Z
+SUMMARY:[Prime League] SKP vs. S04E
+UID:primeleague-105562556575763371@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: SK Gaming Prime vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T210000Z
+DTEND:20210216T220000Z
+SUMMARY:[Prime League] ESG vs. WAVE
+UID:primeleague-105562556575763373@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: EURONICS Gaming vs. 
+ Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EURONICS Gaming (1) vs. Wave Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[Prime League] PTA vs. WAVE
+UID:primeleague-105562556575763375@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: PENTA 1860 vs. Wave 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PENTA 
+ 1860 (0) vs. Wave Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T180000Z
+DTEND:20210302T190000Z
+SUMMARY:[Prime League] WAVE vs. EWI
+UID:primeleague-105562556575763377@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Wave Esports vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T200000Z
+DTEND:20210303T210000Z
+SUMMARY:[Prime League] USE vs. WAVE
+UID:primeleague-105562556575763379@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Unicorns of Love 
+ Sexy Edition vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. Wave Esports 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T180000Z
+DTEND:20210223T190000Z
+SUMMARY:[Prime League] WAVE vs. BIG
+UID:primeleague-105562556575763381@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Wave Esports vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. Berlin International Gaming 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T170000Z
+DTEND:20210304T180000Z
+SUMMARY:[Prime League] WAVE vs. GL
+UID:primeleague-105562556575763383@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Wave Esports vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (1) vs. GamerLegion (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T200000Z
+DTEND:20210217T210000Z
+SUMMARY:[Prime League] MOUZ vs. WAVE
+UID:primeleague-105562556575763385@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Mousesports vs. Wave
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. Wave Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[Prime League] S04E vs. WAVE
+UID:primeleague-105562556576156603@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Schalke 04 Evolution
+  vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. Wave Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T210000Z
+DTEND:20210218T220000Z
+SUMMARY:[Prime League] SKP vs. WAVE
+UID:primeleague-105562556576222141@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: SK Gaming Prime vs. 
+ Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK
+  Gaming Prime (1) vs. Wave Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T210000Z
+DTEND:20210304T220000Z
+SUMMARY:[Prime League] ESG vs. PTA
+UID:primeleague-105562556576222143@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: EURONICS Gaming vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EURONICS Gaming (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T210000Z
+DTEND:20210225T220000Z
+SUMMARY:[Prime League] ESG vs. EWI
+UID:primeleague-105562556576222145@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: EURONICS Gaming vs. 
+ E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. E WIE EINFACH E-SPORTS 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T210000Z
+DTEND:20210302T220000Z
+SUMMARY:[Prime League] ESG vs. USE
+UID:primeleague-105562556576222147@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: EURONICS Gaming vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. Unicorns of Love Sexy 
+ Edition (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[Prime League] ESG vs. BIG
+UID:primeleague-105562556576222149@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: EURONICS Gaming vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. Berlin International Gaming
+  (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T180000Z
+DTEND:20210303T190000Z
+SUMMARY:[Prime League] GL vs. ESG
+UID:primeleague-105562556576222151@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: GamerLegion vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  GamerLegion (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T200000Z
+DTEND:20210211T210000Z
+SUMMARY:[Prime League] ESG vs. MOUZ
+UID:primeleague-105562556576222153@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: EURONICS Gaming vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EURONICS Gaming (0) vs. Mousesports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T200000Z
+DTEND:20210223T210000Z
+SUMMARY:[Prime League] ESG vs. S04E
+UID:primeleague-105562556576222155@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: EURONICS Gaming vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T210000Z
+DTEND:20210217T220000Z
+SUMMARY:[Prime League] ESG vs. SKP
+UID:primeleague-105562556576222157@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: EURONICS Gaming vs. 
+ SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  EURONICS Gaming (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T210000Z
+DTEND:20210223T220000Z
+SUMMARY:[Prime League] PTA vs. EWI
+UID:primeleague-105562556576222159@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: PENTA 1860 vs. E WIE
+  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (0) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[Prime League] PTA vs. USE
+UID:primeleague-105562556576222161@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: PENTA 1860 vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T180000Z
+DTEND:20210217T190000Z
+SUMMARY:[Prime League] PTA vs. BIG
+UID:primeleague-105562556576222163@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: PENTA 1860 vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (0) vs. Berlin International Gaming 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T170000Z
+DTEND:20210302T180000Z
+SUMMARY:[Prime League] PTA vs. GL
+UID:primeleague-105562556576222165@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: PENTA 1860 vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PENTA 1860 (1) vs. GamerLegion (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T170000Z
+DTEND:20210303T180000Z
+SUMMARY:[Prime League] MOUZ vs. PTA
+UID:primeleague-105562556576222167@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Mousesports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[Prime League] S04E vs. PTA
+UID:primeleague-105562556576222169@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Schalke 04 Evolution
+  vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Schalke 04 Evolution (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T200000Z
+DTEND:20210216T210000Z
+SUMMARY:[Prime League] SKP vs. PTA
+UID:primeleague-105562556576222171@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: SK Gaming Prime vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming Prime (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T190000Z
+DTEND:20210217T200000Z
+SUMMARY:[Prime League] EWI vs. USE
+UID:primeleague-105562556576222173@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Unicorns 
+ of Love Sexy Edition (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T190000Z
+DTEND:20210304T200000Z
+SUMMARY:[Prime League] BIG vs. EWI
+UID:primeleague-105562556576222175@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Berlin International
+  Gaming vs. E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. E WIE EINFACH 
+ E-SPORTS (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T220000Z
+DTEND:20210218T230000Z
+SUMMARY:[Prime League] EWI vs. GL
+UID:primeleague-105562556576222177@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: E WIE EINFACH 
+ E-SPORTS vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. GamerLegion (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T180000Z
+DTEND:20210216T190000Z
+SUMMARY:[Prime League] EWI vs. MOUZ
+UID:primeleague-105562556576222179@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Mousesports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T210000Z
+DTEND:20210211T220000Z
+SUMMARY:[Prime League] EWI vs. S04E
+UID:primeleague-105562556576222181@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Schalke 04 Evolution
+  (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T210000Z
+DTEND:20210303T220000Z
+SUMMARY:[Prime League] SKP vs. EWI
+UID:primeleague-105562556576222183@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: SK Gaming Prime vs. 
+ E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (1) vs. E WIE EINFACH E-SPORTS 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[Prime League] USE vs. BIG
+UID:primeleague-105562556576287721@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Unicorns of Love 
+ Sexy Edition vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. 
+ Berlin International Gaming (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T190000Z
+DTEND:20210223T200000Z
+SUMMARY:[Prime League] GL vs. USE
+UID:primeleague-105562556576287723@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: GamerLegion vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[Prime League] USE vs. MOUZ
+UID:primeleague-105562556576287725@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Unicorns of Love 
+ Sexy Edition vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. Mousesports 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T170000Z
+DTEND:20210216T180000Z
+SUMMARY:[Prime League] S04E vs. USE
+UID:primeleague-105562556576287727@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Schalke 04 Evolution
+  vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. Unicorns of Love Sexy 
+ Edition (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T200000Z
+DTEND:20210304T210000Z
+SUMMARY:[Prime League] SKP vs. USE
+UID:primeleague-105562556576287729@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: SK Gaming Prime vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. Unicorns of Love Sexy 
+ Edition (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T190000Z
+DTEND:20210216T200000Z
+SUMMARY:[Prime League] GL vs. BIG
+UID:primeleague-105562556576287731@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: GamerLegion vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (0) vs. Berlin International Gaming 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T190000Z
+DTEND:20210302T200000Z
+SUMMARY:[Prime League] MOUZ vs. BIG
+UID:primeleague-105562556576287733@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Mousesports vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (0) vs. Berlin International Gaming 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T190000Z
+DTEND:20210303T200000Z
+SUMMARY:[Prime League] BIG vs. S04E
+UID:primeleague-105562556576287735@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Berlin International
+  Gaming vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. Schalke 04 
+ Evolution (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T170000Z
+DTEND:20210225T180000Z
+SUMMARY:[Prime League] BIG vs. SKP
+UID:primeleague-105562556576287737@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Berlin International
+  Gaming vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. SK Gaming Prime
+  (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[Prime League] GL vs. MOUZ
+UID:primeleague-105562556576287739@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: GamerLegion vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. Mousesports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T170000Z
+DTEND:20210217T180000Z
+SUMMARY:[Prime League] GL vs. S04E
+UID:primeleague-105562556576287741@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: GamerLegion vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T170000Z
+DTEND:20210211T180000Z
+SUMMARY:[Prime League] GL vs. SKP
+UID:primeleague-105562556576287743@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: GamerLegion vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T180000Z
+DTEND:20210304T190000Z
+SUMMARY:[Prime League] S04E vs. MOUZ
+UID:primeleague-105562556576287745@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Schalke 04 Evolution
+  vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. Mousesports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T170000Z
+DTEND:20210223T180000Z
+SUMMARY:[Prime League] MOUZ vs. SKP
+UID:primeleague-105562556576287747@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Mousesports vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T200000Z
+DTEND:20210302T210000Z
+SUMMARY:[Prime League] SKP vs. S04E
+UID:primeleague-105562556576287749@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: SK Gaming Prime vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T170000Z
+DTEND:20210309T200000Z
+SUMMARY:[Prime League] GL vs. USE
+UID:primeleague-105844044079004865@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: GamerLegion vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: 
+ bestOf 3\nStatus: completed\nErgebnisse: GamerLegion (1) vs. Unicorns of 
+ Love Sexy Edition (2)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T193000Z
+DTEND:20210309T223000Z
+SUMMARY:[Prime League] SKP vs. S04E
+UID:primeleague-105844044079004869@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: SK Gaming Prime vs. Schalke 04 Evolution\nSpiel-Strategie: 
+ bestOf 3\nStatus: completed\nErgebnisse: SK Gaming Prime (1) vs. Schalke 
+ 04 Evolution (2)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T193000Z
+DTEND:20210310T223000Z
+SUMMARY:[Prime League] MOUZ vs. BIG
+UID:primeleague-105844044079004873@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Mousesports vs. Berlin International Gaming\nSpiel-Strategie: 
+ bestOf 3\nStatus: completed\nErgebnisse: Mousesports (2) vs. Berlin 
+ International Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T170000Z
+DTEND:20210310T200000Z
+SUMMARY:[Prime League] S04E vs. USE
+UID:primeleague-105844044079004877@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Schalke 04 Evolution vs. Unicorns of Love Sexy Edition\nSpiel-
+ Strategie: bestOf 3\nStatus: completed\nErgebnisse: Schalke 04 Evolution 
+ (2) vs. Unicorns of Love Sexy Edition (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T170000Z
+DTEND:20210311T220000Z
+SUMMARY:[Prime League] BIG vs. S04E
+UID:primeleague-105844044079004881@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 3\nTeams: Berlin International Gaming vs. Schalke 04 Evolution\nSpiel-
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: Berlin International 
+ Gaming (3) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210321T170000Z
+DTEND:20210321T220000Z
+SUMMARY:[Prime League] MOUZ vs. BIG
+UID:primeleague-105844044079004885@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Finale\nTeams: Mousesports vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Mousesports (1) vs. Berlin International Gaming 
+ (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T160000Z
+DTEND:20210601T170000Z
+SUMMARY:[Prime League] ESG vs. BIG
+UID:primeleague-106305935742475809@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: EURONICS Gaming vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. Berlin International Gaming
+  (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T160000Z
+DTEND:20210608T170000Z
+SUMMARY:[Prime League] BIG vs. USE
+UID:primeleague-106305935742475811@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Berlin International
+  Gaming vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Berlin International Gaming (1) vs. 
+ Unicorns of Love Sexy Edition (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T190000Z
+DTEND:20210617T200000Z
+SUMMARY:[Prime League] BIG vs. WAVE
+UID:primeleague-106305935742475813@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Berlin International
+  Gaming vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. Wave Esports 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T180000Z
+DTEND:20210610T190000Z
+SUMMARY:[Prime League] MOUZ vs. BIG
+UID:primeleague-106305935742475815@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Mousesports vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (0) vs. Berlin International Gaming 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T180000Z
+DTEND:20210615T190000Z
+SUMMARY:[Prime League] BIG vs. S04E
+UID:primeleague-106305935742475817@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Berlin International
+  Gaming vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. Schalke 04 
+ Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T190000Z
+DTEND:20210603T200000Z
+SUMMARY:[Prime League] BIG vs. PTA
+UID:primeleague-106305935742475819@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
+  Gaming vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. PENTA 1860 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T170000Z
+DTEND:20210602T180000Z
+SUMMARY:[Prime League] BIG vs. EWI
+UID:primeleague-106305935742475821@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
+  Gaming vs. E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. E WIE EINFACH 
+ E-SPORTS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T180000Z
+DTEND:20210622T190000Z
+SUMMARY:[Prime League] BIG vs. GL
+UID:primeleague-106305935742475823@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Berlin International
+  Gaming vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. GamerLegion 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T180000Z
+DTEND:20210624T190000Z
+SUMMARY:[Prime League] BIG vs. SKP
+UID:primeleague-106305935742475825@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Berlin International
+  Gaming vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. SK Gaming Prime
+  (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T160000Z
+DTEND:20210617T170000Z
+SUMMARY:[Prime League] ESG vs. USE
+UID:primeleague-106305935742475827@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: EURONICS Gaming vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. Unicorns of Love Sexy 
+ Edition (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T200000Z
+DTEND:20210608T210000Z
+SUMMARY:[Prime League] WAVE vs. ESG
+UID:primeleague-106305935742475829@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Wave Esports vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Wave Esports (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T160000Z
+DTEND:20210624T170000Z
+SUMMARY:[Prime League] MOUZ vs. ESG
+UID:primeleague-106305935742475831@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Mousesports vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Mousesports (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T160000Z
+DTEND:20210602T170000Z
+SUMMARY:[Prime League] ESG vs. S04E
+UID:primeleague-106305935742475833@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: EURONICS Gaming vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T200000Z
+DTEND:20210610T210000Z
+SUMMARY:[Prime League] PTA vs. ESG
+UID:primeleague-106305935742475835@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: PENTA 1860 vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  PENTA 1860 (0) vs. EURONICS Gaming (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T160000Z
+DTEND:20210603T170000Z
+SUMMARY:[Prime League] ESG vs. EWI
+UID:primeleague-106305935742475837@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: EURONICS Gaming vs. 
+ E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (0) vs. E WIE EINFACH E-SPORTS 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T190000Z
+DTEND:20210615T200000Z
+SUMMARY:[Prime League] GL vs. ESG
+UID:primeleague-106305935742475839@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: GamerLegion vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  GamerLegion (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T160000Z
+DTEND:20210622T170000Z
+SUMMARY:[Prime League] SKP vs. ESG
+UID:primeleague-106305935742475841@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: SK Gaming Prime vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SK Gaming Prime (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T170000Z
+DTEND:20210601T180000Z
+SUMMARY:[Prime League] USE vs. WAVE
+UID:primeleague-106305935742475843@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
+ Sexy Edition vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. Wave Esports 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T170000Z
+DTEND:20210622T180000Z
+SUMMARY:[Prime League] USE vs. MOUZ
+UID:primeleague-106305935742475845@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Unicorns of Love 
+ Sexy Edition vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. Mousesports 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T190000Z
+DTEND:20210624T200000Z
+SUMMARY:[Prime League] S04E vs. USE
+UID:primeleague-106305935742475847@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Schalke 04 Evolution
+  vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. Unicorns of Love Sexy 
+ Edition (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T160000Z
+DTEND:20210615T170000Z
+SUMMARY:[Prime League] PTA vs. USE
+UID:primeleague-106305935742475849@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: PENTA 1860 vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T160000Z
+DTEND:20210610T170000Z
+SUMMARY:[Prime League] USE vs. EWI
+UID:primeleague-106305935742475851@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Unicorns of Love 
+ Sexy Edition vs. E WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. E 
+ WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T180000Z
+DTEND:20210602T190000Z
+SUMMARY:[Prime League] USE vs. GL
+UID:primeleague-106305935742541389@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
+ Sexy Edition vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. GamerLegion 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T180000Z
+DTEND:20210603T190000Z
+SUMMARY:[Prime League] USE vs. SKP
+UID:primeleague-106305935742541391@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
+ Sexy Edition vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. SK Gaming 
+ Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T190000Z
+DTEND:20210602T200000Z
+SUMMARY:[Prime League] WAVE vs. MOUZ
+UID:primeleague-106305935742541393@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. Mousesports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T170000Z
+DTEND:20210603T180000Z
+SUMMARY:[Prime League] S04E vs. WAVE
+UID:primeleague-106305935742541395@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Schalke 04 Evolution
+  vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T200000Z
+DTEND:20210624T210000Z
+SUMMARY:[Prime League] WAVE vs. PTA
+UID:primeleague-106305935742541397@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: Wave Esports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wave
+  Esports (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T190000Z
+DTEND:20210622T200000Z
+SUMMARY:[Prime League] EWI vs. WAVE
+UID:primeleague-106305935742541399@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T190000Z
+DTEND:20210610T200000Z
+SUMMARY:[Prime League] GL vs. WAVE
+UID:primeleague-106305935742541401@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: GamerLegion vs. Wave
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T200000Z
+DTEND:20210615T210000Z
+SUMMARY:[Prime League] WAVE vs. SKP
+UID:primeleague-106305935742541403@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Wave Esports vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T180000Z
+DTEND:20210601T190000Z
+SUMMARY:[Prime League] MOUZ vs. S04E
+UID:primeleague-106305935742541405@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T180000Z
+DTEND:20210617T190000Z
+SUMMARY:[Prime League] MOUZ vs. PTA
+UID:primeleague-106305935742541407@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Mousesports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T170000Z
+DTEND:20210615T180000Z
+SUMMARY:[Prime League] MOUZ vs. EWI
+UID:primeleague-106305935742541409@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: Mousesports vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (0) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T200000Z
+DTEND:20210603T210000Z
+SUMMARY:[Prime League] MOUZ vs. GL
+UID:primeleague-106305935742541411@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. GamerLegion (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T180000Z
+DTEND:20210608T190000Z
+SUMMARY:[Prime League] SKP vs. MOUZ
+UID:primeleague-106305935742541413@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: SK Gaming Prime vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming Prime (0) vs. Mousesports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T200000Z
+DTEND:20210622T210000Z
+SUMMARY:[Prime League] PTA vs. S04E
+UID:primeleague-106305935742541415@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: PENTA 1860 vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T170000Z
+DTEND:20210617T180000Z
+SUMMARY:[Prime League] EWI vs. S04E
+UID:primeleague-106305935742541417@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Schalke 04 Evolution
+  (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T170000Z
+DTEND:20210608T180000Z
+SUMMARY:[Prime League] GL vs. S04E
+UID:primeleague-106305935742541419@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: GamerLegion vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T170000Z
+DTEND:20210610T180000Z
+SUMMARY:[Prime League] S04E vs. SKP
+UID:primeleague-106305935742541421@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Schalke 04 Evolution
+  vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T190000Z
+DTEND:20210608T200000Z
+SUMMARY:[Prime League] EWI vs. PTA
+UID:primeleague-106305935742541423@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: E WIE EINFACH 
+ E-SPORTS vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T190000Z
+DTEND:20210601T200000Z
+SUMMARY:[Prime League] GL vs. PTA
+UID:primeleague-106305935742541425@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: GamerLegion vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210602T200000Z
+DTEND:20210602T210000Z
+SUMMARY:[Prime League] SKP vs. PTA
+UID:primeleague-106305935742541427@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: SK Gaming Prime vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming Prime (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T170000Z
+DTEND:20210624T180000Z
+SUMMARY:[Prime League] GL vs. EWI
+UID:primeleague-106305935742541429@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 4\nTeams: GamerLegion vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (0) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T200000Z
+DTEND:20210601T210000Z
+SUMMARY:[Prime League] EWI vs. SKP
+UID:primeleague-106305935742541431@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: E WIE EINFACH 
+ E-SPORTS vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. SK Gaming Prime 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T200000Z
+DTEND:20210617T210000Z
+SUMMARY:[Prime League] GL vs. SKP
+UID:primeleague-106305935742541433@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 3\nTeams: GamerLegion vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T200000Z
+DTEND:20210629T210000Z
+SUMMARY:[Prime League] BIG vs. ESG
+UID:primeleague-106305935742541435@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Berlin International
+  Gaming vs. EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. EURONICS Gaming
+  (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T190000Z
+DTEND:20210708T200000Z
+SUMMARY:[Prime League] USE vs. BIG
+UID:primeleague-106305935742541437@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Unicorns of Love 
+ Sexy Edition vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Unicorns of Love Sexy Edition (0) vs. 
+ Berlin International Gaming (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T200000Z
+DTEND:20210720T210000Z
+SUMMARY:[Prime League] BIG vs. WAVE
+UID:primeleague-106305935742541439@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Berlin International
+  Gaming vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. Wave Esports 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T180000Z
+DTEND:20210713T190000Z
+SUMMARY:[Prime League] BIG vs. MOUZ
+UID:primeleague-106305935742541441@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Berlin International
+  Gaming vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. Mousesports 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+SUMMARY:[Prime League] S04E vs. BIG
+UID:primeleague-106305935742541443@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Schalke 04 Evolution
+  vs. Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (0) vs. Berlin International 
+ Gaming (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T190000Z
+DTEND:20210706T200000Z
+SUMMARY:[Prime League] BIG vs. PTA
+UID:primeleague-106305935742541445@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Berlin International
+  Gaming vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. PENTA 1860 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[Prime League] EWI vs. BIG
+UID:primeleague-106305935742541447@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Berlin 
+ International Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T180000Z
+DTEND:20210721T190000Z
+SUMMARY:[Prime League] GL vs. BIG
+UID:primeleague-106305935742541449@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: GamerLegion vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Berlin International Gaming 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T180000Z
+DTEND:20210722T190000Z
+SUMMARY:[Prime League] BIG vs. SKP
+UID:primeleague-106305935742541451@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Berlin International
+  Gaming vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. SK Gaming Prime
+  (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T160000Z
+DTEND:20210720T170000Z
+SUMMARY:[Prime League] ESG vs. USE
+UID:primeleague-106305935742541453@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: EURONICS Gaming vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. Unicorns of Love Sexy 
+ Edition (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[Prime League] ESG vs. WAVE
+UID:primeleague-106305935742541455@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: EURONICS Gaming vs. 
+ Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EURONICS Gaming (0) vs. Wave Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T190000Z
+DTEND:20210722T200000Z
+SUMMARY:[Prime League] MOUZ vs. ESG
+UID:primeleague-106305935742541457@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Mousesports vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Mousesports (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T190000Z
+DTEND:20210701T200000Z
+SUMMARY:[Prime League] ESG vs. S04E
+UID:primeleague-106305935742541459@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: EURONICS Gaming vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EURONICS Gaming (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T160000Z
+DTEND:20210713T170000Z
+SUMMARY:[Prime League] ESG vs. PTA
+UID:primeleague-106305935742541461@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: EURONICS Gaming vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EURONICS Gaming (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T170000Z
+DTEND:20210706T180000Z
+SUMMARY:[Prime League] EWI vs. ESG
+UID:primeleague-106305935742541463@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: E WIE EINFACH 
+ E-SPORTS vs. EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. EURONICS Gaming 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T190000Z
+DTEND:20210715T200000Z
+SUMMARY:[Prime League] GL vs. ESG
+UID:primeleague-106305935742541465@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: GamerLegion vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  GamerLegion (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T190000Z
+DTEND:20210721T200000Z
+SUMMARY:[Prime League] SKP vs. ESG
+UID:primeleague-106305935742607003@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: SK Gaming Prime vs. 
+ EURONICS Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  SK Gaming Prime (1) vs. EURONICS Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T170000Z
+DTEND:20210629T180000Z
+SUMMARY:[Prime League] WAVE vs. USE
+UID:primeleague-106305935742607005@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Wave Esports vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. Unicorns of Love Sexy Edition 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T170000Z
+DTEND:20210721T180000Z
+SUMMARY:[Prime League] MOUZ vs. USE
+UID:primeleague-106305935742607007@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Mousesports vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (0) vs. Unicorns of Love Sexy Edition 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T160000Z
+DTEND:20210722T170000Z
+SUMMARY:[Prime League] USE vs. S04E
+UID:primeleague-106305935742607009@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Unicorns of Love 
+ Sexy Edition vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. Schalke 04 
+ Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[Prime League] PTA vs. USE
+UID:primeleague-106305935742607011@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: PENTA 1860 vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T190000Z
+DTEND:20210713T200000Z
+SUMMARY:[Prime League] EWI vs. USE
+UID:primeleague-106305935742607013@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Unicorns 
+ of Love Sexy Edition (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T160000Z
+DTEND:20210701T170000Z
+SUMMARY:[Prime League] GL vs. USE
+UID:primeleague-106305935742607015@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: GamerLegion vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T200000Z
+DTEND:20210706T210000Z
+SUMMARY:[Prime League] SKP vs. USE
+UID:primeleague-106305935742607017@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: SK Gaming Prime vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. Unicorns of Love Sexy 
+ Edition (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[Prime League] MOUZ vs. WAVE
+UID:primeleague-106305935742607019@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Mousesports vs. Wave
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T160000Z
+DTEND:20210706T170000Z
+SUMMARY:[Prime League] WAVE vs. S04E
+UID:primeleague-106305935742607021@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Wave Esports vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wave Esports (0) vs. Schalke 04 Evolution (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T170000Z
+DTEND:20210722T180000Z
+SUMMARY:[Prime League] WAVE vs. PTA
+UID:primeleague-106305935742607023@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Wave Esports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wave
+  Esports (1) vs. PENTA 1860 (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T200000Z
+DTEND:20210721T210000Z
+SUMMARY:[Prime League] EWI vs. WAVE
+UID:primeleague-106305935742607025@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T200000Z
+DTEND:20210713T210000Z
+SUMMARY:[Prime League] WAVE vs. GL
+UID:primeleague-106305935742607027@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Wave Esports vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. GamerLegion (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T200000Z
+DTEND:20210715T210000Z
+SUMMARY:[Prime League] SKP vs. WAVE
+UID:primeleague-106305935742607029@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: SK Gaming Prime vs. 
+ Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK
+  Gaming Prime (1) vs. Wave Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T160000Z
+DTEND:20210629T170000Z
+SUMMARY:[Prime League] MOUZ vs. S04E
+UID:primeleague-106305935742607031@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: Mousesports vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mousesports (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T180000Z
+DTEND:20210720T190000Z
+SUMMARY:[Prime League] MOUZ vs. PTA
+UID:primeleague-106305935742607033@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Mousesports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[Prime League] EWI vs. MOUZ
+UID:primeleague-106305935742607035@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Mousesports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T180000Z
+DTEND:20210706T190000Z
+SUMMARY:[Prime League] GL vs. MOUZ
+UID:primeleague-106305935742607037@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: GamerLegion vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. Mousesports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T200000Z
+DTEND:20210708T210000Z
+SUMMARY:[Prime League] MOUZ vs. SKP
+UID:primeleague-106305935742607039@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Mousesports vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210721T160000Z
+DTEND:20210721T170000Z
+SUMMARY:[Prime League] PTA vs. S04E
+UID:primeleague-106305935742607041@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: PENTA 1860 vs. 
+ Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. Schalke 04 Evolution (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T170000Z
+DTEND:20210720T180000Z
+SUMMARY:[Prime League] EWI vs. S04E
+UID:primeleague-106305935742607043@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Schalke 04 Evolution
+  (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T160000Z
+DTEND:20210708T170000Z
+SUMMARY:[Prime League] S04E vs. GL
+UID:primeleague-106305935742607045@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: Schalke 04 Evolution
+  vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. GamerLegion (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T170000Z
+DTEND:20210713T180000Z
+SUMMARY:[Prime League] S04E vs. SKP
+UID:primeleague-106305935742607047@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Schalke 04 Evolution
+  vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. SK Gaming Prime (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[Prime League] PTA vs. EWI
+UID:primeleague-106305935742607049@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 6\nTeams: PENTA 1860 vs. E WIE
+  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (1) vs. E WIE EINFACH E-SPORTS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T180000Z
+DTEND:20210629T190000Z
+SUMMARY:[Prime League] GL vs. PTA
+UID:primeleague-106305935742607051@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: GamerLegion vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. PENTA 1860 (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T200000Z
+DTEND:20210701T210000Z
+SUMMARY:[Prime League] PTA vs. SKP
+UID:primeleague-106305935742607053@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: PENTA 1860 vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PENTA 1860 (0) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T200000Z
+DTEND:20210722T210000Z
+SUMMARY:[Prime League] GL vs. EWI
+UID:primeleague-106305935742607055@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: GamerLegion vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. E WIE EINFACH E-SPORTS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T190000Z
+DTEND:20210629T200000Z
+SUMMARY:[Prime League] EWI vs. SKP
+UID:primeleague-106305935742607057@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 5\nTeams: E WIE EINFACH 
+ E-SPORTS vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. SK Gaming Prime 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T190000Z
+DTEND:20210720T200000Z
+SUMMARY:[Prime League] SKP vs. GL
+UID:primeleague-106305935742607059@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: SK Gaming Prime vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming Prime (1) vs. GamerLegion (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T160000Z
+DTEND:20210727T190000Z
+SUMMARY:[Prime League] BIG vs. EWI
+UID:primeleague-106305935742607061@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Berlin International Gaming vs. E WIE EINFACH E-SPORTS\nSpiel-
+ Strategie: bestOf 3\nStatus: completed\nErgebnisse: Berlin International 
+ Gaming (2) vs. E WIE EINFACH E-SPORTS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T190000Z
+DTEND:20210727T220000Z
+SUMMARY:[Prime League] SKP vs. GL
+UID:primeleague-106305935742607065@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: SK Gaming Prime vs. GamerLegion\nSpiel-Strategie: bestOf 
+ 3\nStatus: completed\nErgebnisse: SK Gaming Prime (2) vs. GamerLegion 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T160000Z
+DTEND:20210728T210000Z
+SUMMARY:[Prime League] BIG vs. SKP
+UID:primeleague-106305935742607069@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Berlin International Gaming vs. SK Gaming Prime\nSpiel-
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: Berlin International 
+ Gaming (3) vs. SK Gaming Prime (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T160000Z
+DTEND:20210729T210000Z
+SUMMARY:[Prime League] BIG vs. MOUZ
+UID:primeleague-106305935742607077@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Halbfinale\nTeams: Berlin 
+ International Gaming vs. Mousesports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (3) vs. Mousesports 
+ (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T210000Z
+DTEND:20210722T220000Z
+SUMMARY:[Prime League] BIG vs. MOUZ
+UID:primeleague-106625963822566902@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 8\nTeams: Berlin International
+  Gaming vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. Mousesports 
+ (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210808T160000Z
+DTEND:20210808T210000Z
+SUMMARY:[Prime League] PTA vs. BIG
+UID:primeleague-106629889325485888@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Finale\nTeams: PENTA 1860 vs. Berlin
+  International Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (0) vs. Berlin International Gaming 
+ (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:Prime League Spielplan
+X-WR-CALNAME:Prime League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

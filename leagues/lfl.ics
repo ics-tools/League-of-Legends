@@ -1,0 +1,2277 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210119T220000Z
+DTEND:20210119T230000Z
+SUMMARY:[La Ligue Française] BDS vs. GW
+UID:lfl-105568157422015211@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. GameWard (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T190000Z
+DTEND:20210121T200000Z
+SUMMARY:[La Ligue Française] IZI vs. BDS
+UID:lfl-105568157422080749@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (1) vs. Team BDS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T200000Z
+DTEND:20210210T210000Z
+SUMMARY:[La Ligue Française] KC vs. BDS
+UID:lfl-105568157422080751@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
+ vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (0) vs. Team BDS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T180000Z
+DTEND:20210203T190000Z
+SUMMARY:[La Ligue Française] BDS vs. MCES
+UID:lfl-105568157422080753@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T210000Z
+DTEND:20210211T220000Z
+SUMMARY:[La Ligue Française] BDS vs. SLY
+UID:lfl-105568157422080755@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
+  (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T220000Z
+DTEND:20210128T230000Z
+SUMMARY:[La Ligue Française] GO vs. BDS
+UID:lfl-105568157422080757@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GamersOrigin 
+ vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. Team BDS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T210000Z
+DTEND:20210204T220000Z
+SUMMARY:[La Ligue Française] BDS vs. LDLC
+UID:lfl-105568157422080759@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T220000Z
+DTEND:20210127T230000Z
+SUMMARY:[La Ligue Française] BDS vs. MSFP
+UID:lfl-105568157422080761@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team BDS (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T190000Z
+DTEND:20210120T200000Z
+SUMMARY:[La Ligue Française] BDS vs. VITB
+UID:lfl-105568157422080763@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T190000Z
+DTEND:20210127T200000Z
+SUMMARY:[La Ligue Française] IZI vs. GW
+UID:lfl-105568157422080765@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: IZIDREAM vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. GameWard (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T200000Z
+DTEND:20210211T210000Z
+SUMMARY:[La Ligue Française] KC vs. GW
+UID:lfl-105568157422080767@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. GameWard (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T220000Z
+DTEND:20210210T230000Z
+SUMMARY:[La Ligue Française] GW vs. MCES
+UID:lfl-105568157422080769@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: GameWard vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T180000Z
+DTEND:20210120T190000Z
+SUMMARY:[La Ligue Française] GW vs. SLY
+UID:lfl-105568157422080771@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GameWard vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GameWard
+  (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[La Ligue Française] GW vs. GO
+UID:lfl-105568157422080773@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: GameWard vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T210000Z
+DTEND:20210121T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. GW
+UID:lfl-105568157422080775@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (1) vs. GameWard (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T210000Z
+DTEND:20210203T220000Z
+SUMMARY:[La Ligue Française] GW vs. MSFP
+UID:lfl-105568157422080777@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: GameWard vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  GameWard (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[La Ligue Française] GW vs. VITB
+UID:lfl-105568157422080779@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GameWard vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T190000Z
+DTEND:20210204T200000Z
+SUMMARY:[La Ligue Française] KC vs. IZI
+UID:lfl-105568157422080781@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Karmine Corp 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T220000Z
+DTEND:20210120T230000Z
+SUMMARY:[La Ligue Française] MCES vs. IZI
+UID:lfl-105568157422080783@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team MCES vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (0) vs. IZIDREAM (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T200000Z
+DTEND:20210119T210000Z
+SUMMARY:[La Ligue Française] IZI vs. SLY
+UID:lfl-105568157422080785@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: IZIDREAM
+  (0) vs. Solary (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[La Ligue Française] IZI vs. GO
+UID:lfl-105568157422080787@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: IZIDREAM vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. GamersOrigin (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T210000Z
+DTEND:20210128T220000Z
+SUMMARY:[La Ligue Française] IZI vs. LDLC
+UID:lfl-105568157422080789@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: IZIDREAM vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. LDLC OL (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T180000Z
+DTEND:20210210T190000Z
+SUMMARY:[La Ligue Française] IZI vs. MSFP
+UID:lfl-105568157422080791@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: IZIDREAM vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  IZIDREAM (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T220000Z
+DTEND:20210203T230000Z
+SUMMARY:[La Ligue Française] IZI vs. VITB
+UID:lfl-105568157422080793@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: IZIDREAM vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[La Ligue Française] KC vs. MCES
+UID:lfl-105568157422080795@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Karmine Corp 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T200000Z
+DTEND:20210121T210000Z
+SUMMARY:[La Ligue Française] KC vs. SLY
+UID:lfl-105568157422080797@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Karmine Corp 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T210000Z
+DTEND:20210127T220000Z
+SUMMARY:[La Ligue Française] GO vs. KC
+UID:lfl-105568157422080799@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GamersOrigin 
+ vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (1) vs. Karmine Corp (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T200000Z
+DTEND:20210203T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. KC
+UID:lfl-105568157422080801@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: LDLC OL vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T200000Z
+DTEND:20210120T210000Z
+SUMMARY:[La Ligue Française] KC vs. MSFP
+UID:lfl-105568157422080803@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Karmine Corp 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T190000Z
+DTEND:20210119T200000Z
+SUMMARY:[La Ligue Française] VITB vs. KC
+UID:lfl-105568157422080805@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Vitality.Bee 
+ vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T220000Z
+DTEND:20210204T230000Z
+SUMMARY:[La Ligue Française] SLY vs. MCES
+UID:lfl-105568157422080807@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T210000Z
+DTEND:20210119T220000Z
+SUMMARY:[La Ligue Française] GO vs. MCES
+UID:lfl-105568157422080809@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GamersOrigin 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T180000Z
+DTEND:20210127T190000Z
+SUMMARY:[La Ligue Française] MCES vs. LDLC
+UID:lfl-105568157422080811@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team MCES vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T220000Z
+DTEND:20210211T230000Z
+SUMMARY:[La Ligue Française] MSFP vs. MCES
+UID:lfl-105568157422080813@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Misfits 
+ Premier vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T220000Z
+DTEND:20210121T230000Z
+SUMMARY:[La Ligue Française] MCES vs. VITB
+UID:lfl-105568157422080815@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team MCES vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team MCES (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210203T190000Z
+DTEND:20210203T200000Z
+SUMMARY:[La Ligue Française] SLY vs. GO
+UID:lfl-105568157422080817@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (0) vs. GamersOrigin (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T210000Z
+DTEND:20210210T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. SLY
+UID:lfl-105568157422080819@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: LDLC OL vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC OL 
+ (0) vs. Solary (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T200000Z
+DTEND:20210128T210000Z
+SUMMARY:[La Ligue Française] SLY vs. MSFP
+UID:lfl-105568157422080821@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Solary vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Solary (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210127T200000Z
+DTEND:20210127T210000Z
+SUMMARY:[La Ligue Française] VITB vs. SLY
+UID:lfl-105568157422080823@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Vitality.Bee 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T210000Z
+DTEND:20210120T220000Z
+SUMMARY:[La Ligue Française] GO vs. LDLC
+UID:lfl-105568157422080825@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GamersOrigin 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T180000Z
+DTEND:20210121T190000Z
+SUMMARY:[La Ligue Française] MSFP vs. GO
+UID:lfl-105568157422080827@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
+ Premier vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T190000Z
+DTEND:20210210T200000Z
+SUMMARY:[La Ligue Française] VITB vs. GO
+UID:lfl-105568157422080829@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Vitality.Bee 
+ vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T180000Z
+DTEND:20210119T190000Z
+SUMMARY:[La Ligue Française] MSFP vs. LDLC
+UID:lfl-105568157422080831@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
+ Premier vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[La Ligue Française] VITB vs. LDLC
+UID:lfl-105568157422080833@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Vitality.Bee 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T200000Z
+DTEND:20210204T210000Z
+SUMMARY:[La Ligue Française] VITB vs. MSFP
+UID:lfl-105568157422080835@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Vitality.Bee 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T200000Z
+DTEND:20210217T210000Z
+SUMMARY:[La Ligue Française] GW vs. BDS
+UID:lfl-105568157422080837@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. Team BDS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[La Ligue Française] BDS vs. IZI
+UID:lfl-105568157422080839@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T190000Z
+DTEND:20210310T200000Z
+SUMMARY:[La Ligue Française] KC vs. BDS
+UID:lfl-105568157422080841@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
+ vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team BDS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T210000Z
+DTEND:20210304T220000Z
+SUMMARY:[La Ligue Française] BDS vs. MCES
+UID:lfl-105568157422080843@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T190000Z
+DTEND:20210311T200000Z
+SUMMARY:[La Ligue Française] SLY vs. BDS
+UID:lfl-105568157422080845@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
+  (1) vs. Team BDS (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T210000Z
+DTEND:20210303T220000Z
+SUMMARY:[La Ligue Française] BDS vs. GO
+UID:lfl-105568157422080847@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T210000Z
+DTEND:20210309T220000Z
+SUMMARY:[La Ligue Française] BDS vs. LDLC
+UID:lfl-105568157422080849@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[La Ligue Française] MSFP vs. BDS
+UID:lfl-105568157422080851@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Misfits 
+ Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Team BDS (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T190000Z
+DTEND:20210224T200000Z
+SUMMARY:[La Ligue Française] BDS vs. VITB
+UID:lfl-105568157422080853@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T170000Z
+DTEND:20210225T180000Z
+SUMMARY:[La Ligue Française] GW vs. IZI
+UID:lfl-105568157422080855@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GameWard vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T180000Z
+DTEND:20210311T190000Z
+SUMMARY:[La Ligue Française] GW vs. KC
+UID:lfl-105568157422080857@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GameWard vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T180000Z
+DTEND:20210310T190000Z
+SUMMARY:[La Ligue Française] MCES vs. GW
+UID:lfl-105568157422080859@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team MCES vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (0) vs. GameWard (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T180000Z
+DTEND:20210224T190000Z
+SUMMARY:[La Ligue Française] GW vs. SLY
+UID:lfl-105568157422146397@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GameWard vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GameWard
+  (0) vs. Solary (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T200000Z
+DTEND:20210309T210000Z
+SUMMARY:[La Ligue Française] GO vs. GW
+UID:lfl-105568157422146399@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GamersOrigin 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. GameWard (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T210000Z
+DTEND:20210218T220000Z
+SUMMARY:[La Ligue Française] GW vs. LDLC
+UID:lfl-105568157422146401@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T180000Z
+DTEND:20210304T190000Z
+SUMMARY:[La Ligue Française] MSFP vs. GW
+UID:lfl-105568157422146403@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Misfits 
+ Premier vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. GameWard (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T200000Z
+DTEND:20210303T210000Z
+SUMMARY:[La Ligue Française] VITB vs. GW
+UID:lfl-105568157422146405@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Vitality.Bee 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (0) vs. GameWard (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T180000Z
+DTEND:20210309T190000Z
+SUMMARY:[La Ligue Française] KC vs. IZI
+UID:lfl-105568157422146407@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (0) vs. IZIDREAM (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T170000Z
+DTEND:20210224T180000Z
+SUMMARY:[La Ligue Française] MCES vs. IZI
+UID:lfl-105568157422146409@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team MCES vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T180000Z
+DTEND:20210217T190000Z
+SUMMARY:[La Ligue Française] IZI vs. SLY
+UID:lfl-105568157422146411@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: IZIDREAM vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: IZIDREAM
+  (0) vs. Solary (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T160000Z
+DTEND:20210311T170000Z
+SUMMARY:[La Ligue Française] GO vs. IZI
+UID:lfl-105568157422146413@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GamersOrigin 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. IZIDREAM (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T170000Z
+DTEND:20210303T180000Z
+SUMMARY:[La Ligue Française] LDLC vs. IZI
+UID:lfl-105568157422146415@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: LDLC OL vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T210000Z
+DTEND:20210310T220000Z
+SUMMARY:[La Ligue Française] MSFP vs. IZI
+UID:lfl-105568157422146417@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Misfits 
+ Premier vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T170000Z
+DTEND:20210304T180000Z
+SUMMARY:[La Ligue Française] IZI vs. VITB
+UID:lfl-105568157422146419@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: IZIDREAM vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T180000Z
+DTEND:20210303T190000Z
+SUMMARY:[La Ligue Française] KC vs. MCES
+UID:lfl-105568157422146421@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Karmine Corp 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[La Ligue Française] SLY vs. KC
+UID:lfl-105568157422146423@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Solary vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. Karmine Corp (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[La Ligue Française] KC vs. GO
+UID:lfl-105568157422146425@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Karmine Corp 
+ vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T190000Z
+DTEND:20210304T200000Z
+SUMMARY:[La Ligue Française] KC vs. LDLC
+UID:lfl-105568157422146427@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Karmine Corp 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T200000Z
+DTEND:20210224T210000Z
+SUMMARY:[La Ligue Française] KC vs. MSFP
+UID:lfl-105568157422146429@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Karmine Corp 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T190000Z
+DTEND:20210217T200000Z
+SUMMARY:[La Ligue Française] VITB vs. KC
+UID:lfl-105568157422146431@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Vitality.Bee 
+ vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T170000Z
+DTEND:20210309T180000Z
+SUMMARY:[La Ligue Française] SLY vs. MCES
+UID:lfl-105568157422146433@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. Team MCES (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T170000Z
+DTEND:20210217T180000Z
+SUMMARY:[La Ligue Française] MCES vs. GO
+UID:lfl-105568157422146435@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team MCES vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team MCES (0) vs. GamersOrigin (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T210000Z
+DTEND:20210225T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. MCES
+UID:lfl-105568157422146437@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: LDLC OL vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (0) vs. Team MCES (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T200000Z
+DTEND:20210311T210000Z
+SUMMARY:[La Ligue Française] MCES vs. MSFP
+UID:lfl-105568157422146439@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team MCES vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team MCES (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T170000Z
+DTEND:20210218T180000Z
+SUMMARY:[La Ligue Française] MCES vs. VITB
+UID:lfl-105568157422146441@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team MCES vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team MCES (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T200000Z
+DTEND:20210304T210000Z
+SUMMARY:[La Ligue Française] GO vs. SLY
+UID:lfl-105568157422146443@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: GamersOrigin 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T170000Z
+DTEND:20210310T180000Z
+SUMMARY:[La Ligue Française] SLY vs. LDLC
+UID:lfl-105568157422146445@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary 
+ (0) vs. LDLC OL (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T190000Z
+DTEND:20210303T200000Z
+SUMMARY:[La Ligue Française] MSFP vs. SLY
+UID:lfl-105568157422146447@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Misfits 
+ Premier vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Solary (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[La Ligue Française] SLY vs. VITB
+UID:lfl-105568157422146449@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Solary vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210224T210000Z
+DTEND:20210224T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. GO
+UID:lfl-105568157422146451@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: LDLC OL vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[La Ligue Française] GO vs. MSFP
+UID:lfl-105568157422146453@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GamersOrigin 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T200000Z
+DTEND:20210310T210000Z
+SUMMARY:[La Ligue Française] GO vs. VITB
+UID:lfl-105568157422146455@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GamersOrigin 
+ vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210217T210000Z
+DTEND:20210217T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. MSFP
+UID:lfl-105568157422146457@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: LDLC OL vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  LDLC OL (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T170000Z
+DTEND:20210311T180000Z
+SUMMARY:[La Ligue Française] VITB vs. LDLC
+UID:lfl-105568157422146459@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Vitality.Bee 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. LDLC OL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T190000Z
+DTEND:20210309T200000Z
+SUMMARY:[La Ligue Française] MSFP vs. VITB
+UID:lfl-105568157422146461@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Misfits 
+ Premier vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T210000Z
+DTEND:20210311T220000Z
+SUMMARY:[La Ligue Française] KC vs. MSFP
+UID:lfl-105873149796221200@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210317T170000Z
+DTEND:20210317T220000Z
+SUMMARY:[La Ligue Française] GW vs. VITB
+UID:lfl-105904572584275052@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: GameWard vs. Vitality.Bee\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: GameWard (1) vs. Vitality.Bee (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210318T170000Z
+DTEND:20210318T220000Z
+SUMMARY:[La Ligue Française] BDS vs. VITB
+UID:lfl-105904572584340594@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Team BDS vs. Vitality.Bee\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Team BDS (1) vs. Vitality.Bee (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210324T170000Z
+DTEND:20210324T220000Z
+SUMMARY:[La Ligue Française] VITB vs. MSFP
+UID:lfl-105904572584340600@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 3\nTeams: Vitality.Bee vs. Misfits Premier\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Vitality.Bee (1) vs. Misfits Premier 
+ (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210325T170000Z
+DTEND:20210325T220000Z
+SUMMARY:[La Ligue Française] KC vs. MSFP
+UID:lfl-105904572584340606@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Finale\nTeams: Karmine Corp 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Karmine Corp (3) vs. Misfits Premier (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T190000Z
+DTEND:20210610T200000Z
+SUMMARY:[La Ligue Française] GO vs. GW
+UID:lfl-106313258183586950@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GamersOrigin 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. GameWard (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[La Ligue Française] GO vs. IZI
+UID:lfl-106313258183586952@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: GamersOrigin 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T160000Z
+DTEND:20210608T170000Z
+SUMMARY:[La Ligue Française] KC vs. GO
+UID:lfl-106313258183586954@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Karmine Corp 
+ vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T200000Z
+DTEND:20210609T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. GO
+UID:lfl-106313258183586956@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T170000Z
+DTEND:20210617T180000Z
+SUMMARY:[La Ligue Française] GO vs. MSFP
+UID:lfl-106313258183586958@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GamersOrigin 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T170000Z
+DTEND:20210616T180000Z
+SUMMARY:[La Ligue Française] SLY vs. GO
+UID:lfl-106313258183586960@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Solary vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T200000Z
+DTEND:20210630T210000Z
+SUMMARY:[La Ligue Française] BDS vs. GO
+UID:lfl-106313258183586962@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (0) vs. GamersOrigin (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T200000Z
+DTEND:20210624T210000Z
+SUMMARY:[La Ligue Française] GO vs. MCES
+UID:lfl-106313258183586964@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: GamersOrigin 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. Team MCES (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T160000Z
+DTEND:20210623T170000Z
+SUMMARY:[La Ligue Française] GO vs. VITB
+UID:lfl-106313258183586966@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: GamersOrigin 
+ vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T200000Z
+DTEND:20210616T210000Z
+SUMMARY:[La Ligue Française] GW vs. IZI
+UID:lfl-106313258183586968@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GameWard vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T180000Z
+DTEND:20210623T190000Z
+SUMMARY:[La Ligue Française] KC vs. GW
+UID:lfl-106313258183586970@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Karmine Corp 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. GameWard (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T180000Z
+DTEND:20210608T190000Z
+SUMMARY:[La Ligue Française] GW vs. LDLC
+UID:lfl-106313258183586972@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GameWard vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. LDLC OL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T180000Z
+DTEND:20210609T190000Z
+SUMMARY:[La Ligue Française] MSFP vs. GW
+UID:lfl-106313258183586974@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
+ Premier vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. GameWard (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T190000Z
+DTEND:20210630T200000Z
+SUMMARY:[La Ligue Française] GW vs. SLY
+UID:lfl-106313258183586976@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: GameWard vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GameWard
+  (1) vs. Solary (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T160000Z
+DTEND:20210617T170000Z
+SUMMARY:[La Ligue Française] BDS vs. GW
+UID:lfl-106313258183586978@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. GameWard (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T160000Z
+DTEND:20210701T170000Z
+SUMMARY:[La Ligue Française] MCES vs. GW
+UID:lfl-106313258183586980@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team MCES vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (0) vs. GameWard (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T190000Z
+DTEND:20210624T200000Z
+SUMMARY:[La Ligue Française] GW vs. VITB
+UID:lfl-106313258183586982@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: GameWard vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T190000Z
+DTEND:20210609T200000Z
+SUMMARY:[La Ligue Française] KC vs. IZI
+UID:lfl-106313258183586984@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Karmine Corp 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T160000Z
+DTEND:20210624T170000Z
+SUMMARY:[La Ligue Française] IZI vs. LDLC
+UID:lfl-106313258183586986@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: IZIDREAM vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. LDLC OL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T200000Z
+DTEND:20210623T210000Z
+SUMMARY:[La Ligue Française] MSFP vs. IZI
+UID:lfl-106313258183586988@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Misfits 
+ Premier vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T170000Z
+DTEND:20210608T180000Z
+SUMMARY:[La Ligue Française] IZI vs. SLY
+UID:lfl-106313258183586990@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: IZIDREAM
+  (0) vs. Solary (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T170000Z
+DTEND:20210610T180000Z
+SUMMARY:[La Ligue Française] IZI vs. BDS
+UID:lfl-106313258183586992@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (1) vs. Team BDS (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T200000Z
+DTEND:20210617T210000Z
+SUMMARY:[La Ligue Française] MCES vs. IZI
+UID:lfl-106313258183586994@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team MCES vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T170000Z
+DTEND:20210630T180000Z
+SUMMARY:[La Ligue Française] VITB vs. IZI
+UID:lfl-106313258183586996@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Vitality.Bee 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T190000Z
+DTEND:20210617T200000Z
+SUMMARY:[La Ligue Française] KC vs. LDLC
+UID:lfl-106313258183586998@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Karmine Corp 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. LDLC OL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T180000Z
+DTEND:20210616T190000Z
+SUMMARY:[La Ligue Française] KC vs. MSFP
+UID:lfl-106313258183587000@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Karmine Corp 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T180000Z
+DTEND:20210610T190000Z
+SUMMARY:[La Ligue Française] KC vs. SLY
+UID:lfl-106313258183652538@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Karmine Corp 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Solary (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T170000Z
+DTEND:20210624T180000Z
+SUMMARY:[La Ligue Française] KC vs. BDS
+UID:lfl-106313258183652540@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Karmine Corp 
+ vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team BDS (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T180000Z
+DTEND:20210630T190000Z
+SUMMARY:[La Ligue Française] KC vs. MCES
+UID:lfl-106313258183652542@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T190000Z
+DTEND:20210701T200000Z
+SUMMARY:[La Ligue Française] KC vs. VITB
+UID:lfl-106313258183652544@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
+ vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210630T160000Z
+DTEND:20210630T170000Z
+SUMMARY:[La Ligue Française] LDLC vs. MSFP
+UID:lfl-106313258183652546@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: LDLC OL vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  LDLC OL (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T200000Z
+DTEND:20210701T210000Z
+SUMMARY:[La Ligue Française] SLY vs. LDLC
+UID:lfl-106313258183652548@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Solary vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary 
+ (1) vs. LDLC OL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T190000Z
+DTEND:20210616T200000Z
+SUMMARY:[La Ligue Française] BDS vs. LDLC
+UID:lfl-106313258183652550@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (0) vs. LDLC OL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T190000Z
+DTEND:20210623T200000Z
+SUMMARY:[La Ligue Française] LDLC vs. MCES
+UID:lfl-106313258183652552@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: LDLC OL vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T160000Z
+DTEND:20210610T170000Z
+SUMMARY:[La Ligue Française] LDLC vs. VITB
+UID:lfl-106313258183652554@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T180000Z
+DTEND:20210624T190000Z
+SUMMARY:[La Ligue Française] SLY vs. MSFP
+UID:lfl-106313258183652556@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Solary (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[La Ligue Française] BDS vs. MSFP
+UID:lfl-106313258183652558@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team BDS (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T200000Z
+DTEND:20210610T210000Z
+SUMMARY:[La Ligue Française] MCES vs. MSFP
+UID:lfl-106313258183652560@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team MCES vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team MCES (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T190000Z
+DTEND:20210608T200000Z
+SUMMARY:[La Ligue Française] MSFP vs. VITB
+UID:lfl-106313258183652562@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
+ Premier vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210623T170000Z
+DTEND:20210623T180000Z
+SUMMARY:[La Ligue Française] SLY vs. BDS
+UID:lfl-106313258183652564@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
+  (1) vs. Team BDS (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T160000Z
+DTEND:20210609T170000Z
+SUMMARY:[La Ligue Française] SLY vs. MCES
+UID:lfl-106313258183652566@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Solary vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T180000Z
+DTEND:20210617T190000Z
+SUMMARY:[La Ligue Française] VITB vs. SLY
+UID:lfl-106313258183652568@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Vitality.Bee 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. Solary (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T200000Z
+DTEND:20210608T210000Z
+SUMMARY:[La Ligue Française] BDS vs. MCES
+UID:lfl-106313258183652570@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210609T170000Z
+DTEND:20210609T180000Z
+SUMMARY:[La Ligue Française] BDS vs. VITB
+UID:lfl-106313258183652572@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210616T160000Z
+DTEND:20210616T170000Z
+SUMMARY:[La Ligue Française] VITB vs. MCES
+UID:lfl-106313258183652574@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Vitality.Bee 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T180000Z
+DTEND:20210726T190000Z
+SUMMARY:[La Ligue Française] GO vs. GW
+UID:lfl-106313258183652576@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GamersOrigin 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. GameWard (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T170000Z
+DTEND:20210722T180000Z
+SUMMARY:[La Ligue Française] GO vs. IZI
+UID:lfl-106313258183652578@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: GamersOrigin 
+ vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. IZIDREAM (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T180000Z
+DTEND:20210707T190000Z
+SUMMARY:[La Ligue Française] GO vs. KC
+UID:lfl-106313258183652580@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GamersOrigin 
+ vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (1) vs. Karmine Corp (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T190000Z
+DTEND:20210713T200000Z
+SUMMARY:[La Ligue Française] GO vs. LDLC
+UID:lfl-106313258183652582@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GamersOrigin 
+ vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (1) vs. LDLC OL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[La Ligue Française] GO vs. MSFP
+UID:lfl-106313258183652584@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GamersOrigin 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T180000Z
+DTEND:20210728T190000Z
+SUMMARY:[La Ligue Française] SLY vs. GO
+UID:lfl-106313258183652586@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (1) vs. GamersOrigin (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T200000Z
+DTEND:20210714T210000Z
+SUMMARY:[La Ligue Française] GO vs. BDS
+UID:lfl-106313258183652588@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GamersOrigin 
+ vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. Team BDS (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T200000Z
+DTEND:20210727T210000Z
+SUMMARY:[La Ligue Française] MCES vs. GO
+UID:lfl-106313258183652590@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team MCES vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team MCES (0) vs. GamersOrigin (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T190000Z
+DTEND:20210715T200000Z
+SUMMARY:[La Ligue Française] GO vs. VITB
+UID:lfl-106313258183652592@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GamersOrigin 
+ vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T170000Z
+DTEND:20210728T180000Z
+SUMMARY:[La Ligue Française] GW vs. IZI
+UID:lfl-106313258183652594@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GameWard vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. IZIDREAM (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[La Ligue Française] GW vs. KC
+UID:lfl-106313258183652596@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GameWard vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (1) vs. Karmine Corp (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T160000Z
+DTEND:20210707T170000Z
+SUMMARY:[La Ligue Française] GW vs. LDLC
+UID:lfl-106313258183652598@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. LDLC OL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T160000Z
+DTEND:20210713T170000Z
+SUMMARY:[La Ligue Française] MSFP vs. GW
+UID:lfl-106313258183652600@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Misfits 
+ Premier vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. GameWard (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T190000Z
+DTEND:20210714T200000Z
+SUMMARY:[La Ligue Française] GW vs. SLY
+UID:lfl-106313258183652602@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GameWard vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GameWard
+  (1) vs. Solary (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T200000Z
+DTEND:20210708T210000Z
+SUMMARY:[La Ligue Française] GW vs. BDS
+UID:lfl-106313258183652604@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Team BDS (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T200000Z
+DTEND:20210722T210000Z
+SUMMARY:[La Ligue Française] GW vs. MCES
+UID:lfl-106313258183652606@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: GameWard vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Team MCES (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T170000Z
+DTEND:20210727T180000Z
+SUMMARY:[La Ligue Française] GW vs. VITB
+UID:lfl-106313258183652608@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: GameWard vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T180000Z
+DTEND:20210713T190000Z
+SUMMARY:[La Ligue Française] IZI vs. KC
+UID:lfl-106313258183718146@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: IZIDREAM vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T160000Z
+DTEND:20210727T170000Z
+SUMMARY:[La Ligue Française] IZI vs. LDLC
+UID:lfl-106313258183718148@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: IZIDREAM vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. LDLC OL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T200000Z
+DTEND:20210715T210000Z
+SUMMARY:[La Ligue Française] IZI vs. MSFP
+UID:lfl-106313258183718150@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: IZIDREAM vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  IZIDREAM (0) vs. Misfits Premier (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T170000Z
+DTEND:20210707T180000Z
+SUMMARY:[La Ligue Française] SLY vs. IZI
+UID:lfl-106313258183718152@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Solary vs. 
+ IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
+  (1) vs. IZIDREAM (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T160000Z
+DTEND:20210726T170000Z
+SUMMARY:[La Ligue Française] IZI vs. BDS
+UID:lfl-106313258183718154@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: IZIDREAM vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (1) vs. Team BDS (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T160000Z
+DTEND:20210708T170000Z
+SUMMARY:[La Ligue Française] IZI vs. MCES
+UID:lfl-106313258183718156@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: IZIDREAM vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. Team MCES (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T160000Z
+DTEND:20210714T170000Z
+SUMMARY:[La Ligue Française] IZI vs. VITB
+UID:lfl-106313258183718158@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: IZIDREAM vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ IZIDREAM (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[La Ligue Française] LDLC vs. KC
+UID:lfl-106313258183718160@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: LDLC OL vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (1) vs. Karmine Corp (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T190000Z
+DTEND:20210728T200000Z
+SUMMARY:[La Ligue Française] MSFP vs. KC
+UID:lfl-106313258183718162@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Misfits 
+ Premier vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T190000Z
+DTEND:20210726T200000Z
+SUMMARY:[La Ligue Française] KC vs. SLY
+UID:lfl-106313258183718164@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (0) vs. Solary (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T190000Z
+DTEND:20210727T200000Z
+SUMMARY:[La Ligue Française] BDS vs. KC
+UID:lfl-106313258183718166@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (0) vs. Karmine Corp (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T170000Z
+DTEND:20210714T180000Z
+SUMMARY:[La Ligue Française] KC vs. MCES
+UID:lfl-106313258183718168@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Karmine Corp 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Karmine Corp (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T190000Z
+DTEND:20210722T200000Z
+SUMMARY:[La Ligue Française] KC vs. VITB
+UID:lfl-106313258183718170@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Karmine Corp 
+ vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T180000Z
+DTEND:20210714T190000Z
+SUMMARY:[La Ligue Française] LDLC vs. MSFP
+UID:lfl-106313258183718172@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: LDLC OL vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  LDLC OL (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T180000Z
+DTEND:20210722T190000Z
+SUMMARY:[La Ligue Française] LDLC vs. SLY
+UID:lfl-106313258183718174@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: LDLC OL vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC OL 
+ (0) vs. Solary (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T200000Z
+DTEND:20210728T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. BDS
+UID:lfl-106313258183718176@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: LDLC OL vs. 
+ Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (0) vs. Team BDS (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+SUMMARY:[La Ligue Française] LDLC vs. MCES
+UID:lfl-106313258183718178@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: LDLC OL vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
+ OL (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T200000Z
+DTEND:20210726T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. VITB
+UID:lfl-106313258183718180@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: LDLC OL vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T180000Z
+DTEND:20210727T190000Z
+SUMMARY:[La Ligue Française] MSFP vs. SLY
+UID:lfl-106313258183718182@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Misfits 
+ Premier vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Solary (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T160000Z
+DTEND:20210722T170000Z
+SUMMARY:[La Ligue Française] MSFP vs. BDS
+UID:lfl-106313258183718184@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Misfits 
+ Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Team BDS (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T170000Z
+DTEND:20210726T180000Z
+SUMMARY:[La Ligue Française] MSFP vs. MCES
+UID:lfl-106313258183718186@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Misfits 
+ Premier vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T190000Z
+DTEND:20210707T200000Z
+SUMMARY:[La Ligue Française] VITB vs. MSFP
+UID:lfl-106313258183718188@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Vitality.Bee 
+ vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (1) vs. Misfits Premier (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[La Ligue Française] BDS vs. SLY
+UID:lfl-106313258183718190@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
+  (0) vs. Solary (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T200000Z
+DTEND:20210713T210000Z
+SUMMARY:[La Ligue Française] MCES vs. SLY
+UID:lfl-106313258183718192@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team MCES vs. 
+ Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ MCES (0) vs. Solary (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T190000Z
+DTEND:20210708T200000Z
+SUMMARY:[La Ligue Française] SLY vs. VITB
+UID:lfl-106313258183718194@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Solary vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Solary (0) vs. Vitality.Bee (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210707T200000Z
+DTEND:20210707T210000Z
+SUMMARY:[La Ligue Française] BDS vs. MCES
+UID:lfl-106313258183718196@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
+ Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ BDS (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T170000Z
+DTEND:20210713T180000Z
+SUMMARY:[La Ligue Française] BDS vs. VITB
+UID:lfl-106313258183718198@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team BDS (1) vs. Vitality.Bee (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210728T160000Z
+DTEND:20210728T170000Z
+SUMMARY:[La Ligue Française] VITB vs. MCES
+UID:lfl-106313258183718200@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Vitality.Bee 
+ vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. Team MCES (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210804T160000Z
+DTEND:20210804T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. SLY
+UID:lfl-106313258183718202@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: LDLC OL vs. Solary\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: LDLC OL (2) vs. Solary (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210805T160000Z
+DTEND:20210805T210000Z
+SUMMARY:[La Ligue Française] SLY vs. MSFP
+UID:lfl-106313258183718208@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Solary vs. Misfits Premier\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Solary (0) vs. Misfits Premier (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210811T160000Z
+DTEND:20210811T210000Z
+SUMMARY:[La Ligue Française] VITB vs. MSFP
+UID:lfl-106313258183783750@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
+ 3\nTeams: Vitality.Bee vs. Misfits Premier\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Vitality.Bee (1) vs. Misfits Premier 
+ (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T160000Z
+DTEND:20210812T210000Z
+SUMMARY:[La Ligue Française] MSFP vs. KC
+UID:lfl-106313258183783756@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Finale\nTeams: Misfits Premier
+  vs. Karmine Corp\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Misfits Premier (3) vs. Karmine Corp (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:La Ligue Française Spielplan
+X-WR-CALNAME:La Ligue Française Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

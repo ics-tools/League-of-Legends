@@ -1,0 +1,2311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210128T210000Z
+DTEND:20210128T220000Z
+SUMMARY:[SuperLiga] VGIA vs. MRS
+UID:superliga-105562529627032220@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Vodafone Giants (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T200000Z
+DTEND:20210204T210000Z
+SUMMARY:[SuperLiga] VGIA vs. UCAM
+UID:superliga-105562529627163294@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T210000Z
+DTEND:20210208T220000Z
+SUMMARY:[SuperLiga] VGIA vs. S2V
+UID:superliga-105562529627163296@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. S2V
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. S2V Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T190000Z
+DTEND:20210201T200000Z
+SUMMARY:[SuperLiga] VGIA vs. EMZ
+UID:superliga-105562529627163298@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T200000Z
+DTEND:20210120T210000Z
+SUMMARY:[SuperLiga] VGIA vs. BTS
+UID:superliga-105562529627163300@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T200000Z
+DTEND:20210118T210000Z
+SUMMARY:[SuperLiga] TQ vs. VGIA
+UID:superliga-105562529627163302@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. Vodafone Giants (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T210000Z
+DTEND:20210121T220000Z
+SUMMARY:[SuperLiga] VGIA vs. MADM
+UID:superliga-105562529627163304@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. MAD
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T210000Z
+DTEND:20210210T220000Z
+SUMMARY:[SuperLiga] G2AR vs. VGIA
+UID:superliga-105562529627163306@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. Vodafone 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. Vodafone Giants (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T170000Z
+DTEND:20210125T180000Z
+SUMMARY:[SuperLiga] VGIA vs. BCN
+UID:superliga-105562529627163308@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. BCN
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
+  Giants (0) vs. BCN Squad (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T190000Z
+DTEND:20210208T200000Z
+SUMMARY:[SuperLiga] UCAM vs. MRS
+UID:superliga-105562529627163310@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  UCAM Esports Club (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T200000Z
+DTEND:20210210T210000Z
+SUMMARY:[SuperLiga] MRS vs. S2V
+UID:superliga-105562529627163312@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Movistar Riders vs. S2V
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. S2V Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T170000Z
+DTEND:20210204T180000Z
+SUMMARY:[SuperLiga] EMZ vs. MRS
+UID:superliga-105562529627163314@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: eMonkeyz vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T200000Z
+DTEND:20210121T210000Z
+SUMMARY:[SuperLiga] MRS vs. BTS
+UID:superliga-105562529627163316@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Movistar Riders vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Riders (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T210000Z
+DTEND:20210120T220000Z
+SUMMARY:[SuperLiga] TQ vs. MRS
+UID:superliga-105562529627163318@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Movistar
+  Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T210000Z
+DTEND:20210125T220000Z
+SUMMARY:[SuperLiga] MRS vs. MADM
+UID:superliga-105562529627163320@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Movistar Riders vs. MAD
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T210000Z
+DTEND:20210118T220000Z
+SUMMARY:[SuperLiga] G2AR vs. MRS
+UID:superliga-105562529627163322@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: G2 Arctic vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T170000Z
+DTEND:20210201T180000Z
+SUMMARY:[SuperLiga] BCN vs. MRS
+UID:superliga-105562529627163324@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: BCN Squad vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T170000Z
+DTEND:20210120T180000Z
+SUMMARY:[SuperLiga] S2V vs. UCAM
+UID:superliga-105562529627163326@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: S2V Esports vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T180000Z
+DTEND:20210210T190000Z
+SUMMARY:[SuperLiga] UCAM vs. EMZ
+UID:superliga-105562529627163328@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[SuperLiga] BTS vs. UCAM
+UID:superliga-105562529627163330@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Cream Real Betis vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T200000Z
+DTEND:20210125T210000Z
+SUMMARY:[SuperLiga] TQ vs. UCAM
+UID:superliga-105562529627163332@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Team Queso vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T200000Z
+DTEND:20210201T210000Z
+SUMMARY:[SuperLiga] MADM vs. UCAM
+UID:superliga-105562529627163334@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: MAD Lions Madrid vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: MAD Lions Madrid (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T190000Z
+DTEND:20210121T200000Z
+SUMMARY:[SuperLiga] UCAM vs. G2AR
+UID:superliga-105562529627163336@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: UCAM Esports Club vs. 
+ G2 Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T180000Z
+DTEND:20210118T190000Z
+SUMMARY:[SuperLiga] UCAM vs. BCN
+UID:superliga-105562529627163338@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: UCAM Esports Club vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T190000Z
+DTEND:20210118T200000Z
+SUMMARY:[SuperLiga] S2V vs. EMZ
+UID:superliga-105562529627163340@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: S2V Esports vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T180000Z
+DTEND:20210201T190000Z
+SUMMARY:[SuperLiga] S2V vs. BTS
+UID:superliga-105562529627228878@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: S2V Esports vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T200000Z
+DTEND:20210128T210000Z
+SUMMARY:[SuperLiga] TQ vs. S2V
+UID:superliga-105562529627228880@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Team Queso vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. S2V Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T210000Z
+DTEND:20210204T220000Z
+SUMMARY:[SuperLiga] S2V vs. MADM
+UID:superliga-105562529627228882@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: S2V Esports vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T190000Z
+DTEND:20210125T200000Z
+SUMMARY:[SuperLiga] S2V vs. G2AR
+UID:superliga-105562529627228884@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: S2V Esports vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T170000Z
+DTEND:20210121T180000Z
+SUMMARY:[SuperLiga] S2V vs. BCN
+UID:superliga-105562529627228886@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: S2V Esports vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T180000Z
+DTEND:20210125T190000Z
+SUMMARY:[SuperLiga] EMZ vs. BTS
+UID:superliga-105562529627228888@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: eMonkeyz vs. Cream Real
+  Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210121T180000Z
+DTEND:20210121T190000Z
+SUMMARY:[SuperLiga] TQ vs. EMZ
+UID:superliga-105562529627228890@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T170000Z
+DTEND:20210128T180000Z
+SUMMARY:[SuperLiga] MADM vs. EMZ
+UID:superliga-105562529627228892@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: MAD Lions Madrid vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T190000Z
+DTEND:20210120T200000Z
+SUMMARY:[SuperLiga] G2AR vs. EMZ
+UID:superliga-105562529627228894@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: G2 Arctic vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T170000Z
+DTEND:20210208T180000Z
+SUMMARY:[SuperLiga] EMZ vs. BCN
+UID:superliga-105562529627228896@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: eMonkeyz vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (0) vs. BCN Squad (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T180000Z
+DTEND:20210208T190000Z
+SUMMARY:[SuperLiga] TQ vs. BTS
+UID:superliga-105562529627228898@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Team Queso vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  Queso (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210118T170000Z
+DTEND:20210118T180000Z
+SUMMARY:[SuperLiga] BTS vs. MADM
+UID:superliga-105562529627228900@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Cream Real Betis vs. 
+ MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T190000Z
+DTEND:20210204T200000Z
+SUMMARY:[SuperLiga] BTS vs. G2AR
+UID:superliga-105562529627228902@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Cream Real Betis vs. G2
+  Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream 
+ Real Betis (1) vs. G2 Arctic (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T170000Z
+DTEND:20210210T180000Z
+SUMMARY:[SuperLiga] BTS vs. BCN
+UID:superliga-105562529627228904@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Cream Real Betis vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream
+  Real Betis (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210210T190000Z
+DTEND:20210210T200000Z
+SUMMARY:[SuperLiga] TQ vs. MADM
+UID:superliga-105562529627228906@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Team Queso vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T210000Z
+DTEND:20210201T220000Z
+SUMMARY:[SuperLiga] G2AR vs. TQ
+UID:superliga-105562529627228908@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: G2 Arctic vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Arctic
+  (1) vs. Team Queso (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[SuperLiga] BCN vs. TQ
+UID:superliga-105562529627228910@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: BCN Squad vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN Squad
+  (0) vs. Team Queso (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T200000Z
+DTEND:20210208T210000Z
+SUMMARY:[SuperLiga] G2AR vs. MADM
+UID:superliga-105562529627228912@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T180000Z
+DTEND:20210120T190000Z
+SUMMARY:[SuperLiga] MADM vs. BCN
+UID:superliga-105562529627228914@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: MAD Lions Madrid vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (0) vs. BCN Squad (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[SuperLiga] G2AR vs. BCN
+UID:superliga-105562529627228916@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: G2 Arctic vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Arctic
+  (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T210000Z
+DTEND:20210225T220000Z
+SUMMARY:[SuperLiga] VGIA vs. MRS
+UID:superliga-105562529627228918@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Vodafone Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Vodafone Giants (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T200000Z
+DTEND:20210304T210000Z
+SUMMARY:[SuperLiga] VGIA vs. UCAM
+UID:superliga-105562529627228920@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T200000Z
+DTEND:20210308T210000Z
+SUMMARY:[SuperLiga] S2V vs. VGIA
+UID:superliga-105562529627228922@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: S2V Esports vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  S2V Esports (0) vs. Vodafone Giants (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T200000Z
+DTEND:20210301T210000Z
+SUMMARY:[SuperLiga] VGIA vs. EMZ
+UID:superliga-105562529627228924@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T210000Z
+DTEND:20210215T220000Z
+SUMMARY:[SuperLiga] VGIA vs. BTS
+UID:superliga-105562529627228926@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T200000Z
+DTEND:20210211T210000Z
+SUMMARY:[SuperLiga] VGIA vs. TQ
+UID:superliga-105562529627228928@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (0) vs. Team Queso (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T210000Z
+DTEND:20210218T220000Z
+SUMMARY:[SuperLiga] VGIA vs. MADM
+UID:superliga-105562529627228930@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. MAD
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T210000Z
+DTEND:20210311T220000Z
+SUMMARY:[SuperLiga] G2AR vs. VGIA
+UID:superliga-105562529627228932@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. Vodafone 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T180000Z
+DTEND:20210222T190000Z
+SUMMARY:[SuperLiga] BCN vs. VGIA
+UID:superliga-105562529627228934@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. Vodafone 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T210000Z
+DTEND:20210308T220000Z
+SUMMARY:[SuperLiga] MRS vs. UCAM
+UID:superliga-105562529627228936@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Movistar Riders vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Riders (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T170000Z
+DTEND:20210311T180000Z
+SUMMARY:[SuperLiga] S2V vs. MRS
+UID:superliga-105562529627228938@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: S2V Esports vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  S2V Esports (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T170000Z
+DTEND:20210304T180000Z
+SUMMARY:[SuperLiga] MRS vs. EMZ
+UID:superliga-105562529627228940@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Movistar Riders vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[SuperLiga] BTS vs. MRS
+UID:superliga-105562529627228942@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Cream Real Betis vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Cream Real Betis (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T170000Z
+DTEND:20210215T180000Z
+SUMMARY:[SuperLiga] MRS vs. TQ
+UID:superliga-105562529627228944@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Movistar Riders vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. Team Queso (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T210000Z
+DTEND:20210222T220000Z
+SUMMARY:[SuperLiga] MRS vs. MADM
+UID:superliga-105562529627228946@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Movistar Riders vs. MAD
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T210000Z
+DTEND:20210211T220000Z
+SUMMARY:[SuperLiga] G2AR vs. MRS
+UID:superliga-105562529627228948@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T170000Z
+DTEND:20210301T180000Z
+SUMMARY:[SuperLiga] MRS vs. BCN
+UID:superliga-105562529627228950@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Movistar Riders vs. BCN
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T200000Z
+DTEND:20210215T210000Z
+SUMMARY:[SuperLiga] S2V vs. UCAM
+UID:superliga-105562529627228952@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: S2V Esports vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T180000Z
+DTEND:20210311T190000Z
+SUMMARY:[SuperLiga] EMZ vs. UCAM
+UID:superliga-105562529627228954@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: eMonkeyz vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eMonkeyz (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[SuperLiga] UCAM vs. BTS
+UID:superliga-105562529627228956@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: UCAM Esports Club vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T170000Z
+DTEND:20210222T180000Z
+SUMMARY:[SuperLiga] TQ vs. UCAM
+UID:superliga-105562529627228958@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T180000Z
+DTEND:20210301T190000Z
+SUMMARY:[SuperLiga] MADM vs. UCAM
+UID:superliga-105562529627228960@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: MAD Lions Madrid vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: MAD Lions Madrid (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[SuperLiga] G2AR vs. UCAM
+UID:superliga-105562529627228962@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: G2 Arctic vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2
+  Arctic (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[SuperLiga] BCN vs. UCAM
+UID:superliga-105562529627228964@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: BCN Squad vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ BCN Squad (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T170000Z
+DTEND:20210211T180000Z
+SUMMARY:[SuperLiga] EMZ vs. S2V
+UID:superliga-105562529627228966@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: eMonkeyz vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eMonkeyz (1) vs. S2V Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T190000Z
+DTEND:20210301T200000Z
+SUMMARY:[SuperLiga] S2V vs. BTS
+UID:superliga-105562529627228968@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: S2V Esports vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[SuperLiga] S2V vs. TQ
+UID:superliga-105562529627228970@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: S2V Esports vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Team Queso (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T180000Z
+DTEND:20210304T190000Z
+SUMMARY:[SuperLiga] S2V vs. MADM
+UID:superliga-105562529627228972@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: S2V Esports vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T190000Z
+DTEND:20210222T200000Z
+SUMMARY:[SuperLiga] G2AR vs. S2V
+UID:superliga-105562529627228974@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: G2 Arctic vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. S2V Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T170000Z
+DTEND:20210218T180000Z
+SUMMARY:[SuperLiga] BCN vs. S2V
+UID:superliga-105562529627228976@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: BCN Squad vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (1) vs. S2V Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T200000Z
+DTEND:20210222T210000Z
+SUMMARY:[SuperLiga] BTS vs. EMZ
+UID:superliga-105562529627228978@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Cream Real Betis vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream 
+ Real Betis (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[SuperLiga] EMZ vs. TQ
+UID:superliga-105562529627228980@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: eMonkeyz vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (0) vs. Team Queso (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T170000Z
+DTEND:20210225T180000Z
+SUMMARY:[SuperLiga] MADM vs. EMZ
+UID:superliga-105562529627228982@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: MAD Lions Madrid vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T180000Z
+DTEND:20210215T190000Z
+SUMMARY:[SuperLiga] EMZ vs. G2AR
+UID:superliga-105562529627228984@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: eMonkeyz vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T180000Z
+DTEND:20210308T190000Z
+SUMMARY:[SuperLiga] EMZ vs. BCN
+UID:superliga-105562529627228986@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: eMonkeyz vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T170000Z
+DTEND:20210308T180000Z
+SUMMARY:[SuperLiga] TQ vs. BTS
+UID:superliga-105562529627228988@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Team Queso vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  Queso (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[SuperLiga] MADM vs. BTS
+UID:superliga-105562529627228990@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: MAD Lions Madrid vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: MAD Lions Madrid (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T210000Z
+DTEND:20210304T220000Z
+SUMMARY:[SuperLiga] G2AR vs. BTS
+UID:superliga-105562529627294528@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: G2 Arctic vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T190000Z
+DTEND:20210311T200000Z
+SUMMARY:[SuperLiga] BTS vs. BCN
+UID:superliga-105562529627294530@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Cream Real Betis vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream
+  Real Betis (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T200000Z
+DTEND:20210311T210000Z
+SUMMARY:[SuperLiga] MADM vs. TQ
+UID:superliga-105562529627294532@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: MAD Lions Madrid vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (0) vs. Team Queso (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T210000Z
+DTEND:20210301T220000Z
+SUMMARY:[SuperLiga] G2AR vs. TQ
+UID:superliga-105562529627294534@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: G2 Arctic vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Arctic
+  (1) vs. Team Queso (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T190000Z
+DTEND:20210304T200000Z
+SUMMARY:[SuperLiga] TQ vs. BCN
+UID:superliga-105562529627294536@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Team Queso vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. BCN Squad (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T190000Z
+DTEND:20210308T200000Z
+SUMMARY:[SuperLiga] G2AR vs. MADM
+UID:superliga-105562529627294538@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T190000Z
+DTEND:20210215T200000Z
+SUMMARY:[SuperLiga] BCN vs. MADM
+UID:superliga-105562529627294540@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: BCN Squad vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[SuperLiga] BCN vs. G2AR
+UID:superliga-105562529627294542@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T203000Z
+DTEND:20210311T213000Z
+SUMMARY:[SuperLiga] S2V vs. BCN
+UID:superliga-105872913316761367@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: S2V Esports vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. BCN Squad (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T220000Z
+DTEND:20210311T230000Z
+SUMMARY:[SuperLiga] BTS vs. UCAM
+UID:superliga-105873377760297964@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Cream Real Betis vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210316T170000Z
+DTEND:20210316T220000Z
+SUMMARY:[SuperLiga] TQ vs. BTS
+UID:superliga-105877352567853230@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Team Queso vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Team Queso (1) vs. Cream Real Betis (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210315T170000Z
+DTEND:20210315T220000Z
+SUMMARY:[SuperLiga] VGIA vs. MRS
+UID:superliga-105877352567918772@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Vodafone Giants 
+ vs. Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (3) vs. Movistar Riders (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T170000Z
+DTEND:20210320T220000Z
+SUMMARY:[SuperLiga] G2AR vs. BTS
+UID:superliga-105877357701732015@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: G2 Arctic vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. Cream Real Betis (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210319T170000Z
+DTEND:20210319T220000Z
+SUMMARY:[SuperLiga] UCAM vs. VGIA
+UID:superliga-105877357702518453@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: UCAM Esports Club 
+ vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (3) vs. Vodafone Giants (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210325T170000Z
+DTEND:20210325T220000Z
+SUMMARY:[SuperLiga] UCAM vs. BTS
+UID:superliga-105877357702518459@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Finale\nTeams: UCAM Esports Club vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (3) vs. Cream Real Betis (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T160000Z
+DTEND:20210624T170000Z
+SUMMARY:[SuperLiga] BCN vs. BTS
+UID:superliga-106312505038657908@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: BCN Squad vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T170000Z
+DTEND:20210607T180000Z
+SUMMARY:[SuperLiga] BCN vs. EMZ
+UID:superliga-106312505038657910@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: BCN Squad vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T170000Z
+DTEND:20210603T180000Z
+SUMMARY:[SuperLiga] G2AR vs. BCN
+UID:superliga-106312505038657912@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: G2 Arctic vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Arctic
+  (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T170000Z
+DTEND:20210621T180000Z
+SUMMARY:[SuperLiga] MADM vs. BCN
+UID:superliga-106312505038657914@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: MAD Lions Madrid vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T180000Z
+DTEND:20210614T190000Z
+SUMMARY:[SuperLiga] MRS vs. BCN
+UID:superliga-106312505038657916@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Movistar Riders vs. BCN
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T170000Z
+DTEND:20210531T180000Z
+SUMMARY:[SuperLiga] S2V vs. BCN
+UID:superliga-106312505038657918@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: S2V Esports vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. BCN Squad (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T170000Z
+DTEND:20210628T180000Z
+SUMMARY:[SuperLiga] BCN vs. TQ
+UID:superliga-106312505038657920@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: BCN Squad vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN Squad
+  (0) vs. Team Queso (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T160000Z
+DTEND:20210610T170000Z
+SUMMARY:[SuperLiga] UCAM vs. BCN
+UID:superliga-106312505038657922@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: UCAM Esports Club vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T170000Z
+DTEND:20210617T180000Z
+SUMMARY:[SuperLiga] VGIA vs. BCN
+UID:superliga-106312505038657924@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. BCN
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
+  Giants (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T180000Z
+DTEND:20210628T190000Z
+SUMMARY:[SuperLiga] BTS vs. EMZ
+UID:superliga-106312505038657926@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Cream Real Betis vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream 
+ Real Betis (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T160000Z
+DTEND:20210621T170000Z
+SUMMARY:[SuperLiga] G2AR vs. BTS
+UID:superliga-106312505038657928@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T180000Z
+DTEND:20210603T190000Z
+SUMMARY:[SuperLiga] BTS vs. MADM
+UID:superliga-106312505038657930@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Cream Real Betis vs. 
+ MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T190000Z
+DTEND:20210617T200000Z
+SUMMARY:[SuperLiga] BTS vs. MRS
+UID:superliga-106312505038657932@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Cream Real Betis vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Cream Real Betis (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T170000Z
+DTEND:20210614T180000Z
+SUMMARY:[SuperLiga] BTS vs. S2V
+UID:superliga-106312505038657934@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Cream Real Betis vs. 
+ S2V Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cream Real Betis (0) vs. S2V Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T190000Z
+DTEND:20210610T200000Z
+SUMMARY:[SuperLiga] TQ vs. BTS
+UID:superliga-106312505038657936@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Team Queso vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
+  Queso (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T200000Z
+DTEND:20210531T210000Z
+SUMMARY:[SuperLiga] UCAM vs. BTS
+UID:superliga-106312505038657938@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: UCAM Esports Club vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T190000Z
+DTEND:20210607T200000Z
+SUMMARY:[SuperLiga] VGIA vs. BTS
+UID:superliga-106312505038657940@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T180000Z
+DTEND:20210610T190000Z
+SUMMARY:[SuperLiga] G2AR vs. EMZ
+UID:superliga-106312505038657942@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: G2 Arctic vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T180000Z
+DTEND:20210617T190000Z
+SUMMARY:[SuperLiga] MADM vs. EMZ
+UID:superliga-106312505038657944@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: MAD Lions Madrid vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T170000Z
+DTEND:20210624T180000Z
+SUMMARY:[SuperLiga] EMZ vs. MRS
+UID:superliga-106312505038657946@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: eMonkeyz vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T160000Z
+DTEND:20210603T170000Z
+SUMMARY:[SuperLiga] S2V vs. EMZ
+UID:superliga-106312505038657948@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: S2V Esports vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T190000Z
+DTEND:20210531T200000Z
+SUMMARY:[SuperLiga] EMZ vs. TQ
+UID:superliga-106312505038657950@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: eMonkeyz vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (0) vs. Team Queso (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T190000Z
+DTEND:20210621T200000Z
+SUMMARY:[SuperLiga] UCAM vs. EMZ
+UID:superliga-106312505038657952@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. eMonkeyz (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T160000Z
+DTEND:20210614T170000Z
+SUMMARY:[SuperLiga] EMZ vs. VGIA
+UID:superliga-106312505038657954@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: eMonkeyz vs. Vodafone 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (0) vs. Vodafone Giants (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T190000Z
+DTEND:20210624T200000Z
+SUMMARY:[SuperLiga] G2AR vs. MADM
+UID:superliga-106312505038657956@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T200000Z
+DTEND:20210607T210000Z
+SUMMARY:[SuperLiga] G2AR vs. MRS
+UID:superliga-106312505038657958@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: G2 Arctic vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T160000Z
+DTEND:20210617T170000Z
+SUMMARY:[SuperLiga] G2AR vs. S2V
+UID:superliga-106312505038657960@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: G2 Arctic vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. S2V Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T190000Z
+DTEND:20210614T200000Z
+SUMMARY:[SuperLiga] TQ vs. G2AR
+UID:superliga-106312505038657962@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Team Queso vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T200000Z
+DTEND:20210628T210000Z
+SUMMARY:[SuperLiga] UCAM vs. G2AR
+UID:superliga-106312505038657964@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: UCAM Esports Club vs. 
+ G2 Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T160000Z
+DTEND:20210531T170000Z
+SUMMARY:[SuperLiga] VGIA vs. G2AR
+UID:superliga-106312505038657966@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
+  Giants (1) vs. G2 Arctic (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210531T180000Z
+DTEND:20210531T190000Z
+SUMMARY:[SuperLiga] MADM vs. MRS
+UID:superliga-106312505038657968@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: MAD Lions Madrid vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  MAD Lions Madrid (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T170000Z
+DTEND:20210610T180000Z
+SUMMARY:[SuperLiga] S2V vs. MADM
+UID:superliga-106312505038657970@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: S2V Esports vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T180000Z
+DTEND:20210607T190000Z
+SUMMARY:[SuperLiga] TQ vs. MADM
+UID:superliga-106312505038657972@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Team Queso vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T200000Z
+DTEND:20210614T210000Z
+SUMMARY:[SuperLiga] UCAM vs. MADM
+UID:superliga-106312505038657974@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: UCAM Esports Club vs. 
+ MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T190000Z
+DTEND:20210628T200000Z
+SUMMARY:[SuperLiga] MADM vs. VGIA
+UID:superliga-106312505038657976@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: MAD Lions Madrid vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  MAD Lions Madrid (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T160000Z
+DTEND:20210628T170000Z
+SUMMARY:[SuperLiga] S2V vs. MRS
+UID:superliga-106312505038657978@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: S2V Esports vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  S2V Esports (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T200000Z
+DTEND:20210621T210000Z
+SUMMARY:[SuperLiga] MRS vs. TQ
+UID:superliga-106312505038657980@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Movistar Riders vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. Team Queso (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T190000Z
+DTEND:20210603T200000Z
+SUMMARY:[SuperLiga] UCAM vs. MRS
+UID:superliga-106312505038657982@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: UCAM Esports Club vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  UCAM Esports Club (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T200000Z
+DTEND:20210610T210000Z
+SUMMARY:[SuperLiga] MRS vs. VGIA
+UID:superliga-106312505038657984@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Movistar Riders vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Movistar Riders (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T180000Z
+DTEND:20210624T190000Z
+SUMMARY:[SuperLiga] TQ vs. S2V
+UID:superliga-106312505038657986@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Team Queso vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. S2V Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T160000Z
+DTEND:20210607T170000Z
+SUMMARY:[SuperLiga] S2V vs. UCAM
+UID:superliga-106312505038657988@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: S2V Esports vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ S2V Esports (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T180000Z
+DTEND:20210621T190000Z
+SUMMARY:[SuperLiga] S2V vs. VGIA
+UID:superliga-106312505038657990@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: S2V Esports vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  S2V Esports (0) vs. Vodafone Giants (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T200000Z
+DTEND:20210617T210000Z
+SUMMARY:[SuperLiga] UCAM vs. TQ
+UID:superliga-106312505038657992@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: UCAM Esports Club vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM
+  Esports Club (1) vs. Team Queso (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T200000Z
+DTEND:20210603T210000Z
+SUMMARY:[SuperLiga] TQ vs. VGIA
+UID:superliga-106312505038657994@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T200000Z
+DTEND:20210624T210000Z
+SUMMARY:[SuperLiga] UCAM vs. VGIA
+UID:superliga-106312505038657996@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  UCAM Esports Club (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T160000Z
+DTEND:20210726T170000Z
+SUMMARY:[SuperLiga] BTS vs. BCN
+UID:superliga-106312505038657998@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Cream Real Betis vs. 
+ BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream
+  Real Betis (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T160000Z
+DTEND:20210708T170000Z
+SUMMARY:[SuperLiga] EMZ vs. BCN
+UID:superliga-106312505038658000@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: eMonkeyz vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (0) vs. BCN Squad (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T170000Z
+DTEND:20210705T180000Z
+SUMMARY:[SuperLiga] G2AR vs. BCN
+UID:superliga-106312505038658002@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: G2 Arctic vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Arctic
+  (1) vs. BCN Squad (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T160000Z
+DTEND:20210722T170000Z
+SUMMARY:[SuperLiga] BCN vs. MADM
+UID:superliga-106312505038658004@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: BCN Squad vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[SuperLiga] BCN vs. MRS
+UID:superliga-106312505038658006@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: BCN Squad vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[SuperLiga] BCN vs. S2V
+UID:superliga-106312505038658008@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: BCN Squad vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
+ Squad (1) vs. S2V Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T180000Z
+DTEND:20210729T190000Z
+SUMMARY:[SuperLiga] TQ vs. BCN
+UID:superliga-106312505038658010@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Team Queso vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. BCN Squad (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T160000Z
+DTEND:20210712T170000Z
+SUMMARY:[SuperLiga] BCN vs. UCAM
+UID:superliga-106312505038658012@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: BCN Squad vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ BCN Squad (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T190000Z
+DTEND:20210719T200000Z
+SUMMARY:[SuperLiga] VGIA vs. BCN
+UID:superliga-106312505038658014@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. BCN
+  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
+  Giants (0) vs. BCN Squad (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T160000Z
+DTEND:20210729T170000Z
+SUMMARY:[SuperLiga] BTS vs. EMZ
+UID:superliga-106312505038658016@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Cream Real Betis vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cream 
+ Real Betis (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T200000Z
+DTEND:20210722T210000Z
+SUMMARY:[SuperLiga] G2AR vs. BTS
+UID:superliga-106312505038658018@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. Cream 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T180000Z
+DTEND:20210705T190000Z
+SUMMARY:[SuperLiga] MADM vs. BTS
+UID:superliga-106312505038658020@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: MAD Lions Madrid vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: MAD Lions Madrid (0) vs. Cream Real Betis (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T200000Z
+DTEND:20210719T210000Z
+SUMMARY:[SuperLiga] MRS vs. BTS
+UID:superliga-106312505038658022@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Movistar Riders vs. 
+ Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Riders (1) vs. Cream Real Betis (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[SuperLiga] BTS vs. S2V
+UID:superliga-106312505038658024@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Cream Real Betis vs. 
+ S2V Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cream Real Betis (1) vs. S2V Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T190000Z
+DTEND:20210712T200000Z
+SUMMARY:[SuperLiga] BTS vs. TQ
+UID:superliga-106312505038658026@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Cream Real Betis vs. 
+ Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cream Real Betis (1) vs. Team Queso (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T160000Z
+DTEND:20210701T170000Z
+SUMMARY:[SuperLiga] BTS vs. UCAM
+UID:superliga-106312505038658028@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Cream Real Betis vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T200000Z
+DTEND:20210708T210000Z
+SUMMARY:[SuperLiga] BTS vs. VGIA
+UID:superliga-106312505038658030@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Cream Real Betis vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Cream Real Betis (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T180000Z
+DTEND:20210712T190000Z
+SUMMARY:[SuperLiga] EMZ vs. G2AR
+UID:superliga-106312505038723568@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: eMonkeyz vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T170000Z
+DTEND:20210719T180000Z
+SUMMARY:[SuperLiga] EMZ vs. MADM
+UID:superliga-106312505038723570@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: eMonkeyz vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T170000Z
+DTEND:20210726T180000Z
+SUMMARY:[SuperLiga] MRS vs. EMZ
+UID:superliga-106312505038723572@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Movistar Riders vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T160000Z
+DTEND:20210705T170000Z
+SUMMARY:[SuperLiga] S2V vs. EMZ
+UID:superliga-106312505038723574@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: S2V Esports vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[SuperLiga] EMZ vs. TQ
+UID:superliga-106312505038723576@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: eMonkeyz vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz 
+ (1) vs. Team Queso (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T170000Z
+DTEND:20210722T180000Z
+SUMMARY:[SuperLiga] UCAM vs. EMZ
+UID:superliga-106312505038723578@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: UCAM Esports Club vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+SUMMARY:[SuperLiga] VGIA vs. EMZ
+UID:superliga-106312505038723580@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
+ eMonkeyz\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. eMonkeyz (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T190000Z
+DTEND:20210726T200000Z
+SUMMARY:[SuperLiga] G2AR vs. MADM
+UID:superliga-106312505038723582@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: G2 Arctic vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T190000Z
+DTEND:20210708T200000Z
+SUMMARY:[SuperLiga] MRS vs. G2AR
+UID:superliga-106312505038723584@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Movistar Riders vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (1) vs. G2 Arctic (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T160000Z
+DTEND:20210719T170000Z
+SUMMARY:[SuperLiga] G2AR vs. S2V
+UID:superliga-106312505038723586@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. S2V Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T190000Z
+DTEND:20210715T200000Z
+SUMMARY:[SuperLiga] TQ vs. G2AR
+UID:superliga-106312505038723588@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Team Queso vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. G2 Arctic (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T170000Z
+DTEND:20210729T180000Z
+SUMMARY:[SuperLiga] G2AR vs. UCAM
+UID:superliga-106312505038723590@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: G2 Arctic vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2
+  Arctic (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T200000Z
+DTEND:20210701T210000Z
+SUMMARY:[SuperLiga] VGIA vs. G2AR
+UID:superliga-106312505038723592@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
+  Giants (0) vs. G2 Arctic (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T190000Z
+DTEND:20210701T200000Z
+SUMMARY:[SuperLiga] MADM vs. MRS
+UID:superliga-106312505038723594@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: MAD Lions Madrid vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  MAD Lions Madrid (1) vs. Movistar Riders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T170000Z
+DTEND:20210712T180000Z
+SUMMARY:[SuperLiga] MADM vs. S2V
+UID:superliga-106312505038723596@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: MAD Lions Madrid vs. 
+ S2V Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD
+  Lions Madrid (0) vs. S2V Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[SuperLiga] TQ vs. MADM
+UID:superliga-106312505038723598@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T200000Z
+DTEND:20210715T210000Z
+SUMMARY:[SuperLiga] UCAM vs. MADM
+UID:superliga-106312505038723600@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: UCAM Esports Club vs. 
+ MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (0) vs. MAD Lions Madrid (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T200000Z
+DTEND:20210729T210000Z
+SUMMARY:[SuperLiga] VGIA vs. MADM
+UID:superliga-106312505038723602@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. MAD
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T190000Z
+DTEND:20210729T200000Z
+SUMMARY:[SuperLiga] S2V vs. MRS
+UID:superliga-106312505038723604@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: S2V Esports vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  S2V Esports (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T190000Z
+DTEND:20210722T200000Z
+SUMMARY:[SuperLiga] TQ vs. MRS
+UID:superliga-106312505038723606@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Team Queso vs. Movistar
+  Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T200000Z
+DTEND:20210705T210000Z
+SUMMARY:[SuperLiga] UCAM vs. MRS
+UID:superliga-106312505038723608@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: UCAM Esports Club vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  UCAM Esports Club (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T200000Z
+DTEND:20210712T210000Z
+SUMMARY:[SuperLiga] VGIA vs. MRS
+UID:superliga-106312505038723610@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Vodafone Giants (0) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T200000Z
+DTEND:20210726T210000Z
+SUMMARY:[SuperLiga] S2V vs. TQ
+UID:superliga-106312505038723612@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: S2V Esports vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (1) vs. Team Queso (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[SuperLiga] UCAM vs. S2V
+UID:superliga-106312505038723614@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: UCAM Esports Club vs. 
+ S2V Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ UCAM Esports Club (0) vs. S2V Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T180000Z
+DTEND:20210722T190000Z
+SUMMARY:[SuperLiga] VGIA vs. S2V
+UID:superliga-106312505038723616@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. S2V
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vodafone Giants (1) vs. S2V Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T180000Z
+DTEND:20210719T190000Z
+SUMMARY:[SuperLiga] TQ vs. UCAM
+UID:superliga-106312505038723618@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Team Queso vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Queso (0) vs. UCAM Esports Club (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T190000Z
+DTEND:20210705T200000Z
+SUMMARY:[SuperLiga] TQ vs. VGIA
+UID:superliga-106312505038723620@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. Vodafone
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Vodafone Giants (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T180000Z
+DTEND:20210726T190000Z
+SUMMARY:[SuperLiga] VGIA vs. UCAM
+UID:superliga-106312505038723622@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. 
+ UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T160000Z
+DTEND:20210803T210000Z
+SUMMARY:[SuperLiga] UCAM vs. MADM
+UID:superliga-106312505038723624@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: UCAM Esports Club
+  vs. MAD Lions Madrid\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (3) vs. MAD Lions Madrid (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210802T160000Z
+DTEND:20210802T210000Z
+SUMMARY:[SuperLiga] BTS vs. VGIA
+UID:superliga-106312505038723630@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Cream Real Betis 
+ vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Cream Real Betis (2) vs. Vodafone Giants (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210806T160000Z
+DTEND:20210806T210000Z
+SUMMARY:[SuperLiga] VGIA vs. MRS
+UID:superliga-106312505038723636@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Vodafone Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  Vodafone Giants (3) vs. Movistar Riders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210807T160000Z
+DTEND:20210807T210000Z
+SUMMARY:[SuperLiga] UCAM vs. G2AR
+UID:superliga-106312505038723642@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: UCAM Esports Club 
+ vs. G2 Arctic\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ UCAM Esports Club (3) vs. G2 Arctic (2)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210812T160000Z
+DTEND:20210812T210000Z
+SUMMARY:[SuperLiga] UCAM vs. VGIA
+UID:superliga-106312505038723648@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Finale\nTeams: UCAM Esports Club vs. 
+ Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  UCAM Esports Club (1) vs. Vodafone Giants (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:SuperLiga Spielplan
+X-WR-CALNAME:SuperLiga Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

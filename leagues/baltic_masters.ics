@@ -1,0 +1,822 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210209T170000Z
+DTEND:20210209T180000Z
+SUMMARY:[Baltic Masters] GSK vs. PIG
+UID:baltic_masters-105562379828809829@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Goskilla vs. 
+ PIGSPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. PIGSPORTS (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T190000Z
+DTEND:20210126T200000Z
+SUMMARY:[Baltic Masters] IFM vs. GSK
+UID:baltic_masters-105562379829071975@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Team Infamous vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Infamous (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[Baltic Masters] M2 vs. GSK
+UID:baltic_masters-105562379829071977@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Method2Madness vs.
+  Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[Baltic Masters] MDVL vs. GSK
+UID:baltic_masters-105562379829071979@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Medieval Riga vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T190000Z
+DTEND:20210202T200000Z
+SUMMARY:[Baltic Masters] GSK vs. WOLF
+UID:baltic_masters-105562379829071981@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Goskilla vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goskilla (1) vs. Topo Centras Iron Wolves (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T170000Z
+DTEND:20210128T180000Z
+SUMMARY:[Baltic Masters] PIG vs. IFM
+UID:baltic_masters-105562379829071983@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: PIGSPORTS vs. Team
+  Infamous\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (1) vs. Team Infamous (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[Baltic Masters] M2 vs. PIG
+UID:baltic_masters-105562379829071985@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Method2Madness vs.
+  PIGSPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (0) vs. PIGSPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T170000Z
+DTEND:20210202T180000Z
+SUMMARY:[Baltic Masters] PIG vs. MDVL
+UID:baltic_masters-105562379829071987@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: PIGSPORTS vs. 
+ Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T180000Z
+DTEND:20210126T190000Z
+SUMMARY:[Baltic Masters] PIG vs. WOLF
+UID:baltic_masters-105562379829071989@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: PIGSPORTS vs. Topo
+  Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PIGSPORTS (1) vs. Topo Centras Iron Wolves (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T180000Z
+DTEND:20210202T190000Z
+SUMMARY:[Baltic Masters] IFM vs. M2
+UID:baltic_masters-105562379829071991@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Team Infamous vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Infamous (1) vs. Method2Madness (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T190000Z
+DTEND:20210209T200000Z
+SUMMARY:[Baltic Masters] IFM vs. MDVL
+UID:baltic_masters-105562379829071993@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Team Infamous vs. 
+ Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Infamous (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T170000Z
+DTEND:20210204T180000Z
+SUMMARY:[Baltic Masters] WOLF vs. IFM
+UID:baltic_masters-105562379829071995@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Topo Centras Iron 
+ Wolves vs. Team Infamous\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Team Infamous 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T170000Z
+DTEND:20210126T180000Z
+SUMMARY:[Baltic Masters] M2 vs. MDVL
+UID:baltic_masters-105562379829071997@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Method2Madness vs.
+  Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T180000Z
+DTEND:20210209T190000Z
+SUMMARY:[Baltic Masters] M2 vs. WOLF
+UID:baltic_masters-105562379829071999@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Method2Madness vs.
+  Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Method2Madness (1) vs. Topo Centras Iron Wolves 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[Baltic Masters] WOLF vs. MDVL
+UID:baltic_masters-105562379829072001@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Topo Centras Iron 
+ Wolves vs. Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. Medieval Riga 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T170000Z
+DTEND:20210225T180000Z
+SUMMARY:[Baltic Masters] PIG vs. GSK
+UID:baltic_masters-105562379829072003@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: PIGSPORTS vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T190000Z
+DTEND:20210216T200000Z
+SUMMARY:[Baltic Masters] IFM vs. GSK
+UID:baltic_masters-105562379829072005@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Team Infamous vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Infamous (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T170000Z
+DTEND:20210218T180000Z
+SUMMARY:[Baltic Masters] M2 vs. GSK
+UID:baltic_masters-105562379829072007@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Method2Madness vs.
+  Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. GSK
+UID:baltic_masters-105562379829072009@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Medieval Riga vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T180000Z
+DTEND:20210223T190000Z
+SUMMARY:[Baltic Masters] WOLF vs. GSK
+UID:baltic_masters-105562379829072011@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Topo Centras Iron 
+ Wolves vs. Goskilla\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. Goskilla (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[Baltic Masters] PIG vs. IFM
+UID:baltic_masters-105562379829072013@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: PIGSPORTS vs. Team
+  Infamous\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (1) vs. Team Infamous (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[Baltic Masters] PIG vs. M2
+UID:baltic_masters-105562379829072015@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: PIGSPORTS vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (1) vs. Method2Madness (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T190000Z
+DTEND:20210223T200000Z
+SUMMARY:[Baltic Masters] MDVL vs. PIG
+UID:baltic_masters-105562379829072017@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Medieval Riga vs. 
+ PIGSPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. PIGSPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T170000Z
+DTEND:20210216T180000Z
+SUMMARY:[Baltic Masters] WOLF vs. PIG
+UID:baltic_masters-105562379829072019@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Topo Centras Iron 
+ Wolves vs. PIGSPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. PIGSPORTS (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T170000Z
+DTEND:20210223T180000Z
+SUMMARY:[Baltic Masters] IFM vs. M2
+UID:baltic_masters-105562379829072021@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Team Infamous vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Infamous (0) vs. Method2Madness (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[Baltic Masters] IFM vs. MDVL
+UID:baltic_masters-105562379829072023@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Team Infamous vs. 
+ Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Infamous (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T170000Z
+DTEND:20210211T180000Z
+SUMMARY:[Baltic Masters] IFM vs. WOLF
+UID:baltic_masters-105562379829137561@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Team Infamous vs. 
+ Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Infamous (0) vs. Topo Centras Iron Wolves 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T180000Z
+DTEND:20210216T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. M2
+UID:baltic_masters-105562379829137563@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Medieval Riga vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Method2Madness (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[Baltic Masters] WOLF vs. M2
+UID:baltic_masters-105562379829137565@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Topo Centras Iron 
+ Wolves vs. Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Method2Madness 
+ (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. WOLF
+UID:baltic_masters-105562379829137567@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Medieval Riga vs. 
+ Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Medieval Riga (0) vs. Topo Centras Iron Wolves 
+ (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[Baltic Masters] M2 vs. WOLF
+UID:baltic_masters-105793617772820038@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Method2Madness vs.
+  Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Method2Madness (1) vs. Topo Centras Iron Wolves 
+ (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T170000Z
+DTEND:20210302T220000Z
+SUMMARY:[Baltic Masters] WOLF vs. GSK
+UID:baltic_masters-105814193355085137@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Halbfinale\nTeams: Topo Centras 
+ Iron Wolves vs. Goskilla\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. Goskilla (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T170000Z
+DTEND:20210304T220000Z
+SUMMARY:[Baltic Masters] PIG vs. M2
+UID:baltic_masters-105814193355085143@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Halbfinale\nTeams: PIGSPORTS vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ PIGSPORTS (2) vs. Method2Madness (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T170000Z
+DTEND:20210309T220000Z
+SUMMARY:[Baltic Masters] M2 vs. GSK
+UID:baltic_masters-105814193355150685@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Finale\nTeams: Method2Madness vs. 
+ Goskilla\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Method2Madness (2) vs. Goskilla (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T180000Z
+DTEND:20210622T190000Z
+SUMMARY:[Baltic Masters] GOEX vs. WTX
+UID:baltic_masters-106385557633233696@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Goexanimo vs. 
+ Wortex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goexanimo (1) vs. Wortex (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T170000Z
+DTEND:20210615T180000Z
+SUMMARY:[Baltic Masters] GSK vs. WTX
+UID:baltic_masters-106385557633233698@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Goskilla vs. 
+ Wortex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goskilla
+  (1) vs. Wortex (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T170000Z
+DTEND:20210629T180000Z
+SUMMARY:[Baltic Masters] WTX vs. WOLF
+UID:baltic_masters-106385557633233700@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Wortex vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wortex (0) vs. Topo Centras Iron Wolves (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T160000Z
+DTEND:20210701T170000Z
+SUMMARY:[Baltic Masters] MDVL vs. WTX
+UID:baltic_masters-106385557633233702@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Medieval Riga vs. 
+ Wortex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Medieval
+  Riga (1) vs. Wortex (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T160000Z
+DTEND:20210617T170000Z
+SUMMARY:[Baltic Masters] M2 vs. WTX
+UID:baltic_masters-106385557633233704@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Method2Madness vs.
+  Wortex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (0) vs. Wortex (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T160000Z
+DTEND:20210629T170000Z
+SUMMARY:[Baltic Masters] GOEX vs. GSK
+UID:baltic_masters-106385557633233706@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Goexanimo vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goexanimo (0) vs. Goskilla (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T170000Z
+DTEND:20210617T180000Z
+SUMMARY:[Baltic Masters] GOEX vs. WOLF
+UID:baltic_masters-106385557633233708@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Goexanimo vs. Topo
+  Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goexanimo (1) vs. Topo Centras Iron Wolves (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T180000Z
+DTEND:20210615T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. GOEX
+UID:baltic_masters-106385557633233710@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Medieval Riga vs. 
+ Goexanimo\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Goexanimo (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[Baltic Masters] GOEX vs. M2
+UID:baltic_masters-106385557633233712@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Goexanimo vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goexanimo (1) vs. Method2Madness (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[Baltic Masters] GSK vs. WOLF
+UID:baltic_masters-106385557633233714@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Goskilla vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goskilla (0) vs. Topo Centras Iron Wolves (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T180000Z
+DTEND:20210617T190000Z
+SUMMARY:[Baltic Masters] GSK vs. MDVL
+UID:baltic_masters-106385557633233716@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Goskilla vs. 
+ Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T170000Z
+DTEND:20210622T180000Z
+SUMMARY:[Baltic Masters] M2 vs. GSK
+UID:baltic_masters-106385557633233718@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Method2Madness vs.
+  Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (0) vs. Goskilla (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T160000Z
+DTEND:20210622T170000Z
+SUMMARY:[Baltic Masters] MDVL vs. WOLF
+UID:baltic_masters-106385557633233720@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 2\nTeams: Medieval Riga vs. 
+ Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Medieval Riga (0) vs. Topo Centras Iron Wolves 
+ (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T160000Z
+DTEND:20210615T170000Z
+SUMMARY:[Baltic Masters] M2 vs. WOLF
+UID:baltic_masters-106385557633233722@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 1\nTeams: Method2Madness vs.
+  Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Method2Madness (0) vs. Topo Centras Iron Wolves 
+ (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T180000Z
+DTEND:20210629T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. M2
+UID:baltic_masters-106385557633233724@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 3\nTeams: Medieval Riga vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Method2Madness (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T180000Z
+DTEND:20210713T190000Z
+SUMMARY:[Baltic Masters] WTX vs. GOEX
+UID:baltic_masters-106385557633233726@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Wortex vs. 
+ Goexanimo\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wortex (1) vs. Goexanimo (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T170000Z
+DTEND:20210706T180000Z
+SUMMARY:[Baltic Masters] WTX vs. GSK
+UID:baltic_masters-106385557633233728@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Wortex vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wortex
+  (0) vs. Goskilla (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[Baltic Masters] WTX vs. WOLF
+UID:baltic_masters-106385557633233730@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Wortex vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wortex (0) vs. Topo Centras Iron Wolves (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T160000Z
+DTEND:20210720T170000Z
+SUMMARY:[Baltic Masters] WTX vs. MDVL
+UID:baltic_masters-106385557633233732@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 6\nTeams: Wortex vs. 
+ Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wortex (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T160000Z
+DTEND:20210708T170000Z
+SUMMARY:[Baltic Masters] WTX vs. M2
+UID:baltic_masters-106385557633233734@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Wortex vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wortex (1) vs. Method2Madness (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T160000Z
+DTEND:20210715T170000Z
+SUMMARY:[Baltic Masters] GSK vs. GOEX
+UID:baltic_masters-106385557633233736@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Goskilla vs. 
+ Goexanimo\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. Goexanimo (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[Baltic Masters] WOLF vs. GOEX
+UID:baltic_masters-106385557633233738@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Topo Centras Iron 
+ Wolves vs. Goexanimo\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Goexanimo (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T160000Z
+DTEND:20210706T170000Z
+SUMMARY:[Baltic Masters] MDVL vs. GOEX
+UID:baltic_masters-106385557633299276@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Medieval Riga vs. 
+ Goexanimo\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Goexanimo (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T170000Z
+DTEND:20210720T180000Z
+SUMMARY:[Baltic Masters] GOEX vs. M2
+UID:baltic_masters-106385557633299278@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 6\nTeams: Goexanimo vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goexanimo (1) vs. Method2Madness (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T180000Z
+DTEND:20210720T190000Z
+SUMMARY:[Baltic Masters] GSK vs. WOLF
+UID:baltic_masters-106385557633299280@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 6\nTeams: Goskilla vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goskilla (0) vs. Topo Centras Iron Wolves (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[Baltic Masters] MDVL vs. GSK
+UID:baltic_masters-106385557633299282@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Medieval Riga vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Medieval Riga (0) vs. Goskilla (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T170000Z
+DTEND:20210713T180000Z
+SUMMARY:[Baltic Masters] GSK vs. M2
+UID:baltic_masters-106385557633299284@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Goskilla vs. 
+ Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. Method2Madness (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T160000Z
+DTEND:20210713T170000Z
+SUMMARY:[Baltic Masters] MDVL vs. WOLF
+UID:baltic_masters-106385557633299286@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Medieval Riga vs. 
+ Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Medieval Riga (0) vs. Topo Centras Iron Wolves 
+ (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T180000Z
+DTEND:20210706T190000Z
+SUMMARY:[Baltic Masters] M2 vs. WOLF
+UID:baltic_masters-106385557633299288@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 4\nTeams: Method2Madness vs.
+  Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Method2Madness (1) vs. Topo Centras Iron Wolves 
+ (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[Baltic Masters] M2 vs. MDVL
+UID:baltic_masters-106385557633299290@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Woche 5\nTeams: Method2Madness vs.
+  Medieval Riga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Method2Madness (1) vs. Medieval Riga (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210807T110000Z
+DTEND:20210807T160000Z
+SUMMARY:[Baltic Masters] WOLF vs. WTX
+UID:baltic_masters-106668926884178377@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Halbfinale\nTeams: Topo Centras 
+ Iron Wolves vs. Wortex\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (3) vs. Wortex (2)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210808T110000Z
+DTEND:20210808T160000Z
+SUMMARY:[Baltic Masters] GSK vs. GOEX
+UID:baltic_masters-106668926884178383@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Halbfinale\nTeams: Goskilla vs. 
+ Goexanimo\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. Goexanimo (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210811T150000Z
+DTEND:20210811T200000Z
+SUMMARY:[Baltic Masters] GOEX vs. WOLF
+UID:baltic_masters-106668926884178389@lol.ics.tools
+DESCRIPTION:Liga: Baltic Masters\nPhase: Finale\nTeams: Goexanimo vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Goexanimo (2) vs. Topo Centras Iron Wolves (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:Baltic Masters Spielplan
+X-WR-CALNAME:Baltic Masters Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

@@ -1,0 +1,1485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20210128T180000Z
+DTEND:20210128T190000Z
+SUMMARY:[Esports Balkan League] C4 vs. CZV
+UID:esports_balkan_league-105596416965401400@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: CR4ZY vs. 
+ Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CR4ZY (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T200000Z
+DTEND:20210125T210000Z
+SUMMARY:[Esports Balkan League] C4 vs. ASUS
+UID:esports_balkan_league-105596416965401402@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: CR4ZY vs. 
+ ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T210000Z
+DTEND:20210211T220000Z
+SUMMARY:[Esports Balkan League] C4 vs. Z10
+UID:esports_balkan_league-105596416965401404@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: CR4ZY vs. 
+ Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. Zero Tenacity (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T180000Z
+DTEND:20210201T190000Z
+SUMMARY:[Esports Balkan League] STR vs. C4
+UID:esports_balkan_league-105596416965401406@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Split 
+ Raiders vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T200000Z
+DTEND:20210208T210000Z
+SUMMARY:[Esports Balkan League] NXK vs. C4
+UID:esports_balkan_league-105596416965401408@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Nexus 
+ Gaming vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. CR4ZY (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T190000Z
+DTEND:20210204T200000Z
+SUMMARY:[Esports Balkan League] C4 vs. X25
+UID:esports_balkan_league-105596416965401410@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: CR4ZY vs. 
+ x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. x25 Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T190000Z
+DTEND:20210215T200000Z
+SUMMARY:[Esports Balkan League] SSU vs. C4
+UID:esports_balkan_league-105596416965401412@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: SuppUp 
+ eSports vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T200000Z
+DTEND:20210215T210000Z
+SUMMARY:[Esports Balkan League] CZV vs. ASUS
+UID:esports_balkan_league-105596416965401414@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Crvena 
+ Zvezda Esports vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. ASUS ROG Elite (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T190000Z
+DTEND:20210125T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. Z10
+UID:esports_balkan_league-105596416965401416@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Crvena 
+ Zvezda Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T210000Z
+DTEND:20210204T220000Z
+SUMMARY:[Esports Balkan League] STR vs. CZV
+UID:esports_balkan_league-105596416965466954@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Split 
+ Raiders vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T190000Z
+DTEND:20210201T200000Z
+SUMMARY:[Esports Balkan League] NXK vs. CZV
+UID:esports_balkan_league-105596416965466956@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Nexus 
+ Gaming vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T190000Z
+DTEND:20210208T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. X25
+UID:esports_balkan_league-105596416965466958@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Crvena 
+ Zvezda Esports vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. x25 Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T190000Z
+DTEND:20210211T200000Z
+SUMMARY:[Esports Balkan League] SSU vs. CZV
+UID:esports_balkan_league-105596416965466960@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: SuppUp 
+ eSports vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T200000Z
+DTEND:20210204T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. ASUS
+UID:esports_balkan_league-105596416965466962@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Zero 
+ Tenacity vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (0) vs. ASUS ROG Elite (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T210000Z
+DTEND:20210128T220000Z
+SUMMARY:[Esports Balkan League] ASUS vs. STR
+UID:esports_balkan_league-105596416965466964@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: ASUS ROG 
+ Elite vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Split Raiders (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T180000Z
+DTEND:20210211T190000Z
+SUMMARY:[Esports Balkan League] NXK vs. ASUS
+UID:esports_balkan_league-105596416965466966@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Nexus 
+ Gaming vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T200000Z
+DTEND:20210201T210000Z
+SUMMARY:[Esports Balkan League] ASUS vs. X25
+UID:esports_balkan_league-105596416965466968@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: ASUS ROG 
+ Elite vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. x25 Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T210000Z
+DTEND:20210208T220000Z
+SUMMARY:[Esports Balkan League] ASUS vs. SSU
+UID:esports_balkan_league-105596416965466970@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: ASUS ROG 
+ Elite vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. SuppUp eSports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210208T180000Z
+DTEND:20210208T190000Z
+SUMMARY:[Esports Balkan League] STR vs. Z10
+UID:esports_balkan_league-105596416965466972@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Split 
+ Raiders vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T190000Z
+DTEND:20210128T200000Z
+SUMMARY:[Esports Balkan League] NXK vs. Z10
+UID:esports_balkan_league-105596416965466974@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Nexus 
+ Gaming vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T180000Z
+DTEND:20210215T190000Z
+SUMMARY:[Esports Balkan League] Z10 vs. X25
+UID:esports_balkan_league-105596416965466976@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
+ Tenacity vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. x25 Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210201T210000Z
+DTEND:20210201T220000Z
+SUMMARY:[Esports Balkan League] Z10 vs. SSU
+UID:esports_balkan_league-105596416965466978@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Zero 
+ Tenacity vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. SuppUp eSports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T210000Z
+DTEND:20210215T220000Z
+SUMMARY:[Esports Balkan League] STR vs. NXK
+UID:esports_balkan_league-105596416965466980@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Split 
+ Raiders vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210211T200000Z
+DTEND:20210211T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. STR
+UID:esports_balkan_league-105596416965466982@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: x25 Esports
+  vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. Split Raiders (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T180000Z
+DTEND:20210125T190000Z
+SUMMARY:[Esports Balkan League] SSU vs. STR
+UID:esports_balkan_league-105596416965466984@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: SuppUp 
+ eSports vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. Split Raiders (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210125T210000Z
+DTEND:20210125T220000Z
+SUMMARY:[Esports Balkan League] X25 vs. NXK
+UID:esports_balkan_league-105596416965466986@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: x25 Esports
+  vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210204T180000Z
+DTEND:20210204T190000Z
+SUMMARY:[Esports Balkan League] SSU vs. NXK
+UID:esports_balkan_league-105596416965466988@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: SuppUp 
+ eSports vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210128T200000Z
+DTEND:20210128T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. SSU
+UID:esports_balkan_league-105596416965466990@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: x25 Esports
+  vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (0) vs. SuppUp eSports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T190000Z
+DTEND:20210222T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. C4
+UID:esports_balkan_league-105596416965466992@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Crvena 
+ Zvezda Esports vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T190000Z
+DTEND:20210218T200000Z
+SUMMARY:[Esports Balkan League] ASUS vs. C4
+UID:esports_balkan_league-105596416965466994@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: ASUS ROG 
+ Elite vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  ASUS ROG Elite (0) vs. CR4ZY (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T180000Z
+DTEND:20210308T190000Z
+SUMMARY:[Esports Balkan League] Z10 vs. C4
+UID:esports_balkan_league-105596416965466996@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Zero 
+ Tenacity vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T180000Z
+DTEND:20210225T190000Z
+SUMMARY:[Esports Balkan League] C4 vs. STR
+UID:esports_balkan_league-105596416965466998@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: CR4ZY vs. 
+ Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. Split Raiders (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T180000Z
+DTEND:20210304T190000Z
+SUMMARY:[Esports Balkan League] C4 vs. NXK
+UID:esports_balkan_league-105596416965467000@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: CR4ZY vs. 
+ Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T210000Z
+DTEND:20210301T220000Z
+SUMMARY:[Esports Balkan League] X25 vs. C4
+UID:esports_balkan_league-105596416965467002@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
+  vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: x25 
+ Esports (1) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T210000Z
+DTEND:20210311T220000Z
+SUMMARY:[Esports Balkan League] C4 vs. SSU
+UID:esports_balkan_league-105596416965467004@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: CR4ZY vs. 
+ SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CR4ZY (1) vs. SuppUp eSports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T200000Z
+DTEND:20210311T210000Z
+SUMMARY:[Esports Balkan League] ASUS vs. CZV
+UID:esports_balkan_league-105596416965467006@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: ASUS ROG 
+ Elite vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Crvena Zvezda Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T200000Z
+DTEND:20210218T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. CZV
+UID:esports_balkan_league-105596416965467008@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
+ Tenacity vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T180000Z
+DTEND:20210301T190000Z
+SUMMARY:[Esports Balkan League] CZV vs. STR
+UID:esports_balkan_league-105596416965467010@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Crvena 
+ Zvezda Esports vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. Split Raiders (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. NXK
+UID:esports_balkan_league-105596416965467012@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Crvena 
+ Zvezda Esports vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. Nexus Gaming (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T190000Z
+DTEND:20210304T200000Z
+SUMMARY:[Esports Balkan League] X25 vs. CZV
+UID:esports_balkan_league-105596416965467014@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
+  vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T190000Z
+DTEND:20210308T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. SSU
+UID:esports_balkan_league-105596416965467016@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Crvena 
+ Zvezda Esports vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. SuppUp eSports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T190000Z
+DTEND:20210301T200000Z
+SUMMARY:[Esports Balkan League] ASUS vs. Z10
+UID:esports_balkan_league-105596416965467018@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: ASUS ROG 
+ Elite vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T180000Z
+DTEND:20210222T190000Z
+SUMMARY:[Esports Balkan League] STR vs. ASUS
+UID:esports_balkan_league-105596416965467020@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Split 
+ Raiders vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T200000Z
+DTEND:20210308T210000Z
+SUMMARY:[Esports Balkan League] ASUS vs. NXK
+UID:esports_balkan_league-105596416965467022@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: ASUS ROG 
+ Elite vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Nexus Gaming (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T210000Z
+DTEND:20210225T220000Z
+SUMMARY:[Esports Balkan League] X25 vs. ASUS
+UID:esports_balkan_league-105596416965467024@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: x25 Esports
+  vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T210000Z
+DTEND:20210304T220000Z
+SUMMARY:[Esports Balkan League] SSU vs. ASUS
+UID:esports_balkan_league-105596416965467026@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: SuppUp 
+ eSports vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T200000Z
+DTEND:20210304T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. STR
+UID:esports_balkan_league-105596416965467028@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Zero 
+ Tenacity vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Split Raiders (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T200000Z
+DTEND:20210222T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. NXK
+UID:esports_balkan_league-105596416965467030@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Zero 
+ Tenacity vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T190000Z
+DTEND:20210311T200000Z
+SUMMARY:[Esports Balkan League] X25 vs. Z10
+UID:esports_balkan_league-105596416965467032@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: x25 Esports
+  vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. Zero Tenacity (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210225T200000Z
+DTEND:20210225T210000Z
+SUMMARY:[Esports Balkan League] SSU vs. Z10
+UID:esports_balkan_league-105596416965467034@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: SuppUp 
+ eSports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. Zero Tenacity (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T180000Z
+DTEND:20210311T190000Z
+SUMMARY:[Esports Balkan League] NXK vs. STR
+UID:esports_balkan_league-105596416965467036@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Nexus 
+ Gaming vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. Split Raiders (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210308T210000Z
+DTEND:20210308T220000Z
+SUMMARY:[Esports Balkan League] STR vs. X25
+UID:esports_balkan_league-105596416965467038@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Split 
+ Raiders vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. x25 Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T180000Z
+DTEND:20210218T190000Z
+SUMMARY:[Esports Balkan League] STR vs. SSU
+UID:esports_balkan_league-105596416965467040@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Split 
+ Raiders vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. SuppUp eSports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210218T210000Z
+DTEND:20210218T220000Z
+SUMMARY:[Esports Balkan League] NXK vs. X25
+UID:esports_balkan_league-105596416965467042@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Nexus 
+ Gaming vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. x25 Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T200000Z
+DTEND:20210301T210000Z
+SUMMARY:[Esports Balkan League] NXK vs. SSU
+UID:esports_balkan_league-105596416965467044@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Nexus 
+ Gaming vs. SuppUp eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. SuppUp eSports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210222T210000Z
+DTEND:20210222T220000Z
+SUMMARY:[Esports Balkan League] SSU vs. X25
+UID:esports_balkan_league-105596416965467046@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: SuppUp 
+ eSports vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SuppUp eSports (1) vs. x25 Esports (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T130000Z
+DTEND:20210314T140000Z
+SUMMARY:[Esports Balkan League] CZV vs. ASUS
+UID:esports_balkan_league-105888158760544771@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 8\nTeams: Crvena 
+ Zvezda Esports vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T140000Z
+DTEND:20210314T150000Z
+SUMMARY:[Esports Balkan League] X25 vs. C4
+UID:esports_balkan_league-105888160745695749@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 8\nTeams: x25 Esports
+  vs. CR4ZY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: x25 
+ Esports (0) vs. CR4ZY (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T150000Z
+DTEND:20210314T160000Z
+SUMMARY:[Esports Balkan League] STR vs. NXK
+UID:esports_balkan_league-105888164144388242@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 8\nTeams: Split 
+ Raiders vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T160000Z
+DTEND:20210320T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. SSU
+UID:esports_balkan_league-105899134845113633@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: x25 
+ Esports vs. SuppUp eSports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: x25 Esports (0) vs. SuppUp eSports (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210321T160000Z
+DTEND:20210321T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. C4
+UID:esports_balkan_league-105899134845179175@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: Zero 
+ Tenacity vs. CR4ZY\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (3) vs. CR4ZY (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210327T160000Z
+DTEND:20210327T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. SSU
+UID:esports_balkan_league-105899134845179181@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Finale\nTeams: Zero 
+ Tenacity vs. SuppUp eSports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. SuppUp eSports (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T200000Z
+DTEND:20210705T210000Z
+SUMMARY:[Esports Balkan League] CZV vs. ASUS
+UID:esports_balkan_league-106385973093122730@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Crvena 
+ Zvezda Esports vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T180000Z
+DTEND:20210614T190000Z
+SUMMARY:[Esports Balkan League] NXK vs. ASUS
+UID:esports_balkan_league-106385973094040236@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Nexus 
+ Gaming vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T200000Z
+DTEND:20210701T210000Z
+SUMMARY:[Esports Balkan League] ASUS vs. NKOS
+UID:esports_balkan_league-106385973094040238@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: ASUS ROG 
+ Elite vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T170000Z
+DTEND:20210617T180000Z
+SUMMARY:[Esports Balkan League] ASUS vs. STR
+UID:esports_balkan_league-106385973094040240@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: ASUS ROG 
+ Elite vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Split Raiders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T180000Z
+DTEND:20210621T190000Z
+SUMMARY:[Esports Balkan League] VPG vs. ASUS
+UID:esports_balkan_league-106385973094040242@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Valiance 
+ vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T190000Z
+DTEND:20210624T200000Z
+SUMMARY:[Esports Balkan League] ASUS vs. X25
+UID:esports_balkan_league-106385973094040244@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: ASUS ROG 
+ Elite vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. x25 Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T180000Z
+DTEND:20210628T190000Z
+SUMMARY:[Esports Balkan League] Z10 vs. ASUS
+UID:esports_balkan_league-106385973094040246@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Zero 
+ Tenacity vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T170000Z
+DTEND:20210624T180000Z
+SUMMARY:[Esports Balkan League] NXK vs. CZV
+UID:esports_balkan_league-106385973094040248@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Nexus 
+ Gaming vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. Crvena Zvezda Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T170000Z
+DTEND:20210614T180000Z
+SUMMARY:[Esports Balkan League] NKOS vs. CZV
+UID:esports_balkan_league-106385973094040250@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: NK Osijek 
+ Esport vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Crvena Zvezda Esports 
+ (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T200000Z
+DTEND:20210628T210000Z
+SUMMARY:[Esports Balkan League] STR vs. CZV
+UID:esports_balkan_league-106385973094040252@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Split 
+ Raiders vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Crvena Zvezda Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T190000Z
+DTEND:20210617T200000Z
+SUMMARY:[Esports Balkan League] VPG vs. CZV
+UID:esports_balkan_league-106385973094040254@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
+ vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T180000Z
+DTEND:20210701T190000Z
+SUMMARY:[Esports Balkan League] CZV vs. X25
+UID:esports_balkan_league-106385973094040256@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Crvena 
+ Zvezda Esports vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. x25 Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T190000Z
+DTEND:20210621T200000Z
+SUMMARY:[Esports Balkan League] CZV vs. Z10
+UID:esports_balkan_league-106385973094105794@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Crvena 
+ Zvezda Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Zero Tenacity (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T170000Z
+DTEND:20210628T180000Z
+SUMMARY:[Esports Balkan League] NKOS vs. NXK
+UID:esports_balkan_league-106385973094105796@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: NK Osijek 
+ Esport vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Nexus Gaming (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T190000Z
+DTEND:20210705T200000Z
+SUMMARY:[Esports Balkan League] STR vs. NXK
+UID:esports_balkan_league-106385973094105798@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Split 
+ Raiders vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T190000Z
+DTEND:20210701T200000Z
+SUMMARY:[Esports Balkan League] NXK vs. VPG
+UID:esports_balkan_league-106385973094105800@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Nexus 
+ Gaming vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. Valiance (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T200000Z
+DTEND:20210621T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. NXK
+UID:esports_balkan_league-106385973094105802@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: x25 Esports
+  vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (0) vs. Nexus Gaming (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T200000Z
+DTEND:20210617T210000Z
+SUMMARY:[Esports Balkan League] NXK vs. Z10
+UID:esports_balkan_league-106385973094105804@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Nexus 
+ Gaming vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. Zero Tenacity (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210621T170000Z
+DTEND:20210621T180000Z
+SUMMARY:[Esports Balkan League] NKOS vs. STR
+UID:esports_balkan_league-106385973094105806@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: NK Osijek 
+ Esport vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Split Raiders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T170000Z
+DTEND:20210705T180000Z
+SUMMARY:[Esports Balkan League] NKOS vs. VPG
+UID:esports_balkan_league-106385973094105808@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: NK Osijek 
+ Esport vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Valiance (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210617T180000Z
+DTEND:20210617T190000Z
+SUMMARY:[Esports Balkan League] X25 vs. NKOS
+UID:esports_balkan_league-106385973094105810@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: x25 Esports
+  vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T200000Z
+DTEND:20210624T210000Z
+SUMMARY:[Esports Balkan League] Z10 vs. NKOS
+UID:esports_balkan_league-106385973094105812@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Zero 
+ Tenacity vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210624T180000Z
+DTEND:20210624T190000Z
+SUMMARY:[Esports Balkan League] STR vs. VPG
+UID:esports_balkan_league-106385973094105814@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Split 
+ Raiders vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Valiance (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T200000Z
+DTEND:20210614T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. STR
+UID:esports_balkan_league-106385973094105816@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: x25 Esports
+  vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (0) vs. Split Raiders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210701T170000Z
+DTEND:20210701T180000Z
+SUMMARY:[Esports Balkan League] STR vs. Z10
+UID:esports_balkan_league-106385973094105818@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Split 
+ Raiders vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210628T190000Z
+DTEND:20210628T200000Z
+SUMMARY:[Esports Balkan League] VPG vs. X25
+UID:esports_balkan_league-106385973094105820@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Valiance 
+ vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Valiance (0) vs. x25 Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210614T190000Z
+DTEND:20210614T200000Z
+SUMMARY:[Esports Balkan League] VPG vs. Z10
+UID:esports_balkan_league-106385973094105822@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
+ vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210705T180000Z
+DTEND:20210705T190000Z
+SUMMARY:[Esports Balkan League] Z10 vs. X25
+UID:esports_balkan_league-106385973094105824@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
+ Tenacity vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. x25 Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T180000Z
+DTEND:20210729T190000Z
+SUMMARY:[Esports Balkan League] ASUS vs. CZV
+UID:esports_balkan_league-106385973094105826@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: ASUS ROG 
+ Elite vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Crvena Zvezda Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T190000Z
+DTEND:20210708T200000Z
+SUMMARY:[Esports Balkan League] ASUS vs. NXK
+UID:esports_balkan_league-106385973094105828@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: ASUS ROG 
+ Elite vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Nexus Gaming (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T200000Z
+DTEND:20210726T210000Z
+SUMMARY:[Esports Balkan League] NKOS vs. ASUS
+UID:esports_balkan_league-106385973094105830@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: NK Osijek 
+ Esport vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T170000Z
+DTEND:20210712T180000Z
+SUMMARY:[Esports Balkan League] STR vs. ASUS
+UID:esports_balkan_league-106385973094105832@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Split 
+ Raiders vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T180000Z
+DTEND:20210715T190000Z
+SUMMARY:[Esports Balkan League] ASUS vs. VPG
+UID:esports_balkan_league-106385973094105834@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: ASUS ROG 
+ Elite vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Valiance (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T200000Z
+DTEND:20210719T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. ASUS
+UID:esports_balkan_league-106385973094105836@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
+  vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. ASUS ROG Elite (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T180000Z
+DTEND:20210722T190000Z
+SUMMARY:[Esports Balkan League] ASUS vs. Z10
+UID:esports_balkan_league-106385973094105838@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: ASUS ROG 
+ Elite vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T180000Z
+DTEND:20210719T190000Z
+SUMMARY:[Esports Balkan League] CZV vs. NXK
+UID:esports_balkan_league-106385973094105840@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Crvena 
+ Zvezda Esports vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T180000Z
+DTEND:20210708T190000Z
+SUMMARY:[Esports Balkan League] CZV vs. NKOS
+UID:esports_balkan_league-106385973094105842@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Crvena 
+ Zvezda Esports vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. NK Osijek Esport 
+ (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T170000Z
+DTEND:20210722T180000Z
+SUMMARY:[Esports Balkan League] CZV vs. STR
+UID:esports_balkan_league-106385973094105844@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Crvena 
+ Zvezda Esports vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Split Raiders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T180000Z
+DTEND:20210712T190000Z
+SUMMARY:[Esports Balkan League] CZV vs. VPG
+UID:esports_balkan_league-106385973094105846@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Crvena 
+ Zvezda Esports vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Valiance (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T180000Z
+DTEND:20210726T190000Z
+SUMMARY:[Esports Balkan League] X25 vs. CZV
+UID:esports_balkan_league-106385973094105848@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: x25 Esports
+  vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T190000Z
+DTEND:20210715T200000Z
+SUMMARY:[Esports Balkan League] Z10 vs. CZV
+UID:esports_balkan_league-106385973094105850@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Zero 
+ Tenacity vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Crvena Zvezda Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T190000Z
+DTEND:20210722T200000Z
+SUMMARY:[Esports Balkan League] NXK vs. NKOS
+UID:esports_balkan_league-106385973094105852@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Nexus 
+ Gaming vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T160000Z
+DTEND:20210729T170000Z
+SUMMARY:[Esports Balkan League] NXK vs. STR
+UID:esports_balkan_league-106385973094105854@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Nexus 
+ Gaming vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. Split Raiders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T170000Z
+DTEND:20210726T180000Z
+SUMMARY:[Esports Balkan League] VPG vs. NXK
+UID:esports_balkan_league-106385973094105856@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
+ vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T200000Z
+DTEND:20210715T210000Z
+SUMMARY:[Esports Balkan League] NXK vs. X25
+UID:esports_balkan_league-106385973094105858@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Nexus 
+ Gaming vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus Gaming (0) vs. x25 Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T190000Z
+DTEND:20210712T200000Z
+SUMMARY:[Esports Balkan League] Z10 vs. NXK
+UID:esports_balkan_league-106385973094105860@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Zero 
+ Tenacity vs. Nexus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Nexus Gaming (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+SUMMARY:[Esports Balkan League] STR vs. NKOS
+UID:esports_balkan_league-106385973094105862@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Split 
+ Raiders vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T170000Z
+DTEND:20210729T180000Z
+SUMMARY:[Esports Balkan League] VPG vs. NKOS
+UID:esports_balkan_league-106385973094105864@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
+ vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210712T200000Z
+DTEND:20210712T210000Z
+SUMMARY:[Esports Balkan League] NKOS vs. X25
+UID:esports_balkan_league-106385973094105866@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: NK Osijek 
+ Esport vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. x25 Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T190000Z
+DTEND:20210719T200000Z
+SUMMARY:[Esports Balkan League] NKOS vs. Z10
+UID:esports_balkan_league-106385973094105868@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: NK Osijek 
+ Esport vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T170000Z
+DTEND:20210719T180000Z
+SUMMARY:[Esports Balkan League] VPG vs. STR
+UID:esports_balkan_league-106385973094105870@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Valiance 
+ vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance (1) vs. Split Raiders (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T200000Z
+DTEND:20210708T210000Z
+SUMMARY:[Esports Balkan League] STR vs. X25
+UID:esports_balkan_league-106385973094105872@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Split 
+ Raiders vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (1) vs. x25 Esports (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210726T190000Z
+DTEND:20210726T200000Z
+SUMMARY:[Esports Balkan League] Z10 vs. STR
+UID:esports_balkan_league-106385973094105874@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Zero 
+ Tenacity vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (0) vs. Split Raiders (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210722T200000Z
+DTEND:20210722T210000Z
+SUMMARY:[Esports Balkan League] X25 vs. VPG
+UID:esports_balkan_league-106385973094105876@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
+  vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ x25 Esports (0) vs. Valiance (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210708T170000Z
+DTEND:20210708T180000Z
+SUMMARY:[Esports Balkan League] Z10 vs. VPG
+UID:esports_balkan_league-106385973094105878@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
+ Tenacity vs. Valiance\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Valiance (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T190000Z
+DTEND:20210729T200000Z
+SUMMARY:[Esports Balkan League] X25 vs. Z10
+UID:esports_balkan_league-106385973094105880@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: x25 Esports
+  vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: x25 Esports (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T200000Z
+DTEND:20210729T210000Z
+SUMMARY:[Esports Balkan League] ASUS vs. NKOS
+UID:esports_balkan_league-106665536549742626@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: ASUS ROG 
+ Elite vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (1) vs. NK Osijek Esport (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T200000Z
+DTEND:20210729T210000Z
+SUMMARY:[Esports Balkan League] CZV vs. Z10
+UID:esports_balkan_league-106665603248649744@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Crvena 
+ Zvezda Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (0) vs. Zero Tenacity (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210802T160000Z
+DTEND:20210802T210000Z
+SUMMARY:[Esports Balkan League] STR vs. Z10
+UID:esports_balkan_league-106683293256351113@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: Split 
+ Raiders vs. Zero Tenacity\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Split Raiders (2) vs. Zero Tenacity (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T160000Z
+DTEND:20210803T210000Z
+SUMMARY:[Esports Balkan League] VPG vs. CZV
+UID:esports_balkan_league-106683293256351119@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: Valiance
+  vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Valiance (2) vs. Crvena Zvezda Esports (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210807T140000Z
+DTEND:20210807T190000Z
+SUMMARY:[Esports Balkan League] Z10 vs. CZV
+UID:esports_balkan_league-106683293256351125@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Finale\nTeams: Zero 
+ Tenacity vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (3) vs. Crvena Zvezda Esports (2)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:Esports Balkan League Spielplan
+X-WR-CALNAME:Esports Balkan League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR
