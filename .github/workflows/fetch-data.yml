@@ -41,7 +41,6 @@ jobs:
           email: actions@github.com
           name: GitHub Actions
           message: Update match data
-          branch: test
           files: leagues/
           token: ${{ secrets.GITHUB_TOKEN }}
           
@@ -60,7 +59,7 @@ jobs:
         with:
           email: actions@github.com
           name: GitHub Actions
-          branch: test2
+          branch: public
           message: Update public files
           files: docs/
           token: ${{ secrets.GITHUB_TOKEN }}
