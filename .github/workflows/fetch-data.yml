@@ -1,7 +1,7 @@
 name: Fetch and publish new match data
 on:
   push:
-    branches: [ master, ci ]
+    branches: [ master ]
   workflow_dispatch:
   schedule:
     - cron: "17 */6 * * *"
