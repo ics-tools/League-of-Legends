@@ -65,4 +65,3 @@ jobs:
           message: Update public files
           files: docs/
           token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
