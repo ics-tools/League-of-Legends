@@ -1349,13 +1349,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201004T090000Z
 DTEND:20201004T100000Z
-SUMMARY:[WM] G2 vs. SN
+SUMMARY:[WM] G2 vs. WBG
 UID:worlds-104841804589478931@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: G2 Esports vs. 
- Suning\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
- Esports (1) vs. Suning (0)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: G2 Esports vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Esports (1) vs. Weibo Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1385,25 +1385,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201006T090000Z
 DTEND:20201006T100000Z
-SUMMARY:[WM] SN vs. MCX
+SUMMARY:[WM] WBG vs. MCX
 UID:worlds-104841804589478937@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Suning vs. Machi 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Suning 
- (1) vs. Machi Esports (0)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Weibo Gaming vs. Machi 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (1) vs. Machi Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201005T090000Z
 DTEND:20201005T100000Z
-SUMMARY:[WM] TL vs. SN
+SUMMARY:[WM] TL vs. WBG
 UID:worlds-104841804589478939@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Team Liquid vs. 
- Suning\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Liquid (0) vs. Suning (1)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Team Liquid vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Liquid (0) vs. Weibo Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1421,13 +1421,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201008T130000Z
 DTEND:20201008T140000Z
-SUMMARY:[WM] SN vs. G2
+SUMMARY:[WM] WBG vs. G2
 UID:worlds-104841804589478943@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Suning vs. G2 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Suning 
- (1) vs. G2 Esports (0)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Weibo Gaming vs. G2 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (1) vs. G2 Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,25 +1457,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201008T090000Z
 DTEND:20201008T100000Z
-SUMMARY:[WM] MCX vs. SN
+SUMMARY:[WM] MCX vs. WBG
 UID:worlds-104841804589478949@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Machi Esports vs. 
- Suning\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
- Esports (0) vs. Suning (1)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Machi Esports vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
+ Esports (0) vs. Weibo Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201008T110000Z
 DTEND:20201008T120000Z
-SUMMARY:[WM] SN vs. TL
+SUMMARY:[WM] WBG vs. TL
 UID:worlds-104841804589478951@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Suning vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Suning 
- (0) vs. Team Liquid (1)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Weibo Gaming vs. Team 
+ Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (0) vs. Team Liquid (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1937,13 +1937,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201016T100000Z
 DTEND:20201016T150000Z
-SUMMARY:[WM] JDG vs. SN
+SUMMARY:[WM] JDG vs. WBG
 UID:worlds-104841804589544569@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: JD Gaming vs. 
- Suning\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD 
- Gaming (1) vs. Suning (3)\n
+DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: JD Gaming vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD 
+ Gaming (1) vs. Weibo Gaming (3)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,13 +1973,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201025T100000Z
 DTEND:20201025T150000Z
-SUMMARY:[WM] SN vs. TES
+SUMMARY:[WM] WBG vs. TES
 UID:worlds-104841804589544587@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: Suning vs. Top 
- Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Suning 
- (3) vs. Top Esports (1)\n
+DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: Weibo Gaming vs. Top 
+ Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (3) vs. Top Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1997,13 +1997,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201031T100000Z
 DTEND:20201031T150000Z
-SUMMARY:[WM] DK vs. SN
+SUMMARY:[WM] DK vs. WBG
 UID:worlds-104841804589544599@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: DWG KIA vs. Suning\nSpiel-
- Strategie: bestOf 5\nStatus: completed\nErgebnisse: DWG KIA (3) vs. Suning
-  (1)\n
+DESCRIPTION:Liga: WM\nPhase: K.-o.-Phase\nTeams: DWG KIA vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: DWG KIA 
+ (3) vs. Weibo Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2057,13 +2057,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20201008T140000Z
 DTEND:20201008T150000Z
-SUMMARY:[WM] SN vs. G2
+SUMMARY:[WM] WBG vs. G2
 UID:worlds-104999362765717798@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Suning vs. G2 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Suning 
- (1) vs. G2 Esports (0)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase\nTeams: Weibo Gaming vs. G2 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (1) vs. G2 Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT

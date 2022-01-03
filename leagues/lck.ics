@@ -5147,13 +5147,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210129T080000Z
 DTEND:20210129T110000Z
-SUMMARY:[LCK] NS vs. AF
+SUMMARY:[LCK] NS vs. KDF
 UID:lck-105522984812784877@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Woche 3\nTeams: NongShim REDFORCE vs. Afreeca
-  Freecs\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- NongShim REDFORCE (0) vs. Afreeca Freecs (2)\n
+DESCRIPTION:Liga: LCK\nPhase: Woche 3\nTeams: NongShim REDFORCE vs. 
+ Kwangdong Freecs\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: NongShim REDFORCE (0) vs. Kwangdong Freecs (2)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5231,13 +5231,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210131T080000Z
 DTEND:20210131T110000Z
-SUMMARY:[LCK] AF vs. T1
+SUMMARY:[LCK] KDF vs. T1
 UID:lck-105522984812784905@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Woche 3\nTeams: Afreeca Freecs vs. T1\nSpiel-
- Strategie: bestOf 3\nStatus: completed\nErgebnisse: Afreeca Freecs (2) vs.
-  T1 (0)\n
+DESCRIPTION:Liga: LCK\nPhase: Woche 3\nTeams: Kwangdong Freecs vs. 
+ T1\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Kwangdong 
+ Freecs (2) vs. T1 (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220103T125134Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
