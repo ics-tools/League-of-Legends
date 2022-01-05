@@ -89,13 +89,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190211T220000Z
 DTEND:20190211T230000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-101383793258776780@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Flamengo Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. Flamengo Esports (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -126,13 +126,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190310T190000Z
 DTEND:20190310T200000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-101383793259694287@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -162,13 +162,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190308T160000Z
 DTEND:20190308T170000Z
-SUMMARY:[CBLOL] VRX vs. RDP
+SUMMARY:[CBLOL] LBR vs. RDP
 UID:cblol-brazil-101383793260677330@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Vorax Liberty vs. 
- Redemption Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vorax Liberty (0) vs. Redemption Porto Alegre (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Liberty vs. Redemption 
+ Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liberty (0) vs. Redemption Porto Alegre (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -246,13 +246,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190217T190000Z
 DTEND:20190217T200000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-101383793263036633@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Vivo Keyd (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. Vivo Keyd (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -282,13 +282,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190309T170000Z
 DTEND:20190309T180000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-101383793263954140@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (1) vs. Vorax Liberty (0)\n
+ Flamengo Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -354,73 +354,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190126T150000Z
 DTEND:20190126T160000Z
-SUMMARY:[CBLOL] VK vs. VRX
+SUMMARY:[CBLOL] VK vs. LBR
 UID:cblol-brazil-101383793266116834@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Vivo Keyd vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Vivo Keyd vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vivo 
- Keyd (1) vs. Vorax Liberty (0)\n
+ Keyd (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190112T170000Z
 DTEND:20190112T180000Z
-SUMMARY:[CBLOL] VRX vs. RDP
+SUMMARY:[CBLOL] LBR vs. RDP
 UID:cblol-brazil-101383793266444515@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. 
- Redemption Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vorax Liberty (0) vs. Redemption Porto Alegre (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. Redemption 
+ Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liberty (0) vs. Redemption Porto Alegre (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190216T150000Z
 DTEND:20190216T160000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-101383793266772196@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190223T180000Z
 DTEND:20190223T190000Z
-SUMMARY:[CBLOL] VRX vs. CNB
+SUMMARY:[CBLOL] LBR vs. CNB
 UID:cblol-brazil-101383793267165413@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. CNB 
- e-Sports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vorax Liberty (0) vs. CNB e-Sports Club (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. CNB e-Sports 
+ Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. CNB e-Sports Club (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190224T180000Z
 DTEND:20190224T190000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-101383793267493094@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190127T160000Z
 DTEND:20190127T170000Z
-SUMMARY:[CBLOL] CNB vs. VRX
+SUMMARY:[CBLOL] CNB vs. LBR
 UID:cblol-brazil-101383793267820775@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: CNB e-Sports Club vs. Vorax
-  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CNB 
- e-Sports Club (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: CNB e-Sports Club vs. 
+ Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CNB 
+ e-Sports Club (0) vs. Liberty (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -475,13 +475,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190317T190000Z
 DTEND:20190317T200000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-101383793269459180@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Vivo Keyd (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. Vivo Keyd (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -560,13 +560,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190210T150000Z
 DTEND:20190210T160000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-101383793271687411@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. INTZ (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (0) vs. INTZ 
+ (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -707,13 +707,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190324T160000Z
 DTEND:20190324T170000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-101383793275554047@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. KaBuM! Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. KaBuM! Esports (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -743,13 +743,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190202T170000Z
 DTEND:20190202T180000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-101383793276471554@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. KaBuM! Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. KaBuM! Esports (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -815,13 +815,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190316T180000Z
 DTEND:20190316T190000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-101383793278372104@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -899,13 +899,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190323T180000Z
 DTEND:20190323T190000Z
-SUMMARY:[CBLOL] CNB vs. VRX
+SUMMARY:[CBLOL] CNB vs. LBR
 UID:cblol-brazil-101383793280665871@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: CNB e-Sports Club vs. 
- Vorax Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- CNB e-Sports Club (1) vs. Vorax Liberty (0)\n
+ Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CNB 
+ e-Sports Club (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -936,25 +936,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190203T160000Z
 DTEND:20190203T170000Z
-SUMMARY:[CBLOL] RDP vs. VRX
+SUMMARY:[CBLOL] RDP vs. LBR
 UID:cblol-brazil-101383793281648914@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Redemption Porto Alegre vs.
-  Vorax Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Redemption Porto Alegre (1) vs. Vorax Liberty (0)\n
+  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Redemption Porto Alegre (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190120T150000Z
 DTEND:20190120T160000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-101383793281976595@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -972,13 +972,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190113T180000Z
 DTEND:20190113T190000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-101383793282631957@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (1) vs. Vorax Liberty (0)\n
+ Flamengo Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -997,13 +997,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190119T160000Z
 DTEND:20190119T170000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-101383793283287319@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220105T064030Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2161,13 +2161,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200201T190000Z
 DTEND:20200201T200000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-103478355179226688@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (1) vs. Vorax Liberty (0)\n
+ Flamengo Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2233,13 +2233,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200126T170000Z
 DTEND:20200126T180000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-103478355179226700@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2293,13 +2293,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200229T190000Z
 DTEND:20200229T200000Z
-SUMMARY:[CBLOL] VRX vs. RDP
+SUMMARY:[CBLOL] LBR vs. RDP
 UID:cblol-brazil-103478355179226710@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vorax Liberty vs. 
- Redemption Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vorax Liberty (1) vs. Redemption Porto Alegre (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Liberty vs. Redemption 
+ Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liberty (1) vs. Redemption Porto Alegre (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2341,13 +2341,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200208T160000Z
 DTEND:20200208T170000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-103478355179226718@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2377,13 +2377,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200209T180000Z
 DTEND:20200209T190000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-103478355179292260@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (1) vs. Vorax Liberty (0)\n
+ Gaming (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2401,25 +2401,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200125T170000Z
 DTEND:20200125T180000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-103478355179292264@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. Vivo Keyd (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (1) vs. Vivo Keyd (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200202T190000Z
 DTEND:20200202T200000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-103478355179292266@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. KaBuM! Esports (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. KaBuM! Esports (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2498,13 +2498,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200308T170000Z
 DTEND:20200308T180000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-103478355179292280@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. Flamengo Esports (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. Flamengo Esports (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2570,13 +2570,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200307T180000Z
 DTEND:20200307T190000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-103478355179292292@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2631,13 +2631,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200411T160000Z
 DTEND:20200411T170000Z
-SUMMARY:[CBLOL] RDP vs. VRX
+SUMMARY:[CBLOL] RDP vs. LBR
 UID:cblol-brazil-103478355179292302@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Redemption Porto Alegre vs.
-  Vorax Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Redemption Porto Alegre (0) vs. Vorax Liberty (1)\n
+  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Redemption Porto Alegre (0) vs. Liberty (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2679,13 +2679,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200315T190000Z
 DTEND:20200315T200000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-103478355179292310@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2715,13 +2715,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200410T160000Z
 DTEND:20200410T170000Z
-SUMMARY:[CBLOL] VRX vs. PNG
+SUMMARY:[CBLOL] LBR vs. PNG
 UID:cblol-brazil-103478355179292316@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. paiN Gaming (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. paiN 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. paiN Gaming (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2739,25 +2739,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200301T180000Z
 DTEND:20200301T190000Z
-SUMMARY:[CBLOL] VK vs. VRX
+SUMMARY:[CBLOL] VK vs. LBR
 UID:cblol-brazil-103478355179292320@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vivo Keyd vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vivo Keyd vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vivo 
- Keyd (1) vs. Vorax Liberty (0)\n
+ Keyd (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200314T180000Z
 DTEND:20200314T190000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-103478355179292322@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2836,13 +2836,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200418T180000Z
 DTEND:20200418T190000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-103478355179292336@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (0) vs. Vorax Liberty (1)\n
+ Flamengo Esports (0) vs. Liberty (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2908,13 +2908,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200417T160000Z
 DTEND:20200417T170000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-103478355179292348@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2968,13 +2968,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200426T160000Z
 DTEND:20200426T170000Z
-SUMMARY:[CBLOL] VRX vs. RDP
+SUMMARY:[CBLOL] LBR vs. RDP
 UID:cblol-brazil-103478355179292358@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. 
- Redemption Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vorax Liberty (1) vs. Redemption Porto Alegre (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. Redemption 
+ Porto Alegre\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liberty (1) vs. Redemption Porto Alegre (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3016,13 +3016,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200424T190000Z
 DTEND:20200424T200000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-103478355179357902@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3052,13 +3052,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200425T190000Z
 DTEND:20200425T200000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-103478355179357908@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (1) vs. Vorax Liberty (0)\n
+ Gaming (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3076,25 +3076,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200412T170000Z
 DTEND:20200412T180000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-103478355179357912@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Vivo Keyd (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. Vivo Keyd (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200419T160000Z
 DTEND:20200419T170000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-103478355179357914@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3196,13 +3196,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200614T180000Z
 DTEND:20200614T190000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-104202471517814521@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Flamengo Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. Flamengo Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3268,13 +3268,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200607T170000Z
 DTEND:20200607T180000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-104202471517814533@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3328,13 +3328,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200620T190000Z
 DTEND:20200620T200000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-104202471517814543@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (1) vs. Liberty 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3376,13 +3376,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200606T190000Z
 DTEND:20200606T200000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-104202471517814551@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. KaBuM! Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. KaBuM! Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3412,13 +3412,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200627T160000Z
 DTEND:20200627T170000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-104202471517814557@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (1) vs. Vorax Liberty (0)\n
+ Gaming (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3448,25 +3448,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200621T170000Z
 DTEND:20200621T180000Z
-SUMMARY:[CBLOL] VRX vs. SAN
+SUMMARY:[CBLOL] LBR vs. SAN
 UID:cblol-brazil-104202471517814563@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Vorax Liberty vs. Santos 
- HotForex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Liberty vs. Santos 
+ HotForex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Liberty (0) vs. Santos HotForex (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200613T160000Z
 DTEND:20200613T170000Z
-SUMMARY:[CBLOL] VK vs. VRX
+SUMMARY:[CBLOL] VK vs. LBR
 UID:cblol-brazil-104202471517814565@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Vivo Keyd vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Vivo Keyd vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vivo 
- Keyd (1) vs. Vorax Liberty (0)\n
+ Keyd (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3532,13 +3532,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200711T170000Z
 DTEND:20200711T180000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-104202471517814577@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (0) vs. Vorax Liberty (1)\n
+ Flamengo Esports (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3604,13 +3604,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200704T190000Z
 DTEND:20200704T200000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-104202471517814589@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3664,13 +3664,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200712T160000Z
 DTEND:20200712T170000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-104202471517814599@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3712,13 +3712,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200628T190000Z
 DTEND:20200628T200000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-104202471517814607@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3748,13 +3748,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200719T190000Z
 DTEND:20200719T200000Z
-SUMMARY:[CBLOL] VRX vs. PNG
+SUMMARY:[CBLOL] LBR vs. PNG
 UID:cblol-brazil-104202471517814613@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. paiN Gaming (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. paiN 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (1) vs. paiN Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3784,25 +3784,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200718T180000Z
 DTEND:20200718T190000Z
-SUMMARY:[CBLOL] SAN vs. VRX
+SUMMARY:[CBLOL] SAN vs. LBR
 UID:cblol-brazil-104202471517814619@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Santos HotForex vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Santos HotForex vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Santos 
- HotForex (0) vs. Vorax Liberty (1)\n
+ HotForex (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200705T180000Z
 DTEND:20200705T190000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-104202471517814621@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. Vivo Keyd (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (1) vs. Vivo Keyd (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3868,13 +3868,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200802T170000Z
 DTEND:20200802T180000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-104202471517814633@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Flamengo Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. Flamengo Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3940,13 +3940,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200726T170000Z
 DTEND:20200726T180000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-104202471517880181@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4000,13 +4000,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200807T160000Z
 DTEND:20200807T170000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-104202471517880191@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4048,13 +4048,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200725T190000Z
 DTEND:20200725T200000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-104202471517880199@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4084,13 +4084,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200809T170000Z
 DTEND:20200809T180000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-104202471517880205@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (0) vs. Vorax Liberty (1)\n
+ Gaming (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4120,25 +4120,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200808T180000Z
 DTEND:20200808T190000Z
-SUMMARY:[CBLOL] VRX vs. SAN
+SUMMARY:[CBLOL] LBR vs. SAN
 UID:cblol-brazil-104202471517880211@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Vorax Liberty vs. Santos 
- HotForex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 10\nTeams: Liberty vs. Santos 
+ HotForex\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Liberty (1) vs. Santos HotForex (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200801T190000Z
 DTEND:20200801T200000Z
-SUMMARY:[CBLOL] VRX vs. VK
+SUMMARY:[CBLOL] LBR vs. VK
 UID:cblol-brazil-104202471517880213@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. Vivo 
- Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Vivo Keyd (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. Vivo 
+ Keyd\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. Vivo Keyd (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4156,13 +4156,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200822T160000Z
 DTEND:20200822T210000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-104202471527382938@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: paiN 
- Gaming (3) vs. Vorax Liberty (2)\n
+ Gaming (3) vs. Liberty (2)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4288,13 +4288,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210116T200000Z
 DTEND:20210116T210000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-105539760574687221@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (1) vs. Vorax Liberty (0)\n
+ Flamengo Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4384,13 +4384,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210124T190000Z
 DTEND:20210124T200000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-105539760574687237@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4468,13 +4468,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210117T180000Z
 DTEND:20210117T190000Z
-SUMMARY:[CBLOL] VRX vs. RNS
+SUMMARY:[CBLOL] LBR vs. RNS
 UID:cblol-brazil-105539760574752787@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. 
- RENSGA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. RENSGA (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. RENSGA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (0) vs. RENSGA
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4540,13 +4540,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210207T190000Z
 DTEND:20210207T200000Z
-SUMMARY:[CBLOL] NMG vs. VRX
+SUMMARY:[CBLOL] NMG vs. LBR
 UID:cblol-brazil-105539760574752799@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Netshoes Miners vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Netshoes Miners vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Netshoes Miners (0) vs. Vorax Liberty (1)\n
+ Netshoes Miners (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4600,13 +4600,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210123T190000Z
 DTEND:20210123T200000Z
-SUMMARY:[CBLOL] LLL vs. VRX
+SUMMARY:[CBLOL] LLL vs. LBR
 UID:cblol-brazil-105539760574752809@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: LOUD vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: LOUD vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4648,13 +4648,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210206T160000Z
 DTEND:20210206T170000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-105539760574752817@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4684,13 +4684,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210130T160000Z
 DTEND:20210130T170000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-105539760574752823@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (0) vs. Vorax Liberty (1)\n
+ Gaming (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4708,25 +4708,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210131T190000Z
 DTEND:20210131T200000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-105539760574752827@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (1) vs. Vorax Liberty (0)\n
+ Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210213T190000Z
 DTEND:20210213T200000Z
-SUMMARY:[CBLOL] VRX vs. RED
+SUMMARY:[CBLOL] LBR vs. RED
 UID:cblol-brazil-105539760574752829@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. RED Kalunga (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. RED 
+ Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. RED Kalunga (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4828,13 +4828,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210214T170000Z
 DTEND:20210214T180000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-105539760574818383@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Flamengo Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. Flamengo Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4924,13 +4924,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210227T180000Z
 DTEND:20210227T190000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-105539760574818399@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5008,13 +5008,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210225T230000Z
 DTEND:20210226T000000Z
-SUMMARY:[CBLOL] RNS vs. VRX
+SUMMARY:[CBLOL] RNS vs. LBR
 UID:cblol-brazil-105539760574818413@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: RENSGA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: RENSGA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA (0) vs. Liberty
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5080,13 +5080,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210313T170000Z
 DTEND:20210313T180000Z
-SUMMARY:[CBLOL] VRX vs. NMG
+SUMMARY:[CBLOL] LBR vs. NMG
 UID:cblol-brazil-105539760574818425@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. Netshoes 
- Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. Netshoes Miners (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. Netshoes 
+ Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (1) vs. Netshoes Miners (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5140,13 +5140,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210226T000000Z
 DTEND:20210226T010000Z
-SUMMARY:[CBLOL] VRX vs. LLL
+SUMMARY:[CBLOL] LBR vs. LLL
 UID:cblol-brazil-105539760574883971@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. 
- LOUD\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. LOUD (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. LOUD\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. LOUD 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5188,13 +5188,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210307T160000Z
 DTEND:20210307T170000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-105539760574883979@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5224,13 +5224,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210228T160000Z
 DTEND:20210228T170000Z
-SUMMARY:[CBLOL] VRX vs. PNG
+SUMMARY:[CBLOL] LBR vs. PNG
 UID:cblol-brazil-105539760574883985@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. paiN Gaming (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. paiN 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (1) vs. paiN Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5248,25 +5248,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210306T190000Z
 DTEND:20210306T200000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-105539760574883989@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. KaBuM! Esports (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. KaBuM! Esports (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210314T190000Z
 DTEND:20210314T200000Z
-SUMMARY:[CBLOL] RED vs. VRX
+SUMMARY:[CBLOL] RED vs. LBR
 UID:cblol-brazil-105539760574883991@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: RED Kalunga vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: RED Kalunga vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RED 
- Kalunga (0) vs. Vorax Liberty (1)\n
+ Kalunga (0) vs. Liberty (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5308,25 +5308,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210404T160000Z
 DTEND:20210404T210000Z
-SUMMARY:[CBLOL] VRX vs. RED
+SUMMARY:[CBLOL] LBR vs. RED
 UID:cblol-brazil-105793991942485653@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: Vorax Liberty vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Vorax 
- Liberty (3) vs. RED Kalunga (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: Liberty vs. RED 
+ Kalunga\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Liberty
+  (3) vs. RED Kalunga (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210418T160000Z
 DTEND:20210418T210000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-105793991942485659@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Finale\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Finale\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: paiN 
- Gaming (3) vs. Vorax Liberty (1)\n
+ Gaming (3) vs. Liberty (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5356,13 +5356,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210612T200000Z
 DTEND:20210612T210000Z
-SUMMARY:[CBLOL] FLA vs. VRX
+SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-106297375706435006@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Flamengo Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: Flamengo Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Flamengo Esports (1) vs. Vorax Liberty (0)\n
+ Flamengo Esports (1) vs. Liberty (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5452,13 +5452,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210606T160000Z
 DTEND:20210606T170000Z
-SUMMARY:[CBLOL] VRX vs. PNG
+SUMMARY:[CBLOL] LBR vs. PNG
 UID:cblol-brazil-106297375706500558@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Vorax Liberty vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. paiN Gaming (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: Liberty vs. paiN 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. paiN Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5536,13 +5536,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210605T170000Z
 DTEND:20210605T180000Z
-SUMMARY:[CBLOL] KBM vs. VRX
+SUMMARY:[CBLOL] KBM vs. LBR
 UID:cblol-brazil-106297375706500572@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: KaBuM! Esports vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 1\nTeams: KaBuM! Esports vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
- Esports (0) vs. Vorax Liberty (1)\n
+ Esports (0) vs. Liberty (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5620,73 +5620,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210703T200000Z
 DTEND:20210703T210000Z
-SUMMARY:[CBLOL] VRX vs. NMG
+SUMMARY:[CBLOL] LBR vs. NMG
 UID:cblol-brazil-106297375706500586@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. Netshoes 
- Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (0) vs. Netshoes Miners (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. Netshoes 
+ Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty 
+ (0) vs. Netshoes Miners (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210613T190000Z
 DTEND:20210613T200000Z
-SUMMARY:[CBLOL] FUR vs. VRX
+SUMMARY:[CBLOL] FUR vs. LBR
 UID:cblol-brazil-106297375706500588@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: FURIA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 2\nTeams: FURIA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210619T180000Z
 DTEND:20210619T190000Z
-SUMMARY:[CBLOL] VRX vs. RNS
+SUMMARY:[CBLOL] LBR vs. RNS
 UID:cblol-brazil-106297375706500590@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Vorax Liberty vs. 
- RENSGA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. RENSGA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: Liberty vs. RENSGA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. RENSGA
+  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210627T160000Z
 DTEND:20210627T170000Z
-SUMMARY:[CBLOL] ITZ vs. VRX
+SUMMARY:[CBLOL] ITZ vs. LBR
 UID:cblol-brazil-106297375706500592@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: INTZ vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: INTZ vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210620T180000Z
 DTEND:20210620T190000Z
-SUMMARY:[CBLOL] LLL vs. VRX
+SUMMARY:[CBLOL] LLL vs. LBR
 UID:cblol-brazil-106297375706500594@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: LOUD vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD 
- (0) vs. Vorax Liberty (1)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 3\nTeams: LOUD vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD (0) vs. Liberty 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210626T170000Z
 DTEND:20210626T180000Z
-SUMMARY:[CBLOL] VRX vs. RED
+SUMMARY:[CBLOL] LBR vs. RED
 UID:cblol-brazil-106297375706500596@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Vorax Liberty vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. RED Kalunga (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 4\nTeams: Liberty vs. RED 
+ Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. RED Kalunga (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5896,13 +5896,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210711T160000Z
 DTEND:20210711T170000Z
-SUMMARY:[CBLOL] VRX vs. FLA
+SUMMARY:[CBLOL] LBR vs. FLA
 UID:cblol-brazil-106297375706566168@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Vorax Liberty vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. Flamengo Esports (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Liberty vs. Flamengo 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. Flamengo Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5992,13 +5992,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210710T160000Z
 DTEND:20210710T170000Z
-SUMMARY:[CBLOL] PNG vs. VRX
+SUMMARY:[CBLOL] PNG vs. LBR
 UID:cblol-brazil-106297375706566184@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: paiN Gaming vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: paiN Gaming vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
- Gaming (0) vs. Vorax Liberty (1)\n
+ Gaming (0) vs. Liberty (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6076,13 +6076,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210704T190000Z
 DTEND:20210704T200000Z
-SUMMARY:[CBLOL] VRX vs. KBM
+SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-106297375706566198@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Vorax Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. KaBuM! Esports (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 5\nTeams: Liberty vs. KaBuM! 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. KaBuM! Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6160,73 +6160,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210801T180000Z
 DTEND:20210801T190000Z
-SUMMARY:[CBLOL] NMG vs. VRX
+SUMMARY:[CBLOL] NMG vs. LBR
 UID:cblol-brazil-106297375706566212@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Netshoes Miners vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Netshoes Miners vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Netshoes Miners (1) vs. Vorax Liberty (0)\n
+ Netshoes Miners (1) vs. Liberty (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210717T180000Z
 DTEND:20210717T190000Z
-SUMMARY:[CBLOL] VRX vs. FUR
+SUMMARY:[CBLOL] LBR vs. FUR
 UID:cblol-brazil-106297375706631750@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Vorax Liberty vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. FURIA (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. FURIA\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. FURIA 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210718T170000Z
 DTEND:20210718T180000Z
-SUMMARY:[CBLOL] RNS vs. VRX
+SUMMARY:[CBLOL] RNS vs. LBR
 UID:cblol-brazil-106297375706631752@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: RENSGA vs. Vorax 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA 
- (1) vs. Vorax Liberty (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: RENSGA vs. Liberty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA (1) vs. Liberty
+  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210731T190000Z
 DTEND:20210731T200000Z
-SUMMARY:[CBLOL] VRX vs. ITZ
+SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-106297375706631754@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Vorax Liberty vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. INTZ (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. INTZ\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210724T160000Z
 DTEND:20210724T170000Z
-SUMMARY:[CBLOL] VRX vs. LLL
+SUMMARY:[CBLOL] LBR vs. LLL
 UID:cblol-brazil-106297375706631756@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Vorax Liberty vs. 
- LOUD\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. LOUD (0)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: Liberty vs. LOUD\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. LOUD 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210725T170000Z
 DTEND:20210725T180000Z
-SUMMARY:[CBLOL] RED vs. VRX
+SUMMARY:[CBLOL] RED vs. LBR
 UID:cblol-brazil-106297375706631758@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: RED Kalunga vs. Vorax 
+DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: RED Kalunga vs. 
  Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RED 
- Kalunga (1) vs. Vorax Liberty (0)\n
+ Kalunga (1) vs. Liberty (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6448,13 +6448,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210822T160000Z
 DTEND:20210822T210000Z
-SUMMARY:[CBLOL] VRX vs. RED
+SUMMARY:[CBLOL] LBR vs. RED
 UID:cblol-brazil-106297375706631808@lol.ics.tools
-DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: Vorax Liberty vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Vorax 
- Liberty (1) vs. RED Kalunga (3)\n
+DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: Liberty vs. RED 
+ Kalunga\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Liberty
+  (1) vs. RED Kalunga (3)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT

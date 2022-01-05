@@ -1742,37 +1742,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200424T160000Z
 DTEND:20200424T170000Z
-SUMMARY:[European Masters] WIZ vs. ESB
+SUMMARY:[European Masters] EWIZ vs. ESB
 UID:european-masters-103936903255867915@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Energypot 
  Wizards vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Energypot Wizards (1) vs. eSuba (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200423T200000Z
 DTEND:20200423T210000Z
-SUMMARY:[European Masters] FNCR vs. WIZ
+SUMMARY:[European Masters] FNCR vs. EWIZ
 UID:european-masters-103936903255867917@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: HMA Fnatic 
  Rising vs. Energypot Wizards\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: HMA Fnatic Rising (0) vs. Energypot Wizards (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200422T180000Z
 DTEND:20200422T190000Z
-SUMMARY:[European Masters] WIZ vs. MOUZ
+SUMMARY:[European Masters] EWIZ vs. MOUZ
 UID:european-masters-103936903255867919@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Energypot 
  Wizards vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Energypot Wizards (0) vs. Mousesports (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1814,37 +1814,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200502T190000Z
 DTEND:20200502T200000Z
-SUMMARY:[European Masters] ESB vs. WIZ
+SUMMARY:[European Masters] ESB vs. EWIZ
 UID:european-masters-103936903255867927@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: eSuba vs. 
  Energypot Wizards\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: eSuba (0) vs. Energypot Wizards (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200502T210000Z
 DTEND:20200502T220000Z
-SUMMARY:[European Masters] WIZ vs. FNCR
+SUMMARY:[European Masters] EWIZ vs. FNCR
 UID:european-masters-103936903255867929@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Energypot 
  Wizards vs. HMA Fnatic Rising\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Energypot Wizards (0) vs. HMA Fnatic Rising (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200502T160000Z
 DTEND:20200502T170000Z
-SUMMARY:[European Masters] MOUZ vs. WIZ
+SUMMARY:[European Masters] MOUZ vs. EWIZ
 UID:european-masters-103936903255867931@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Mousesports
   vs. Energypot Wizards\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Mousesports (1) vs. Energypot Wizards (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3709,12 +3709,12 @@ DTSTART:20210329T183000Z
 DTEND:20210329T193000Z
 SUMMARY:[European Masters] KVM vs. GSMC
 UID:european-masters-105945560581644254@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen vs. 
- Gamespace Mediterranean College Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: KV Mechelen (1) vs. Gamespace 
- Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen 
+ Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: KV Mechelen Esports (1) vs. 
+ Gamespace Mediterranean College Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3734,11 +3734,11 @@ DTSTART:20210329T153000Z
 DTEND:20210329T163000Z
 SUMMARY:[European Masters] KVM vs. Z10
 UID:european-masters-105945560581644258@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen vs. 
- Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- KV Mechelen (0) vs. Zero Tenacity (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen 
+ Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (0) vs. Zero Tenacity (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3746,11 +3746,12 @@ DTSTART:20210329T163000Z
 DTEND:20210329T173000Z
 SUMMARY:[European Masters] KVM vs. FTW
 UID:european-masters-105945560581644260@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen vs. 
- For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: KV Mechelen (1) vs. For The Win Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KV Mechelen 
+ Esports vs. For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (1) vs. For The Win Esports 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3784,12 +3785,12 @@ DTSTART:20210330T143000Z
 DTEND:20210330T153000Z
 SUMMARY:[European Masters] KVM vs. GSMC
 UID:european-masters-105945560581644266@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen vs. 
- Gamespace Mediterranean College Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: KV Mechelen (1) vs. Gamespace 
- Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen 
+ Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: KV Mechelen Esports (1) vs. 
+ Gamespace Mediterranean College Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3809,11 +3810,11 @@ DTSTART:20210330T193000Z
 DTEND:20210330T203000Z
 SUMMARY:[European Masters] KVM vs. Z10
 UID:european-masters-105945560581709806@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen vs. 
- Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- KV Mechelen (1) vs. Zero Tenacity (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen 
+ Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (1) vs. Zero Tenacity (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3821,11 +3822,12 @@ DTSTART:20210330T173000Z
 DTEND:20210330T183000Z
 SUMMARY:[European Masters] KVM vs. FTW
 UID:european-masters-105945560581709808@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen vs. 
- For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: KV Mechelen (1) vs. For The Win Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen 
+ Esports vs. For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (1) vs. For The Win Esports 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3989,11 +3991,11 @@ DTSTART:20210330T203000Z
 DTEND:20210330T213000Z
 SUMMARY:[European Masters] KVM vs. Z10
 UID:european-masters-105980464679855512@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen vs. 
- Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- KV Mechelen (0) vs. Zero Tenacity (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: KV Mechelen 
+ Esports vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (0) vs. Zero Tenacity (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4025,11 +4027,12 @@ DTSTART:20210401T173000Z
 DTEND:20210401T203000Z
 SUMMARY:[European Masters] KVM vs. S04E
 UID:european-masters-105980662873433651@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 3\nTeams: KV Mechelen vs. 
- Schalke 04 Evolution\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: KV Mechelen (0) vs. Schalke 04 Evolution (2)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 3\nTeams: KV Mechelen 
+ Esports vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (0) vs. Schalke 04 Evolution 
+ (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4487,11 +4490,11 @@ DTSTART:20210414T153000Z
 DTEND:20210414T163000Z
 SUMMARY:[European Masters] BTS vs. KC
 UID:european-masters-105990084005182063@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Cream Real Betis
-  vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Cream Real Betis (0) vs. Karmine Corp (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Herbalife Real 
+ Betis vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Herbalife Real Betis (0) vs. Karmine Corp (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4524,10 +4527,10 @@ DTEND:20210417T153000Z
 SUMMARY:[European Masters] BTXL vs. BTS
 UID:european-masters-105990084005182069@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: BT Excel vs. 
- Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. Cream Real Betis (0)\n
+ Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BT Excel (1) vs. Herbalife Real Betis (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4535,11 +4538,12 @@ DTSTART:20210415T153000Z
 DTEND:20210415T163000Z
 SUMMARY:[European Masters] BTS vs. S04E
 UID:european-masters-105990084005182071@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Cream Real Betis
-  vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Cream Real Betis (1) vs. Schalke 04 Evolution (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Herbalife Real 
+ Betis vs. Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Herbalife Real Betis (1) vs. Schalke 04 Evolution 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4560,10 +4564,10 @@ DTEND:20210423T153000Z
 SUMMARY:[European Masters] KC vs. BTS
 UID:european-masters-105990084005182075@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Karmine Corp vs.
-  Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Karmine Corp (1) vs. Cream Real Betis (0)\n
+  Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Herbalife Real Betis (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4595,11 +4599,11 @@ DTSTART:20210423T173000Z
 DTEND:20210423T183000Z
 SUMMARY:[European Masters] BTS vs. BTXL
 UID:european-masters-105990084005182081@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Cream Real Betis
-  vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Cream Real Betis (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Herbalife Real 
+ Betis vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Herbalife Real Betis (0) vs. BT Excel (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4608,10 +4612,11 @@ DTEND:20210423T203000Z
 SUMMARY:[European Masters] S04E vs. BTS
 UID:european-masters-105990084005182083@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Schalke 04 
- Evolution vs. Cream Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Schalke 04 Evolution (1) vs. Cream Real Betis (0)\n
+ Evolution vs. Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. Herbalife Real Betis 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220105T064031Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4885,10 +4890,10 @@ DTEND:20210816T153000Z
 SUMMARY:[European Masters] MRS vs. MCN
 UID:european-masters-106744065770322625@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Movistar Riders 
- vs. mCon Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Movistar Riders (1) vs. mCon Rotterdam (0)\n
+ vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Riders (1) vs. mCon LG UltraGear (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4921,12 +4926,12 @@ DTSTART:20210816T173000Z
 DTEND:20210816T183000Z
 SUMMARY:[European Masters] MCN vs. WOLF
 UID:european-masters-106744065770322631@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: mCon Rotterdam vs.
-  Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: mCon Rotterdam (1) vs. Topo Centras Iron Wolves 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: mCon LG UltraGear 
+ vs. Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: mCon LG UltraGear (1) vs. Topo Centras Iron Wolves 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4935,10 +4940,10 @@ DTEND:20210816T193000Z
 SUMMARY:[European Masters] FNCR vs. MCN
 UID:european-masters-106744065770322633@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: HMA Fnatic Rising 
- vs. mCon Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: HMA Fnatic Rising (1) vs. mCon Rotterdam (0)\n
+ vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HMA Fnatic Rising (1) vs. mCon LG UltraGear (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4959,11 +4964,11 @@ DTSTART:20210817T173000Z
 DTEND:20210817T183000Z
 SUMMARY:[European Masters] MCN vs. MRS
 UID:european-masters-106744065770322637@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon Rotterdam vs.
-  Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: mCon Rotterdam (0) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon LG UltraGear 
+ vs. Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: mCon LG UltraGear (0) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4997,11 +5002,11 @@ DTEND:20210817T203000Z
 SUMMARY:[European Masters] WOLF vs. MCN
 UID:european-masters-106744065770322643@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Topo Centras Iron 
- Wolves vs. mCon Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. mCon Rotterdam 
+ Wolves vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. mCon LG UltraGear 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5009,11 +5014,11 @@ DTSTART:20210817T143000Z
 DTEND:20210817T153000Z
 SUMMARY:[European Masters] MCN vs. FNCR
 UID:european-masters-106744065770322645@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon Rotterdam vs.
-  HMA Fnatic Rising\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: mCon Rotterdam (0) vs. HMA Fnatic Rising (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon LG UltraGear 
+ vs. HMA Fnatic Rising\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: mCon LG UltraGear (0) vs. HMA Fnatic Rising (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220105T064032Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
