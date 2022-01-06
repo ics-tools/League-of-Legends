@@ -7,12 +7,12 @@ DTSTART:20210119T170000Z
 DTEND:20210119T180000Z
 SUMMARY:[Greek Legends League] WLG vs. CBI
 UID:greek_legends-105522904802887032@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. CowBoySquad 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. CowBoySquad 
  Imperials Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20,11 +20,11 @@ DTSTART:20210127T170000Z
 DTEND:20210127T180000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-105522904802887034@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Zerolag Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32,11 +32,11 @@ DTSTART:20210126T190000Z
 DTEND:20210126T200000Z
 SUMMARY:[Greek Legends League] WLG vs. HIVE
 UID:greek_legends-105522904802887038@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Hive Athens EC (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Hive Athens EC (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -45,10 +45,10 @@ DTEND:20210202T210000Z
 SUMMARY:[Greek Legends League] RFS vs. WLG
 UID:greek_legends-105522904802887040@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Team Refuse 
- vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Refuse (0) vs. WLGaming Esports (1)\n
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -56,11 +56,11 @@ DTSTART:20210118T200000Z
 DTEND:20210118T210000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-105522904802887042@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Team Phantasma (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Team Phantasma (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -69,11 +69,11 @@ DTEND:20210125T200000Z
 SUMMARY:[Greek Legends League] GSMC vs. WLG
 UID:greek_legends-105522904802887044@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Gamespace 
- Mediterranean College Esports vs. WLGaming Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College 
- Esports (1) vs. WLGaming Esports (0)\n
+ Mediterranean College Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports 
+ (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81,12 +81,12 @@ DTSTART:20210201T200000Z
 DTEND:20210201T210000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-105522904802887046@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: WLGaming 
- Esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. Anorthosis 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: We Love 
+ Gaming vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Anorthosis 
  Famagusta Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -362,11 +362,11 @@ DTEND:20210209T180000Z
 SUMMARY:[Greek Legends League] CBI vs. WLG
 UID:greek_legends-105522904802952658@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: CowBoySquad 
- Imperials Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. WLGaming 
- Esports (1)\n
+ Imperials Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. We Love 
+ Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -375,10 +375,10 @@ DTEND:20210218T180000Z
 SUMMARY:[Greek Legends League] ZRL vs. WLG
 UID:greek_legends-105522904802952660@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Zerolag 
- Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zerolag Esports (1) vs. WLGaming Esports (0)\n
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -387,10 +387,10 @@ DTEND:20210217T200000Z
 SUMMARY:[Greek Legends League] HIVE vs. WLG
 UID:greek_legends-105522904802952664@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Hive Athens 
- EC vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Hive Athens EC (0) vs. WLGaming Esports (1)\n
+ EC vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Hive Athens EC (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -398,11 +398,11 @@ DTSTART:20210223T200000Z
 DTEND:20210223T210000Z
 SUMMARY:[Greek Legends League] WLG vs. RFS
 UID:greek_legends-105522904802952666@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Team Refuse (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Team Refuse (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -411,10 +411,10 @@ DTEND:20210208T210000Z
 SUMMARY:[Greek Legends League] TP vs. WLG
 UID:greek_legends-105522904802952668@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Team 
- Phantasma vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Phantasma (0) vs. WLGaming Esports (1)\n
+ Phantasma vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Phantasma (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -422,12 +422,12 @@ DTSTART:20210215T190000Z
 DTEND:20210215T200000Z
 SUMMARY:[Greek Legends League] WLG vs. GSMC
 UID:greek_legends-105522904802952670@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: WLGaming 
- Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. 
- Gamespace Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: We Love 
+ Gaming vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Gamespace 
+ Mediterranean College Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -436,11 +436,11 @@ DTEND:20210222T210000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-105522904802952672@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Anorthosis 
- Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. WLGaming 
- Esports (1)\n
+ Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. We Love Gaming
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -768,11 +768,11 @@ DTEND:20210309T220000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-105809562662589524@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Halbfinale\nTeams: 
- Anorthosis Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf
-  5\nStatus: completed\nErgebnisse: Anorthosis Famagusta Esports (3) vs. 
- WLGaming Esports (1)\n
+ Anorthosis Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Anorthosis Famagusta Esports (3) vs. We 
+ Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -793,11 +793,11 @@ DTSTART:20210310T170000Z
 DTEND:20210310T220000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-105866078666358518@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Finale\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: WLGaming Esports (3) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Finale\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: We Love Gaming (3) vs. Zerolag Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -805,11 +805,11 @@ DTSTART:20210531T160000Z
 DTEND:20210531T170000Z
 SUMMARY:[Greek Legends League] WLG vs. RFS
 UID:greek_legends-106295147954181417@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Team Refuse (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Team Refuse (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -817,12 +817,12 @@ DTSTART:20210608T180000Z
 DTEND:20210608T190000Z
 SUMMARY:[Greek Legends League] WLG vs. CBI
 UID:greek_legends-106295147954181419@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. CowBoySquad 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. CowBoySquad 
  Imperials Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -830,11 +830,11 @@ DTSTART:20210607T170000Z
 DTEND:20210607T180000Z
 SUMMARY:[Greek Legends League] WLG vs. UDG
 UID:greek_legends-106295147954181421@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Umbra Divinus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Umbra Divinus Gaming (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Umbra Divinus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Umbra Divinus Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -843,11 +843,11 @@ DTEND:20210615T200000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-106295147954181423@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Anorthosis 
- Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. WLGaming 
- Esports (0)\n
+ Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. We Love Gaming
+  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -856,11 +856,11 @@ DTEND:20210614T200000Z
 SUMMARY:[Greek Legends League] GSMC vs. WLG
 UID:greek_legends-106295147954181425@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Gamespace 
- Mediterranean College Esports vs. WLGaming Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College 
- Esports (0) vs. WLGaming Esports (1)\n
+ Mediterranean College Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports 
+ (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -868,11 +868,11 @@ DTSTART:20210601T190000Z
 DTEND:20210601T200000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-106295147954181427@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Zerolag Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -881,10 +881,10 @@ DTEND:20210602T200000Z
 SUMMARY:[Greek Legends League] TP vs. WLG
 UID:greek_legends-106295147954181429@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: Team 
- Phantasma vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Phantasma (1) vs. WLGaming Esports (0)\n
+ Phantasma vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Phantasma (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1160,10 +1160,10 @@ DTEND:20210621T170000Z
 SUMMARY:[Greek Legends League] RFS vs. WLG
 UID:greek_legends-106295147954247009@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Team Refuse 
- vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Refuse (0) vs. WLGaming Esports (1)\n
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1172,11 +1172,11 @@ DTEND:20210630T190000Z
 SUMMARY:[Greek Legends League] CBI vs. WLG
 UID:greek_legends-106295147954247011@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: CowBoySquad 
- Imperials Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. WLGaming 
- Esports (1)\n
+ Imperials Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. We Love 
+ Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1185,10 +1185,10 @@ DTEND:20210629T180000Z
 SUMMARY:[Greek Legends League] UDG vs. WLG
 UID:greek_legends-106295147954247013@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Umbra 
- Divinus Gaming vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Umbra Divinus Gaming (0) vs. WLGaming Esports (1)\n
+ Divinus Gaming vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Umbra Divinus Gaming (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,12 +1196,12 @@ DTSTART:20210706T190000Z
 DTEND:20210706T200000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-106295147954247015@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. Anorthosis 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Anorthosis 
  Famagusta Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1209,12 +1209,12 @@ DTSTART:20210705T190000Z
 DTEND:20210705T200000Z
 SUMMARY:[Greek Legends League] WLG vs. GSMC
 UID:greek_legends-106295147954247017@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. 
- Gamespace Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Gamespace 
+ Mediterranean College Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,10 +1223,10 @@ DTEND:20210622T200000Z
 SUMMARY:[Greek Legends League] ZRL vs. WLG
 UID:greek_legends-106295147954247019@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Zerolag 
- Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zerolag Esports (0) vs. WLGaming Esports (1)\n
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,11 +1234,11 @@ DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-106295147954247021@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: WLGaming 
- Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Team Phantasma (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: We Love 
+ Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Team Phantasma (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,11 +1553,11 @@ DTEND:20210719T210000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-106562554878487187@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: WLGaming Esports vs. Anorthosis Famagusta Esports\nSpiel-
- Strategie: bestOf 5\nStatus: completed\nErgebnisse: WLGaming Esports (2) 
- vs. Anorthosis Famagusta Esports (3)\n
+ 2\nTeams: We Love Gaming vs. Anorthosis Famagusta Esports\nSpiel-
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: We Love Gaming (2) vs.
+  Anorthosis Famagusta Esports (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1579,11 +1579,11 @@ DTEND:20210720T210000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-106562554878487199@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 3\nTeams: WLGaming Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 
- 5\nStatus: completed\nErgebnisse: WLGaming Esports (2) vs. Team Phantasma 
+ 3\nTeams: We Love Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: We Love Gaming (2) vs. Team Phantasma 
  (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT

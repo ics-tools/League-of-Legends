@@ -5,109 +5,109 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20210128T210000Z
 DTEND:20210128T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105562529627032220@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (1) vs. Movistar Riders (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. Movistar Riders (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210204T200000Z
 DTEND:20210204T210000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-105562529627163294@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210208T210000Z
 DTEND:20210208T220000Z
-SUMMARY:[SuperLiga] VGIA vs. S2V
+SUMMARY:[SuperLiga] GIA vs. S2V
 UID:superliga-105562529627163296@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. S2V
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. S2V Esports (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Giants vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. S2V Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210201T190000Z
 DTEND:20210201T200000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-105562529627163298@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. eMonkeyz SDH (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (0) 
+ vs. eMonkeyz SDH (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T200000Z
 DTEND:20210120T210000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-105562529627163300@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210118T200000Z
 DTEND:20210118T210000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-105562529627163302@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (0) vs. Vodafone Giants (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210121T210000Z
 DTEND:20210121T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-105562529627163304@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. MAD Lions Madrid (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. MAD Lions Madrid (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210210T210000Z
 DTEND:20210210T220000Z
-SUMMARY:[SuperLiga] G2AR vs. VGIA
+SUMMARY:[SuperLiga] G2AR vs. GIA
 UID:superliga-105562529627163306@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
- Arctic (0) vs. Vodafone Giants (1)\n
+ Arctic (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210125T170000Z
 DTEND:20210125T180000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-105562529627163308@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. BCN Squad (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. BCN Squad (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -546,109 +546,109 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210225T210000Z
 DTEND:20210225T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105562529627228918@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (1) vs. Movistar Riders (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. Movistar Riders (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210304T200000Z
 DTEND:20210304T210000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-105562529627228920@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210308T200000Z
 DTEND:20210308T210000Z
-SUMMARY:[SuperLiga] S2V vs. VGIA
+SUMMARY:[SuperLiga] S2V vs. GIA
 UID:superliga-105562529627228922@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: S2V Esports vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  S2V Esports (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210301T200000Z
 DTEND:20210301T210000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-105562529627228924@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. eMonkeyz SDH (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (1) 
+ vs. eMonkeyz SDH (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210215T210000Z
 DTEND:20210215T220000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-105562529627228926@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210211T200000Z
 DTEND:20210211T210000Z
-SUMMARY:[SuperLiga] VGIA vs. TQ
+SUMMARY:[SuperLiga] GIA vs. TQ
 UID:superliga-105562529627228928@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. 
- Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. Team Queso (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Giants vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. Team Queso (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210218T210000Z
 DTEND:20210218T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-105562529627228930@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. MAD Lions Madrid (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210311T210000Z
 DTEND:20210311T220000Z
-SUMMARY:[SuperLiga] G2AR vs. VGIA
+SUMMARY:[SuperLiga] G2AR vs. GIA
 UID:superliga-105562529627228932@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
- Arctic (1) vs. Vodafone Giants (0)\n
+ Arctic (1) vs. Giants (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210222T180000Z
 DTEND:20210222T190000Z
-SUMMARY:[SuperLiga] BCN vs. VGIA
+SUMMARY:[SuperLiga] BCN vs. GIA
 UID:superliga-105562529627228934@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
- Squad (1) vs. Vodafone Giants (0)\n
+ Squad (1) vs. Giants (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,13 +1124,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210315T170000Z
 DTEND:20210315T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105877352567918772@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Vodafone Giants 
- vs. Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Vodafone Giants (3) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  Giants (3) vs. Movistar Riders (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1148,13 +1148,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210319T170000Z
 DTEND:20210319T220000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-105877357702518453@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: UCAM Esports Club 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: UCAM Esports Club (3) vs. Vodafone Giants (1)\n
+ vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: UCAM
+  Esports Club (3) vs. Giants (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1269,13 +1269,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210617T170000Z
 DTEND:20210617T180000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-106312505038657924@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (1) vs. BCN Squad (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. BCN Squad (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1366,13 +1366,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210607T190000Z
 DTEND:20210607T200000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-106312505038657940@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1450,13 +1450,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210614T160000Z
 DTEND:20210614T170000Z
-SUMMARY:[SuperLiga] EMZ vs. VGIA
+SUMMARY:[SuperLiga] EMZ vs. GIA
 UID:superliga-106312505038657954@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: eMonkeyz SDH vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  eMonkeyz SDH (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  SDH (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1522,13 +1522,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210531T160000Z
 DTEND:20210531T170000Z
-SUMMARY:[SuperLiga] VGIA vs. G2AR
+SUMMARY:[SuperLiga] GIA vs. G2AR
 UID:superliga-106312505038657966@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (1) vs. G2 Arctic (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. G2 Arctic (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1582,13 +1582,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
-SUMMARY:[SuperLiga] MADM vs. VGIA
+SUMMARY:[SuperLiga] MADM vs. GIA
 UID:superliga-106312505038657976@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: MAD Lions Madrid vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  MAD Lions Madrid (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1630,13 +1630,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210610T200000Z
 DTEND:20210610T210000Z
-SUMMARY:[SuperLiga] MRS vs. VGIA
+SUMMARY:[SuperLiga] MRS vs. GIA
 UID:superliga-106312505038657984@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Movistar Riders vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Movistar Riders (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1666,13 +1666,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210621T180000Z
 DTEND:20210621T190000Z
-SUMMARY:[SuperLiga] S2V vs. VGIA
+SUMMARY:[SuperLiga] S2V vs. GIA
 UID:superliga-106312505038657990@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: S2V Esports vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  S2V Esports (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1690,25 +1690,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210603T200000Z
 DTEND:20210603T210000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-106312505038657994@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (1) vs. Vodafone Giants (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210624T200000Z
 DTEND:20210624T210000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-106312505038657996@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  UCAM Esports Club (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1810,13 +1810,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210719T190000Z
 DTEND:20210719T200000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-106312505038658014@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. BCN Squad (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. BCN Squad (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1907,13 +1907,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210708T200000Z
 DTEND:20210708T210000Z
-SUMMARY:[SuperLiga] BTS vs. VGIA
+SUMMARY:[SuperLiga] BTS vs. GIA
 UID:superliga-106312505038658030@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Herbalife Real Betis 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Herbalife Real Betis (1) vs. Vodafone Giants (0)\n
+ vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Herbalife Real Betis (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1991,13 +1991,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210715T160000Z
 DTEND:20210715T170000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-106312505038723580@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. eMonkeyz SDH (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (1) 
+ vs. eMonkeyz SDH (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2063,13 +2063,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210701T200000Z
 DTEND:20210701T210000Z
-SUMMARY:[SuperLiga] VGIA vs. G2AR
+SUMMARY:[SuperLiga] GIA vs. G2AR
 UID:superliga-106312505038723592@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. G2 Arctic (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. G2 Arctic (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2123,13 +2123,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210729T200000Z
 DTEND:20210729T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-106312505038723602@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. MAD Lions Madrid (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2171,13 +2171,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210712T200000Z
 DTEND:20210712T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-106312505038723610@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (0) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2207,13 +2207,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210722T180000Z
 DTEND:20210722T190000Z
-SUMMARY:[SuperLiga] VGIA vs. S2V
+SUMMARY:[SuperLiga] GIA vs. S2V
 UID:superliga-106312505038723616@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. S2V
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. S2V Esports (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Giants vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. S2V Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2231,25 +2231,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210705T190000Z
 DTEND:20210705T200000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-106312505038723620@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (1) vs. Vodafone Giants (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210726T180000Z
 DTEND:20210726T190000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-106312505038723622@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2267,25 +2267,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210802T160000Z
 DTEND:20210802T210000Z
-SUMMARY:[SuperLiga] BTS vs. VGIA
+SUMMARY:[SuperLiga] BTS vs. GIA
 UID:superliga-106312505038723630@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Herbalife Real 
- Betis vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Herbalife Real Betis (2) vs. Vodafone Giants (3)\n
+ Betis vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Herbalife Real Betis (2) vs. Giants (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210806T160000Z
 DTEND:20210806T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-106312505038723636@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
-  Vodafone Giants (3) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Giants 
+ (3) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2303,13 +2303,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210812T160000Z
 DTEND:20210812T210000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-106312505038723648@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Finale\nTeams: UCAM Esports Club vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
-  UCAM Esports Club (1) vs. Vodafone Giants (3)\n
+ Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. Giants (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 NAME:SuperLiga Spielplan

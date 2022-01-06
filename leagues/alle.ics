@@ -152,13 +152,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190918T170000Z
 DTEND:20190918T180000Z
-SUMMARY:[European Masters] WLG vs. VGIA
+SUMMARY:[European Masters] WLG vs. GIA
 UID:european-masters-102804705881173519@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: WLGaming 
- Esports vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Vodafone Giants (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: We Love 
+ Gaming vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -176,13 +176,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190919T190000Z
 DTEND:20190919T200000Z
-SUMMARY:[European Masters] BTXL vs. VGIA
+SUMMARY:[European Masters] BTXL vs. GIA
 UID:european-masters-102804705881435665@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (0) vs. Vodafone Giants (1)\n
+ vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
+ Excel (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -191,22 +191,22 @@ DTEND:20190917T170000Z
 SUMMARY:[European Masters] BTXL vs. WLG
 UID:european-masters-102804705881632274@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. WLGaming Esports (0)\n
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BT Excel (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190916T160000Z
 DTEND:20190916T170000Z
-SUMMARY:[European Masters] GOD vs. VGIA
+SUMMARY:[European Masters] GOD vs. GIA
 UID:european-masters-102804705881763347@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Godsent vs.
-  Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Godsent (0) vs. Vodafone Giants (1)\n
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Godsent
+  (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -214,11 +214,11 @@ DTSTART:20190919T180000Z
 DTEND:20190919T190000Z
 SUMMARY:[European Masters] WLG vs. GOD
 UID:european-masters-102804705881894420@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: WLGaming 
- Esports vs. Godsent\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Godsent (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: We Love 
+ Gaming vs. Godsent\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Godsent (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -597,26 +597,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190929T140000Z
 DTEND:20190929T190000Z
-SUMMARY:[European Masters] BIG vs. VGIA
+SUMMARY:[European Masters] BIG vs. GIA
 UID:european-masters-102854687230483223@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Finale\nTeams: Berlin 
- International Gaming vs. Vodafone Giants\nSpiel-Strategie: bestOf 
- 5\nStatus: completed\nErgebnisse: Berlin International Gaming (3) vs. 
- Vodafone Giants (1)\n
+ International Gaming vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (3) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190921T190000Z
 DTEND:20190921T220000Z
-SUMMARY:[European Masters] REC1 vs. VGIA
+SUMMARY:[European Masters] REC1 vs. GIA
 UID:european-masters-102854687230810904@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: Rogue 
- Esports Club vs. Vodafone Giants\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: Rogue Esports Club (0) vs. Vodafone Giants (2)\n
+ Esports Club vs. Giants\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Rogue Esports Club (0) vs. Giants (2)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -647,13 +646,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190928T150000Z
 DTEND:20190928T200000Z
-SUMMARY:[European Masters] VGIA vs. FNCR
+SUMMARY:[European Masters] GIA vs. FNCR
 UID:european-masters-102854687231728411@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Halbfinale\nTeams: Vodafone 
- Giants vs. HMA Fnatic Rising\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Vodafone Giants (3) vs. HMA Fnatic Rising (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Halbfinale\nTeams: Giants vs. 
+ HMA Fnatic Rising\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Giants (3) vs. HMA Fnatic Rising (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1116,11 +1115,10 @@ DTEND:20200406T180300Z
 SUMMARY:[European Masters] WLG vs. S1
 UID:european-masters-103936903251804564@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: WLGaming Esports vs. Sector One\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (0) vs. Sector One 
- (1)\n
+ Vorrunde\nTeams: We Love Gaming vs. Sector One\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (0) vs. Sector One (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1129,11 +1127,11 @@ DTEND:20200406T190300Z
 SUMMARY:[European Masters] K1 vs. WLG
 UID:european-masters-103936903251804566@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: K1CK Neosurf vs. WLGaming Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: K1CK Neosurf (0) vs. WLGaming 
- Esports (1)\n
+ Vorrunde\nTeams: K1CK Neosurf vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: K1CK Neosurf (0) vs. We Love Gaming 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1142,10 +1140,10 @@ DTEND:20200406T220300Z
 SUMMARY:[European Masters] PIG vs. WLG
 UID:european-masters-103936903251804568@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: PIGSPORTS vs. WLGaming Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: PIGSPORTS (0) vs. WLGaming Esports (1)\n
+ Vorrunde\nTeams: PIGSPORTS vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: PIGSPORTS (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1190,11 +1188,10 @@ DTEND:20200408T170300Z
 SUMMARY:[European Masters] S1 vs. WLG
 UID:european-masters-103936903251804576@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: Sector One vs. WLGaming Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: Sector One (1) vs. WLGaming Esports 
- (0)\n
+ Vorrunde\nTeams: Sector One vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Sector One (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,11 +1200,11 @@ DTEND:20200408T220300Z
 SUMMARY:[European Masters] WLG vs. K1
 UID:european-masters-103936903251804578@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: WLGaming Esports vs. K1CK Neosurf\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: WLGaming Esports (0) vs. K1CK 
- Neosurf (1)\n
+ Vorrunde\nTeams: We Love Gaming vs. K1CK Neosurf\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (0) vs. K1CK Neosurf 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1216,10 +1213,10 @@ DTEND:20200408T200300Z
 SUMMARY:[European Masters] WLG vs. PIG
 UID:european-masters-103936903251804580@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: WLGaming Esports vs. PIGSPORTS\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. PIGSPORTS (0)\n
+ Vorrunde\nTeams: We Love Gaming vs. PIGSPORTS\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. PIGSPORTS (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1477,13 +1474,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200425T200000Z
 DTEND:20200425T210000Z
-SUMMARY:[European Masters] VGIA vs. RGO
+SUMMARY:[European Masters] GIA vs. RGO
 UID:european-masters-103936903254753759@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. AGO Rogue (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (1) vs. AGO Rogue (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1501,25 +1498,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200424T180000Z
 DTEND:20200424T190000Z
-SUMMARY:[European Masters] VGIA vs. DKI
+SUMMARY:[European Masters] GIA vs. DKI
 UID:european-masters-103936903254753763@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. Defusekids\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. Defusekids (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ Defusekids\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (1) vs. Defusekids (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200422T200000Z
 DTEND:20200422T210000Z
-SUMMARY:[European Masters] LDLC vs. VGIA
+SUMMARY:[European Masters] LDLC vs. GIA
 UID:european-masters-103936903254753765@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: LDLC OL vs.
-  Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: LDLC OL (0) vs. Vodafone Giants (1)\n
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC OL
+  (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,13 +1546,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200429T200000Z
 DTEND:20200429T210000Z
-SUMMARY:[European Masters] RGO vs. VGIA
+SUMMARY:[European Masters] RGO vs. GIA
 UID:european-masters-103936903254753771@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: AGO Rogue 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: AGO Rogue (1) vs. Vodafone Giants (0)\n
+ vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Giants (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,25 +1570,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200429T160000Z
 DTEND:20200429T170000Z
-SUMMARY:[European Masters] DKI vs. VGIA
+SUMMARY:[European Masters] DKI vs. GIA
 UID:european-masters-103936903254753775@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Defusekids 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Defusekids (0) vs. Vodafone Giants (1)\n
+ vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Defusekids (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200429T180000Z
 DTEND:20200429T190000Z
-SUMMARY:[European Masters] VGIA vs. LDLC
+SUMMARY:[European Masters] GIA vs. LDLC
 UID:european-masters-103936903254753777@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. LDLC OL (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. LDLC OL (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1969,13 +1966,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200503T160000Z
 DTEND:20200503T170000Z
-SUMMARY:[European Masters] LDLC vs. VGIA
+SUMMARY:[European Masters] LDLC vs. GIA
 UID:european-masters-104083942806048263@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: LDLC OL vs.
-  Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: LDLC OL (1) vs. Vodafone Giants (0)\n
+  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC OL
+  (1) vs. Giants (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2971,13 +2968,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200825T190000Z
 DTEND:20200825T200000Z
-SUMMARY:[European Masters] VGIA vs. PT7
+SUMMARY:[European Masters] GIA vs. PT7
 UID:european-masters-104727755403949082@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. 7more7 Pompa Team (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Giants (1) vs. 7more7 Pompa Team (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2985,23 +2982,23 @@ DTSTART:20200824T170000Z
 DTEND:20200824T180000Z
 SUMMARY:[European Masters] WLG vs. PT7
 UID:european-masters-104727755403949084@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: WLGaming 
- Esports vs. 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. 7more7 Pompa Team (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: We Love 
+ Gaming vs. 7more7 Pompa Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. 7more7 Pompa Team (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200824T160000Z
 DTEND:20200824T170000Z
-SUMMARY:[European Masters] VGIA vs. MSFP
+SUMMARY:[European Masters] GIA vs. MSFP
 UID:european-masters-104727755403949086@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Misfits Premier (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Giants (0) vs. Misfits Premier (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3010,22 +3007,22 @@ DTEND:20200825T190000Z
 SUMMARY:[European Masters] MSFP vs. WLG
 UID:european-masters-104727755403949088@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Misfits 
- Premier vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Misfits Premier (1) vs. WLGaming Esports (0)\n
+ Premier vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200827T180000Z
 DTEND:20200827T190000Z
-SUMMARY:[European Masters] WLG vs. VGIA
+SUMMARY:[European Masters] WLG vs. GIA
 UID:european-masters-104727755403949090@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: WLGaming 
- Esports vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Vodafone Giants (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: We Love 
+ Gaming vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3043,13 +3040,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200911T170000Z
 DTEND:20200911T180000Z
-SUMMARY:[European Masters] PT7 vs. VGIA
+SUMMARY:[European Masters] PT7 vs. GIA
 UID:european-masters-104727755403949094@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: 7more7 
- Pompa Team vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 7more7 Pompa Team (0) vs. Vodafone Giants (1)\n
+ Pompa Team vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 7more7 Pompa Team (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3058,22 +3055,22 @@ DTEND:20200911T200000Z
 SUMMARY:[European Masters] PT7 vs. WLG
 UID:european-masters-104727755403949096@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: 7more7 
- Pompa Team vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 7more7 Pompa Team (1) vs. WLGaming Esports (0)\n
+ Pompa Team vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 7more7 Pompa Team (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200911T180000Z
 DTEND:20200911T190000Z
-SUMMARY:[European Masters] MSFP vs. VGIA
+SUMMARY:[European Masters] MSFP vs. GIA
 UID:european-masters-104727755403949098@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Misfits 
- Premier vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Misfits Premier (0) vs. Vodafone Giants (1)\n
+ Premier vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3081,23 +3078,23 @@ DTSTART:20200911T160000Z
 DTEND:20200911T170000Z
 SUMMARY:[European Masters] WLG vs. MSFP
 UID:european-masters-104727755403949100@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: WLGaming 
- Esports vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Misfits Premier (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: We Love 
+ Gaming vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Misfits Premier (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200911T210000Z
 DTEND:20200911T220000Z
-SUMMARY:[European Masters] VGIA vs. WLG
+SUMMARY:[European Masters] GIA vs. WLG
 UID:european-masters-104727755403949102@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. WLGaming Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3247,13 +3244,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200915T160000Z
 DTEND:20200915T190000Z
-SUMMARY:[European Masters] GL vs. VGIA
+SUMMARY:[European Masters] GL vs. GIA
 UID:european-masters-104727755403949128@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: 
- GamerLegion vs. Vodafone Giants\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: GamerLegion (2) vs. Vodafone Giants (1)\n
+ GamerLegion vs. Giants\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: GamerLegion (2) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4886,13 +4883,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210816T143000Z
 DTEND:20210816T153000Z
-SUMMARY:[European Masters] MRS vs. MCN
+SUMMARY:[European Masters] MRS vs. MCON
 UID:european-masters-106744065770322625@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Movistar Riders 
  vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Movistar Riders (1) vs. mCon LG UltraGear (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4923,26 +4920,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210816T173000Z
 DTEND:20210816T183000Z
-SUMMARY:[European Masters] MCN vs. WOLF
+SUMMARY:[European Masters] MCON vs. WOLF
 UID:european-masters-106744065770322631@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: mCon LG UltraGear 
  vs. Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: mCon LG UltraGear (1) vs. Topo Centras Iron Wolves 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210816T183000Z
 DTEND:20210816T193000Z
-SUMMARY:[European Masters] FNCR vs. MCN
+SUMMARY:[European Masters] FNCR vs. MCON
 UID:european-masters-106744065770322633@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: HMA Fnatic Rising 
  vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: HMA Fnatic Rising (1) vs. mCon LG UltraGear (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4961,13 +4958,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210817T173000Z
 DTEND:20210817T183000Z
-SUMMARY:[European Masters] MCN vs. MRS
+SUMMARY:[European Masters] MCON vs. MRS
 UID:european-masters-106744065770322637@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon LG UltraGear 
  vs. Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: mCon LG UltraGear (0) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4998,26 +4995,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210817T193000Z
 DTEND:20210817T203000Z
-SUMMARY:[European Masters] WOLF vs. MCN
+SUMMARY:[European Masters] WOLF vs. MCON
 UID:european-masters-106744065770322643@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Topo Centras Iron 
  Wolves vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. mCon LG UltraGear 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210817T143000Z
 DTEND:20210817T153000Z
-SUMMARY:[European Masters] MCN vs. FNCR
+SUMMARY:[European Masters] MCON vs. FNCR
 UID:european-masters-106744065770322645@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: mCon LG UltraGear 
  vs. HMA Fnatic Rising\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: mCon LG UltraGear (0) vs. HMA Fnatic Rising (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5770,37 +5767,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210831T193000Z
 DTEND:20210831T203000Z
-SUMMARY:[European Masters] VGIA vs. KC
+SUMMARY:[European Masters] GIA vs. KC
 UID:european-masters-106748850930288986@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Karmine Corp (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Karmine Corp (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210830T183000Z
 DTEND:20210830T193000Z
-SUMMARY:[European Masters] MCK vs. VGIA
+SUMMARY:[European Masters] MCK vs. GIA
 UID:european-masters-106748850930288988@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Macko 
- Esports vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Macko Esports (0) vs. Vodafone Giants (1)\n
+ Esports vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Macko Esports (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210901T193000Z
 DTEND:20210901T203000Z
-SUMMARY:[European Masters] MOUZ vs. VGIA
+SUMMARY:[European Masters] MOUZ vs. GIA
 UID:european-masters-106748850930288990@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Mousesports
-  vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Mousesports (0) vs. Vodafone Giants (1)\n
+  vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5842,37 +5839,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210904T143000Z
 DTEND:20210904T153000Z
-SUMMARY:[European Masters] KC vs. VGIA
+SUMMARY:[European Masters] KC vs. GIA
 UID:european-masters-106748850930354534@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Karmine 
- Corp vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Karmine Corp (0) vs. Vodafone Giants (1)\n
+ Corp vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Karmine Corp (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210904T163000Z
 DTEND:20210904T173000Z
-SUMMARY:[European Masters] VGIA vs. MCK
+SUMMARY:[European Masters] GIA vs. MCK
 UID:european-masters-106748850930354536@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. Macko Esports (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (1) vs. Macko Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210904T193000Z
 DTEND:20210904T203000Z
-SUMMARY:[European Masters] VGIA vs. MOUZ
+SUMMARY:[European Masters] GIA vs. MOUZ
 UID:european-masters-106748850930354538@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Vodafone 
- Giants vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Mousesports (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: Giants vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Mousesports (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6070,13 +6067,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210912T160000Z
 DTEND:20210912T210000Z
-SUMMARY:[European Masters] MSFP vs. VGIA
+SUMMARY:[European Masters] MSFP vs. GIA
 UID:european-masters-106883777852977769@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: Misfits 
- Premier vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Misfits Premier (3) vs. Vodafone Giants (1)\n
+ Premier vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Misfits Premier (3) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -18852,109 +18849,109 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210128T210000Z
 DTEND:20210128T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105562529627032220@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (1) vs. Movistar Riders (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. Movistar Riders (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210204T200000Z
 DTEND:20210204T210000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-105562529627163294@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210208T210000Z
 DTEND:20210208T220000Z
-SUMMARY:[SuperLiga] VGIA vs. S2V
+SUMMARY:[SuperLiga] GIA vs. S2V
 UID:superliga-105562529627163296@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. S2V
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. S2V Esports (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Giants vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. S2V Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210201T190000Z
 DTEND:20210201T200000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-105562529627163298@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. eMonkeyz SDH (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (0) 
+ vs. eMonkeyz SDH (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T200000Z
 DTEND:20210120T210000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-105562529627163300@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210118T200000Z
 DTEND:20210118T210000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-105562529627163302@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (0) vs. Vodafone Giants (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210121T210000Z
 DTEND:20210121T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-105562529627163304@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. MAD Lions Madrid (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. MAD Lions Madrid (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210210T210000Z
 DTEND:20210210T220000Z
-SUMMARY:[SuperLiga] G2AR vs. VGIA
+SUMMARY:[SuperLiga] G2AR vs. GIA
 UID:superliga-105562529627163306@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: G2 Arctic vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
- Arctic (0) vs. Vodafone Giants (1)\n
+ Arctic (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210125T170000Z
 DTEND:20210125T180000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-105562529627163308@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. BCN Squad (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. BCN Squad (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -19393,109 +19390,109 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210225T210000Z
 DTEND:20210225T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105562529627228918@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (1) vs. Movistar Riders (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. Movistar Riders (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210304T200000Z
 DTEND:20210304T210000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-105562529627228920@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210308T200000Z
 DTEND:20210308T210000Z
-SUMMARY:[SuperLiga] S2V vs. VGIA
+SUMMARY:[SuperLiga] S2V vs. GIA
 UID:superliga-105562529627228922@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: S2V Esports vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  S2V Esports (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Giants (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210301T200000Z
 DTEND:20210301T210000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-105562529627228924@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. eMonkeyz SDH (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (1) 
+ vs. eMonkeyz SDH (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210215T210000Z
 DTEND:20210215T220000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-105562529627228926@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210211T200000Z
 DTEND:20210211T210000Z
-SUMMARY:[SuperLiga] VGIA vs. TQ
+SUMMARY:[SuperLiga] GIA vs. TQ
 UID:superliga-105562529627228928@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Vodafone Giants vs. 
- Team Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (0) vs. Team Queso (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: Giants vs. Team 
+ Queso\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. Team Queso (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210218T210000Z
 DTEND:20210218T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-105562529627228930@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. MAD Lions Madrid (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210311T210000Z
 DTEND:20210311T220000Z
-SUMMARY:[SuperLiga] G2AR vs. VGIA
+SUMMARY:[SuperLiga] G2AR vs. GIA
 UID:superliga-105562529627228932@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: G2 Arctic vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
- Arctic (1) vs. Vodafone Giants (0)\n
+ Arctic (1) vs. Giants (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210222T180000Z
 DTEND:20210222T190000Z
-SUMMARY:[SuperLiga] BCN vs. VGIA
+SUMMARY:[SuperLiga] BCN vs. GIA
 UID:superliga-105562529627228934@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. Vodafone 
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: BCN Squad vs. 
  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BCN 
- Squad (1) vs. Vodafone Giants (0)\n
+ Squad (1) vs. Giants (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -19971,13 +19968,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210315T170000Z
 DTEND:20210315T220000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-105877352567918772@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Vodafone Giants 
- vs. Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Vodafone Giants (3) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Giants vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  Giants (3) vs. Movistar Riders (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -19995,13 +19992,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210319T170000Z
 DTEND:20210319T220000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-105877357702518453@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: UCAM Esports Club 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: UCAM Esports Club (3) vs. Vodafone Giants (1)\n
+ vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: UCAM
+  Esports Club (3) vs. Giants (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20116,13 +20113,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210617T170000Z
 DTEND:20210617T180000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-106312505038657924@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (1) vs. BCN Squad (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. BCN Squad (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20213,13 +20210,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210607T190000Z
 DTEND:20210607T200000Z
-SUMMARY:[SuperLiga] VGIA vs. BTS
+SUMMARY:[SuperLiga] GIA vs. BTS
 UID:superliga-106312505038657940@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Vodafone Giants vs. 
- Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (0) vs. Herbalife Real Betis (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Giants vs. Herbalife 
+ Real Betis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Giants (0) vs. Herbalife Real Betis (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20297,13 +20294,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210614T160000Z
 DTEND:20210614T170000Z
-SUMMARY:[SuperLiga] EMZ vs. VGIA
+SUMMARY:[SuperLiga] EMZ vs. GIA
 UID:superliga-106312505038657954@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 3\nTeams: eMonkeyz SDH vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  eMonkeyz SDH (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eMonkeyz
+  SDH (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20369,13 +20366,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210531T160000Z
 DTEND:20210531T170000Z
-SUMMARY:[SuperLiga] VGIA vs. G2AR
+SUMMARY:[SuperLiga] GIA vs. G2AR
 UID:superliga-106312505038657966@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Vodafone Giants vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (1) vs. G2 Arctic (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. G2 Arctic (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20429,13 +20426,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
-SUMMARY:[SuperLiga] MADM vs. VGIA
+SUMMARY:[SuperLiga] MADM vs. GIA
 UID:superliga-106312505038657976@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: MAD Lions Madrid vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  MAD Lions Madrid (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20477,13 +20474,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210610T200000Z
 DTEND:20210610T210000Z
-SUMMARY:[SuperLiga] MRS vs. VGIA
+SUMMARY:[SuperLiga] MRS vs. GIA
 UID:superliga-106312505038657984@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 2\nTeams: Movistar Riders vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Movistar Riders (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20513,13 +20510,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210621T180000Z
 DTEND:20210621T190000Z
-SUMMARY:[SuperLiga] S2V vs. VGIA
+SUMMARY:[SuperLiga] S2V vs. GIA
 UID:superliga-106312505038657990@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: S2V Esports vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  S2V Esports (0) vs. Vodafone Giants (1)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: S2V 
+ Esports (0) vs. Giants (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20537,25 +20534,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210603T200000Z
 DTEND:20210603T210000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-106312505038657994@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (1) vs. Vodafone Giants (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 1\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210624T200000Z
 DTEND:20210624T210000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-106312505038657996@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 4\nTeams: UCAM Esports Club vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  UCAM Esports Club (1) vs. Vodafone Giants (0)\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20657,13 +20654,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210719T190000Z
 DTEND:20210719T200000Z
-SUMMARY:[SuperLiga] VGIA vs. BCN
+SUMMARY:[SuperLiga] GIA vs. BCN
 UID:superliga-106312505038658014@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. BCN
-  Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. BCN Squad (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Giants vs. BCN 
+ Squad\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. BCN Squad (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20754,13 +20751,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210708T200000Z
 DTEND:20210708T210000Z
-SUMMARY:[SuperLiga] BTS vs. VGIA
+SUMMARY:[SuperLiga] BTS vs. GIA
 UID:superliga-106312505038658030@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Herbalife Real Betis 
- vs. Vodafone Giants\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Herbalife Real Betis (1) vs. Vodafone Giants (0)\n
+ vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Herbalife Real Betis (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20838,13 +20835,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210715T160000Z
 DTEND:20210715T170000Z
-SUMMARY:[SuperLiga] VGIA vs. EMZ
+SUMMARY:[SuperLiga] GIA vs. EMZ
 UID:superliga-106312505038723580@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- eMonkeyz SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. eMonkeyz SDH (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. eMonkeyz 
+ SDH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants (1) 
+ vs. eMonkeyz SDH (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20910,13 +20907,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210701T200000Z
 DTEND:20210701T210000Z
-SUMMARY:[SuperLiga] VGIA vs. G2AR
+SUMMARY:[SuperLiga] GIA vs. G2AR
 UID:superliga-106312505038723592@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Vodafone Giants vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vodafone
-  Giants (0) vs. G2 Arctic (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 5\nTeams: Giants vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. G2 Arctic (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20970,13 +20967,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210729T200000Z
 DTEND:20210729T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MADM
+SUMMARY:[SuperLiga] GIA vs. MADM
 UID:superliga-106312505038723602@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. MAD Lions Madrid (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Giants vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. MAD Lions Madrid (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21018,13 +21015,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210712T200000Z
 DTEND:20210712T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-106312505038723610@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Vodafone Giants (0) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 7\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (0) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21054,13 +21051,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210722T180000Z
 DTEND:20210722T190000Z
-SUMMARY:[SuperLiga] VGIA vs. S2V
+SUMMARY:[SuperLiga] GIA vs. S2V
 UID:superliga-106312505038723616@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Vodafone Giants vs. S2V
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Vodafone Giants (1) vs. S2V Esports (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 8\nTeams: Giants vs. S2V 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. S2V Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21078,25 +21075,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210705T190000Z
 DTEND:20210705T200000Z
-SUMMARY:[SuperLiga] TQ vs. VGIA
+SUMMARY:[SuperLiga] TQ vs. GIA
 UID:superliga-106312505038723620@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. Vodafone
-  Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Queso (1) vs. Vodafone Giants (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 6\nTeams: Team Queso vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Queso (1) vs. Giants (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210726T180000Z
 DTEND:20210726T190000Z
-SUMMARY:[SuperLiga] VGIA vs. UCAM
+SUMMARY:[SuperLiga] GIA vs. UCAM
 UID:superliga-106312505038723622@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Vodafone Giants vs. 
- UCAM Esports Club\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Vodafone Giants (1) vs. UCAM Esports Club (0)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Woche 9\nTeams: Giants vs. UCAM Esports
+  Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. UCAM Esports Club (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21114,25 +21111,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210802T160000Z
 DTEND:20210802T210000Z
-SUMMARY:[SuperLiga] BTS vs. VGIA
+SUMMARY:[SuperLiga] BTS vs. GIA
 UID:superliga-106312505038723630@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Viertelfinale\nTeams: Herbalife Real 
- Betis vs. Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Herbalife Real Betis (2) vs. Vodafone Giants (3)\n
+ Betis vs. Giants\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Herbalife Real Betis (2) vs. Giants (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210806T160000Z
 DTEND:20210806T210000Z
-SUMMARY:[SuperLiga] VGIA vs. MRS
+SUMMARY:[SuperLiga] GIA vs. MRS
 UID:superliga-106312505038723636@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Vodafone Giants vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
-  Vodafone Giants (3) vs. Movistar Riders (1)\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Giants vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Giants 
+ (3) vs. Movistar Riders (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21150,13 +21147,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210812T160000Z
 DTEND:20210812T210000Z
-SUMMARY:[SuperLiga] UCAM vs. VGIA
+SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-106312505038723648@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Finale\nTeams: UCAM Esports Club vs. 
- Vodafone Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
-  UCAM Esports Club (1) vs. Vodafone Giants (3)\n
+ Giants\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (1) vs. Giants (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -33993,12 +33990,12 @@ DTSTART:20210119T170000Z
 DTEND:20210119T180000Z
 SUMMARY:[Greek Legends League] WLG vs. CBI
 UID:greek_legends-105522904802887032@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. CowBoySquad 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. CowBoySquad 
  Imperials Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34006,11 +34003,11 @@ DTSTART:20210127T170000Z
 DTEND:20210127T180000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-105522904802887034@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Zerolag Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34018,11 +34015,11 @@ DTSTART:20210126T190000Z
 DTEND:20210126T200000Z
 SUMMARY:[Greek Legends League] WLG vs. HIVE
 UID:greek_legends-105522904802887038@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Hive Athens EC (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Hive Athens EC (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34031,10 +34028,10 @@ DTEND:20210202T210000Z
 SUMMARY:[Greek Legends League] RFS vs. WLG
 UID:greek_legends-105522904802887040@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Team Refuse 
- vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Refuse (0) vs. WLGaming Esports (1)\n
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34042,11 +34039,11 @@ DTSTART:20210118T200000Z
 DTEND:20210118T210000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-105522904802887042@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Team Phantasma (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Team Phantasma (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34055,11 +34052,11 @@ DTEND:20210125T200000Z
 SUMMARY:[Greek Legends League] GSMC vs. WLG
 UID:greek_legends-105522904802887044@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Gamespace 
- Mediterranean College Esports vs. WLGaming Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College 
- Esports (1) vs. WLGaming Esports (0)\n
+ Mediterranean College Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports 
+ (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34067,12 +34064,12 @@ DTSTART:20210201T200000Z
 DTEND:20210201T210000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-105522904802887046@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: WLGaming 
- Esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. Anorthosis 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: We Love 
+ Gaming vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Anorthosis 
  Famagusta Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34348,11 +34345,11 @@ DTEND:20210209T180000Z
 SUMMARY:[Greek Legends League] CBI vs. WLG
 UID:greek_legends-105522904802952658@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: CowBoySquad 
- Imperials Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. WLGaming 
- Esports (1)\n
+ Imperials Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. We Love 
+ Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34361,10 +34358,10 @@ DTEND:20210218T180000Z
 SUMMARY:[Greek Legends League] ZRL vs. WLG
 UID:greek_legends-105522904802952660@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Zerolag 
- Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zerolag Esports (1) vs. WLGaming Esports (0)\n
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34373,10 +34370,10 @@ DTEND:20210217T200000Z
 SUMMARY:[Greek Legends League] HIVE vs. WLG
 UID:greek_legends-105522904802952664@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Hive Athens 
- EC vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Hive Athens EC (0) vs. WLGaming Esports (1)\n
+ EC vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Hive Athens EC (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34384,11 +34381,11 @@ DTSTART:20210223T200000Z
 DTEND:20210223T210000Z
 SUMMARY:[Greek Legends League] WLG vs. RFS
 UID:greek_legends-105522904802952666@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Team Refuse (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Team Refuse (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34397,10 +34394,10 @@ DTEND:20210208T210000Z
 SUMMARY:[Greek Legends League] TP vs. WLG
 UID:greek_legends-105522904802952668@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Team 
- Phantasma vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Phantasma (0) vs. WLGaming Esports (1)\n
+ Phantasma vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Phantasma (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34408,12 +34405,12 @@ DTSTART:20210215T190000Z
 DTEND:20210215T200000Z
 SUMMARY:[Greek Legends League] WLG vs. GSMC
 UID:greek_legends-105522904802952670@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: WLGaming 
- Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. 
- Gamespace Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: We Love 
+ Gaming vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Gamespace 
+ Mediterranean College Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34422,11 +34419,11 @@ DTEND:20210222T210000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-105522904802952672@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Anorthosis 
- Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. WLGaming 
- Esports (1)\n
+ Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. We Love Gaming
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220106T014351Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34754,11 +34751,11 @@ DTEND:20210309T220000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-105809562662589524@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Halbfinale\nTeams: 
- Anorthosis Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf
-  5\nStatus: completed\nErgebnisse: Anorthosis Famagusta Esports (3) vs. 
- WLGaming Esports (1)\n
+ Anorthosis Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Anorthosis Famagusta Esports (3) vs. We 
+ Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34779,11 +34776,11 @@ DTSTART:20210310T170000Z
 DTEND:20210310T220000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-105866078666358518@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Finale\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: WLGaming Esports (3) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Finale\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: We Love Gaming (3) vs. Zerolag Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34791,11 +34788,11 @@ DTSTART:20210531T160000Z
 DTEND:20210531T170000Z
 SUMMARY:[Greek Legends League] WLG vs. RFS
 UID:greek_legends-106295147954181417@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Team Refuse (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Team Refuse (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34803,12 +34800,12 @@ DTSTART:20210608T180000Z
 DTEND:20210608T190000Z
 SUMMARY:[Greek Legends League] WLG vs. CBI
 UID:greek_legends-106295147954181419@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. CowBoySquad 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. CowBoySquad Imperials Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. CowBoySquad 
  Imperials Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34816,11 +34813,11 @@ DTSTART:20210607T170000Z
 DTEND:20210607T180000Z
 SUMMARY:[Greek Legends League] WLG vs. UDG
 UID:greek_legends-106295147954181421@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: WLGaming 
- Esports vs. Umbra Divinus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (0) vs. Umbra Divinus Gaming (1)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: We Love 
+ Gaming vs. Umbra Divinus Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (0) vs. Umbra Divinus Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34829,11 +34826,11 @@ DTEND:20210615T200000Z
 SUMMARY:[Greek Legends League] ANO vs. WLG
 UID:greek_legends-106295147954181423@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Anorthosis 
- Famagusta Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. WLGaming 
- Esports (0)\n
+ Famagusta Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. We Love Gaming
+  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34842,11 +34839,11 @@ DTEND:20210614T200000Z
 SUMMARY:[Greek Legends League] GSMC vs. WLG
 UID:greek_legends-106295147954181425@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Gamespace 
- Mediterranean College Esports vs. WLGaming Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College 
- Esports (0) vs. WLGaming Esports (1)\n
+ Mediterranean College Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports 
+ (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34854,11 +34851,11 @@ DTSTART:20210601T190000Z
 DTEND:20210601T200000Z
 SUMMARY:[Greek Legends League] WLG vs. ZRL
 UID:greek_legends-106295147954181427@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: WLGaming 
- Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Zerolag Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: We Love 
+ Gaming vs. Zerolag Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Zerolag Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -34867,10 +34864,10 @@ DTEND:20210602T200000Z
 SUMMARY:[Greek Legends League] TP vs. WLG
 UID:greek_legends-106295147954181429@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 1\nTeams: Team 
- Phantasma vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Phantasma (1) vs. WLGaming Esports (0)\n
+ Phantasma vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Phantasma (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35146,10 +35143,10 @@ DTEND:20210621T170000Z
 SUMMARY:[Greek Legends League] RFS vs. WLG
 UID:greek_legends-106295147954247009@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Team Refuse 
- vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Refuse (0) vs. WLGaming Esports (1)\n
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35158,11 +35155,11 @@ DTEND:20210630T190000Z
 SUMMARY:[Greek Legends League] CBI vs. WLG
 UID:greek_legends-106295147954247011@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: CowBoySquad 
- Imperials Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus:
-  completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. WLGaming 
- Esports (1)\n
+ Imperials Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CowBoySquad Imperials Esports (0) vs. We Love 
+ Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35171,10 +35168,10 @@ DTEND:20210629T180000Z
 SUMMARY:[Greek Legends League] UDG vs. WLG
 UID:greek_legends-106295147954247013@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: Umbra 
- Divinus Gaming vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Umbra Divinus Gaming (0) vs. WLGaming Esports (1)\n
+ Divinus Gaming vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Umbra Divinus Gaming (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35182,12 +35179,12 @@ DTSTART:20210706T190000Z
 DTEND:20210706T200000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-106295147954247015@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. Anorthosis 
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Anorthosis 
  Famagusta Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35195,12 +35192,12 @@ DTSTART:20210705T190000Z
 DTEND:20210705T200000Z
 SUMMARY:[Greek Legends League] WLG vs. GSMC
 UID:greek_legends-106295147954247017@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: WLGaming 
- Esports vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
- bestOf 1\nStatus: completed\nErgebnisse: WLGaming Esports (1) vs. 
- Gamespace Mediterranean College Esports (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: We Love 
+ Gaming vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: We Love Gaming (1) vs. Gamespace 
+ Mediterranean College Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35209,10 +35206,10 @@ DTEND:20210622T200000Z
 SUMMARY:[Greek Legends League] ZRL vs. WLG
 UID:greek_legends-106295147954247019@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 4\nTeams: Zerolag 
- Esports vs. WLGaming Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zerolag Esports (0) vs. WLGaming Esports (1)\n
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (0) vs. We Love Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35220,11 +35217,11 @@ DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-106295147954247021@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: WLGaming 
- Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: WLGaming Esports (1) vs. Team Phantasma (0)\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 5\nTeams: We Love 
+ Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Team Phantasma (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35539,11 +35536,11 @@ DTEND:20210719T210000Z
 SUMMARY:[Greek Legends League] WLG vs. ANO
 UID:greek_legends-106562554878487187@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: WLGaming Esports vs. Anorthosis Famagusta Esports\nSpiel-
- Strategie: bestOf 5\nStatus: completed\nErgebnisse: WLGaming Esports (2) 
- vs. Anorthosis Famagusta Esports (3)\n
+ 2\nTeams: We Love Gaming vs. Anorthosis Famagusta Esports\nSpiel-
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: We Love Gaming (2) vs.
+  Anorthosis Famagusta Esports (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -35565,11 +35562,11 @@ DTEND:20210720T210000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-106562554878487199@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 3\nTeams: WLGaming Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 
- 5\nStatus: completed\nErgebnisse: WLGaming Esports (2) vs. Team Phantasma 
+ 3\nTeams: We Love Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: We Love Gaming (2) vs. Team Phantasma 
  (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -61802,6 +61799,61 @@ DESCRIPTION:Liga: LEC\nPhase: Finale\nTeams: MAD Lions vs. Fnatic\nSpiel-
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T200000Z
+DTEND:20220114T210000Z
+SUMMARY:[LEC] MSF vs. AST
+UID:lec-107417059263300125@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Woche 1\nTeams: Misfits Gaming vs. 
+ Astralis\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220106T014352Z
+LAST-MODIFIED:20220106T014352Z
+DTSTAMP:20220106T014352Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T190000Z
+DTEND:20220114T200000Z
+SUMMARY:[LEC] G2 vs. XL
+UID:lec-107417059263300137@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Woche 1\nTeams: G2 Esports vs. EXCEL\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220106T014352Z
+LAST-MODIFIED:20220106T014352Z
+DTSTAMP:20220106T014352Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T210000Z
+DTEND:20220114T220000Z
+SUMMARY:[LEC] BDS vs. FNC
+UID:lec-107417059263300161@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Woche 1\nTeams: Team BDS vs. Fnatic\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220106T014352Z
+LAST-MODIFIED:20220106T014352Z
+DTSTAMP:20220106T014352Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T170000Z
+DTEND:20220114T180000Z
+SUMMARY:[LEC] VIT vs. MAD
+UID:lec-107417059263365721@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Woche 1\nTeams: Team Vitality vs. MAD 
+ Lions\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220106T014352Z
+LAST-MODIFIED:20220106T014352Z
+DTSTAMP:20220106T014352Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220114T180000Z
+DTEND:20220114T190000Z
+SUMMARY:[LEC] SK vs. RGE
+UID:lec-107417059263365731@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Woche 1\nTeams: SK Gaming vs. Rogue\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220106T014352Z
+LAST-MODIFIED:20220106T014352Z
+DTSTAMP:20220106T014352Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190213T110000Z

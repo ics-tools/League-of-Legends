@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
 NAME:Elite Series Spielplan
 X-WR-CALNAME:Elite Series Spielplan
-METHOD:PUBLISH
 END:VCALENDAR
