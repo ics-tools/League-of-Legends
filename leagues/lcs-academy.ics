@@ -5164,10 +5164,10 @@ DTEND:20210402T010000Z
 SUMMARY:[LCS Academy] DIGA vs. WC
 UID:lcs-academy-105913088925019669@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: DIG Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- DIG Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  DIG Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5284,10 +5284,10 @@ DTEND:20210411T230000Z
 SUMMARY:[LCS Academy] IMTA vs. WC
 UID:lcs-academy-105913088925085245@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: IMT Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- IMT Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  IMT Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6613,13 +6613,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210902T220000Z
 DTEND:20210903T010000Z
-SUMMARY:[LCS Academy] TLA vs. SNV
+SUMMARY:[LCS Academy] TLA vs. SN
 UID:lcs-academy-106858019191580217@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: TL Academy vs. 
  Supernova\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: TL 
  Academy (2) vs. Supernova (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6688,10 +6688,10 @@ DTEND:20210905T030000Z
 SUMMARY:[LCS Academy] 100X vs. WC
 UID:lcs-academy-106858019191645777@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: 100 Next vs. Wildcard
-  Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 Next 
- (0) vs. Wildcard Red (2)\n
+  Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
+ Next (0) vs. Wildcard Gaming (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6748,22 +6748,22 @@ DTEND:20210913T010000Z
 SUMMARY:[LCS Academy] RSV vs. WC
 UID:lcs-academy-106858019191645797@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: Resolve vs. Wildcard 
- Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Resolve (0)
-  vs. Wildcard Red (2)\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Resolve 
+ (0) vs. Wildcard Gaming (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210912T000000Z
 DTEND:20210912T030000Z
-SUMMARY:[LCS Academy] SNV vs. AOE
+SUMMARY:[LCS Academy] SN vs. AOE
 UID:lcs-academy-106858019191645801@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: Supernova vs. AOE 
  Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
  Supernova (1) vs. AOE Esports (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6820,10 +6820,10 @@ DTEND:20210917T023500Z
 SUMMARY:[LCS Academy] 100A vs. WC
 UID:lcs-academy-106858019191645821@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: 100 Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- 100 Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  100 Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6927,11 +6927,11 @@ DTSTART:20210919T220000Z
 DTEND:20210920T030000Z
 SUMMARY:[LCS Academy] WC vs. GGA
 UID:lcs-academy-106858019191711397@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: Wildcard Red vs. GG 
- Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Wildcard Red (2) vs. GG Academy (3)\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: Wildcard Gaming vs. 
+ GG Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Wildcard Gaming (2) vs. GG Academy (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT

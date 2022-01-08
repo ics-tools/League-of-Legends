@@ -5,61 +5,61 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20210128T210000Z
 DTEND:20210128T220000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-105562790072863959@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210202T190000Z
 DTEND:20210202T200000Z
-SUMMARY:[NLC] BTXL vs. GOD
+SUMMARY:[NLC] JDXL vs. GOD
 UID:nlc-105562790072929497@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: BT Excel vs. Godsent\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Godsent (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: JD|XL vs. Godsent\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Godsent 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T210000Z
 DTEND:20210120T220000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-105562790072929499@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (0) vs. JD|XL (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210119T180000Z
 DTEND:20210119T190000Z
-SUMMARY:[NLC] BTXL vs. NVD
+SUMMARY:[NLC] JDXL vs. NVD
 UID:nlc-105562790072929501@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: BT Excel vs. 
- Nordavind\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. Nordavind (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: JD|XL vs. Nordavind\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. 
+ Nordavind (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210127T190000Z
 DTEND:20210127T200000Z
-SUMMARY:[NLC] BTXL vs. TRC
+SUMMARY:[NLC] JDXL vs. TRC
 UID:nlc-105562790072929503@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: BT Excel vs. Tricked 
- Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. Tricked Esport (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: JD|XL vs. Tricked 
+ Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. Tricked Esport (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -185,61 +185,61 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210216T200000Z
 DTEND:20210216T210000Z
-SUMMARY:[NLC] DY vs. BTXL
+SUMMARY:[NLC] DY vs. JDXL
 UID:nlc-105562790072929525@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Dusty vs. BT Excel\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (0) vs. BT Excel
-  (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Dusty vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (0) vs. JD|XL 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210218T180000Z
 DTEND:20210218T190000Z
-SUMMARY:[NLC] BTXL vs. GOD
+SUMMARY:[NLC] JDXL vs. GOD
 UID:nlc-105562790072929527@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. Godsent\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Godsent (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. Godsent\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Godsent 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210210T180000Z
 DTEND:20210210T190000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-105562790072929529@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (0) vs. JD|XL (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210204T180000Z
 DTEND:20210204T190000Z
-SUMMARY:[NLC] NVD vs. BTXL
+SUMMARY:[NLC] NVD vs. JDXL
 UID:nlc-105562790072929531@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Nordavind vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nordavind
-  (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Nordavind vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nordavind (1) vs. 
+ JD|XL (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210211T210000Z
 DTEND:20210211T220000Z
-SUMMARY:[NLC] BTXL vs. TRC
+SUMMARY:[NLC] JDXL vs. TRC
 UID:nlc-105562790072929533@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. Tricked 
- Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. Tricked Esport (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. Tricked 
+ Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. Tricked Esport (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -797,13 +797,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210302T170000Z
 DTEND:20210302T200000Z
-SUMMARY:[NLC] BRG vs. BTXL
+SUMMARY:[NLC] BRG vs. JDXL
 UID:nlc-105818405529769455@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Barrage
-  Esports vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: Barrage Esports (0) vs. BT Excel (2)\n
+  Esports vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Barrage Esports (0) vs. JD|XL (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -845,13 +845,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210317T170000Z
 DTEND:20210317T200000Z
-SUMMARY:[NLC] FNCR vs. BTXL
+SUMMARY:[NLC] FNCR vs. JDXL
 UID:nlc-105818405529769471@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 3\nTeams: HMA 
- Fnatic Rising vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: HMA Fnatic Rising (1) vs. BT Excel (2)\n
+ Fnatic Rising vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: HMA Fnatic Rising (1) vs. JD|XL (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -881,73 +881,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210321T170000Z
 DTEND:20210321T220000Z
-SUMMARY:[NLC] BTXL vs. FNCR
+SUMMARY:[NLC] JDXL vs. FNCR
 UID:nlc-105818405529769483@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: BT Excel vs. HMA Fnatic 
- Rising\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: BT Excel
-  (3) vs. HMA Fnatic Rising (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: JD|XL vs. HMA Fnatic 
+ Rising\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD|XL 
+ (3) vs. HMA Fnatic Rising (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210608T200000Z
 DTEND:20210608T210000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-106340473014836962@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210609T200000Z
 DTEND:20210609T210000Z
-SUMMARY:[NLC] BTXL vs. GRNT
+SUMMARY:[NLC] JDXL vs. GRNT
 UID:nlc-106340473014836964@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Granit 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (0) vs. Granit Gaming (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Granit 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (0) vs. Granit Gaming (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210602T180000Z
 DTEND:20210602T190000Z
-SUMMARY:[NLC] BTXL vs. RSV
+SUMMARY:[NLC] JDXL vs. RSV
 UID:nlc-106340473014836966@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Resolve\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Resolve (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Resolve\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Resolve 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210603T180000Z
 DTEND:20210603T190000Z
-SUMMARY:[NLC] SNG vs. BTXL
+SUMMARY:[NLC] SNG vs. JDXL
 UID:nlc-106340473014836968@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Team Singularity vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Singularity (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Team Singularity vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (0) vs. JD|XL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210615T190000Z
 DTEND:20210615T200000Z
-SUMMARY:[NLC] TRC vs. BTXL
+SUMMARY:[NLC] TRC vs. JDXL
 UID:nlc-106340473014836970@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Tricked Esport vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
- Esport (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Tricked Esport vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
+ Esport (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,13 +1289,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210707T170000Z
 DTEND:20210707T180000Z
-SUMMARY:[NLC] SNG vs. BTXL
+SUMMARY:[NLC] SNG vs. JDXL
 UID:nlc-106340535337672502@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: Team Singularity vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Singularity (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: Team Singularity vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1409,13 +1409,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210630T180000Z
 DTEND:20210630T190000Z
-SUMMARY:[NLC] BTXL vs. FNCR
+SUMMARY:[NLC] JDXL vs. FNCR
 UID:nlc-106340535337738058@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. HMA Fnatic 
- Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. HMA Fnatic Rising (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. HMA Fnatic 
+ Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. HMA Fnatic Rising (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1517,13 +1517,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210720T170000Z
 DTEND:20210720T180000Z
-SUMMARY:[NLC] TRC vs. BTXL
+SUMMARY:[NLC] TRC vs. JDXL
 UID:nlc-106340535337738076@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Tricked Esport vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
- Esport (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Tricked Esport vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
+ Esport (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1613,13 +1613,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210616T190000Z
 DTEND:20210616T200000Z
-SUMMARY:[NLC] GXR vs. BTXL
+SUMMARY:[NLC] GXR vs. JDXL
 UID:nlc-106340535337738092@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Galaxy Racer vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Galaxy 
- Racer (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Galaxy Racer vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Galaxy 
+ Racer (0) vs. JD|XL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1709,85 +1709,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210624T170000Z
 DTEND:20210624T180000Z
-SUMMARY:[NLC] BTXL vs. NVD
+SUMMARY:[NLC] JDXL vs. NVD
 UID:nlc-106340535337738108@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. 
- Nordavind\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. Nordavind (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. Nordavind\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. 
+ Nordavind (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210715T170000Z
 DTEND:20210715T180000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-106340535337738110@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210701T160000Z
 DTEND:20210701T170000Z
-SUMMARY:[NLC] BTXL vs. RDL
+SUMMARY:[NLC] JDXL vs. RDL
 UID:nlc-106340535337738112@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. RIDDLE\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (0) vs. 
- RIDDLE (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. RIDDLE\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (0) vs. RIDDLE 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210706T180000Z
 DTEND:20210706T190000Z
-SUMMARY:[NLC] BTXL vs. RSV
+SUMMARY:[NLC] JDXL vs. RSV
 UID:nlc-106340535337738114@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: BT Excel vs. Resolve\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (0) vs. 
- Resolve (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: JD|XL vs. Resolve\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (0) vs. Resolve 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210622T190000Z
 DTEND:20210622T200000Z
-SUMMARY:[NLC] BTXL vs. KOVA
+SUMMARY:[NLC] JDXL vs. KOVA
 UID:nlc-106340535337738116@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. KOVA 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. KOVA Esports (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. KOVA 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. KOVA Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210714T160000Z
 DTEND:20210714T170000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-106340535337738118@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210629T170000Z
 DTEND:20210629T180000Z
-SUMMARY:[NLC] GOD vs. BTXL
+SUMMARY:[NLC] GOD vs. JDXL
 UID:nlc-106340535337738120@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Godsent vs. BT Excel\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Godsent (0) vs. BT 
- Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Godsent vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Godsent (0) vs. JD|XL 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2057,13 +2057,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210727T190000Z
 DTEND:20210727T220000Z
-SUMMARY:[NLC] BTXL vs. RDL
+SUMMARY:[NLC] JDXL vs. RDL
 UID:nlc-106618692723745860@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: BT 
- Excel vs. RIDDLE\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. RIDDLE (2)\n
+DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: JD|XL 
+ vs. RIDDLE\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ JD|XL (1) vs. RIDDLE (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2113,6 +2113,116 @@ DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: HMA Fnatic Rising vs. Tricked
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T210000Z
+DTEND:20220112T220000Z
+SUMMARY:[NLC] JDXL vs. X7
+UID:nlc-107417432878727940@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: JD|XL vs. X7\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T200000Z
+DTEND:20220110T210000Z
+SUMMARY:[NLC] RDL vs. X7
+UID:nlc-107417432878727946@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: RIDDLE vs. X7\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T210000Z
+DTEND:20220110T220000Z
+SUMMARY:[NLC] DY vs. JDXL
+UID:nlc-107417432878727958@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Dusty vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T200000Z
+DTEND:20220112T210000Z
+SUMMARY:[NLC] BFR vs. DY
+UID:nlc-107417432878727984@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Bifrost vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T170000Z
+DTEND:20220110T180000Z
+SUMMARY:[NLC] VNR vs. SNG
+UID:nlc-107417432878727990@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Vanir vs. Team 
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T190000Z
+DTEND:20220112T200000Z
+SUMMARY:[NLC] ASTL vs. SNG
+UID:nlc-107417432878727998@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Astralis Talent vs. Team 
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T180000Z
+DTEND:20220112T190000Z
+SUMMARY:[NLC] NKI vs. RDL
+UID:nlc-107417432878728004@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Nyyrikki vs. RIDDLE\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T170000Z
+DTEND:20220112T180000Z
+SUMMARY:[NLC] MNM vs. VNR
+UID:nlc-107417432878728010@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: MnM Gaming vs. Vanir\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T180000Z
+DTEND:20220110T190000Z
+SUMMARY:[NLC] BFR vs. MNM
+UID:nlc-107417432878728020@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Bifrost vs. MnM 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T190000Z
+DTEND:20220110T200000Z
+SUMMARY:[NLC] ASTL vs. NKI
+UID:nlc-107417432878728026@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Astralis Talent vs. 
+ Nyyrikki\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
 END:VEVENT
 NAME:NLC Spielplan
 X-WR-CALNAME:NLC Spielplan

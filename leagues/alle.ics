@@ -164,37 +164,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190918T210000Z
 DTEND:20190918T220000Z
-SUMMARY:[European Masters] BTXL vs. GOD
+SUMMARY:[European Masters] JDXL vs. GOD
 UID:european-masters-102804705881304592@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. Godsent\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. Godsent (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ Godsent\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. Godsent (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190919T190000Z
 DTEND:20190919T200000Z
-SUMMARY:[European Masters] BTXL vs. GIA
+SUMMARY:[European Masters] JDXL vs. GIA
 UID:european-masters-102804705881435665@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (0) vs. Giants (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (0) vs. Giants (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220106T014351Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190917T160000Z
 DTEND:20190917T170000Z
-SUMMARY:[European Masters] BTXL vs. WLG
+SUMMARY:[European Masters] JDXL vs. WLG
 UID:european-masters-102804705881632274@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. We Love Gaming (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ JD|XL (1) vs. We Love Gaming (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220106T014351Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -224,25 +224,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190911T160100Z
 DTEND:20190911T170100Z
-SUMMARY:[European Masters] BTXL vs. ASUS
+SUMMARY:[European Masters] JDXL vs. ASUS
 UID:european-masters-102804705882025493@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. ASUS ROG Elite (0)\n
+ Vorrunde\nTeams: JD|XL vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. ASUS ROG Elite (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190910T160100Z
 DTEND:20190910T170100Z
-SUMMARY:[European Masters] BTXL vs. BCN
+SUMMARY:[European Masters] JDXL vs. BCN
 UID:european-masters-102804705882222102@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. BCN Squad\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. BCN Squad (0)\n
+ Vorrunde\nTeams: JD|XL vs. BCN Squad\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: JD|XL (1) vs. BCN Squad (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -285,13 +285,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190911T200000Z
 DTEND:20190911T210000Z
-SUMMARY:[European Masters] BTXL vs. VITB
+SUMMARY:[European Masters] JDXL vs. VITB
 UID:european-masters-102804705882811930@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. Vitality.Bee\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Vitality.Bee (0)\n
+ Vorrunde\nTeams: JD|XL vs. Vitality.Bee\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Vitality.Bee (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -384,14 +384,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190910T190000Z
 DTEND:20190910T200000Z
-SUMMARY:[European Masters] BTXL vs. REC1
+SUMMARY:[European Masters] JDXL vs. REC1
 UID:european-masters-102804705884122658@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. Rogue Esports Club\nSpiel-Strategie: bestOf 
- 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Rogue Esports Club 
- (0)\n
+ Vorrunde\nTeams: JD|XL vs. Rogue Esports Club\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Rogue Esports Club (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -410,14 +409,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190909T200000Z
 DTEND:20190909T210000Z
-SUMMARY:[European Masters] BTXL vs. BIG
+SUMMARY:[European Masters] JDXL vs. BIG
 UID:european-masters-102804705884450340@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. Berlin International Gaming\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Berlin International Gaming (0)\n
+ Vorrunde\nTeams: JD|XL vs. Berlin International Gaming\nSpiel-Strategie: 
+ bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Berlin 
+ International Gaming (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -475,13 +474,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190909T160000Z
 DTEND:20190909T170000Z
-SUMMARY:[European Masters] BTXL vs. FKN
+SUMMARY:[European Masters] JDXL vs. FKN
 UID:european-masters-102804705885302313@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
- Vorrunde\nTeams: BT Excel vs. FALKN\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. FALKN (0)\n
+ Vorrunde\nTeams: JD|XL vs. FALKN\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: JD|XL (1) vs. FALKN (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -585,13 +584,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190921T160000Z
 DTEND:20190921T190000Z
-SUMMARY:[European Masters] MOUZ vs. BTXL
+SUMMARY:[European Masters] MOUZ vs. JDXL
 UID:european-masters-102854687230155542@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: 
- Mousesports vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: Mousesports (2) vs. BT Excel (1)\n
+ Mousesports vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Mousesports (2) vs. JD|XL (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1306,37 +1305,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200423T160000Z
 DTEND:20200423T170000Z
-SUMMARY:[European Masters] BTXL vs. GO
+SUMMARY:[European Masters] JDXL vs. GO
 UID:european-masters-103936903254163907@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (0) vs. GamersOrigin (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ JD|XL (0) vs. GamersOrigin (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200424T200000Z
 DTEND:20200424T210000Z
-SUMMARY:[European Masters] BTXL vs. GL
+SUMMARY:[European Masters] JDXL vs. GL
 UID:european-masters-103936903254163909@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  BT Excel (0) vs. GamerLegion (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ JD|XL (0) vs. GamerLegion (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200425T160000Z
 DTEND:20200425T170000Z
-SUMMARY:[European Masters] YDN vs. BTXL
+SUMMARY:[European Masters] YDN vs. JDXL
 UID:european-masters-103936903254163911@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: YDN Gamers 
- vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- YDN Gamers (1) vs. BT Excel (0)\n
+ vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: YDN 
+ Gamers (1) vs. JD|XL (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1378,37 +1377,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200501T020000Z
 DTEND:20200501T030000Z
-SUMMARY:[European Masters] GO vs. BTXL
+SUMMARY:[European Masters] GO vs. JDXL
 UID:european-masters-103936903254163919@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: 
- GamersOrigin vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GamersOrigin (0) vs. BT Excel (1)\n
+ GamersOrigin vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. JD|XL (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200430T230000Z
 DTEND:20200501T000000Z
-SUMMARY:[European Masters] GL vs. BTXL
+SUMMARY:[European Masters] GL vs. JDXL
 UID:european-masters-103936903254163921@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: GamerLegion
-  vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GamerLegion (0) vs. BT Excel (1)\n
+  vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. JD|XL (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200501T030000Z
 DTEND:20200501T040000Z
-SUMMARY:[European Masters] BTXL vs. YDN
+SUMMARY:[European Masters] JDXL vs. YDN
 UID:european-masters-103936903254163923@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: BT Excel 
- vs. YDN Gamers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- BT Excel (1) vs. YDN Gamers (0)\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: JD|XL vs. 
+ YDN Gamers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ JD|XL (1) vs. YDN Gamers (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1894,13 +1893,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200505T190000Z
 DTEND:20200505T220000Z
-SUMMARY:[European Masters] BTXL vs. LDLC
+SUMMARY:[European Masters] JDXL vs. LDLC
 UID:european-masters-103936903256588840@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: BT Excel 
- vs. LDLC OL\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: BT 
- Excel (0) vs. LDLC OL (2)\n
+DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: JD|XL vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: JD|XL 
+ (0) vs. LDLC OL (2)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1978,13 +1977,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200501T050000Z
 DTEND:20200501T060000Z
-SUMMARY:[European Masters] GL vs. BTXL
+SUMMARY:[European Masters] GL vs. JDXL
 UID:european-masters-104089647646181969@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase\nTeams: GamerLegion
-  vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GamerLegion (0) vs. BT Excel (1)\n
+  vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. JD|XL (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220108T013543Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4496,13 +4495,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210415T143000Z
 DTEND:20210415T153000Z
-SUMMARY:[European Masters] KC vs. BTXL
+SUMMARY:[European Masters] KC vs. JDXL
 UID:european-masters-105990084005182065@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Karmine Corp vs.
-  BT Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Karmine Corp (1) vs. BT Excel (0)\n
+  JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Karmine 
+ Corp (1) vs. JD|XL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4520,13 +4519,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210417T143000Z
 DTEND:20210417T153000Z
-SUMMARY:[European Masters] BTXL vs. BTS
+SUMMARY:[European Masters] JDXL vs. BTS
 UID:european-masters-105990084005182069@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: BT Excel vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: JD|XL vs. 
  Herbalife Real Betis\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. Herbalife Real Betis (0)\n
+ completed\nErgebnisse: JD|XL (1) vs. Herbalife Real Betis (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4545,13 +4544,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210414T143000Z
 DTEND:20210414T153000Z
-SUMMARY:[European Masters] S04E vs. BTXL
+SUMMARY:[European Masters] S04E vs. JDXL
 UID:european-masters-105990084005182073@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Schalke 04 
- Evolution vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Schalke 04 Evolution (1) vs. BT Excel (0)\n
+ Evolution vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 Evolution (1) vs. JD|XL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4569,13 +4568,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210423T183000Z
 DTEND:20210423T193000Z
-SUMMARY:[European Masters] BTXL vs. KC
+SUMMARY:[European Masters] JDXL vs. KC
 UID:european-masters-105990084005182077@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: BT Excel vs. 
- Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT
-  Excel (0) vs. Karmine Corp (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: JD|XL vs. 
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ JD|XL (0) vs. Karmine Corp (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4593,13 +4592,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210423T173000Z
 DTEND:20210423T183000Z
-SUMMARY:[European Masters] BTS vs. BTXL
+SUMMARY:[European Masters] BTS vs. JDXL
 UID:european-masters-105990084005182081@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Herbalife Real 
- Betis vs. BT Excel\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Herbalife Real Betis (0) vs. BT Excel (1)\n
+ Betis vs. JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Herbalife Real Betis (0) vs. JD|XL (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220105T064031Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4618,13 +4617,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210423T153000Z
 DTEND:20210423T163000Z
-SUMMARY:[European Masters] BTXL vs. S04E
+SUMMARY:[European Masters] JDXL vs. S04E
 UID:european-masters-105990084005182085@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: BT Excel vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: JD|XL vs. 
  Schalke 04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. Schalke 04 Evolution (0)\n
+ completed\nErgebnisse: JD|XL (1) vs. Schalke 04 Evolution (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4654,13 +4653,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210428T143000Z
 DTEND:20210428T173000Z
-SUMMARY:[European Masters] MSFP vs. BTXL
+SUMMARY:[European Masters] MSFP vs. JDXL
 UID:european-masters-105990084005182095@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: Misfits 
- Premier vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: Misfits Premier (1) vs. BT Excel (2)\n
+ Premier vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. JD|XL (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4691,25 +4690,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210501T143000Z
 DTEND:20210501T173000Z
-SUMMARY:[European Masters] BTXL vs. MOUZ
+SUMMARY:[European Masters] JDXL vs. MOUZ
 UID:european-masters-105990084005182107@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Halbfinale\nTeams: BT Excel vs. 
- Mousesports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: BT 
- Excel (2) vs. Mousesports (1)\n
+DESCRIPTION:Liga: European Masters\nPhase: Halbfinale\nTeams: JD|XL vs. 
+ Mousesports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ JD|XL (2) vs. Mousesports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210502T160000Z
 DTEND:20210502T210000Z
-SUMMARY:[European Masters] BTXL vs. KC
+SUMMARY:[European Masters] JDXL vs. KC
 UID:european-masters-105990084005182111@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Finale\nTeams: BT Excel vs. 
- Karmine Corp\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: BT
-  Excel (1) vs. Karmine Corp (3)\n
+DESCRIPTION:Liga: European Masters\nPhase: Finale\nTeams: JD|XL vs. Karmine
+  Corp\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD|XL (1)
+  vs. Karmine Corp (3)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21157,6 +21156,83 @@ LAST-MODIFIED:20220106T014352Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20220110T180000Z
+DTEND:20220110T190000Z
+SUMMARY:[SuperLiga] BSO vs. G2AR
+UID:superliga-107468241211019059@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs. G2 
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T210000Z
+DTEND:20220110T220000Z
+SUMMARY:[SuperLiga] UCAM vs. GIA
+UID:superliga-107468241211019067@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: UCAM Esports Club vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T180000Z
+DTEND:20220113T190000Z
+SUMMARY:[SuperLiga] HRTS vs. GIA
+UID:superliga-107468241211019069@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Team Heretics vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T190000Z
+DTEND:20220110T200000Z
+SUMMARY:[SuperLiga] FNTQ vs. MADM
+UID:superliga-107468241211019077@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: FnaticTQ vs. MAD Lions 
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T170000Z
+DTEND:20220110T180000Z
+SUMMARY:[SuperLiga] HRTS vs. MRS
+UID:superliga-107468241211019105@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Team Heretics vs. 
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T170000Z
+DTEND:20220113T180000Z
+SUMMARY:[SuperLiga] BAR vs. UCAM
+UID:superliga-107468241211084651@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Barça Esports vs. UCAM 
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T200000Z
+DTEND:20220110T210000Z
+SUMMARY:[SuperLiga] KOI vs. BAR
+UID:superliga-107468241211084663@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Finetwork KOI vs. Barça
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210127T183000Z
 DTEND:20210127T193000Z
 SUMMARY:[Ultraliga] RGO vs. PT7
@@ -22655,6 +22731,117 @@ DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: Illuminar Gaming vs.
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T160000Z
+DTEND:20220111T170000Z
+SUMMARY:[Ultraliga] GSK vs. IHG
+UID:ultraliga-107416436274165338@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Goskilla vs. Illuminar 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T170000Z
+DTEND:20220112T180000Z
+SUMMARY:[Ultraliga] WOLF vs. IHG
+UID:ultraliga-107416436274165340@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Topo Centras Iron 
+ Wolves vs. Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T200000Z
+DTEND:20220111T210000Z
+SUMMARY:[Ultraliga] KNF vs. RGO
+UID:ultraliga-107416436274165350@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T180000Z
+DTEND:20220112T190000Z
+SUMMARY:[Ultraliga] FSK vs. RGO
+UID:ultraliga-107416436274230894@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Forsaken vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T180000Z
+DTEND:20220111T190000Z
+SUMMARY:[Ultraliga] Z10 vs. DV1
+UID:ultraliga-107416436274230896@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Zero Tenacity vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T200000Z
+DTEND:20220112T210000Z
+SUMMARY:[Ultraliga] TEG vs. DV1
+UID:ultraliga-107416436274230902@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Team ESCA Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T160000Z
+DTEND:20220112T170000Z
+SUMMARY:[Ultraliga] GSK vs. Z10
+UID:ultraliga-107416436274230916@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Goskilla vs. Zero 
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T190000Z
+DTEND:20220112T200000Z
+SUMMARY:[Ultraliga] KNF vs. GGM
+UID:ultraliga-107416436274230922@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T170000Z
+DTEND:20220111T180000Z
+SUMMARY:[Ultraliga] TEG vs. GGM
+UID:ultraliga-107416436274230924@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Team ESCA Gaming vs. 
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T190000Z
+DTEND:20220111T200000Z
+SUMMARY:[Ultraliga] FSK vs. WOLF
+UID:ultraliga-107416436274230950@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Forsaken vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T170000Z
@@ -25053,6 +25240,73 @@ LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20220111T180000Z
+DTEND:20220111T190000Z
+SUMMARY:[Prime League] WAVE vs. EWI
+UID:primeleague-107417741194085502@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. E 
+ WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T170000Z
+DTEND:20220111T180000Z
+SUMMARY:[Prime League] EINS vs. GL
+UID:primeleague-107417741194085514@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Eintracht Spandau 
+ vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T210000Z
+DTEND:20220111T220000Z
+SUMMARY:[Prime League] USE vs. BIG
+UID:primeleague-107417741194085538@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
+ Sexy Edition vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T190000Z
+DTEND:20220111T200000Z
+SUMMARY:[Prime League] MOUZ vs. PTA
+UID:primeleague-107417741194085548@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220111T200000Z
+DTEND:20220111T210000Z
+SUMMARY:[Prime League] S04 vs. SKP
+UID:primeleague-107417741194085564@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Schalke 04 vs. SK 
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T170000Z
+DTEND:20220113T180000Z
+SUMMARY:[Prime League] MOUZ vs. WAVE
+UID:primeleague-107417741194085572@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. Wave
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20210127T200000Z
 DTEND:20210127T210000Z
 SUMMARY:[PG Nationals] CGG vs. SMS
@@ -26610,61 +26864,61 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210128T210000Z
 DTEND:20210128T220000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-105562790072863959@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210202T190000Z
 DTEND:20210202T200000Z
-SUMMARY:[NLC] BTXL vs. GOD
+SUMMARY:[NLC] JDXL vs. GOD
 UID:nlc-105562790072929497@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: BT Excel vs. Godsent\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Godsent (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: JD|XL vs. Godsent\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Godsent 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T210000Z
 DTEND:20210120T220000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-105562790072929499@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (0) vs. JD|XL (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210119T180000Z
 DTEND:20210119T190000Z
-SUMMARY:[NLC] BTXL vs. NVD
+SUMMARY:[NLC] JDXL vs. NVD
 UID:nlc-105562790072929501@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: BT Excel vs. 
- Nordavind\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. Nordavind (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: JD|XL vs. Nordavind\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. 
+ Nordavind (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210127T190000Z
 DTEND:20210127T200000Z
-SUMMARY:[NLC] BTXL vs. TRC
+SUMMARY:[NLC] JDXL vs. TRC
 UID:nlc-105562790072929503@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: BT Excel vs. Tricked 
- Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. Tricked Esport (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 2\nTeams: JD|XL vs. Tricked 
+ Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. Tricked Esport (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -26790,61 +27044,61 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210216T200000Z
 DTEND:20210216T210000Z
-SUMMARY:[NLC] DY vs. BTXL
+SUMMARY:[NLC] DY vs. JDXL
 UID:nlc-105562790072929525@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Dusty vs. BT Excel\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (0) vs. BT Excel
-  (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Dusty vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (0) vs. JD|XL 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210218T180000Z
 DTEND:20210218T190000Z
-SUMMARY:[NLC] BTXL vs. GOD
+SUMMARY:[NLC] JDXL vs. GOD
 UID:nlc-105562790072929527@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. Godsent\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Godsent (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. Godsent\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Godsent 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210210T180000Z
 DTEND:20210210T190000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-105562790072929529@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (0) vs. JD|XL (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210204T180000Z
 DTEND:20210204T190000Z
-SUMMARY:[NLC] NVD vs. BTXL
+SUMMARY:[NLC] NVD vs. JDXL
 UID:nlc-105562790072929531@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Nordavind vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nordavind
-  (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Nordavind vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nordavind (1) vs. 
+ JD|XL (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210211T210000Z
 DTEND:20210211T220000Z
-SUMMARY:[NLC] BTXL vs. TRC
+SUMMARY:[NLC] JDXL vs. TRC
 UID:nlc-105562790072929533@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. Tricked 
- Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. Tricked Esport (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. Tricked 
+ Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. Tricked Esport (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -27402,13 +27656,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210302T170000Z
 DTEND:20210302T200000Z
-SUMMARY:[NLC] BRG vs. BTXL
+SUMMARY:[NLC] BRG vs. JDXL
 UID:nlc-105818405529769455@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Barrage
-  Esports vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: Barrage Esports (0) vs. BT Excel (2)\n
+  Esports vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Barrage Esports (0) vs. JD|XL (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -27450,13 +27704,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210317T170000Z
 DTEND:20210317T200000Z
-SUMMARY:[NLC] FNCR vs. BTXL
+SUMMARY:[NLC] FNCR vs. JDXL
 UID:nlc-105818405529769471@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 3\nTeams: HMA 
- Fnatic Rising vs. BT Excel\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: HMA Fnatic Rising (1) vs. BT Excel (2)\n
+ Fnatic Rising vs. JD|XL\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: HMA Fnatic Rising (1) vs. JD|XL (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -27486,73 +27740,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210321T170000Z
 DTEND:20210321T220000Z
-SUMMARY:[NLC] BTXL vs. FNCR
+SUMMARY:[NLC] JDXL vs. FNCR
 UID:nlc-105818405529769483@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: BT Excel vs. HMA Fnatic 
- Rising\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: BT Excel
-  (3) vs. HMA Fnatic Rising (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: JD|XL vs. HMA Fnatic 
+ Rising\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD|XL 
+ (3) vs. HMA Fnatic Rising (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210608T200000Z
 DTEND:20210608T210000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-106340473014836962@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210609T200000Z
 DTEND:20210609T210000Z
-SUMMARY:[NLC] BTXL vs. GRNT
+SUMMARY:[NLC] JDXL vs. GRNT
 UID:nlc-106340473014836964@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Granit 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (0) vs. Granit Gaming (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Granit 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (0) vs. Granit Gaming (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210602T180000Z
 DTEND:20210602T190000Z
-SUMMARY:[NLC] BTXL vs. RSV
+SUMMARY:[NLC] JDXL vs. RSV
 UID:nlc-106340473014836966@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: BT Excel vs. Resolve\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. 
- Resolve (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: JD|XL vs. Resolve\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Resolve 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210603T180000Z
 DTEND:20210603T190000Z
-SUMMARY:[NLC] SNG vs. BTXL
+SUMMARY:[NLC] SNG vs. JDXL
 UID:nlc-106340473014836968@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Team Singularity vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Singularity (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Team Singularity vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (0) vs. JD|XL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210615T190000Z
 DTEND:20210615T200000Z
-SUMMARY:[NLC] TRC vs. BTXL
+SUMMARY:[NLC] TRC vs. JDXL
 UID:nlc-106340473014836970@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Tricked Esport vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
- Esport (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Runde 1\nTeams: Tricked Esport vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
+ Esport (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -27894,13 +28148,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210707T170000Z
 DTEND:20210707T180000Z
-SUMMARY:[NLC] SNG vs. BTXL
+SUMMARY:[NLC] SNG vs. JDXL
 UID:nlc-106340535337672502@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: Team Singularity vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Singularity (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: Team Singularity vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28014,13 +28268,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210630T180000Z
 DTEND:20210630T190000Z
-SUMMARY:[NLC] BTXL vs. FNCR
+SUMMARY:[NLC] JDXL vs. FNCR
 UID:nlc-106340535337738058@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. HMA Fnatic 
- Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel
-  (1) vs. HMA Fnatic Rising (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. HMA Fnatic 
+ Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. HMA Fnatic Rising (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28122,13 +28376,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210720T170000Z
 DTEND:20210720T180000Z
-SUMMARY:[NLC] TRC vs. BTXL
+SUMMARY:[NLC] TRC vs. JDXL
 UID:nlc-106340535337738076@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Tricked Esport vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
- Esport (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Tricked Esport vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Tricked 
+ Esport (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28218,13 +28472,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210616T190000Z
 DTEND:20210616T200000Z
-SUMMARY:[NLC] GXR vs. BTXL
+SUMMARY:[NLC] GXR vs. JDXL
 UID:nlc-106340535337738092@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Galaxy Racer vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Galaxy 
- Racer (0) vs. BT Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 3\nTeams: Galaxy Racer vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Galaxy 
+ Racer (0) vs. JD|XL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28314,85 +28568,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210624T170000Z
 DTEND:20210624T180000Z
-SUMMARY:[NLC] BTXL vs. NVD
+SUMMARY:[NLC] JDXL vs. NVD
 UID:nlc-106340535337738108@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. 
- Nordavind\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. Nordavind (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. Nordavind\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. 
+ Nordavind (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210715T170000Z
 DTEND:20210715T180000Z
-SUMMARY:[NLC] GRNT vs. BTXL
+SUMMARY:[NLC] GRNT vs. JDXL
 UID:nlc-106340535337738110@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Granit Gaming vs. BT 
- Excel\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
- Gaming (1) vs. BT Excel (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Granit Gaming vs. 
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Granit 
+ Gaming (1) vs. JD|XL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210701T160000Z
 DTEND:20210701T170000Z
-SUMMARY:[NLC] BTXL vs. RDL
+SUMMARY:[NLC] JDXL vs. RDL
 UID:nlc-106340535337738112@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: BT Excel vs. RIDDLE\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (0) vs. 
- RIDDLE (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: JD|XL vs. RIDDLE\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (0) vs. RIDDLE 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210706T180000Z
 DTEND:20210706T190000Z
-SUMMARY:[NLC] BTXL vs. RSV
+SUMMARY:[NLC] JDXL vs. RSV
 UID:nlc-106340535337738114@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: BT Excel vs. Resolve\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (0) vs. 
- Resolve (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 6\nTeams: JD|XL vs. Resolve\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (0) vs. Resolve 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210622T190000Z
 DTEND:20210622T200000Z
-SUMMARY:[NLC] BTXL vs. KOVA
+SUMMARY:[NLC] JDXL vs. KOVA
 UID:nlc-106340535337738116@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: BT Excel vs. KOVA 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT 
- Excel (1) vs. KOVA Esports (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 4\nTeams: JD|XL vs. KOVA 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL 
+ (1) vs. KOVA Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210714T160000Z
 DTEND:20210714T170000Z
-SUMMARY:[NLC] BTXL vs. DY
+SUMMARY:[NLC] JDXL vs. DY
 UID:nlc-106340535337738118@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: BT Excel vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: BT Excel (1) vs. Dusty
-  (0)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: JD|XL vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: JD|XL (1) vs. Dusty 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210629T170000Z
 DTEND:20210629T180000Z
-SUMMARY:[NLC] GOD vs. BTXL
+SUMMARY:[NLC] GOD vs. JDXL
 UID:nlc-106340535337738120@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Godsent vs. BT Excel\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Godsent (0) vs. BT 
- Excel (1)\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 5\nTeams: Godsent vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Godsent (0) vs. JD|XL 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28662,13 +28916,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210727T190000Z
 DTEND:20210727T220000Z
-SUMMARY:[NLC] BTXL vs. RDL
+SUMMARY:[NLC] JDXL vs. RDL
 UID:nlc-106618692723745860@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: BT 
- Excel vs. RIDDLE\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: BT Excel (1) vs. RIDDLE (2)\n
+DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: JD|XL 
+ vs. RIDDLE\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ JD|XL (1) vs. RIDDLE (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -28718,6 +28972,116 @@ DESCRIPTION:Liga: NLC\nPhase: Finale\nTeams: HMA Fnatic Rising vs. Tricked
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T210000Z
+DTEND:20220112T220000Z
+SUMMARY:[NLC] JDXL vs. X7
+UID:nlc-107417432878727940@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: JD|XL vs. X7\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T200000Z
+DTEND:20220110T210000Z
+SUMMARY:[NLC] RDL vs. X7
+UID:nlc-107417432878727946@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: RIDDLE vs. X7\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T210000Z
+DTEND:20220110T220000Z
+SUMMARY:[NLC] DY vs. JDXL
+UID:nlc-107417432878727958@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Dusty vs. JD|XL\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T200000Z
+DTEND:20220112T210000Z
+SUMMARY:[NLC] BFR vs. DY
+UID:nlc-107417432878727984@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Bifrost vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T170000Z
+DTEND:20220110T180000Z
+SUMMARY:[NLC] VNR vs. SNG
+UID:nlc-107417432878727990@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Vanir vs. Team 
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T190000Z
+DTEND:20220112T200000Z
+SUMMARY:[NLC] ASTL vs. SNG
+UID:nlc-107417432878727998@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Astralis Talent vs. Team 
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T180000Z
+DTEND:20220112T190000Z
+SUMMARY:[NLC] NKI vs. RDL
+UID:nlc-107417432878728004@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Nyyrikki vs. RIDDLE\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T170000Z
+DTEND:20220112T180000Z
+SUMMARY:[NLC] MNM vs. VNR
+UID:nlc-107417432878728010@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: MnM Gaming vs. Vanir\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T180000Z
+DTEND:20220110T190000Z
+SUMMARY:[NLC] BFR vs. MNM
+UID:nlc-107417432878728020@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Bifrost vs. MnM 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220110T190000Z
+DTEND:20220110T200000Z
+SUMMARY:[NLC] ASTL vs. NKI
+UID:nlc-107417432878728026@lol.ics.tools
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Astralis Talent vs. 
+ Nyyrikki\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210125T230000Z
@@ -32432,6 +32796,72 @@ DESCRIPTION:Liga: La Ligue Française\nPhase: Finale\nTeams: Misfits Premier
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T170000Z
+DTEND:20220112T180000Z
+SUMMARY:[La Ligue Française] MSFP vs. KC
+UID:lfl-107468370561126402@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
+ Premier vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T180000Z
+DTEND:20220112T190000Z
+SUMMARY:[La Ligue Française] GW vs. GO
+UID:lfl-107468370561126436@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GameWard vs. 
+ GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T170000Z
+DTEND:20220113T180000Z
+SUMMARY:[La Ligue Française] LDLC vs. GW
+UID:lfl-107468370561191996@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
+ GameWard\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T190000Z
+DTEND:20220112T200000Z
+SUMMARY:[La Ligue Française] SLY vs. VITB
+UID:lfl-107468370561191998@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Solary vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T200000Z
+DTEND:20220112T210000Z
+SUMMARY:[La Ligue Française] OPL vs. BDS
+UID:lfl-107468370561192016@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team Oplon vs.
+  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220112T210000Z
+DTEND:20220112T220000Z
+SUMMARY:[La Ligue Française] LDLC vs. ME
+UID:lfl-107468370561192026@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
+ Mirage-Elyandra\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220108T013544Z
+LAST-MODIFIED:20220108T013544Z
+DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210128T180000Z
@@ -112828,10 +113258,10 @@ DTEND:20210402T010000Z
 SUMMARY:[LCS Academy] DIGA vs. WC
 UID:lcs-academy-105913088925019669@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: DIG Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- DIG Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  DIG Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -112948,10 +113378,10 @@ DTEND:20210411T230000Z
 SUMMARY:[LCS Academy] IMTA vs. WC
 UID:lcs-academy-105913088925085245@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: IMT Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- IMT Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  IMT Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114277,13 +114707,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210902T220000Z
 DTEND:20210903T010000Z
-SUMMARY:[LCS Academy] TLA vs. SNV
+SUMMARY:[LCS Academy] TLA vs. SN
 UID:lcs-academy-106858019191580217@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: TL Academy vs. 
  Supernova\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: TL 
  Academy (2) vs. Supernova (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114352,10 +114782,10 @@ DTEND:20210905T030000Z
 SUMMARY:[LCS Academy] 100X vs. WC
 UID:lcs-academy-106858019191645777@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: 100 Next vs. Wildcard
-  Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 Next 
- (0) vs. Wildcard Red (2)\n
+  Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
+ Next (0) vs. Wildcard Gaming (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114412,22 +114842,22 @@ DTEND:20210913T010000Z
 SUMMARY:[LCS Academy] RSV vs. WC
 UID:lcs-academy-106858019191645797@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: Resolve vs. Wildcard 
- Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Resolve (0)
-  vs. Wildcard Red (2)\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Resolve 
+ (0) vs. Wildcard Gaming (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210912T000000Z
 DTEND:20210912T030000Z
-SUMMARY:[LCS Academy] SNV vs. AOE
+SUMMARY:[LCS Academy] SN vs. AOE
 UID:lcs-academy-106858019191645801@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: Supernova vs. AOE 
  Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
  Supernova (1) vs. AOE Esports (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114484,10 +114914,10 @@ DTEND:20210917T023500Z
 SUMMARY:[LCS Academy] 100A vs. WC
 UID:lcs-academy-106858019191645821@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: 100 Academy vs. 
- Wildcard Red\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
- 100 Academy (2) vs. Wildcard Red (1)\n
+ Wildcard Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  100 Academy (2) vs. Wildcard Gaming (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -114591,11 +115021,11 @@ DTSTART:20210919T220000Z
 DTEND:20210920T030000Z
 SUMMARY:[LCS Academy] WC vs. GGA
 UID:lcs-academy-106858019191711397@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: Wildcard Red vs. GG 
- Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Wildcard Red (2) vs. GG Academy (3)\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 3\nTeams: Wildcard Gaming vs. 
+ GG Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Wildcard Gaming (2) vs. GG Academy (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220108T013544Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
