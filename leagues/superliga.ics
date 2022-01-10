@@ -2359,12 +2359,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T170000Z
 DTEND:20220110T180000Z
-SUMMARY:[SuperLiga] HRTS vs. MRS
+SUMMARY:[SuperLiga] MRS vs. HRTS
 UID:superliga-107468241211019105@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Team Heretics vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Movistar Riders vs. 
+ Team Heretics\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (0) vs. Team Heretics (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220110T183935Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2410,6 +2411,17 @@ DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs.
 CREATED:20220110T125255Z
 LAST-MODIFIED:20220110T125255Z
 DTSTAMP:20220110T125255Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220113T210000Z
+DTEND:20220113T220000Z
+SUMMARY:[SuperLiga] MRS vs. FNTQ
+UID:superliga-107468241211019091@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Movistar Riders vs. 
+ FnaticTQ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220110T183935Z
+LAST-MODIFIED:20220110T183935Z
+DTSTAMP:20220110T183935Z
 END:VEVENT
 NAME:SuperLiga Spielplan
 X-WR-CALNAME:SuperLiga Spielplan

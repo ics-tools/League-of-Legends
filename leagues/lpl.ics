@@ -10229,12 +10229,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T110000Z
 DTEND:20220110T140000Z
-SUMMARY:[LPL] RNG vs. FPX
+SUMMARY:[LPL] FPX vs. RNG
 UID:lpl-107417779634108518@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Royal Never Give Up vs. 
- FunPlus Phoenix\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: FunPlus Phoenix vs. Royal 
+ Never Give Up\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ FunPlus Phoenix (2) vs. Royal Never Give Up (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220110T183935Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT

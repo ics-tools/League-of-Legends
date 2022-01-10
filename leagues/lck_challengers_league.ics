@@ -2529,9 +2529,10 @@ SUMMARY:[LCK Challengers] KDF vs. HLE
 UID:lck_challengers_league-107439257587547409@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: Kwangdong Freecs 
  Challengers vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Kwangdong Freecs Challengers (1) vs. HLE 
+ Challengers (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220110T183935Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT

@@ -2164,9 +2164,10 @@ DTEND:20220110T180000Z
 SUMMARY:[NLC] VNR vs. SNG
 UID:nlc-107417432878727990@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Vanir vs. Team 
- Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vanir (1) vs. Team Singularity (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220110T183935Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
