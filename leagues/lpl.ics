@@ -10295,12 +10295,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T090000Z
 DTEND:20220110T120000Z
-SUMMARY:[LPL] TT vs. OMG
+SUMMARY:[LPL] OMG vs. TT
 UID:lpl-107417779634239798@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Thunder Talk Gaming vs. Oh My
-  God\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Oh My God vs. Thunder Talk 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Oh My 
+ God (2) vs. Thunder Talk Gaming (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220110T125255Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
