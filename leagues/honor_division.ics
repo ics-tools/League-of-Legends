@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
 NAME:Honor Division Spielplan
 X-WR-CALNAME:Honor Division Spielplan
-METHOD:PUBLISH
 END:VCALENDAR
