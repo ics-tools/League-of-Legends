@@ -799,11 +799,11 @@ DTSTART:20210621T180000Z
 DTEND:20210621T190000Z
 SUMMARY:[Esports Balkan League] VPG vs. ASUS
 UID:esports_balkan_league-106385973094040242@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Valiance 
- ProGame vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. ASUS ROG Elite (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Valiance  
+ vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. ASUS ROG Elite (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -872,12 +872,11 @@ DTSTART:20210617T190000Z
 DTEND:20210617T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. CZV
 UID:esports_balkan_league-106385973094040254@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
- ProGame vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Crvena Zvezda Esports 
- (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance  
+ vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. Crvena Zvezda Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -934,10 +933,10 @@ DTEND:20210701T200000Z
 SUMMARY:[Esports Balkan League] NXK vs. VPG
 UID:esports_balkan_league-106385973094105800@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Nexus KTRL 
- vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Nexus KTRL (0) vs. Valiance ProGame (1)\n
+ vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Nexus KTRL (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -982,10 +981,10 @@ DTEND:20210705T180000Z
 SUMMARY:[Esports Balkan League] NKOS vs. VPG
 UID:esports_balkan_league-106385973094105808@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: NK Osijek 
- Esport vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: NK Osijek Esport (0) vs. Valiance ProGame (1)\n
+ Esport vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,10 +1017,10 @@ DTEND:20210624T190000Z
 SUMMARY:[Esports Balkan League] STR vs. VPG
 UID:esports_balkan_league-106385973094105814@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Split 
- Raiders vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Split Raiders (0) vs. Valiance ProGame (1)\n
+ Raiders vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1053,11 +1052,11 @@ DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. X25
 UID:esports_balkan_league-106385973094105820@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Valiance 
- ProGame vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (0) vs. x25 Esports (1)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Valiance  
+ vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Valiance  (0) vs. x25 Esports (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1065,11 +1064,11 @@ DTSTART:20210614T190000Z
 DTEND:20210614T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. Z10
 UID:esports_balkan_league-106385973094105822@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
- ProGame vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (0) vs. Zero Tenacity (1)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance  
+ vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (0) vs. Zero Tenacity (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,10 +1137,10 @@ DTEND:20210715T190000Z
 SUMMARY:[Esports Balkan League] ASUS vs. VPG
 UID:esports_balkan_league-106385973094105834@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: ASUS ROG 
- Elite vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: ASUS ROG Elite (0) vs. Valiance ProGame (1)\n
+ Elite vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1211,11 +1210,10 @@ DTEND:20210712T190000Z
 SUMMARY:[Esports Balkan League] CZV vs. VPG
 UID:esports_balkan_league-106385973094105846@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Crvena 
- Zvezda Esports vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Valiance ProGame 
- (0)\n
+ Zvezda Esports vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Valiance  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1271,11 +1269,11 @@ DTSTART:20210726T170000Z
 DTEND:20210726T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. NXK
 UID:esports_balkan_league-106385973094105856@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
- ProGame vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Nexus KTRL (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance  
+ vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Valiance  (1) vs. Nexus KTRL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1319,11 +1317,11 @@ DTSTART:20210729T170000Z
 DTEND:20210729T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. NKOS
 UID:esports_balkan_league-106385973094105864@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
- ProGame vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. NK Osijek Esport (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance  
+ vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. NK Osijek Esport (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1355,11 +1353,11 @@ DTSTART:20210719T170000Z
 DTEND:20210719T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. STR
 UID:esports_balkan_league-106385973094105870@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Valiance 
- ProGame vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Split Raiders (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Valiance  
+ vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. Split Raiders (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1392,10 +1390,10 @@ DTEND:20210722T210000Z
 SUMMARY:[Esports Balkan League] X25 vs. VPG
 UID:esports_balkan_league-106385973094105876@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
-  vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: x25 Esports (0) vs. Valiance ProGame (1)\n
+  vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ x25 Esports (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1404,10 +1402,10 @@ DTEND:20210708T180000Z
 SUMMARY:[Esports Balkan League] Z10 vs. VPG
 UID:esports_balkan_league-106385973094105878@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
- Tenacity vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zero Tenacity (1) vs. Valiance ProGame (0)\n
+ Tenacity vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Valiance  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1464,11 +1462,10 @@ DTEND:20210803T210000Z
 SUMMARY:[Esports Balkan League] VPG vs. CZV
 UID:esports_balkan_league-106683293256351119@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: Valiance
-  ProGame vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Valiance ProGame (2) vs. Crvena Zvezda Esports 
- (3)\n
+   vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Valiance  (2) vs. Crvena Zvezda Esports (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT

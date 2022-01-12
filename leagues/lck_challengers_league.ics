@@ -2392,9 +2392,10 @@ DTEND:20220111T110000Z
 SUMMARY:[LCK Challengers] KT vs. DRX
 UID:lck_challengers_league-107439257587481819@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: kt Challengers 
- vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (0) vs. DRX Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2437,9 +2438,10 @@ DTEND:20220111T100000Z
 SUMMARY:[LCK Challengers] NS vs. DK
 UID:lck_challengers_league-107439257587547377@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: NS Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. DWG KIA Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2456,13 +2458,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T110000Z
 DTEND:20220111T120000Z
-SUMMARY:[LCK Challengers] KDF vs. BRO
+SUMMARY:[LCK Challengers] BRO vs. KDF
 UID:lck_challengers_league-107439257587547387@lol.ics.tools
-DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: Kwangdong Freecs 
- Challengers vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: BRO Challengers 
+ vs. Kwangdong Freecs Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRO Challengers (0) vs. Kwangdong Freecs 
+ Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2506,9 +2509,10 @@ DTEND:20220111T130000Z
 SUMMARY:[LCK Challengers] LSB vs. GEN
 UID:lck_challengers_league-107439257587547401@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: LSB Challengers 
- vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. GEN Challengers (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2538,12 +2542,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T080000Z
 DTEND:20220111T090000Z
-SUMMARY:[LCK Challengers] T1 vs. HLE
+SUMMARY:[LCK Challengers] HLE vs. T1
 UID:lck_challengers_league-107439257587547415@lol.ics.tools
-DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: T1 Challengers 
- vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: HLE Challengers 
+ vs. T1 Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (1) vs. T1 Challengers (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT

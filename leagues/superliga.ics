@@ -2318,9 +2318,10 @@ DTEND:20220110T190000Z
 SUMMARY:[SuperLiga] BSO vs. G2AR
 UID:superliga-107468241211019059@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bisons 
+ Eclub (1) vs. G2 Arctic (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2329,9 +2330,10 @@ DTEND:20220110T220000Z
 SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-107468241211019067@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: UCAM Esports Club vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. Giants (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2351,9 +2353,10 @@ DTEND:20220110T200000Z
 SUMMARY:[SuperLiga] FNTQ vs. MADM
 UID:superliga-107468241211019077@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: FnaticTQ vs. MAD Lions 
- Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ
+  (1) vs. MAD Lions Madrid (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2382,12 +2385,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T200000Z
 DTEND:20220110T210000Z
-SUMMARY:[SuperLiga] KOI vs. BAR
+SUMMARY:[SuperLiga] BAR vs. KOI
 UID:superliga-107468241211084663@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Finetwork KOI vs. Barça
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Barça Esports vs. 
+ Finetwork KOI\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Barça Esports (0) vs. Finetwork KOI (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT

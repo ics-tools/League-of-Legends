@@ -21161,9 +21161,10 @@ DTEND:20220110T190000Z
 SUMMARY:[SuperLiga] BSO vs. G2AR
 UID:superliga-107468241211019059@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bisons 
+ Eclub (1) vs. G2 Arctic (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21172,9 +21173,10 @@ DTEND:20220110T220000Z
 SUMMARY:[SuperLiga] UCAM vs. GIA
 UID:superliga-107468241211019067@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: UCAM Esports Club vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: UCAM 
+ Esports Club (0) vs. Giants (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21194,9 +21196,10 @@ DTEND:20220110T200000Z
 SUMMARY:[SuperLiga] FNTQ vs. MADM
 UID:superliga-107468241211019077@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: FnaticTQ vs. MAD Lions 
- Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ
+  (1) vs. MAD Lions Madrid (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -21225,12 +21228,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T200000Z
 DTEND:20220110T210000Z
-SUMMARY:[SuperLiga] KOI vs. BAR
+SUMMARY:[SuperLiga] BAR vs. KOI
 UID:superliga-107468241211084663@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Finetwork KOI vs. Barça
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Barça Esports vs. 
+ Finetwork KOI\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Barça Esports (0) vs. Finetwork KOI (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -22769,12 +22773,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T160000Z
 DTEND:20220111T170000Z
-SUMMARY:[Ultraliga] GSK vs. IHG
+SUMMARY:[Ultraliga] IHG vs. GSK
 UID:ultraliga-107416436274165338@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Goskilla vs. Illuminar 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Illuminar Gaming vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Goskilla (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -22792,12 +22797,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T200000Z
 DTEND:20220111T210000Z
-SUMMARY:[Ultraliga] KNF vs. RGO
+SUMMARY:[Ultraliga] RGO vs. KNF
 UID:ultraliga-107416436274165350@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. AGO 
- Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: AGO Rogue vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ AGO Rogue (1) vs. Komil&Friends (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -22814,12 +22820,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T180000Z
 DTEND:20220111T190000Z
-SUMMARY:[Ultraliga] Z10 vs. DV1
+SUMMARY:[Ultraliga] DV1 vs. Z10
 UID:ultraliga-107416436274230896@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Zero Tenacity vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Devils.One vs. Zero 
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. Zero Tenacity (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -22858,12 +22865,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T170000Z
 DTEND:20220111T180000Z
-SUMMARY:[Ultraliga] TEG vs. GGM
+SUMMARY:[Ultraliga] GGM vs. TEG
 UID:ultraliga-107416436274230924@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Team ESCA Gaming vs. 
- Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Gentlemen's Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gentlemen's Gaming (0) vs. Team ESCA Gaming (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -22872,9 +22880,10 @@ DTEND:20220111T200000Z
 SUMMARY:[Ultraliga] FSK vs. WOLF
 UID:ultraliga-107416436274230950@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Forsaken vs. Topo 
- Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Forsaken (1) vs. Topo Centras Iron Wolves (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -25276,12 +25285,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T180000Z
 DTEND:20220111T190000Z
-SUMMARY:[Prime League] WAVE vs. EWI
+SUMMARY:[Prime League] EWI vs. WAVE
 UID:primeleague-107417741194085502@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. E 
- WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Wave Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Wave Esports (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -25290,43 +25300,47 @@ DTEND:20220111T180000Z
 SUMMARY:[Prime League] EINS vs. GL
 UID:primeleague-107417741194085514@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Eintracht Spandau 
- vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Eintracht Spandau (0) vs. GamerLegion (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T210000Z
 DTEND:20220111T220000Z
-SUMMARY:[Prime League] USE vs. BIG
+SUMMARY:[Prime League] BIG vs. USE
 UID:primeleague-107417741194085538@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
- Sexy Edition vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
- 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
+  Gaming vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Berlin International Gaming (0) vs. 
+ Unicorns of Love Sexy Edition (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T190000Z
 DTEND:20220111T200000Z
-SUMMARY:[Prime League] MOUZ vs. PTA
+SUMMARY:[Prime League] PTA vs. MOUZ
 UID:primeleague-107417741194085548@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. 
- PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: PENTA 1860 vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PENTA 1860 (0) vs. Mousesports (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T200000Z
 DTEND:20220111T210000Z
-SUMMARY:[Prime League] S04 vs. SKP
+SUMMARY:[Prime League] SKP vs. S04
 UID:primeleague-107417741194085564@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Schalke 04 vs. SK 
- Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: SK Gaming Prime vs. 
+ Schalke 04\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming Prime (0) vs. Schalke 04 (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -29069,9 +29083,10 @@ DTEND:20220110T210000Z
 SUMMARY:[NLC] RDL vs. X7
 UID:nlc-107417432878727946@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: RIDDLE vs. X7\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RIDDLE (0) vs. X7 
+ (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -29080,9 +29095,10 @@ DTEND:20220110T220000Z
 SUMMARY:[NLC] DY vs. JDXL
 UID:nlc-107417432878727958@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Dusty vs. JD|XL\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (0) vs. JD|XL 
+ (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -29147,20 +29163,22 @@ DTEND:20220110T190000Z
 SUMMARY:[NLC] BFR vs. MNM
 UID:nlc-107417432878728020@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Bifrost vs. MnM 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bifrost 
+ (1) vs. MnM Gaming (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220110T190000Z
 DTEND:20220110T200000Z
-SUMMARY:[NLC] ASTL vs. NKI
+SUMMARY:[NLC] NKI vs. ASTL
 UID:nlc-107417432878728026@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Astralis Talent vs. 
- Nyyrikki\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 1\nTeams: Nyyrikki vs. Astralis 
+ Talent\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nyyrikki
+  (0) vs. Astralis Talent (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -30610,109 +30628,109 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210119T220000Z
 DTEND:20210119T230000Z
-SUMMARY:[La Ligue Française] BDS vs. GW
+SUMMARY:[La Ligue Française] BDSA vs. GW
 UID:lfl-105568157422015211@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
  GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. GameWard (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210121T190000Z
 DTEND:20210121T200000Z
-SUMMARY:[La Ligue Française] IZI vs. BDS
+SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-105568157422080749@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  IZIDREAM (1) vs. Team BDS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210210T200000Z
 DTEND:20210210T210000Z
-SUMMARY:[La Ligue Française] KC vs. BDS
+SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-105568157422080751@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
  vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Karmine Corp (0) vs. Team BDS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210203T180000Z
 DTEND:20210203T190000Z
-SUMMARY:[La Ligue Française] BDS vs. MCES
+SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-105568157422080753@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
  Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. Team MCES (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210211T210000Z
 DTEND:20210211T220000Z
-SUMMARY:[La Ligue Française] BDS vs. SLY
+SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-105568157422080755@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
  Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
   (1) vs. Solary (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210128T220000Z
 DTEND:20210128T230000Z
-SUMMARY:[La Ligue Française] GO vs. BDS
+SUMMARY:[La Ligue Française] GO vs. BDSA
 UID:lfl-105568157422080757@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GamersOrigin 
  vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  GamersOrigin (0) vs. Team BDS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210204T210000Z
 DTEND:20210204T220000Z
-SUMMARY:[La Ligue Française] BDS vs. LDLC
+SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-105568157422080759@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
  LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. LDLC OL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210127T220000Z
 DTEND:20210127T230000Z
-SUMMARY:[La Ligue Française] BDS vs. MSFP
+SUMMARY:[La Ligue Française] BDSA vs. MSFP
 UID:lfl-105568157422080761@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
  Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
   Team BDS (0) vs. Misfits Premier (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210120T190000Z
 DTEND:20210120T200000Z
-SUMMARY:[La Ligue Française] BDS vs. VITB
+SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105568157422080763@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
  Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (1) vs. Vitality.Bee (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -31150,109 +31168,109 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210217T200000Z
 DTEND:20210217T210000Z
-SUMMARY:[La Ligue Française] GW vs. BDS
+SUMMARY:[La Ligue Française] GW vs. BDSA
 UID:lfl-105568157422080837@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  GameWard (1) vs. Team BDS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210218T200000Z
 DTEND:20210218T210000Z
-SUMMARY:[La Ligue Française] BDS vs. IZI
+SUMMARY:[La Ligue Française] BDSA vs. IZI
 UID:lfl-105568157422080839@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
  IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. IZIDREAM (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210310T190000Z
 DTEND:20210310T200000Z
-SUMMARY:[La Ligue Française] KC vs. BDS
+SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-105568157422080841@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
  vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Karmine Corp (1) vs. Team BDS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210304T210000Z
 DTEND:20210304T220000Z
-SUMMARY:[La Ligue Française] BDS vs. MCES
+SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-105568157422080843@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
  Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. Team MCES (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210311T190000Z
 DTEND:20210311T200000Z
-SUMMARY:[La Ligue Française] SLY vs. BDS
+SUMMARY:[La Ligue Française] SLY vs. BDSA
 UID:lfl-105568157422080845@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
   (1) vs. Team BDS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210303T210000Z
 DTEND:20210303T220000Z
-SUMMARY:[La Ligue Française] BDS vs. GO
+SUMMARY:[La Ligue Française] BDSA vs. GO
 UID:lfl-105568157422080847@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
  GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (1) vs. GamersOrigin (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210309T210000Z
 DTEND:20210309T220000Z
-SUMMARY:[La Ligue Française] BDS vs. LDLC
+SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-105568157422080849@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
  LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. LDLC OL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210225T200000Z
 DTEND:20210225T210000Z
-SUMMARY:[La Ligue Française] MSFP vs. BDS
+SUMMARY:[La Ligue Française] MSFP vs. BDSA
 UID:lfl-105568157422080851@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Misfits 
  Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Misfits Premier (0) vs. Team BDS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210224T190000Z
 DTEND:20210224T200000Z
-SUMMARY:[La Ligue Française] BDS vs. VITB
+SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105568157422080853@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
  Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (0) vs. Vitality.Bee (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -31714,13 +31732,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210318T170000Z
 DTEND:20210318T220000Z
-SUMMARY:[La Ligue Française] BDS vs. VITB
+SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105904572584340594@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Team BDS vs. Vitality.Bee\nSpiel-Strategie: bestOf 5\nStatus: 
  completed\nErgebnisse: Team BDS (1) vs. Vitality.Bee (3)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -31823,13 +31841,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210630T200000Z
 DTEND:20210630T210000Z
-SUMMARY:[La Ligue Française] BDS vs. GO
+SUMMARY:[La Ligue Française] BDSA vs. GO
 UID:lfl-106313258183586962@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
  GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (0) vs. GamersOrigin (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -31919,13 +31937,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210617T160000Z
 DTEND:20210617T170000Z
-SUMMARY:[La Ligue Française] BDS vs. GW
+SUMMARY:[La Ligue Française] BDSA vs. GW
 UID:lfl-106313258183586978@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
  GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. GameWard (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32003,13 +32021,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210610T170000Z
 DTEND:20210610T180000Z
-SUMMARY:[La Ligue Française] IZI vs. BDS
+SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-106313258183586992@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  IZIDREAM (1) vs. Team BDS (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32075,13 +32093,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210624T170000Z
 DTEND:20210624T180000Z
-SUMMARY:[La Ligue Française] KC vs. BDS
+SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-106313258183652540@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Karmine Corp 
  vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Karmine Corp (1) vs. Team BDS (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32135,13 +32153,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210616T190000Z
 DTEND:20210616T200000Z
-SUMMARY:[La Ligue Française] BDS vs. LDLC
+SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-106313258183652550@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
  LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (0) vs. LDLC OL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32183,13 +32201,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210701T180000Z
 DTEND:20210701T190000Z
-SUMMARY:[La Ligue Française] BDS vs. MSFP
+SUMMARY:[La Ligue Française] BDSA vs. MSFP
 UID:lfl-106313258183652558@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
  Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
   Team BDS (1) vs. Misfits Premier (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32219,13 +32237,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210623T170000Z
 DTEND:20210623T180000Z
-SUMMARY:[La Ligue Française] SLY vs. BDS
+SUMMARY:[La Ligue Française] SLY vs. BDSA
 UID:lfl-106313258183652564@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
   (1) vs. Team BDS (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32255,25 +32273,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210608T200000Z
 DTEND:20210608T210000Z
-SUMMARY:[La Ligue Française] BDS vs. MCES
+SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-106313258183652570@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
  Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. Team MCES (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210609T170000Z
 DTEND:20210609T180000Z
-SUMMARY:[La Ligue Française] BDS vs. VITB
+SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-106313258183652572@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
  Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (0) vs. Vitality.Bee (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32363,13 +32381,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210714T200000Z
 DTEND:20210714T210000Z
-SUMMARY:[La Ligue Française] GO vs. BDS
+SUMMARY:[La Ligue Française] GO vs. BDSA
 UID:lfl-106313258183652588@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GamersOrigin 
  vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  GamersOrigin (0) vs. Team BDS (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32459,13 +32477,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210708T200000Z
 DTEND:20210708T210000Z
-SUMMARY:[La Ligue Française] GW vs. BDS
+SUMMARY:[La Ligue Française] GW vs. BDSA
 UID:lfl-106313258183652604@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  GameWard (0) vs. Team BDS (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32543,13 +32561,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210726T160000Z
 DTEND:20210726T170000Z
-SUMMARY:[La Ligue Française] IZI vs. BDS
+SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-106313258183718154@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: IZIDREAM vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  IZIDREAM (1) vs. Team BDS (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32615,13 +32633,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210727T190000Z
 DTEND:20210727T200000Z
-SUMMARY:[La Ligue Française] BDS vs. KC
+SUMMARY:[La Ligue Française] BDSA vs. KC
 UID:lfl-106313258183718166@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
  Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (0) vs. Karmine Corp (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32675,13 +32693,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210728T200000Z
 DTEND:20210728T210000Z
-SUMMARY:[La Ligue Française] LDLC vs. BDS
+SUMMARY:[La Ligue Française] LDLC vs. BDSA
 UID:lfl-106313258183718176@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: LDLC OL vs. 
  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
  OL (0) vs. Team BDS (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32723,13 +32741,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210722T160000Z
 DTEND:20210722T170000Z
-SUMMARY:[La Ligue Française] MSFP vs. BDS
+SUMMARY:[La Ligue Française] MSFP vs. BDSA
 UID:lfl-106313258183718184@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Misfits 
  Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Misfits Premier (1) vs. Team BDS (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32759,13 +32777,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210715T170000Z
 DTEND:20210715T180000Z
-SUMMARY:[La Ligue Française] BDS vs. SLY
+SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-106313258183718190@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
  Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
   (0) vs. Solary (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32795,25 +32813,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210707T200000Z
 DTEND:20210707T210000Z
-SUMMARY:[La Ligue Française] BDS vs. MCES
+SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-106313258183718196@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
  Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
  BDS (1) vs. Team MCES (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210713T170000Z
 DTEND:20210713T180000Z
-SUMMARY:[La Ligue Française] BDS vs. VITB
+SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-106313258183718198@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
  Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Team BDS (1) vs. Vitality.Bee (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32924,12 +32942,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T200000Z
 DTEND:20220112T210000Z
-SUMMARY:[La Ligue Française] OPL vs. BDS
+SUMMARY:[La Ligue Française] OPL vs. BDSA
 UID:lfl-107468370561192016@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team Oplon vs.
   Team BDS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32957,12 +32975,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T180000Z
 DTEND:20220113T190000Z
-SUMMARY:[La Ligue Française] BDS vs. SLY
+SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-107468370561192008@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
  Solary\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
@@ -36933,11 +36951,11 @@ DTSTART:20210621T180000Z
 DTEND:20210621T190000Z
 SUMMARY:[Esports Balkan League] VPG vs. ASUS
 UID:esports_balkan_league-106385973094040242@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Valiance 
- ProGame vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. ASUS ROG Elite (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Valiance  
+ vs. ASUS ROG Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. ASUS ROG Elite (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37006,12 +37024,11 @@ DTSTART:20210617T190000Z
 DTEND:20210617T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. CZV
 UID:esports_balkan_league-106385973094040254@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
- ProGame vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Crvena Zvezda Esports 
- (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance  
+ vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. Crvena Zvezda Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37068,10 +37085,10 @@ DTEND:20210701T200000Z
 SUMMARY:[Esports Balkan League] NXK vs. VPG
 UID:esports_balkan_league-106385973094105800@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Nexus KTRL 
- vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Nexus KTRL (0) vs. Valiance ProGame (1)\n
+ vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Nexus KTRL (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37116,10 +37133,10 @@ DTEND:20210705T180000Z
 SUMMARY:[Esports Balkan League] NKOS vs. VPG
 UID:esports_balkan_league-106385973094105808@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: NK Osijek 
- Esport vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: NK Osijek Esport (0) vs. Valiance ProGame (1)\n
+ Esport vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NK Osijek Esport (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37152,10 +37169,10 @@ DTEND:20210624T190000Z
 SUMMARY:[Esports Balkan League] STR vs. VPG
 UID:esports_balkan_league-106385973094105814@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Split 
- Raiders vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Split Raiders (0) vs. Valiance ProGame (1)\n
+ Raiders vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Split Raiders (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37187,11 +37204,11 @@ DTSTART:20210628T190000Z
 DTEND:20210628T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. X25
 UID:esports_balkan_league-106385973094105820@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Valiance 
- ProGame vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (0) vs. x25 Esports (1)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Valiance  
+ vs. x25 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Valiance  (0) vs. x25 Esports (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37199,11 +37216,11 @@ DTSTART:20210614T190000Z
 DTEND:20210614T200000Z
 SUMMARY:[Esports Balkan League] VPG vs. Z10
 UID:esports_balkan_league-106385973094105822@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
- ProGame vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (0) vs. Zero Tenacity (1)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance  
+ vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (0) vs. Zero Tenacity (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37272,10 +37289,10 @@ DTEND:20210715T190000Z
 SUMMARY:[Esports Balkan League] ASUS vs. VPG
 UID:esports_balkan_league-106385973094105834@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: ASUS ROG 
- Elite vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: ASUS ROG Elite (0) vs. Valiance ProGame (1)\n
+ Elite vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ASUS ROG Elite (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37345,11 +37362,10 @@ DTEND:20210712T190000Z
 SUMMARY:[Esports Balkan League] CZV vs. VPG
 UID:esports_balkan_league-106385973094105846@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 5\nTeams: Crvena 
- Zvezda Esports vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Valiance ProGame 
- (0)\n
+ Zvezda Esports vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Valiance  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37405,11 +37421,11 @@ DTSTART:20210726T170000Z
 DTEND:20210726T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. NXK
 UID:esports_balkan_league-106385973094105856@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
- ProGame vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Nexus KTRL (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance  
+ vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Valiance  (1) vs. Nexus KTRL (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37453,11 +37469,11 @@ DTSTART:20210729T170000Z
 DTEND:20210729T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. NKOS
 UID:esports_balkan_league-106385973094105864@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
- ProGame vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. NK Osijek Esport (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance  
+ vs. NK Osijek Esport\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. NK Osijek Esport (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37489,11 +37505,11 @@ DTSTART:20210719T170000Z
 DTEND:20210719T180000Z
 SUMMARY:[Esports Balkan League] VPG vs. STR
 UID:esports_balkan_league-106385973094105870@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Valiance 
- ProGame vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Valiance ProGame (1) vs. Split Raiders (0)\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: Valiance  
+ vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance  (1) vs. Split Raiders (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37526,10 +37542,10 @@ DTEND:20210722T210000Z
 SUMMARY:[Esports Balkan League] X25 vs. VPG
 UID:esports_balkan_league-106385973094105876@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 6\nTeams: x25 Esports
-  vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: x25 Esports (0) vs. Valiance ProGame (1)\n
+  vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ x25 Esports (0) vs. Valiance  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37538,10 +37554,10 @@ DTEND:20210708T180000Z
 SUMMARY:[Esports Balkan League] Z10 vs. VPG
 UID:esports_balkan_league-106385973094105878@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 4\nTeams: Zero 
- Tenacity vs. Valiance ProGame\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Zero Tenacity (1) vs. Valiance ProGame (0)\n
+ Tenacity vs. Valiance \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zero Tenacity (1) vs. Valiance  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -37598,11 +37614,10 @@ DTEND:20210803T210000Z
 SUMMARY:[Esports Balkan League] VPG vs. CZV
 UID:esports_balkan_league-106683293256351119@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Halbfinale\nTeams: Valiance
-  ProGame vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Valiance ProGame (2) vs. Crvena Zvezda Esports 
- (3)\n
+   vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Valiance  (2) vs. Crvena Zvezda Esports (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -40723,13 +40738,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210223T070000Z
 DTEND:20210223T080000Z
-SUMMARY:[LCO] MMM vs. PGG
+SUMMARY:[LCO] MEC vs. PGG
 UID:lco-105747961300983934@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 1\nTeams: MAMMOTH vs. 
  Pentanet.GG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  MAMMOTH (0) vs. Pentanet.GG (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -40807,73 +40822,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210309T090000Z
 DTEND:20210309T100000Z
-SUMMARY:[LCO] CHF vs. MMM
+SUMMARY:[LCO] CHF vs. MEC
 UID:lco-105747961301049484@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 3\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210310T100000Z
 DTEND:20210310T110000Z
-SUMMARY:[LCO] LGC vs. MMM
+SUMMARY:[LCO] LGC vs. MEC
 UID:lco-105747961301049486@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 3\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210303T090000Z
 DTEND:20210303T100000Z
-SUMMARY:[LCO] GRV vs. MMM
+SUMMARY:[LCO] GRV vs. MEC
 UID:lco-105747961301049488@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 2\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210224T080000Z
 DTEND:20210224T090000Z
-SUMMARY:[LCO] ORD vs. MMM
+SUMMARY:[LCO] ORD vs. MEC
 UID:lco-105747961301049490@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 1\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210302T080000Z
 DTEND:20210302T090000Z
-SUMMARY:[LCO] DW vs. MMM
+SUMMARY:[LCO] DW vs. MEC
 UID:lco-105747961301049492@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 2\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210305T070000Z
 DTEND:20210305T080000Z
-SUMMARY:[LCO] PCE vs. MMM
+SUMMARY:[LCO] PCE vs. MEC
 UID:lco-105747961301049494@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 2\nTeams: PEACE vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41059,13 +41074,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210312T070000Z
 DTEND:20210312T080000Z
-SUMMARY:[LCO] MMM vs. PGG
+SUMMARY:[LCO] MEC vs. PGG
 UID:lco-105747961301049526@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 3\nTeams: MAMMOTH vs. 
  Pentanet.GG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  MAMMOTH (0) vs. Pentanet.GG (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41143,73 +41158,73 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210324T090000Z
 DTEND:20210324T100000Z
-SUMMARY:[LCO] CHF vs. MMM
+SUMMARY:[LCO] CHF vs. MEC
 UID:lco-105747961301115076@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210326T100000Z
 DTEND:20210326T110000Z
-SUMMARY:[LCO] LGC vs. MMM
+SUMMARY:[LCO] LGC vs. MEC
 UID:lco-105747961301115078@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210319T090000Z
 DTEND:20210319T100000Z
-SUMMARY:[LCO] GRV vs. MMM
+SUMMARY:[LCO] GRV vs. MEC
 UID:lco-105747961301115080@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210316T080000Z
 DTEND:20210316T090000Z
-SUMMARY:[LCO] ORD vs. MMM
+SUMMARY:[LCO] ORD vs. MEC
 UID:lco-105747961301115082@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210317T080000Z
 DTEND:20210317T090000Z
-SUMMARY:[LCO] DW vs. MMM
+SUMMARY:[LCO] DW vs. MEC
 UID:lco-105747961301115084@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210323T070000Z
 DTEND:20210323T080000Z
-SUMMARY:[LCO] PCE vs. MMM
+SUMMARY:[LCO] PCE vs. MEC
 UID:lco-105747961301115086@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: PEACE vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41491,13 +41506,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210623T090000Z
 DTEND:20210623T100000Z
-SUMMARY:[LCO] MMM vs. DW
+SUMMARY:[LCO] MEC vs. DW
 UID:lco-106273204410279682@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 2\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41563,13 +41578,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210630T090000Z
 DTEND:20210630T100000Z
-SUMMARY:[LCO] MMM vs. GRV
+SUMMARY:[LCO] MEC vs. GRV
 UID:lco-106273204410279694@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 3\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. 
  Gravitas (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41623,13 +41638,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210706T080000Z
 DTEND:20210706T090000Z
-SUMMARY:[LCO] MMM vs. LGC
+SUMMARY:[LCO] MEC vs. LGC
 UID:lco-106273204410279704@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (0) vs. Legacy Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41683,49 +41698,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210615T110000Z
 DTEND:20210615T120000Z
-SUMMARY:[LCO] ORD vs. MMM
+SUMMARY:[LCO] ORD vs. MEC
 UID:lco-106273204410345250@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 1\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210629T080000Z
 DTEND:20210629T090000Z
-SUMMARY:[LCO] PCE vs. MMM
+SUMMARY:[LCO] PCE vs. MEC
 UID:lco-106273204410345252@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 3\nTeams: PEACE vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210622T080000Z
 DTEND:20210622T090000Z
-SUMMARY:[LCO] PGG vs. MMM
+SUMMARY:[LCO] PGG vs. MEC
 UID:lco-106273204410345254@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 2\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210616T100000Z
 DTEND:20210616T110000Z
-SUMMARY:[LCO] CHF vs. MMM
+SUMMARY:[LCO] CHF vs. MEC
 UID:lco-106273204410345256@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 1\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41827,13 +41842,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210714T110000Z
 DTEND:20210714T120000Z
-SUMMARY:[LCO] MMM vs. DW
+SUMMARY:[LCO] MEC vs. DW
 UID:lco-106273204410345274@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41899,13 +41914,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210720T100000Z
 DTEND:20210720T110000Z
-SUMMARY:[LCO] MMM vs. GRV
+SUMMARY:[LCO] MEC vs. GRV
 UID:lco-106273204410345286@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Gravitas (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41959,13 +41974,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210721T110000Z
 DTEND:20210721T120000Z
-SUMMARY:[LCO] MMM vs. LGC
+SUMMARY:[LCO] MEC vs. LGC
 UID:lco-106273204410345296@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (0) vs. Legacy Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42019,49 +42034,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210707T090000Z
 DTEND:20210707T100000Z
-SUMMARY:[LCO] ORD vs. MMM
+SUMMARY:[LCO] ORD vs. MEC
 UID:lco-106273204410410842@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210716T110000Z
 DTEND:20210716T120000Z
-SUMMARY:[LCO] PCE vs. MMM
+SUMMARY:[LCO] PCE vs. MEC
 UID:lco-106273204410410844@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: PEACE vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210713T080000Z
 DTEND:20210713T090000Z
-SUMMARY:[LCO] PGG vs. MMM
+SUMMARY:[LCO] PGG vs. MEC
 UID:lco-106273204410410846@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210709T100000Z
 DTEND:20210709T110000Z
-SUMMARY:[LCO] CHF vs. MMM
+SUMMARY:[LCO] CHF vs. MEC
 UID:lco-106273204410410848@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 4\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42163,13 +42178,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210803T090000Z
 DTEND:20210803T100000Z
-SUMMARY:[LCO] MMM vs. DW
+SUMMARY:[LCO] MEC vs. DW
 UID:lco-106353129313265913@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42235,13 +42250,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210810T100000Z
 DTEND:20210810T110000Z
-SUMMARY:[LCO] MMM vs. GRV
+SUMMARY:[LCO] MEC vs. GRV
 UID:lco-106353129313331461@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Gravitas (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42295,13 +42310,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210811T110000Z
 DTEND:20210811T120000Z
-SUMMARY:[LCO] MMM vs. LGC
+SUMMARY:[LCO] MEC vs. LGC
 UID:lco-106353129313331471@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (1) vs. Legacy Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -42355,49 +42370,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210723T090000Z
 DTEND:20210723T100000Z
-SUMMARY:[LCO] ORD vs. MMM
+SUMMARY:[LCO] ORD vs. MEC
 UID:lco-106353129313331481@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210804T080000Z
 DTEND:20210804T090000Z
-SUMMARY:[LCO] PCE vs. MMM
+SUMMARY:[LCO] PCE vs. MEC
 UID:lco-106353129313331483@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: PEACE vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210728T080000Z
 DTEND:20210728T090000Z
-SUMMARY:[LCO] PGG vs. MMM
+SUMMARY:[LCO] PGG vs. MEC
 UID:lco-106353129313331485@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 7\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20210727T100000Z
 DTEND:20210727T110000Z
-SUMMARY:[LCO] CHF vs. MMM
+SUMMARY:[LCO] CHF vs. MEC
 UID:lco-106353129313331487@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 7\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -43759,37 +43774,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191002T150000Z
 DTEND:20191002T160000Z
-SUMMARY:[WM] MMM vs. CLU
+SUMMARY:[WM] MEC vs. CLU
 UID:worlds-102844212420506812@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: MAMMOTH vs. 
  Clutch Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  MAMMOTH (0) vs. Clutch Gaming (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191002T130000Z
 DTEND:20191002T140000Z
-SUMMARY:[WM] MMM vs. UOL
+SUMMARY:[WM] MEC vs. UOL
 UID:worlds-102844212420703421@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: MAMMOTH vs. 
  Unicorns of Love\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: MAMMOTH (1) vs. Unicorns of Love (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191004T120000Z
 DTEND:20191004T130000Z
-SUMMARY:[WM] UOL vs. MMM
+SUMMARY:[WM] UOL vs. MEC
 UID:worlds-102844212420834494@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Unicorns of 
  Love vs. MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Unicorns of Love (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -43807,13 +43822,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191004T140000Z
 DTEND:20191004T150000Z
-SUMMARY:[WM] CLU vs. MMM
+SUMMARY:[WM] CLU vs. MEC
 UID:worlds-102844212421162176@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Clutch 
  Gaming vs. MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Clutch Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -44669,13 +44684,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20191004T160000Z
 DTEND:20191004T170000Z
-SUMMARY:[WM] MMM vs. UOL
+SUMMARY:[WM] MEC vs. UOL
 UID:worlds-102904869405524613@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: MAMMOTH vs. 
  Unicorns of Love\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: MAMMOTH (0) vs. Unicorns of Love (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -79742,9 +79757,10 @@ DTEND:20220111T140000Z
 SUMMARY:[LPL] LGD vs. AL
 UID:lpl-107417779634042798@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: LGD Gaming vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: LGD 
+ Gaming (1) vs. Anyone's Legend (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -79764,9 +79780,10 @@ DTEND:20220111T120000Z
 SUMMARY:[LPL] JDG vs. EDG
 UID:lpl-107417779634108446@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: JD Gaming vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: JD 
+ Gaming (0) vs. Edward Gaming (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81501,13 +81518,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190328T050000Z
 DTEND:20190328T100000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-101383792951505580@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Vorfinale\nTeams: MAMMOTH vs. ORDER\nSpiel-
  Strategie: bestOf 5\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. ORDER 
  (3)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81537,13 +81554,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190308T080000Z
 DTEND:20190308T090000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-102110148152122850@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Tag 8\nTeams: Dire Wolves vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire Wolves (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81561,13 +81578,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190301T060000Z
 DTEND:20190301T070000Z
-SUMMARY:[OPL] BMR vs. MMM
+SUMMARY:[OPL] BMR vs. MEC
 UID:oce-opl-102110148152450532@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: Bombers vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bombers (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81621,13 +81638,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190322T060000Z
 DTEND:20190322T070000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-102110148153040361@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81669,13 +81686,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190322T080000Z
 DTEND:20190322T090000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-102110148153499117@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: MAMMOTH vs. ORDER\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. ORDER 
  (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81717,13 +81734,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190201T060000Z
 DTEND:20190201T070000Z
-SUMMARY:[OPL] MMM vs. DW
+SUMMARY:[OPL] MEC vs. DW
 UID:oce-opl-102110148153957873@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81753,13 +81770,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190215T090000Z
 DTEND:20190215T100000Z
-SUMMARY:[OPL] MMM vs. CHF
+SUMMARY:[OPL] MEC vs. CHF
 UID:oce-opl-102110148154351092@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: MAMMOTH vs. The 
  Chiefs\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. The Chiefs (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81837,13 +81854,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190323T050000Z
 DTEND:20190323T060000Z
-SUMMARY:[OPL] BMR vs. MMM
+SUMMARY:[OPL] BMR vs. MEC
 UID:oce-opl-102110148155137531@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Bombers vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bombers (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81873,13 +81890,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190315T060000Z
 DTEND:20190315T070000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-102110148155530750@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -81981,13 +81998,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190222T070000Z
 DTEND:20190222T080000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-102110148156644871@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (0) vs. MAMMOTH 
  (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82017,13 +82034,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190125T080000Z
 DTEND:20190125T090000Z
-SUMMARY:[OPL] MMM vs. AV
+SUMMARY:[OPL] MEC vs. AV
 UID:oce-opl-102110148156972554@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: MAMMOTH vs. Avant 
  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Avant Gaming (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82065,13 +82082,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190119T080000Z
 DTEND:20190119T090000Z
-SUMMARY:[OPL] MMM vs. GRV
+SUMMARY:[OPL] MEC vs. GRV
 UID:oce-opl-102110148157431310@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Gravitas (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82125,25 +82142,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190202T060000Z
 DTEND:20190202T070000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-102110148158021139@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190316T060000Z
 DTEND:20190316T070000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-102110148158152212@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82185,13 +82202,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190223T070000Z
 DTEND:20190223T080000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-102110148158610968@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82209,13 +82226,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190126T080000Z
 DTEND:20190126T090000Z
-SUMMARY:[OPL] MMM vs. LGC
+SUMMARY:[OPL] MEC vs. LGC
 UID:oce-opl-102110148158807578@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (1) vs. Legacy Esports (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82233,13 +82250,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190216T060000Z
 DTEND:20190216T070000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-102110148159069724@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82257,13 +82274,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190209T080000Z
 DTEND:20190209T090000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-102110148159331870@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82281,13 +82298,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190302T080000Z
 DTEND:20190302T090000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-102110148159528480@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82341,13 +82358,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190208T080000Z
 DTEND:20190208T090000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-102110148160118309@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82473,13 +82490,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190118T070000Z
 DTEND:20190118T080000Z
-SUMMARY:[OPL] MMM vs. BMR
+SUMMARY:[OPL] MEC vs. BMR
 UID:oce-opl-102110148162084400@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: MAMMOTH vs. Bombers\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. 
  Bombers (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82509,13 +82526,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190309T060000Z
 DTEND:20190309T070000Z
-SUMMARY:[OPL] MMM vs. AV
+SUMMARY:[OPL] MEC vs. AV
 UID:oce-opl-102110148162412083@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Tag 8\nTeams: MAMMOTH vs. Avant 
  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. Avant Gaming (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82569,13 +82586,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190713T080000Z
 DTEND:20190713T090000Z
-SUMMARY:[OPL] BMR vs. MMM
+SUMMARY:[OPL] BMR vs. MEC
 UID:oce-opl-102147202950415125@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: Bombers vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bombers (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82629,13 +82646,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190614T090000Z
 DTEND:20190614T100000Z
-SUMMARY:[OPL] MMM vs. BMR
+SUMMARY:[OPL] MEC vs. BMR
 UID:oce-opl-102147202951922458@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: MAMMOTH vs. Bombers\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Bombers (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82653,13 +82670,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190615T080000Z
 DTEND:20190615T090000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-102147202952446748@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82701,13 +82718,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190607T090000Z
 DTEND:20190607T100000Z
-SUMMARY:[OPL] MMM vs. CHF
+SUMMARY:[OPL] MEC vs. CHF
 UID:oce-opl-102147202953626400@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: MAMMOTH vs. The 
  Chiefs\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. The Chiefs (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82749,13 +82766,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190817T070000Z
 DTEND:20190817T080000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-102147202954806052@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82821,13 +82838,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190621T070000Z
 DTEND:20190621T080000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-102147202956575530@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: MAMMOTH vs. ORDER\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. ORDER 
  (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82857,25 +82874,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190608T060000Z
 DTEND:20190608T070000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-102147202957427501@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190628T070000Z
 DTEND:20190628T080000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-102147202957689646@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82917,13 +82934,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190817T100000Z
 DTEND:20190817T110000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-102147202958869298@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -82989,25 +83006,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190719T080000Z
 DTEND:20190719T090000Z
-SUMMARY:[OPL] MMM vs. LGC
+SUMMARY:[OPL] MEC vs. LGC
 UID:oce-opl-102147202960704312@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (1) vs. Legacy Esports (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190726T070000Z
 DTEND:20190726T080000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-102147202960966457@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (0) vs. MAMMOTH 
  (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83049,13 +83066,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190720T060000Z
 DTEND:20190720T070000Z
-SUMMARY:[OPL] MMM vs. AV
+SUMMARY:[OPL] MEC vs. AV
 UID:oce-opl-102147202962146109@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: MAMMOTH vs. Avant 
  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. Avant Gaming (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83097,13 +83114,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190803T080000Z
 DTEND:20190803T090000Z
-SUMMARY:[OPL] MMM vs. BMR
+SUMMARY:[OPL] MEC vs. BMR
 UID:oce-opl-102147202963260225@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: MAMMOTH vs. Bombers\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. 
  Bombers (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83205,13 +83222,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190802T090000Z
 DTEND:20190802T100000Z
-SUMMARY:[OPL] MMM vs. CHF
+SUMMARY:[OPL] MEC vs. CHF
 UID:oce-opl-102147202965881674@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: MAMMOTH vs. The 
  Chiefs\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. The Chiefs (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83253,13 +83270,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190629T060000Z
 DTEND:20190629T070000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-102147202967061326@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83325,13 +83342,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190727T070000Z
 DTEND:20190727T080000Z
-SUMMARY:[OPL] MMM vs. DW
+SUMMARY:[OPL] MEC vs. DW
 UID:oce-opl-102147202968765268@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. Dire Wolves (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83349,13 +83366,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190622T090000Z
 DTEND:20190622T100000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-102147202969355094@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83385,13 +83402,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190810T070000Z
 DTEND:20190810T080000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-102147202970207065@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83433,13 +83450,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190712T060000Z
 DTEND:20190712T070000Z
-SUMMARY:[OPL] MMM vs. GRV
+SUMMARY:[OPL] MEC vs. GRV
 UID:oce-opl-102147202971321181@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Gravitas (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83481,13 +83498,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190816T070000Z
 DTEND:20190816T080000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-102147202972500833@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: MAMMOTH vs. ORDER\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. ORDER 
  (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83505,13 +83522,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190809T090000Z
 DTEND:20190809T100000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-102147202973090659@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83553,25 +83570,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190831T040000Z
 DTEND:20190831T090000Z
-SUMMARY:[OPL] MMM vs. CHF
+SUMMARY:[OPL] MEC vs. CHF
 UID:oce-opl-102147202974335847@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Großes Finale\nTeams: MAMMOTH vs. The 
  Chiefs\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: MAMMOTH 
  (3) vs. The Chiefs (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20190824T060000Z
 DTEND:20190824T110000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-102147202974597992@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Entscheidungsspiele – Runde 3\nTeams: MAMMOTH
   vs. ORDER\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
  MAMMOTH (3) vs. ORDER (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83601,85 +83618,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200201T060000Z
 DTEND:20200201T070000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-103535402770471161@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200221T060000Z
 DTEND:20200221T070000Z
-SUMMARY:[OPL] PGG vs. MMM
+SUMMARY:[OPL] PGG vs. MEC
 UID:oce-opl-103535402770536699@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200131T080000Z
 DTEND:20200131T090000Z
-SUMMARY:[OPL] MMM vs. DW
+SUMMARY:[OPL] MEC vs. DW
 UID:oce-opl-103535402770536701@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200306T060000Z
 DTEND:20200306T070000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-103535402770536703@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200208T080000Z
 DTEND:20200208T090000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-103535402770536705@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200207T050000Z
 DTEND:20200207T060000Z
-SUMMARY:[OPL] MMM vs. LGC
+SUMMARY:[OPL] MEC vs. LGC
 UID:oce-opl-103535402770536707@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (0) vs. Legacy Esports (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200215T080000Z
 DTEND:20200215T090000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-103535402770536709@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -83937,85 +83954,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200228T070000Z
 DTEND:20200228T080000Z
-SUMMARY:[OPL] MMM vs. GRV
+SUMMARY:[OPL] MEC vs. GRV
 UID:oce-opl-103535402770536753@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: MAMMOTH vs. Gravitas\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (1) vs. 
  Gravitas (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200327T070000Z
 DTEND:20200327T080000Z
-SUMMARY:[OPL] MMM vs. PGG
+SUMMARY:[OPL] MEC vs. PGG
 UID:oce-opl-103535402770536755@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: MAMMOTH vs. 
  Pentanet.GG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  MAMMOTH (1) vs. Pentanet.GG (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200222T080000Z
 DTEND:20200222T090000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-103535402770536757@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200214T070000Z
 DTEND:20200214T080000Z
-SUMMARY:[OPL] MMM vs. AV
+SUMMARY:[OPL] MEC vs. AV
 UID:oce-opl-103535402770536759@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: MAMMOTH vs. Avant 
  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Avant Gaming (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200307T060000Z
 DTEND:20200307T070000Z
-SUMMARY:[OPL] MMM vs. CHF
+SUMMARY:[OPL] MEC vs. CHF
 UID:oce-opl-103535402770536761@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: MAMMOTH vs. The 
  Chiefs\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. The Chiefs (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200229T080000Z
 DTEND:20200229T090000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-103535402770536763@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200328T070000Z
 DTEND:20200328T080000Z
-SUMMARY:[OPL] MMM vs. ORD
+SUMMARY:[OPL] MEC vs. ORD
 UID:oce-opl-103535402770536765@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: MAMMOTH vs. ORDER\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. ORDER 
  (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -84273,85 +84290,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200321T080000Z
 DTEND:20200321T090000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-103535402770536809@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (1) vs. 
  MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200404T090000Z
 DTEND:20200404T100000Z
-SUMMARY:[OPL] PGG vs. MMM
+SUMMARY:[OPL] PGG vs. MEC
 UID:oce-opl-103535402770536811@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200320T080000Z
 DTEND:20200320T090000Z
-SUMMARY:[OPL] MMM vs. DW
+SUMMARY:[OPL] MEC vs. DW
 UID:oce-opl-103535402770536813@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: MAMMOTH vs. Dire 
  Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (0) vs. Dire Wolves (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200403T050000Z
 DTEND:20200403T060000Z
-SUMMARY:[OPL] MMM vs. AV
+SUMMARY:[OPL] MEC vs. AV
 UID:oce-opl-103535402770536815@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: MAMMOTH vs. Avant 
  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
  (1) vs. Avant Gaming (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200328T090000Z
 DTEND:20200328T100000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-103535402770536817@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200327T090000Z
 DTEND:20200327T100000Z
-SUMMARY:[OPL] MMM vs. LGC
+SUMMARY:[OPL] MEC vs. LGC
 UID:oce-opl-103535402770536819@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: MAMMOTH vs. Legacy 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH
   (0) vs. Legacy Esports (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200404T060000Z
 DTEND:20200404T070000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-103535402770536821@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -84681,85 +84698,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200626T080000Z
 DTEND:20200626T090000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-104151038622118643@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200606T080000Z
 DTEND:20200606T090000Z
-SUMMARY:[OPL] PGG vs. MMM
+SUMMARY:[OPL] PGG vs. MEC
 UID:oce-opl-104151038622184181@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200612T080000Z
 DTEND:20200612T090000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-104151038622184183@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200605T070000Z
 DTEND:20200605T080000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-104151038622184185@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 1\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200613T060000Z
 DTEND:20200613T070000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-104151038622184187@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 2\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200619T070000Z
 DTEND:20200619T080000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-104151038622184189@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200620T060000Z
 DTEND:20200620T070000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-104151038622184191@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 3\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -85017,85 +85034,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200718T090000Z
 DTEND:20200718T100000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-104151038622184235@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200703T080000Z
 DTEND:20200703T090000Z
-SUMMARY:[OPL] PGG vs. MMM
+SUMMARY:[OPL] PGG vs. MEC
 UID:oce-opl-104151038622184237@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200704T080000Z
 DTEND:20200704T090000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-104151038622184239@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 5\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200627T070000Z
 DTEND:20200627T080000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-104151038622184241@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 4\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200710T060000Z
 DTEND:20200710T070000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-104151038622184243@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200711T070000Z
 DTEND:20200711T080000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-104151038622249781@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 6\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200717T060000Z
 DTEND:20200717T070000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-104151038622249783@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 7\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -85353,85 +85370,85 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200808T060000Z
 DTEND:20200808T070000Z
-SUMMARY:[OPL] GRV vs. MMM
+SUMMARY:[OPL] GRV vs. MEC
 UID:oce-opl-104151038622249827@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: Gravitas vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
  MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200725T080000Z
 DTEND:20200725T090000Z
-SUMMARY:[OPL] PGG vs. MMM
+SUMMARY:[OPL] PGG vs. MEC
 UID:oce-opl-104151038622249829@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: Pentanet.GG vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Pentanet.GG (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200731T080000Z
 DTEND:20200731T090000Z
-SUMMARY:[OPL] DW vs. MMM
+SUMMARY:[OPL] DW vs. MEC
 UID:oce-opl-104151038622249831@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: Dire Wolves vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
  Wolves (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200724T070000Z
 DTEND:20200724T080000Z
-SUMMARY:[OPL] AV vs. MMM
+SUMMARY:[OPL] AV vs. MEC
 UID:oce-opl-104151038622249833@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 8\nTeams: Avant Gaming vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Avant 
  Gaming (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200801T060000Z
 DTEND:20200801T070000Z
-SUMMARY:[OPL] LGC vs. MMM
+SUMMARY:[OPL] LGC vs. MEC
 UID:oce-opl-104151038622249835@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 9\nTeams: Legacy Esports vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Legacy 
  Esports (1) vs. MAMMOTH (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200807T060000Z
 DTEND:20200807T070000Z
-SUMMARY:[OPL] CHF vs. MMM
+SUMMARY:[OPL] CHF vs. MEC
 UID:oce-opl-104151038622249837@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: The Chiefs vs. 
  MAMMOTH\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
  Chiefs (0) vs. MAMMOTH (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200807T080000Z
 DTEND:20200807T090000Z
-SUMMARY:[OPL] ORD vs. MMM
+SUMMARY:[OPL] ORD vs. MEC
 UID:oce-opl-104151038622249839@lol.ics.tools
 DESCRIPTION:Liga: OPL\nPhase: Woche 10\nTeams: ORDER vs. MAMMOTH\nSpiel-
  Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. MAMMOTH 
  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220112T064129Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94615,9 +94632,10 @@ DTEND:20220111T110000Z
 SUMMARY:[LCK Challengers] KT vs. DRX
 UID:lck_challengers_league-107439257587481819@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: kt Challengers 
- vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (0) vs. DRX Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94660,9 +94678,10 @@ DTEND:20220111T100000Z
 SUMMARY:[LCK Challengers] NS vs. DK
 UID:lck_challengers_league-107439257587547377@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: NS Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. DWG KIA Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94679,13 +94698,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T110000Z
 DTEND:20220111T120000Z
-SUMMARY:[LCK Challengers] KDF vs. BRO
+SUMMARY:[LCK Challengers] BRO vs. KDF
 UID:lck_challengers_league-107439257587547387@lol.ics.tools
-DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: Kwangdong Freecs 
- Challengers vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: BRO Challengers 
+ vs. Kwangdong Freecs Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRO Challengers (0) vs. Kwangdong Freecs 
+ Challengers (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94729,9 +94749,10 @@ DTEND:20220111T130000Z
 SUMMARY:[LCK Challengers] LSB vs. GEN
 UID:lck_challengers_league-107439257587547401@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: LSB Challengers 
- vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. GEN Challengers (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -94761,12 +94782,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220111T080000Z
 DTEND:20220111T090000Z
-SUMMARY:[LCK Challengers] T1 vs. HLE
+SUMMARY:[LCK Challengers] HLE vs. T1
 UID:lck_challengers_league-107439257587547415@lol.ics.tools
-DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: T1 Challengers 
- vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 1\nTeams: HLE Challengers 
+ vs. T1 Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (1) vs. T1 Challengers (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT

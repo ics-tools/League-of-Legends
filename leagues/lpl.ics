@@ -10177,9 +10177,10 @@ DTEND:20220111T140000Z
 SUMMARY:[LPL] LGD vs. AL
 UID:lpl-107417779634042798@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: LGD Gaming vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: LGD 
+ Gaming (1) vs. Anyone's Legend (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10199,9 +10200,10 @@ DTEND:20220111T120000Z
 SUMMARY:[LPL] JDG vs. EDG
 UID:lpl-107417779634108446@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: JD Gaming vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: JD 
+ Gaming (0) vs. Edward Gaming (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220112T064130Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
