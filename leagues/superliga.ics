@@ -2342,9 +2342,10 @@ DTEND:20220113T190000Z
 SUMMARY:[SuperLiga] HRTS vs. GIA
 UID:superliga-107468241211019069@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Team Heretics vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Heretics (1) vs. Giants (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2374,12 +2375,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T170000Z
 DTEND:20220113T180000Z
-SUMMARY:[SuperLiga] BAR vs. UCAM
+SUMMARY:[SuperLiga] UCAM vs. BAR
 UID:superliga-107468241211084651@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Barça Esports vs. UCAM 
- Esports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: UCAM Esports Club vs. 
+ Barça Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ UCAM Esports Club (0) vs. Barça Esports (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2397,35 +2399,93 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T200000Z
 DTEND:20220113T210000Z
-SUMMARY:[SuperLiga] MADM vs. G2AR
+SUMMARY:[SuperLiga] G2AR vs. MADM
 UID:superliga-107468241210953509@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: MAD Lions Madrid vs. G2
-  Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: G2 Arctic vs. MAD Lions
+  Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (0) vs. MAD Lions Madrid (1)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T190000Z
 DTEND:20220113T200000Z
-SUMMARY:[SuperLiga] BSO vs. KOI
+SUMMARY:[SuperLiga] KOI vs. BSO
 UID:superliga-107468241211084667@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs. 
- Finetwork KOI\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Finetwork KOI vs. 
+ Bisons Eclub\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Finetwork KOI (1) vs. Bisons Eclub (0)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T210000Z
 DTEND:20220113T220000Z
-SUMMARY:[SuperLiga] MRS vs. FNTQ
+SUMMARY:[SuperLiga] FNTQ vs. MRS
 UID:superliga-107468241211019091@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Movistar Riders vs. 
- FnaticTQ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: FnaticTQ vs. Movistar 
+ Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ
+  (1) vs. Movistar Riders (0)\n
 CREATED:20220110T183935Z
-LAST-MODIFIED:20220110T183935Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T183935Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T180000Z
+DTEND:20220117T190000Z
+SUMMARY:[SuperLiga] UCAM vs. G2AR
+UID:superliga-107468241210953515@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: UCAM Esports Club vs. 
+ G2 Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T200000Z
+DTEND:20220117T210000Z
+SUMMARY:[SuperLiga] MRS vs. GIA
+UID:superliga-107468241211019065@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Movistar Riders vs. 
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T170000Z
+DTEND:20220117T180000Z
+SUMMARY:[SuperLiga] KOI vs. MADM
+UID:superliga-107468241211019087@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Finetwork KOI vs. MAD 
+ Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T190000Z
+DTEND:20220117T200000Z
+SUMMARY:[SuperLiga] BAR vs. FNTQ
+UID:superliga-107468241211019097@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Barça Esports vs. 
+ FnaticTQ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T210000Z
+DTEND:20220117T220000Z
+SUMMARY:[SuperLiga] BSO vs. HRTS
+UID:superliga-107468241211084661@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 1\nTeams: Bisons Eclub vs. Team 
+ Heretics\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
 END:VEVENT
 NAME:SuperLiga Spielplan
 X-WR-CALNAME:SuperLiga Spielplan

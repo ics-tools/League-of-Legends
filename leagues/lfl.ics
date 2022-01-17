@@ -7,11 +7,11 @@ DTSTART:20210119T220000Z
 DTEND:20210119T230000Z
 SUMMARY:[La Ligue Française] BDSA vs. GW
 UID:lfl-105568157422015211@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
- GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. GameWard (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. GameWard (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -20,10 +20,10 @@ DTEND:20210121T200000Z
 SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-105568157422080749@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- IZIDREAM (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: IZIDREAM (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -32,10 +32,10 @@ DTEND:20210210T210000Z
 SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-105568157422080751@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Karmine Corp 
- vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Karmine Corp (0) vs. Team BDS (1)\n
+ vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -43,11 +43,11 @@ DTSTART:20210203T180000Z
 DTEND:20210203T190000Z
 SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-105568157422080753@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
- Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. Team MCES (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS 
+ Academy vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Team MCES (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -55,11 +55,11 @@ DTSTART:20210211T210000Z
 DTEND:20210211T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-105568157422080755@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
- Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
-  (1) vs. Solary (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS 
+ Academy vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Solary (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -68,10 +68,10 @@ DTEND:20210128T230000Z
 SUMMARY:[La Ligue Française] GO vs. BDSA
 UID:lfl-105568157422080757@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: GamersOrigin 
- vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GamersOrigin (0) vs. Team BDS (1)\n
+ vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -79,11 +79,11 @@ DTSTART:20210204T210000Z
 DTEND:20210204T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-105568157422080759@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS vs. 
- LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. LDLC OL (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Team BDS 
+ Academy vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. LDLC OL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -91,11 +91,11 @@ DTSTART:20210127T220000Z
 DTEND:20210127T230000Z
 SUMMARY:[La Ligue Française] BDSA vs. MSFP
 UID:lfl-105568157422080761@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
- Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team BDS (0) vs. Misfits Premier (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS 
+ Academy vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Misfits Premier (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -103,11 +103,11 @@ DTSTART:20210120T190000Z
 DTEND:20210120T200000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105568157422080763@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
- Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (1) vs. Vitality.Bee (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Vitality.Bee (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -548,10 +548,10 @@ DTEND:20210217T210000Z
 SUMMARY:[La Ligue Française] GW vs. BDSA
 UID:lfl-105568157422080837@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GameWard (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GameWard (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -559,11 +559,11 @@ DTSTART:20210218T200000Z
 DTEND:20210218T210000Z
 SUMMARY:[La Ligue Française] BDSA vs. IZI
 UID:lfl-105568157422080839@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
- IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. IZIDREAM (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS 
+ Academy vs. IZIDREAM\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. IZIDREAM (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -572,10 +572,10 @@ DTEND:20210310T200000Z
 SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-105568157422080841@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Karmine Corp 
- vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Karmine Corp (1) vs. Team BDS (0)\n
+ vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -583,11 +583,11 @@ DTSTART:20210304T210000Z
 DTEND:20210304T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-105568157422080843@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
- Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. Team MCES (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS 
+ Academy vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Team MCES (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -596,10 +596,10 @@ DTEND:20210311T200000Z
 SUMMARY:[La Ligue Française] SLY vs. BDSA
 UID:lfl-105568157422080845@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Solary vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
-  (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Solary (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -607,11 +607,11 @@ DTSTART:20210303T210000Z
 DTEND:20210303T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. GO
 UID:lfl-105568157422080847@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS vs. 
- GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (1) vs. GamersOrigin (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS 
+ Academy vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. GamersOrigin (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -619,11 +619,11 @@ DTSTART:20210309T210000Z
 DTEND:20210309T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-105568157422080849@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
- LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. LDLC OL (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS 
+ Academy vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. LDLC OL (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -632,10 +632,10 @@ DTEND:20210225T210000Z
 SUMMARY:[La Ligue Française] MSFP vs. BDSA
 UID:lfl-105568157422080851@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Misfits 
- Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Misfits Premier (0) vs. Team BDS (1)\n
+ Premier vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -643,11 +643,11 @@ DTSTART:20210224T190000Z
 DTEND:20210224T200000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105568157422080853@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
- Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (0) vs. Vitality.Bee (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS 
+ Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Vitality.Bee (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,10 +1112,11 @@ DTEND:20210318T220000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-105904572584340594@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: Team BDS vs. Vitality.Bee\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Team BDS (1) vs. Vitality.Bee (3)\n
+ 2\nTeams: Team BDS Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Team BDS Academy (1) vs. Vitality.Bee 
+ (3)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1220,11 +1221,11 @@ DTSTART:20210630T200000Z
 DTEND:20210630T210000Z
 SUMMARY:[La Ligue Française] BDSA vs. GO
 UID:lfl-106313258183586962@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
- GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (0) vs. GamersOrigin (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS 
+ Academy vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. GamersOrigin (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,11 +1317,11 @@ DTSTART:20210617T160000Z
 DTEND:20210617T170000Z
 SUMMARY:[La Ligue Française] BDSA vs. GW
 UID:lfl-106313258183586978@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
- GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. GameWard (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS 
+ Academy vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. GameWard (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1401,10 +1402,10 @@ DTEND:20210610T180000Z
 SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-106313258183586992@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: IZIDREAM vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- IZIDREAM (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: IZIDREAM (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1473,10 +1474,10 @@ DTEND:20210624T180000Z
 SUMMARY:[La Ligue Française] KC vs. BDSA
 UID:lfl-106313258183652540@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Karmine Corp 
- vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Karmine Corp (1) vs. Team BDS (0)\n
+ vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karmine Corp (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1532,11 +1533,11 @@ DTSTART:20210616T190000Z
 DTEND:20210616T200000Z
 SUMMARY:[La Ligue Française] BDSA vs. LDLC
 UID:lfl-106313258183652550@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS vs. 
- LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (0) vs. LDLC OL (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 2\nTeams: Team BDS 
+ Academy vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. LDLC OL (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1580,11 +1581,11 @@ DTSTART:20210701T180000Z
 DTEND:20210701T190000Z
 SUMMARY:[La Ligue Française] BDSA vs. MSFP
 UID:lfl-106313258183652558@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS vs. 
- Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team BDS (1) vs. Misfits Premier (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 4\nTeams: Team BDS 
+ Academy vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Misfits Premier (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1617,10 +1618,10 @@ DTEND:20210623T180000Z
 SUMMARY:[La Ligue Française] SLY vs. BDSA
 UID:lfl-106313258183652564@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 3\nTeams: Solary vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary
-  (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Solary (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1652,11 +1653,11 @@ DTSTART:20210608T200000Z
 DTEND:20210608T210000Z
 SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-106313258183652570@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
- Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. Team MCES (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Team MCES (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1664,11 +1665,11 @@ DTSTART:20210609T170000Z
 DTEND:20210609T180000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-106313258183652572@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
- Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (0) vs. Vitality.Bee (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Vitality.Bee (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1761,10 +1762,10 @@ DTEND:20210714T210000Z
 SUMMARY:[La Ligue Française] GO vs. BDSA
 UID:lfl-106313258183652588@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: GamersOrigin 
- vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GamersOrigin (0) vs. Team BDS (1)\n
+ vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamersOrigin (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1857,10 +1858,10 @@ DTEND:20210708T210000Z
 SUMMARY:[La Ligue Française] GW vs. BDSA
 UID:lfl-106313258183652604@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: GameWard vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GameWard (0) vs. Team BDS (1)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GameWard (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1941,10 +1942,10 @@ DTEND:20210726T170000Z
 SUMMARY:[La Ligue Française] IZI vs. BDSA
 UID:lfl-106313258183718154@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: IZIDREAM vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- IZIDREAM (1) vs. Team BDS (0)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: IZIDREAM (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2012,11 +2013,11 @@ DTSTART:20210727T190000Z
 DTEND:20210727T200000Z
 SUMMARY:[La Ligue Française] BDSA vs. KC
 UID:lfl-106313258183718166@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS vs. 
- Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (0) vs. Karmine Corp (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team BDS 
+ Academy vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Karmine Corp (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2073,10 +2074,10 @@ DTEND:20210728T210000Z
 SUMMARY:[La Ligue Française] LDLC vs. BDSA
 UID:lfl-106313258183718176@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: LDLC OL vs. 
- Team BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LDLC 
- OL (0) vs. Team BDS (1)\n
+ Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LDLC OL (0) vs. Team BDS Academy (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2121,10 +2122,10 @@ DTEND:20210722T170000Z
 SUMMARY:[La Ligue Française] MSFP vs. BDSA
 UID:lfl-106313258183718184@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Misfits 
- Premier vs. Team BDS\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Misfits Premier (1) vs. Team BDS (0)\n
+ Premier vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (1) vs. Team BDS Academy (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2156,11 +2157,11 @@ DTSTART:20210715T170000Z
 DTEND:20210715T180000Z
 SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-106313258183718190@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
- Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team BDS
-  (0) vs. Solary (1)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS 
+ Academy vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Solary (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2192,11 +2193,11 @@ DTSTART:20210707T200000Z
 DTEND:20210707T210000Z
 SUMMARY:[La Ligue Française] BDSA vs. MCES
 UID:lfl-106313258183718196@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS vs. 
- Team MCES\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- BDS (1) vs. Team MCES (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 5\nTeams: Team BDS 
+ Academy vs. Team MCES\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Team MCES (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2204,11 +2205,11 @@ DTSTART:20210713T170000Z
 DTEND:20210713T180000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-106313258183718198@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS vs. 
- Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team BDS (1) vs. Vitality.Bee (0)\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 6\nTeams: Team BDS 
+ Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Vitality.Bee (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2278,64 +2279,70 @@ DTEND:20220112T180000Z
 SUMMARY:[La Ligue Française] MSFP vs. KC
 UID:lfl-107468370561126402@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Misfits 
- Premier vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Premier vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Karmine Corp (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T180000Z
 DTEND:20220112T190000Z
-SUMMARY:[La Ligue Française] GW vs. GO
+SUMMARY:[La Ligue Française] GO vs. GW
 UID:lfl-107468370561126436@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GameWard vs. 
- GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GamersOrigin 
+ vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamersOrigin (0) vs. GameWard (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T170000Z
 DTEND:20220113T180000Z
-SUMMARY:[La Ligue Française] LDLC vs. GW
+SUMMARY:[La Ligue Française] GW vs. LDLC
 UID:lfl-107468370561191996@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
- GameWard\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: GameWard vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GameWard (0) vs. LDLC OL (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T190000Z
 DTEND:20220112T200000Z
-SUMMARY:[La Ligue Française] SLY vs. VITB
+SUMMARY:[La Ligue Française] VITB vs. SLY
 UID:lfl-107468370561191998@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Solary vs. 
- Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Vitality.Bee 
+ vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vitality.Bee (1) vs. Solary (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T200000Z
 DTEND:20220112T210000Z
-SUMMARY:[La Ligue Française] OPL vs. BDSA
+SUMMARY:[La Ligue Française] BDSA vs. OPL
 UID:lfl-107468370561192016@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team Oplon vs.
-  Team BDS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. Team Oplon\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Team Oplon (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T210000Z
 DTEND:20220112T220000Z
-SUMMARY:[La Ligue Française] LDLC vs. ME
+SUMMARY:[La Ligue Française] ME vs. LDLC
 UID:lfl-107468370561192026@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: LDLC OL vs. 
- Mirage-Elyandra\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Mirage-
+ Elyandra vs. LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mirage-Elyandra (0) vs. LDLC OL (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2344,9 +2351,10 @@ DTEND:20220113T200000Z
 SUMMARY:[La Ligue Française] ME vs. KC
 UID:lfl-107468370561126416@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Mirage-
- Elyandra vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Elyandra vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mirage-Elyandra (1) vs. Karmine Corp (0)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2354,10 +2362,11 @@ DTSTART:20220113T180000Z
 DTEND:20220113T190000Z
 SUMMARY:[La Ligue Française] BDSA vs. SLY
 UID:lfl-107468370561192008@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS vs. 
- Solary\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team BDS 
+ Academy vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (1) vs. Solary (0)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220112T064130Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2366,9 +2375,10 @@ DTEND:20220113T220000Z
 SUMMARY:[La Ligue Française] OPL vs. MSFP
 UID:lfl-107468370561126430@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Team Oplon vs.
-  Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Oplon (0) vs. Misfits Premier (1)\n
 CREATED:20220110T183935Z
-LAST-MODIFIED:20220110T183935Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T183935Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2377,9 +2387,10 @@ DTEND:20220113T210000Z
 SUMMARY:[La Ligue Française] VITB vs. GO
 UID:lfl-107468370561126438@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 1\nTeams: Vitality.Bee 
- vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (1) vs. GamersOrigin (0)\n
 CREATED:20220110T183935Z
-LAST-MODIFIED:20220110T183935Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T183935Z
 END:VEVENT
 NAME:La Ligue Française Spielplan

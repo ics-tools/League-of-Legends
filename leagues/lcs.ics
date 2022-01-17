@@ -2407,11 +2407,11 @@ DTSTART:20200216T230000Z
 DTEND:20200217T000000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-103462440145619629@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Evil Geniuses vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Evil Geniuses (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2503,11 +2503,11 @@ DTSTART:20200126T210000Z
 DTEND:20200126T220000Z
 SUMMARY:[LCS] TSM vs. IMT
 UID:lcs-103462440145619645@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: TSM vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM (0) vs. Immortals 
- (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: TSM vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM
+  (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2587,11 +2587,11 @@ DTSTART:20200202T000000Z
 DTEND:20200202T010000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-103462440145619659@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Cloud9 vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (1) vs. 
- Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2672,10 +2672,11 @@ DTEND:20200223T010000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-103462440145619673@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Dignitas QNTMPAY vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Dignitas QNTMPAY (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dignitas QNTMPAY (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2684,10 +2685,11 @@ DTEND:20200211T033000Z
 SUMMARY:[LCS] CLG vs. IMT
 UID:lcs-103462440145619675@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Counter Logic Gaming vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Counter Logic Gaming (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Counter Logic Gaming (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2695,11 +2697,11 @@ DTSTART:20200215T220000Z
 DTEND:20200215T230000Z
 SUMMARY:[LCS] TL vs. IMT
 UID:lcs-103462440145619677@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Team Liquid vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Liquid (0) vs. Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Team Liquid vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Liquid (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,11 +2709,11 @@ DTSTART:20200126T010000Z
 DTEND:20200126T020000Z
 SUMMARY:[LCS] IMT vs. FLY
 UID:lcs-103462440145619679@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals vs. 
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals Progressive vs. 
  FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. FlyQuest (1)\n
+ Immortals Progressive (0) vs. FlyQuest (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2719,11 +2721,12 @@ DTSTART:20200202T230000Z
 DTEND:20200203T000000Z
 SUMMARY:[LCS] IMT vs. GG
 UID:lcs-103462440145619681@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Golden Guardians (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals Progressive vs. 
+ Golden Guardians\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Golden Guardians 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2731,11 +2734,11 @@ DTSTART:20200209T200000Z
 DTEND:20200209T210000Z
 SUMMARY:[LCS] IMT vs. 100
 UID:lcs-103462440145619683@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals vs. 100 
- Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. 100 Thieves (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals Progressive vs. 100
+  Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (1) vs. 100 Thieves (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2947,11 +2950,11 @@ DTSTART:20200329T210000Z
 DTEND:20200329T220000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-103462440145685255@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Evil Geniuses vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Evil Geniuses (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3043,11 +3046,11 @@ DTSTART:20200322T210000Z
 DTEND:20200322T220000Z
 SUMMARY:[LCS] IMT vs. TSM
 UID:lcs-103462440145685271@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Immortals vs. TSM\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (1) vs. TSM 
- (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Immortals Progressive vs. 
+ TSM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals 
+ Progressive (1) vs. TSM (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3127,11 +3130,11 @@ DTSTART:20200223T210000Z
 DTEND:20200223T220000Z
 SUMMARY:[LCS] IMT vs. C9
 UID:lcs-103462440145685285@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Immortals vs. Cloud9\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (0) vs. 
- Cloud9 (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Immortals Progressive vs. 
+ Cloud9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Cloud9 (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3211,11 +3214,12 @@ DTSTART:20200329T010000Z
 DTEND:20200329T020000Z
 SUMMARY:[LCS] IMT vs. DIG
 UID:lcs-103462440145685299@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Dignitas QNTMPAY (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals Progressive vs. 
+ Dignitas QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Dignitas QNTMPAY 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3223,11 +3227,12 @@ DTSTART:20200303T013000Z
 DTEND:20200303T023000Z
 SUMMARY:[LCS] IMT vs. CLG
 UID:lcs-103462440145685301@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Immortals vs. Counter Logic 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Counter Logic Gaming (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Immortals Progressive vs. 
+ Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Counter Logic Gaming 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3235,11 +3240,11 @@ DTSTART:20200310T003000Z
 DTEND:20200310T013000Z
 SUMMARY:[LCS] IMT vs. TL
 UID:lcs-103462440145685303@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Team Liquid (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals Progressive vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (1) vs. Team Liquid (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3247,11 +3252,11 @@ DTSTART:20200322T010000Z
 DTEND:20200322T020000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-103462440145685305@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: FlyQuest vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- FlyQuest (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: FlyQuest vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3260,10 +3265,11 @@ DTEND:20200301T010000Z
 SUMMARY:[LCS] GG vs. IMT
 UID:lcs-103462440145685307@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Golden Guardians vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Golden Guardians (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Golden Guardians (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3271,11 +3277,11 @@ DTSTART:20200308T190000Z
 DTEND:20200308T200000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-103462440145685309@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3560,10 +3566,11 @@ DTEND:20200330T200000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-103908802285180590@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Dignitas QNTMPAY vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Dignitas QNTMPAY (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dignitas QNTMPAY (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3631,11 +3638,11 @@ DTSTART:20200705T230000Z
 DTEND:20200706T000000Z
 SUMMARY:[LCS] IMT vs. EG
 UID:lcs-104174992718816261@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Immortals vs. Evil 
- Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Evil Geniuses (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Immortals Progressive vs. 
+ Evil Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Evil Geniuses (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3727,11 +3734,11 @@ DTSTART:20200620T020000Z
 DTEND:20200620T030000Z
 SUMMARY:[LCS] IMT vs. TSM
 UID:lcs-104174992718816277@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals vs. TSM\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (0) vs. TSM 
- (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals Progressive vs. 
+ TSM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals 
+ Progressive (0) vs. TSM (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3811,11 +3818,11 @@ DTSTART:20200628T210000Z
 DTEND:20200628T220000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-104174992718881827@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Cloud9 vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (1) vs. 
- Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3895,11 +3902,12 @@ DTSTART:20200711T010000Z
 DTEND:20200711T020000Z
 SUMMARY:[LCS] IMT vs. DIG
 UID:lcs-104174992718881841@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Immortals vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Dignitas QNTMPAY (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Immortals Progressive vs. 
+ Dignitas QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Dignitas QNTMPAY 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3907,11 +3915,12 @@ DTSTART:20200614T230000Z
 DTEND:20200615T000000Z
 SUMMARY:[LCS] IMT vs. CLG
 UID:lcs-104174992718881843@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals vs. Counter Logic 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Counter Logic Gaming (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals Progressive vs. 
+ Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Counter Logic Gaming 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3919,11 +3928,11 @@ DTSTART:20200704T230000Z
 DTEND:20200705T000000Z
 SUMMARY:[LCS] TL vs. IMT
 UID:lcs-104174992718881845@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Team Liquid vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Liquid (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Team Liquid vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Liquid (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3931,11 +3940,11 @@ DTSTART:20200613T220000Z
 DTEND:20200613T230000Z
 SUMMARY:[LCS] IMT vs. FLY
 UID:lcs-104174992718881847@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals vs. 
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals Progressive vs. 
  FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. FlyQuest (1)\n
+ Immortals Progressive (0) vs. FlyQuest (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3943,11 +3952,12 @@ DTSTART:20200627T230000Z
 DTEND:20200628T000000Z
 SUMMARY:[LCS] IMT vs. GG
 UID:lcs-104174992718881849@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Golden Guardians (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals Progressive vs. 
+ Golden Guardians\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Golden Guardians 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3955,11 +3965,11 @@ DTSTART:20200621T230000Z
 DTEND:20200622T000000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-104174992718881851@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4171,11 +4181,11 @@ DTSTART:20200725T010000Z
 DTEND:20200725T020000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-104174992718881887@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Evil Geniuses vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Evil Geniuses (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4267,11 +4277,11 @@ DTSTART:20200712T200000Z
 DTEND:20200712T210000Z
 SUMMARY:[LCS] TSM vs. IMT
 UID:lcs-104174992718947439@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: TSM vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM (0) vs. Immortals 
- (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: TSM vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM
+  (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4351,11 +4361,11 @@ DTSTART:20200725T230000Z
 DTEND:20200726T000000Z
 SUMMARY:[LCS] IMT vs. C9
 UID:lcs-104174992718947453@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals vs. Cloud9\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (0) vs. 
- Cloud9 (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals Progressive vs. 
+ Cloud9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Cloud9 (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4436,10 +4446,11 @@ DTEND:20200802T000000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-104174992718947467@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Dignitas QNTMPAY vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Dignitas QNTMPAY (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dignitas QNTMPAY (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4448,10 +4459,11 @@ DTEND:20200719T230000Z
 SUMMARY:[LCS] CLG vs. IMT
 UID:lcs-104174992718947469@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Counter Logic Gaming vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Counter Logic Gaming (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Counter Logic Gaming (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4459,11 +4471,11 @@ DTSTART:20200808T220000Z
 DTEND:20200808T230000Z
 SUMMARY:[LCS] IMT vs. TL
 UID:lcs-104174992718947471@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Team Liquid (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals Progressive vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Team Liquid (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4471,11 +4483,11 @@ DTSTART:20200809T230000Z
 DTEND:20200810T000000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-104174992718947473@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: FlyQuest vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- FlyQuest (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: FlyQuest vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4484,10 +4496,11 @@ DTEND:20200719T000000Z
 SUMMARY:[LCS] GG vs. IMT
 UID:lcs-104174992718947475@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Golden Guardians vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Golden Guardians (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Golden Guardians (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4495,11 +4508,11 @@ DTSTART:20200802T230000Z
 DTEND:20200803T000000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-104174992718947477@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4999,11 +5012,11 @@ DTSTART:20210123T030000Z
 DTEND:20210123T040000Z
 SUMMARY:[LCS] IMT vs. FLY
 UID:lcs-105522217233187980@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals vs. 
- FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. FlyQuest (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals Progressive 
+ vs. FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. FlyQuest (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5036,10 +5049,10 @@ DTEND:20210116T220000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-105522217233187986@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Evil Geniuses (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5059,11 +5072,11 @@ DTSTART:20210117T210000Z
 DTEND:20210117T220000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-105522217233187990@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Cloud9 vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Cloud9 (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5071,11 +5084,12 @@ DTSTART:20210117T000000Z
 DTEND:20210117T010000Z
 SUMMARY:[LCS] IMT vs. DIG
 UID:lcs-105522217233187992@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Dignitas QNTMPAY (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals Progressive 
+ vs. Dignitas QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Dignitas QNTMPAY 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5083,11 +5097,11 @@ DTSTART:20210123T210000Z
 DTEND:20210124T000000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-105522217233187994@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: K.-o.-Phase\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
- Thieves (2) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: K.-o.-Phase\nTeams: 100 Thieves vs. Immortals
+  Progressive\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ 100 Thieves (2) vs. Immortals Progressive (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5239,11 +5253,11 @@ DTSTART:20210605T010000Z
 DTEND:20210605T020000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-105658534675876651@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (0) vs. Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5335,11 +5349,11 @@ DTSTART:20210619T210000Z
 DTEND:20210619T220000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-105658534675876667@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Cloud9 vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (0) vs. 
- Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5420,10 +5434,11 @@ DTEND:20210607T010000Z
 SUMMARY:[LCS] CLG vs. IMT
 UID:lcs-105658534675876681@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Counter Logic Gaming vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Counter Logic Gaming (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Counter Logic Gaming (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5491,11 +5506,12 @@ DTSTART:20210613T010000Z
 DTEND:20210613T020000Z
 SUMMARY:[LCS] IMT vs. DIG
 UID:lcs-105658534675876693@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Dignitas QNTMPAY (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals Progressive vs. 
+ Dignitas QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Dignitas QNTMPAY 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5551,11 +5567,11 @@ DTSTART:20210612T000000Z
 DTEND:20210612T010000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-105658534675942239@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Evil Geniuses vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Evil Geniuses (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5599,11 +5615,11 @@ DTSTART:20210620T230000Z
 DTEND:20210621T000000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-105658534675942247@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: FlyQuest vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- FlyQuest (0) vs. Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: FlyQuest vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5635,11 +5651,12 @@ DTSTART:20210606T010000Z
 DTEND:20210606T020000Z
 SUMMARY:[LCS] IMT vs. GG
 UID:lcs-105658534675942253@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Golden Guardians (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 1\nTeams: Immortals Progressive vs. 
+ Golden Guardians\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Golden Guardians 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5671,11 +5688,11 @@ DTSTART:20210613T210000Z
 DTEND:20210613T220000Z
 SUMMARY:[LCS] IMT vs. TL
 UID:lcs-105658534675942259@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Team Liquid (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 2\nTeams: Immortals Progressive vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Team Liquid (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5683,11 +5700,11 @@ DTSTART:20210619T000000Z
 DTEND:20210619T010000Z
 SUMMARY:[LCS] IMT vs. TSM
 UID:lcs-105658534675942261@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals vs. TSM\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (0) vs. TSM 
- (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Immortals Progressive vs. 
+ TSM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals 
+ Progressive (0) vs. TSM (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5779,11 +5796,11 @@ DTSTART:20210627T210000Z
 DTEND:20210627T220000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-105658534675942277@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5875,11 +5892,11 @@ DTSTART:20210703T010000Z
 DTEND:20210703T020000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-105658534675942293@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Cloud9 vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (1) vs. 
- Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5960,10 +5977,11 @@ DTEND:20210626T020000Z
 SUMMARY:[LCS] CLG vs. IMT
 UID:lcs-105658534675942307@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Counter Logic Gaming vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Counter Logic Gaming (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Counter Logic Gaming (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6032,10 +6050,11 @@ DTEND:20210705T010000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-105658534676007855@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Dignitas QNTMPAY vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Dignitas QNTMPAY (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dignitas QNTMPAY (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6091,11 +6110,11 @@ DTSTART:20210710T010000Z
 DTEND:20210710T020000Z
 SUMMARY:[LCS] IMT vs. EG
 UID:lcs-105658534676007865@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Immortals vs. Evil 
- Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Evil Geniuses (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Immortals Progressive vs. 
+ Evil Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Evil Geniuses (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6139,11 +6158,11 @@ DTSTART:20210711T210000Z
 DTEND:20210711T220000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-105658534676007873@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: FlyQuest vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- FlyQuest (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: FlyQuest vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6175,11 +6194,12 @@ DTSTART:20210627T010000Z
 DTEND:20210627T020000Z
 SUMMARY:[LCS] IMT vs. GG
 UID:lcs-105658534676007879@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Immortals vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Golden Guardians (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Immortals Progressive vs. 
+ Golden Guardians\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Golden Guardians 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013827Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6211,11 +6231,11 @@ DTSTART:20210710T220000Z
 DTEND:20210710T230000Z
 SUMMARY:[LCS] TL vs. IMT
 UID:lcs-105658534676007885@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Team Liquid vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Liquid (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 6\nTeams: Team Liquid vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Liquid (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6223,11 +6243,11 @@ DTSTART:20210703T210000Z
 DTEND:20210703T220000Z
 SUMMARY:[LCS] TSM vs. IMT
 UID:lcs-105658534676007887@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: TSM vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM (1) vs. Immortals 
- (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: TSM vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM
+  (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6319,11 +6339,11 @@ DTSTART:20210725T210000Z
 DTEND:20210725T220000Z
 SUMMARY:[LCS] 100 vs. IMT
 UID:lcs-105658534676007903@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: 100 Thieves vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
- Thieves (0) vs. Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: 100 Thieves vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100
+  Thieves (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6415,11 +6435,11 @@ DTSTART:20210716T220000Z
 DTEND:20210716T230000Z
 SUMMARY:[LCS] C9 vs. IMT
 UID:lcs-105658534676007919@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Cloud9 vs. Immortals\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (0) vs. 
- Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Cloud9 vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6499,11 +6519,12 @@ DTSTART:20210718T200000Z
 DTEND:20210718T210000Z
 SUMMARY:[LCS] IMT vs. CLG
 UID:lcs-105658534676007933@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals vs. Counter Logic 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (1) vs. Counter Logic Gaming (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals Progressive vs. 
+ Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (1) vs. Counter Logic Gaming 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6572,10 +6593,11 @@ DTEND:20210724T030000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-105658534676007945@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Dignitas QNTMPAY vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Dignitas QNTMPAY (0) vs. Immortals (1)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dignitas QNTMPAY (0) vs. Immortals Progressive 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6631,11 +6653,11 @@ DTSTART:20210724T220000Z
 DTEND:20210724T230000Z
 SUMMARY:[LCS] EG vs. IMT
 UID:lcs-105658534676073491@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Evil Geniuses vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (0) vs. Immortals (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Evil Geniuses vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Evil Geniuses (0) vs. Immortals Progressive (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6679,11 +6701,11 @@ DTSTART:20210801T000000Z
 DTEND:20210801T010000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-105658534676073499@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: FlyQuest vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- FlyQuest (1) vs. Immortals (0)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: FlyQuest vs. Immortals 
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. Immortals Progressive (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6716,10 +6738,11 @@ DTEND:20210801T220000Z
 SUMMARY:[LCS] GG vs. IMT
 UID:lcs-105658534676073505@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Golden Guardians vs. 
- Immortals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Golden Guardians (1) vs. Immortals (0)\n
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Golden Guardians (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6751,11 +6774,11 @@ DTSTART:20210731T010000Z
 DTEND:20210731T020000Z
 SUMMARY:[LCS] IMT vs. TL
 UID:lcs-105658534676073511@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Immortals (0) vs. Team Liquid (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 9\nTeams: Immortals Progressive vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Team Liquid (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6763,11 +6786,11 @@ DTSTART:20210717T230000Z
 DTEND:20210718T000000Z
 SUMMARY:[LCS] IMT vs. TSM
 UID:lcs-105658534676073513@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals vs. TSM\nSpiel-
- Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals (0) vs. TSM 
- (1)\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals Progressive vs. 
+ TSM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Immortals 
+ Progressive (0) vs. TSM (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6932,10 +6955,11 @@ DTEND:20210813T030000Z
 SUMMARY:[LCS] DIG vs. IMT
 UID:lcs-106433075319986036@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
- Dignitas QNTMPAY vs. Immortals\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Dignitas QNTMPAY (0) vs. Immortals (3)\n
+ Dignitas QNTMPAY vs. Immortals Progressive\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Dignitas QNTMPAY (0) vs. Immortals 
+ Progressive (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6968,10 +6992,10 @@ DTEND:20210821T030000Z
 SUMMARY:[LCS] TSM vs. IMT
 UID:lcs-106433075319986054@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: TSM vs.
-  Immortals\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: TSM 
- (3) vs. Immortals (1)\n
+  Immortals Progressive\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: TSM (3) vs. Immortals Progressive (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7025,12 +7049,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T013000Z
 DTEND:20220115T023000Z
-SUMMARY:[LCS] GG vs. 100
+SUMMARY:[LCS] 100 vs. GG
 UID:lcs-107458335263279342@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Golden Guardians vs. 100
-  Thieves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: 100 Thieves vs. Golden 
+ Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 100 
+ Thieves (1) vs. Golden Guardians (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7039,42 +7064,46 @@ DTEND:20220114T233000Z
 SUMMARY:[LCS] TSM vs. 100
 UID:lcs-107458335263279344@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: TSM vs. 100 
- Thieves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM (0)
+  vs. 100 Thieves (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T023000Z
 DTEND:20220115T033000Z
-SUMMARY:[LCS] FLY vs. C9
+SUMMARY:[LCS] C9 vs. FLY
 UID:lcs-107458335263279346@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: FlyQuest vs. 
- Cloud9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Cloud9 vs. 
+ FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9
+  (1) vs. FlyQuest (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220114T233000Z
 DTEND:20220115T003000Z
-SUMMARY:[LCS] GG vs. C9
+SUMMARY:[LCS] C9 vs. GG
 UID:lcs-107458335263279348@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Golden Guardians vs. 
- Cloud9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Cloud9 vs. Golden 
+ Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cloud9 (1) vs. Golden Guardians (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T003000Z
 DTEND:20220115T013000Z
-SUMMARY:[LCS] TSM vs. FLY
+SUMMARY:[LCS] FLY vs. TSM
 UID:lcs-107458335263279354@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: TSM vs. FlyQuest\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: FlyQuest vs. TSM\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: FlyQuest (0) vs. TSM 
+ (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7082,55 +7111,122 @@ DTSTART:20220116T003000Z
 DTEND:20220116T013000Z
 SUMMARY:[LCS] IMT vs. DIG
 UID:lcs-107458335263344896@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals Progressive 
+ vs. Dignitas QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Dignitas QNTMPAY 
+ (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T213000Z
 DTEND:20220115T223000Z
-SUMMARY:[LCS] TL vs. DIG
+SUMMARY:[LCS] DIG vs. TL
 UID:lcs-107458335263344898@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Team Liquid vs. Dignitas
-  QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Dignitas QNTMPAY vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dignitas QNTMPAY (0) vs. Team Liquid (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T223000Z
 DTEND:20220115T233000Z
-SUMMARY:[LCS] IMT vs. CLG
+SUMMARY:[LCS] CLG vs. IMT
 UID:lcs-107458335263344902@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Immortals vs. Counter 
- Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Counter Logic Gaming vs.
+  Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Counter Logic Gaming (1) vs. Immortals Progressive 
+ (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220116T013000Z
 DTEND:20220116T023000Z
-SUMMARY:[LCS] EG vs. CLG
+SUMMARY:[LCS] CLG vs. EG
 UID:lcs-107458335263344906@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Evil Geniuses vs. 
- Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Counter Logic Gaming vs.
+  Evil Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Counter Logic Gaming (0) vs. Evil Geniuses (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220115T233000Z
 DTEND:20220116T003000Z
-SUMMARY:[LCS] EG vs. TL
+SUMMARY:[LCS] TL vs. EG
 UID:lcs-107458335263344912@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Evil Geniuses vs. Team 
- Liquid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Team Liquid vs. Evil 
+ Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Liquid (0) vs. Evil Geniuses (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T203000Z
+DTEND:20220116T213000Z
+SUMMARY:[LCS] FLY vs. 100
+UID:lcs-107458335263279340@lol.ics.tools
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: FlyQuest vs. 100 
+ Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. 100 Thieves (0)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T223000Z
+DTEND:20220116T233000Z
+SUMMARY:[LCS] TSM vs. C9
+UID:lcs-107458335263279350@lol.ics.tools
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: TSM vs. Cloud9\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: TSM (0) vs. Cloud9 
+ (1)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T003000Z
+DTEND:20220117T013000Z
+SUMMARY:[LCS] GG vs. FLY
+UID:lcs-107458335263279352@lol.ics.tools
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Golden Guardians vs. 
+ FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Golden
+  Guardians (0) vs. FlyQuest (1)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T213000Z
+DTEND:20220116T223000Z
+SUMMARY:[LCS] TL vs. CLG
+UID:lcs-107458335263344904@lol.ics.tools
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Team Liquid vs. Counter 
+ Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Liquid (1) vs. Counter Logic Gaming (0)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T233000Z
+DTEND:20220117T003000Z
+SUMMARY:[LCS] EG vs. IMT
+UID:lcs-107458335263344910@lol.ics.tools
+DESCRIPTION:Liga: LCS\nPhase: Gruppenphase\nTeams: Evil Geniuses vs. 
+ Immortals Progressive\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Evil Geniuses (1) vs. Immortals Progressive (0)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
 END:VEVENT
 NAME:LCS Spielplan
 X-WR-CALNAME:LCS Spielplan

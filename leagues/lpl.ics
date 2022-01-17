@@ -10186,12 +10186,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220114T090000Z
 DTEND:20220114T120000Z
-SUMMARY:[LPL] OMG vs. AL
+SUMMARY:[LPL] AL vs. OMG
 UID:lpl-107417779634042806@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Oh My God vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Anyone's Legend vs. Oh My 
+ God\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Anyone's 
+ Legend (0) vs. Oh My God (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10212,9 +10213,10 @@ DTEND:20220115T100000Z
 SUMMARY:[LPL] TT vs. EDG
 UID:lpl-107417779634108474@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Thunder Talk Gaming vs. 
- Edward Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Edward Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Thunder Talk Gaming (0) vs. Edward Gaming (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10223,9 +10225,10 @@ DTEND:20220114T100000Z
 SUMMARY:[LPL] LGD vs. FPX
 UID:lpl-107417779634108502@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: LGD Gaming vs. FunPlus 
- Phoenix\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Phoenix\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: LGD 
+ Gaming (0) vs. FunPlus Phoenix (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10246,9 +10249,10 @@ DTEND:20220116T100000Z
 SUMMARY:[LPL] OMG vs. IG
 UID:lpl-107417779634174094@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Oh My God vs. Invictus 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Oh My 
+ God (2) vs. Invictus Gaming (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10257,9 +10261,10 @@ DTEND:20220113T120000Z
 SUMMARY:[LPL] TT vs. IG
 UID:lpl-107417779634174110@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Thunder Talk Gaming vs. 
- Invictus Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Invictus Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  Thunder Talk Gaming (0) vs. Invictus Gaming (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10268,9 +10273,10 @@ DTEND:20220114T140000Z
 SUMMARY:[LPL] RNG vs. JDG
 UID:lpl-107417779634174146@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Royal Never Give Up vs. JD 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Royal 
+ Never Give Up (2) vs. JD Gaming (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10279,9 +10285,10 @@ DTEND:20220115T140000Z
 SUMMARY:[LPL] RA vs. LNG
 UID:lpl-107417779634239754@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Rare Atom vs. LNG 
- Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Rare 
+ Atom (1) vs. LNG Esports (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10290,9 +10297,10 @@ DTEND:20220112T140000Z
 SUMMARY:[LPL] UP vs. LNG
 UID:lpl-107417779634239774@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Ultra Prime vs. LNG 
- Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Ultra 
+ Prime (0) vs. LNG Esports (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10310,12 +10318,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T090000Z
 DTEND:20220112T120000Z
-SUMMARY:[LPL] TES vs. RA
+SUMMARY:[LPL] RA vs. TES
 UID:lpl-107417779634239830@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Top Esports vs. Rare 
- Atom\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Rare Atom vs. Top 
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Rare 
+ Atom (2) vs. Top Esports (0)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10324,20 +10333,22 @@ DTEND:20220116T120000Z
 SUMMARY:[LPL] V5 vs. WE
 UID:lpl-107417779634239882@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Victory Five vs. Team 
- WE\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ WE\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Victory Five
+  (2) vs. Team WE (1)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T110000Z
 DTEND:20220113T140000Z
-SUMMARY:[LPL] WBG vs. WE
+SUMMARY:[LPL] WE vs. WBG
 UID:lpl-107417779634239886@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Weibo Gaming vs. Team 
- WE\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Team WE vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Team WE 
+ (0) vs. Weibo Gaming (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
 END:VEVENT
 BEGIN:VEVENT
@@ -10346,10 +10357,56 @@ DTEND:20220115T120000Z
 SUMMARY:[LPL] UP vs. TES
 UID:lpl-107417779634239906@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Ultra Prime vs. Top 
- Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Ultra 
+ Prime (1) vs. Top Esports (2)\n
 CREATED:20220105T064032Z
-LAST-MODIFIED:20220105T064032Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220105T064032Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T110000Z
+DTEND:20220117T140000Z
+SUMMARY:[LPL] FPX vs. AL
+UID:lpl-107417779634042786@lol.ics.tools
+DESCRIPTION:Liga: LPL\nPhase: Woche 2\nTeams: FunPlus Phoenix vs. Anyone's 
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220116T110000Z
+DTEND:20220116T140000Z
+SUMMARY:[LPL] WBG vs. BLG
+UID:lpl-107417779634108434@lol.ics.tools
+DESCRIPTION:Liga: LPL\nPhase: Woche 1\nTeams: Weibo Gaming vs. Bilibili 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (1) vs. Bilibili Gaming (2)\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T090000Z
+DTEND:20220118T120000Z
+SUMMARY:[LPL] LGD vs. JDG
+UID:lpl-107417779634174130@lol.ics.tools
+DESCRIPTION:Liga: LPL\nPhase: Woche 2\nTeams: LGD Gaming vs. JD 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220117T090000Z
+DTEND:20220117T120000Z
+SUMMARY:[LPL] TT vs. RNG
+UID:lpl-107417779634239850@lol.ics.tools
+DESCRIPTION:Liga: LPL\nPhase: Woche 2\nTeams: Thunder Talk Gaming vs. Royal
+  Never Give Up\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220117T013828Z
+LAST-MODIFIED:20220117T013828Z
+DTSTAMP:20220117T013828Z
 END:VEVENT
 NAME:LPL Spielplan
 X-WR-CALNAME:LPL Spielplan

@@ -2462,12 +2462,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T170000Z
 DTEND:20220113T180000Z
-SUMMARY:[Prime League] MOUZ vs. WAVE
+SUMMARY:[Prime League] WAVE vs. MOUZ
 UID:primeleague-107417741194085572@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Mousesports vs. Wave
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Wave Esports vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. Mousesports (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2476,9 +2477,10 @@ DTEND:20220113T210000Z
 SUMMARY:[Prime League] S04 vs. EWI
 UID:primeleague-107417741194085504@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Schalke 04 vs. E WIE
-  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 (1) vs. E WIE EINFACH E-SPORTS (0)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2487,20 +2489,23 @@ DTEND:20220113T200000Z
 SUMMARY:[Prime League] BIG vs. GL
 UID:primeleague-107417741194085510@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Berlin International
-  Gaming vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Gaming vs. GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (0) vs. GamerLegion 
+ (1)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220113T180000Z
 DTEND:20220113T190000Z
-SUMMARY:[Prime League] SKP vs. EINS
+SUMMARY:[Prime League] EINS vs. SKP
 UID:primeleague-107417741194085552@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: SK Gaming Prime vs. 
- Eintracht Spandau\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Eintracht Spandau 
+ vs. SK Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Eintracht Spandau (0) vs. SK Gaming Prime (1)\n
 CREATED:20220110T125255Z
-LAST-MODIFIED:20220110T125255Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T125255Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2510,9 +2515,10 @@ SUMMARY:[Prime League] USE vs. PTA
 UID:primeleague-107417741194085550@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 1\nTeams: Unicorns of Love 
  Sexy Edition vs. PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Unicorns of Love Sexy Edition (1) vs. PENTA 1860 
+ (0)\n
 CREATED:20220110T183935Z
-LAST-MODIFIED:20220110T183935Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T183935Z
 END:VEVENT
 NAME:Prime League Spielplan

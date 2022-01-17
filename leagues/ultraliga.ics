@@ -1521,9 +1521,10 @@ SUMMARY:[Ultraliga] WOLF vs. IHG
 UID:ultraliga-107416436274165340@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Topo Centras Iron 
  Wolves vs. Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Illuminar Gaming 
+ (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,9 +1545,10 @@ DTEND:20220112T190000Z
 SUMMARY:[Ultraliga] FSK vs. RGO
 UID:ultraliga-107416436274230894@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Forsaken vs. AGO 
- Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Forsaken 
+ (0) vs. AGO Rogue (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1564,12 +1566,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220112T200000Z
 DTEND:20220112T210000Z
-SUMMARY:[Ultraliga] TEG vs. DV1
+SUMMARY:[Ultraliga] DV1 vs. TEG
 UID:ultraliga-107416436274230902@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Team ESCA Gaming vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Devils.One vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (0) vs. Team ESCA Gaming (1)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1578,9 +1581,10 @@ DTEND:20220112T170000Z
 SUMMARY:[Ultraliga] GSK vs. Z10
 UID:ultraliga-107416436274230916@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Goskilla vs. Zero 
- Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (1) vs. Zero Tenacity (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1589,9 +1593,10 @@ DTEND:20220112T200000Z
 SUMMARY:[Ultraliga] KNF vs. GGM
 UID:ultraliga-107416436274230922@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 1\nTeams: Komil&Friends vs. 
- Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (1) vs. Gentlemen's Gaming (0)\n
 CREATED:20220108T013544Z
-LAST-MODIFIED:20220108T013544Z
+LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220108T013544Z
 END:VEVENT
 BEGIN:VEVENT
