@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
 NAME:Golden League Spielplan
 X-WR-CALNAME:Golden League Spielplan
-METHOD:PUBLISH
 END:VCALENDAR
