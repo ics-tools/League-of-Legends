@@ -5036,10 +5036,10 @@ DTEND:20210816T153000Z
 SUMMARY:[European Masters] SIN vs. OP
 UID:european-masters-106744065770322649@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: SINNERS Esports 
- vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: SINNERS Esports (0) vs. aNc Outplayed (1)\n
+ vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5071,11 +5071,11 @@ DTSTART:20210816T173000Z
 DTEND:20210816T183000Z
 SUMMARY:[European Masters] OP vs. KRM
 UID:european-masters-106744065770322655@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Anc Outplayed vs. 
  Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (1) vs. Karma Clan Esports (0)\n
+ completed\nErgebnisse: Anc Outplayed (1) vs. Karma Clan Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5084,10 +5084,10 @@ DTEND:20210816T193000Z
 SUMMARY:[European Masters] CZV vs. OP
 UID:european-masters-106744065770322657@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Crvena Zvezda 
- Esports vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Crvena Zvezda Esports (1) vs. aNc Outplayed (0)\n
+ Esports vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Crvena Zvezda Esports (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5108,11 +5108,11 @@ DTSTART:20210817T173000Z
 DTEND:20210817T183000Z
 SUMMARY:[European Masters] OP vs. SIN
 UID:european-masters-106744065770322661@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Anc Outplayed vs. 
  SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  aNc Outplayed (1) vs. SINNERS Esports (0)\n
+  Anc Outplayed (1) vs. SINNERS Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5145,10 +5145,10 @@ DTEND:20210817T203000Z
 SUMMARY:[European Masters] KRM vs. OP
 UID:european-masters-106744065770322667@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Karma Clan Esports
-  vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Karma Clan Esports (0) vs. aNc Outplayed (1)\n
+  vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karma Clan Esports (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5156,11 +5156,11 @@ DTSTART:20210817T143000Z
 DTEND:20210817T153000Z
 SUMMARY:[European Masters] OP vs. CZV
 UID:european-masters-106744065770322669@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Anc Outplayed vs. 
  Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (1) vs. Crvena Zvezda Esports (0)\n
+ completed\nErgebnisse: Anc Outplayed (1) vs. Crvena Zvezda Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5998,10 +5998,10 @@ DTEND:20210819T203000Z
 SUMMARY:[European Masters] OP vs. RGO
 UID:european-masters-106773596512322321@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
- aNc Outplayed vs. AGO Rogue\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: aNc Outplayed (1) vs. AGO Rogue (2)\n
+ Anc Outplayed vs. AGO Rogue\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Anc Outplayed (1) vs. AGO Rogue (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT

@@ -2521,6 +2521,69 @@ CREATED:20220110T183935Z
 LAST-MODIFIED:20220117T013828Z
 DTSTAMP:20220110T183935Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T180000Z
+DTEND:20220118T190000Z
+SUMMARY:[Prime League] EWI vs. EINS
+UID:primeleague-107417741194085498@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Eintracht Spandau\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (1) vs. Eintracht Spandau 
+ (0)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T200000Z
+DTEND:20220118T210000Z
+SUMMARY:[Prime League] GL vs. USE
+UID:primeleague-107417741194085524@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: GamerLegion vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GamerLegion (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T190000Z
+DTEND:20220118T200000Z
+SUMMARY:[Prime League] SKP vs. BIG
+UID:primeleague-107417741194085530@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: SK Gaming Prime vs. 
+ Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SK Gaming Prime (0) vs. Berlin International Gaming
+  (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T210000Z
+DTEND:20220118T220000Z
+SUMMARY:[Prime League] WAVE vs. PTA
+UID:primeleague-107417741194085544@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Wave Esports vs. 
+ PENTA 1860\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wave
+  Esports (0) vs. PENTA 1860 (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T170000Z
+DTEND:20220118T180000Z
+SUMMARY:[Prime League] S04 vs. MOUZ
+UID:primeleague-107417741194085576@lol.ics.tools
+DESCRIPTION:Liga: Prime League\nPhase: Woche 2\nTeams: Schalke 04 vs. 
+ Mousesports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Schalke 04 (1) vs. Mousesports (0)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
 NAME:Prime League Spielplan
 X-WR-CALNAME:Prime League Spielplan
 END:VCALENDAR

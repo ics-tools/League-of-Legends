@@ -8,9 +8,10 @@ DTEND:20220117T200000Z
 SUMMARY:[Elite Series] EZ vs. S1
 UID:elite_series-107563481239614949@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: Echo Zulu vs. Sector
-  One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo Zulu 
+ (1) vs. Sector One (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -19,9 +20,10 @@ DTEND:20220117T210000Z
 SUMMARY:[Elite Series] ION vs. KVM
 UID:elite_series-107563481239680491@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: ION SQUAD vs. KV 
- Mechelen Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Mechelen Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: ION SQUAD (1) vs. KV Mechelen Esports (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -30,9 +32,10 @@ DTEND:20220117T190000Z
 SUMMARY:[Elite Series] LION vs. GENK
 UID:elite_series-107563481239680499@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: LowLandLions vs. KRC
-  Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (0) vs. KRC Genk Esports (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +44,55 @@ DTEND:20220117T220000Z
 SUMMARY:[Elite Series] MCON vs. 7AM
 UID:elite_series-107563481239680523@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: mCon LG UltraGear 
- vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon LG UltraGear (1) vs. Team 7AM (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T180000Z
+DTEND:20220119T190000Z
+SUMMARY:[Elite Series] KVM vs. S1
+UID:elite_series-107563481239614937@lol.ics.tools
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: KV Mechelen Esports 
+ vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T190000Z
+DTEND:20220119T200000Z
+SUMMARY:[Elite Series] MCON vs. GENK
+UID:elite_series-107563481239680505@lol.ics.tools
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: mCon LG UltraGear 
+ vs. KRC Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T210000Z
+DTEND:20220119T220000Z
+SUMMARY:[Elite Series] ION vs. LION
+UID:elite_series-107563481239680509@lol.ics.tools
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: ION SQUAD vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T200000Z
+DTEND:20220119T210000Z
+SUMMARY:[Elite Series] EZ vs. 7AM
+UID:elite_series-107563481239680525@lol.ics.tools
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 1\nTeams: Echo Zulu vs. Team 
+ 7AM\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
 END:VEVENT
 NAME:Elite Series Spielplan
 X-WR-CALNAME:Elite Series Spielplan

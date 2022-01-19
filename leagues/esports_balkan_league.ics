@@ -1489,9 +1489,10 @@ DTEND:20220117T190000Z
 SUMMARY:[Esports Balkan League] NXK vs. VPG
 UID:esports_balkan_league-107468404709576931@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Nexus KTRL 
- vs. Valiance PRO GAME\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Valiance PRO GAME\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus KTRL (0) vs. Valiance PRO GAME (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1501,9 +1502,9 @@ SUMMARY:[Esports Balkan League] STR vs. AUX
 UID:esports_balkan_league-107468404709576957@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Split 
  Raiders vs. Auxesis Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Split Raiders (1) vs. Auxesis Esports (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1513,9 +1514,9 @@ SUMMARY:[Esports Balkan League] DIA vs. CZV
 UID:esports_balkan_league-107468404709576975@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Diamant 
  Esports vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Diamant Esports (0) vs. Crvena Zvezda Esports (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1524,9 +1525,10 @@ DTEND:20220117T220000Z
 SUMMARY:[Esports Balkan League] CWE vs. SVJ
 UID:esports_balkan_league-107468404709642521@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Cyber 
- Wolves Esports vs. SOVEJA\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wolves Esports vs. SOVEJA\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyber Wolves Esports (1) vs. SOVEJA (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 NAME:Esports Balkan League Spielplan

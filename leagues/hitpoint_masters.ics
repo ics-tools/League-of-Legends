@@ -1560,31 +1560,34 @@ DTEND:20220117T200000Z
 SUMMARY:[Hitpoint Masters] SIN vs. ESB
 UID:hitpoint_masters-107597929688619119@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
- vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (0) vs. eSuba (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220117T170000Z
 DTEND:20220117T180000Z
-SUMMARY:[Hitpoint Masters] OVA vs. DNE
+SUMMARY:[Hitpoint Masters] DNE vs. OVA
 UID:hitpoint_masters-107597929688684687@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Cryptova vs. 
- Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dynamo Eclot vs.
+  Cryptova\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynamo Eclot (1) vs. Cryptova (0)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220117T200000Z
 DTEND:20220117T210000Z
-SUMMARY:[Hitpoint Masters] DTG vs. BRT
+SUMMARY:[Hitpoint Masters] BRT vs. DTG
 UID:hitpoint_masters-107597929688684693@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
- BRUTE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. Dark 
+ Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (0) vs. Dark Tigers (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1593,9 +1596,10 @@ DTEND:20220117T190000Z
 SUMMARY:[Hitpoint Masters] ING vs. EIQ
 UID:hitpoint_masters-107597929688684703@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Inside Games vs.
-  Entropiq\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Entropiq\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Inside Games (0) vs. Entropiq (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 NAME:Hitpoint Masters Spielplan

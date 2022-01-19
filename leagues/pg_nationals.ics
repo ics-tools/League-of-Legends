@@ -69,10 +69,10 @@ DTEND:20210121T210000Z
 SUMMARY:[PG Nationals] SMS vs. OP
 UID:pg_nationals-105539775520149324@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: Samsung Morning 
- Stars vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Samsung Morning Stars (1) vs. aNc Outplayed (0)\n
+ Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -140,11 +140,11 @@ DTSTART:20210113T210000Z
 DTEND:20210113T220000Z
 SUMMARY:[PG Nationals] OP vs. CGG
 UID:pg_nationals-105539775520149336@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Anc Outplayed vs. 
  Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (0) vs. Cyberground Gaming (1)\n
+ completed\nErgebnisse: Anc Outplayed (0) vs. Cyberground Gaming (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -200,11 +200,11 @@ DTSTART:20210203T190000Z
 DTEND:20210203T200000Z
 SUMMARY:[PG Nationals] GGE vs. OP
 UID:pg_nationals-105539775520149346@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: GGEsports vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: GGEsports vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GGEsports (1) vs. aNc Outplayed (0)\n
+ GGEsports (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -248,11 +248,11 @@ DTSTART:20210127T190000Z
 DTEND:20210127T200000Z
 SUMMARY:[PG Nationals] OP vs. MCK
 UID:pg_nationals-105539775520149354@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Anc Outplayed vs. 
  Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- aNc Outplayed (1) vs. Macko Esports (0)\n
+ Anc Outplayed (1) vs. Macko Esports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -284,11 +284,11 @@ DTSTART:20210128T210000Z
 DTEND:20210128T220000Z
 SUMMARY:[PG Nationals] MKS vs. OP
 UID:pg_nationals-105539775520149360@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Mkers vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Mkers vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mkers
-  (1) vs. aNc Outplayed (0)\n
+  (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -308,11 +308,11 @@ DTSTART:20210120T180000Z
 DTEND:20210120T190000Z
 SUMMARY:[PG Nationals] OP vs. RML
 UID:pg_nationals-105539775520149364@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: Anc Outplayed vs. 
  Romulea eSport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- aNc Outplayed (0) vs. Romulea eSport (1)\n
+ Anc Outplayed (0) vs. Romulea eSport (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -332,11 +332,11 @@ DTSTART:20210114T180000Z
 DTEND:20210114T190000Z
 SUMMARY:[PG Nationals] AXL vs. OP
 UID:pg_nationals-105539775520149368@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Axolotl vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Axolotl vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Axolotl (1) vs. aNc Outplayed (0)\n
+ Axolotl (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -405,11 +405,11 @@ DTSTART:20210217T200000Z
 DTEND:20210217T210000Z
 SUMMARY:[PG Nationals] OP vs. SMS
 UID:pg_nationals-105539775520214916@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Anc Outplayed vs. 
  Samsung Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (0) vs. Samsung Morning Stars (1)\n
+ completed\nErgebnisse: Anc Outplayed (0) vs. Samsung Morning Stars (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -478,10 +478,10 @@ DTEND:20210204T220000Z
 SUMMARY:[PG Nationals] CGG vs. OP
 UID:pg_nationals-105539775520214928@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Cyberground Gaming 
- vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Cyberground Gaming (1) vs. aNc Outplayed (0)\n
+ vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyberground Gaming (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -537,11 +537,11 @@ DTSTART:20210225T190000Z
 DTEND:20210225T200000Z
 SUMMARY:[PG Nationals] OP vs. GGE
 UID:pg_nationals-105539775520214938@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: aNc Outplayed vs. 
- GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Anc Outplayed vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (1) vs. GGEsports (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -586,10 +586,10 @@ DTEND:20210218T200000Z
 SUMMARY:[PG Nationals] MCK vs. OP
 UID:pg_nationals-105539775520214946@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Macko Esports vs. 
- aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Macko Esports (1) vs. aNc Outplayed (0)\n
+ Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Macko Esports (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -621,11 +621,11 @@ DTSTART:20210224T210000Z
 DTEND:20210224T220000Z
 SUMMARY:[PG Nationals] OP vs. MKS
 UID:pg_nationals-105539775520214952@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: aNc Outplayed vs. 
- Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Anc Outplayed vs. 
+ Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (0) vs. Mkers (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -646,10 +646,10 @@ DTEND:20210211T190000Z
 SUMMARY:[PG Nationals] RML vs. OP
 UID:pg_nationals-105539775520214956@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Romulea eSport vs. 
- aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Romulea eSport (0) vs. aNc Outplayed (1)\n
+ Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Romulea eSport (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -669,11 +669,11 @@ DTSTART:20210210T180000Z
 DTEND:20210210T190000Z
 SUMMARY:[PG Nationals] OP vs. AXL
 UID:pg_nationals-105539775520214960@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: aNc Outplayed vs. 
- Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Anc Outplayed vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (1) vs. Axolotl (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220119T012838Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -851,11 +851,11 @@ DTSTART:20210616T200000Z
 DTEND:20210616T210000Z
 SUMMARY:[PG Nationals] AXL vs. OP
 UID:pg_nationals-106319725618931161@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Axolotl vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Axolotl vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Axolotl (1) vs. aNc Outplayed (0)\n
+ Axolotl (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -923,11 +923,11 @@ DTSTART:20210610T180000Z
 DTEND:20210610T190000Z
 SUMMARY:[PG Nationals] OP vs. CGG
 UID:pg_nationals-106319725618996709@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: Anc Outplayed vs. 
  Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (1) vs. Cyberground Gaming (0)\n
+ completed\nErgebnisse: Anc Outplayed (1) vs. Cyberground Gaming (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -984,11 +984,11 @@ DTSTART:20210617T200000Z
 DTEND:20210617T210000Z
 SUMMARY:[PG Nationals] OP vs. GE
 UID:pg_nationals-106319725618996719@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Anc Outplayed vs. 
  Gaia Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- aNc Outplayed (1) vs. Gaia Esports (0)\n
+ Anc Outplayed (1) vs. Gaia Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1032,11 +1032,11 @@ DTSTART:20210602T180000Z
 DTEND:20210602T190000Z
 SUMMARY:[PG Nationals] OP vs. GGE
 UID:pg_nationals-106319725618996727@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: aNc Outplayed vs. 
- GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Anc Outplayed vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (0) vs. GGEsports (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,11 +1068,11 @@ DTSTART:20210603T190000Z
 DTEND:20210603T200000Z
 SUMMARY:[PG Nationals] OP vs. MCK
 UID:pg_nationals-106319725618996733@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Anc Outplayed vs. 
  Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- aNc Outplayed (1) vs. Macko Esports (0)\n
+ Anc Outplayed (1) vs. Macko Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1092,11 +1092,11 @@ DTSTART:20210609T170000Z
 DTEND:20210609T180000Z
 SUMMARY:[PG Nationals] MKS vs. OP
 UID:pg_nationals-106319725618996737@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: Mkers vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 2\nTeams: Mkers vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mkers
-  (0) vs. aNc Outplayed (1)\n
+  (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,10 +1117,10 @@ DTEND:20210601T200000Z
 SUMMARY:[PG Nationals] SMS vs. OP
 UID:pg_nationals-106319725618996741@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Samsung Morning 
- Stars vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Samsung Morning Stars (0) vs. aNc Outplayed (1)\n
+ Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1188,11 +1188,11 @@ DTSTART:20210707T200000Z
 DTEND:20210707T210000Z
 SUMMARY:[PG Nationals] OP vs. AXL
 UID:pg_nationals-106319725619062289@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: aNc Outplayed vs. 
- Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Anc Outplayed vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (1) vs. Axolotl (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1261,10 +1261,10 @@ DTEND:20210706T180000Z
 SUMMARY:[PG Nationals] CGG vs. OP
 UID:pg_nationals-106319725619062301@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Cyberground Gaming 
- vs. aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Cyberground Gaming (0) vs. aNc Outplayed (1)\n
+ vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyberground Gaming (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1321,11 +1321,11 @@ DTSTART:20210708T180000Z
 DTEND:20210708T190000Z
 SUMMARY:[PG Nationals] GE vs. OP
 UID:pg_nationals-106319725619062311@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Gaia Esports vs. aNc
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 6\nTeams: Gaia Esports vs. Anc
   Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gaia
-  Esports (0) vs. aNc Outplayed (1)\n
+  Esports (0) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1369,11 +1369,11 @@ DTSTART:20210624T170000Z
 DTEND:20210624T180000Z
 SUMMARY:[PG Nationals] GGE vs. OP
 UID:pg_nationals-106319725619062319@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: GGEsports vs. aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: GGEsports vs. Anc 
  Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GGEsports (1) vs. aNc Outplayed (0)\n
+ GGEsports (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1406,10 +1406,10 @@ DTEND:20210630T200000Z
 SUMMARY:[PG Nationals] MCK vs. OP
 UID:pg_nationals-106319725619062325@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Macko Esports vs. 
- aNc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Macko Esports (1) vs. aNc Outplayed (0)\n
+ Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Macko Esports (1) vs. Anc Outplayed (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1429,11 +1429,11 @@ DTSTART:20210701T170000Z
 DTEND:20210701T180000Z
 SUMMARY:[PG Nationals] OP vs. MKS
 UID:pg_nationals-106319725619062329@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: aNc Outplayed vs. 
- Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Anc Outplayed vs. 
+ Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anc 
  Outplayed (1) vs. Mkers (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1453,11 +1453,11 @@ DTSTART:20210623T180000Z
 DTEND:20210623T190000Z
 SUMMARY:[PG Nationals] OP vs. SMS
 UID:pg_nationals-106319725619062333@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: aNc Outplayed vs. 
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Anc Outplayed vs. 
  Samsung Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: aNc Outplayed (1) vs. Samsung Morning Stars (0)\n
+ completed\nErgebnisse: Anc Outplayed (1) vs. Samsung Morning Stars (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1478,10 +1478,10 @@ DTEND:20210721T220000Z
 SUMMARY:[PG Nationals] OP vs. GE
 UID:pg_nationals-106319725619062341@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: aNc Outplayed vs. Gaia Esports\nSpiel-Strategie: bestOf 
- 5\nStatus: completed\nErgebnisse: aNc Outplayed (3) vs. Gaia Esports (0)\n
+ 1\nTeams: Anc Outplayed vs. Gaia Esports\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Anc Outplayed (3) vs. Gaia Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1515,10 +1515,10 @@ DTEND:20210728T220000Z
 SUMMARY:[PG Nationals] MCK vs. OP
 UID:pg_nationals-106319725619127895@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Halbfinale\nTeams: Macko Esports vs.
-  aNc Outplayed\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Macko Esports (3) vs. aNc Outplayed (2)\n
+  Anc Outplayed\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Macko Esports (3) vs. Anc Outplayed (2)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1538,11 +1538,11 @@ DTSTART:20210803T170000Z
 DTEND:20210803T220000Z
 SUMMARY:[PG Nationals] OP vs. AXL
 UID:pg_nationals-106319725619127907@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Halbfinale\nTeams: aNc Outplayed vs.
-  Axolotl\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: aNc 
+DESCRIPTION:Liga: PG Nationals\nPhase: Halbfinale\nTeams: Anc Outplayed vs.
+  Axolotl\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Anc 
  Outplayed (3) vs. Axolotl (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1550,12 +1550,104 @@ DTSTART:20210807T170000Z
 DTEND:20210807T220000Z
 SUMMARY:[PG Nationals] MCK vs. OP
 UID:pg_nationals-106319725619127913@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Finale\nTeams: Macko Esports vs. aNc
+DESCRIPTION:Liga: PG Nationals\nPhase: Finale\nTeams: Macko Esports vs. Anc
   Outplayed\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Macko Esports (3) vs. aNc Outplayed (1)\n
+ Macko Esports (3) vs. Anc Outplayed (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T210000Z
+DTEND:20220119T220000Z
+SUMMARY:[PG Nationals] GGE vs. MCK
+UID:pg_nationals-107457033676675681@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: GGEsports vs. Macko 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T200000Z
+DTEND:20220118T210000Z
+SUMMARY:[PG Nationals] AXL vs. MCK
+UID:pg_nationals-107457033676675683@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Axolotl vs. Macko 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Axolotl
+  (0) vs. Macko Esports (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T200000Z
+DTEND:20220119T210000Z
+SUMMARY:[PG Nationals] ATE vs. OP
+UID:pg_nationals-107457033676675689@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Atleta Esport vs. 
+ Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T210000Z
+DTEND:20220118T220000Z
+SUMMARY:[PG Nationals] OP vs. CGG
+UID:pg_nationals-107457033676675697@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Anc Outplayed vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anc Outplayed (0) vs. Cyberground Gaming (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T190000Z
+DTEND:20220118T200000Z
+SUMMARY:[PG Nationals] ATE vs. EE
+UID:pg_nationals-107457033676675709@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Atleta Esport vs. 
+ Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (0) vs. Esports Empire (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220118T180000Z
+DTEND:20220118T190000Z
+SUMMARY:[PG Nationals] SMS vs. GGE
+UID:pg_nationals-107457033676675711@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Samsung Morning 
+ Stars vs. GGEsports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. GGEsports (1)\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T190000Z
+DTEND:20220119T200000Z
+SUMMARY:[PG Nationals] CGG vs. SMS
+UID:pg_nationals-107457033676675715@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Cyberground Gaming 
+ vs. Samsung Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T180000Z
+DTEND:20220119T190000Z
+SUMMARY:[PG Nationals] EE vs. AXL
+UID:pg_nationals-107457033676675727@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 1\nTeams: Esports Empire vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
 END:VEVENT
 NAME:PG Nationals Spielplan
 X-WR-CALNAME:PG Nationals Spielplan

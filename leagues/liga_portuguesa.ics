@@ -1449,34 +1449,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220117T190000Z
 DTEND:20220117T200000Z
-SUMMARY:[Liga Portuguesa] KRM vs. BFC
+SUMMARY:[Liga Portuguesa] BFC vs. KRM
 UID:liga_portuguesa-107417530554565573@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: Karma Clan 
- Esports vs. Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: Boavista FC vs. 
+ Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boavista FC (0) vs. Karma Clan Esports (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220117T224500Z
 DTEND:20220117T234500Z
-SUMMARY:[Liga Portuguesa] FTW vs. EGN
+SUMMARY:[Liga Portuguesa] EGN vs. FTW
 UID:liga_portuguesa-107417530554565581@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: For The Win 
- Esports vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: EGN Esports vs. 
+ For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EGN Esports (0) vs. For The Win Esports (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220117T213000Z
 DTEND:20220117T223000Z
-SUMMARY:[Liga Portuguesa] WD vs. GTZ
+SUMMARY:[Liga Portuguesa] GTZ vs. WD
 UID:liga_portuguesa-107417530554565609@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: White Dragons vs.
-  GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: GTZ Bulls vs. 
+ White Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GTZ Bulls (0) vs. White Dragons (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1485,10 +1488,55 @@ DTEND:20220117T211500Z
 SUMMARY:[Liga Portuguesa] OFF7 vs. OSC
 UID:liga_portuguesa-107417530554565617@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: OFFSET Esports 
- vs. Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: OFFSET Esports (0) vs. Odivelas Sports Club (1)\n
 CREATED:20220117T013828Z
-LAST-MODIFIED:20220117T013828Z
+LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T224500Z
+DTEND:20220119T234500Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. BFC
+UID:liga_portuguesa-107417530554565577@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: OFFSET Esports 
+ vs. Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T201500Z
+DTEND:20220119T211500Z
+SUMMARY:[Liga Portuguesa] KRM vs. EGN
+UID:liga_portuguesa-107417530554565585@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: Karma Clan 
+ Esports vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T190000Z
+DTEND:20220119T200000Z
+SUMMARY:[Liga Portuguesa] GTZ vs. FTW
+UID:liga_portuguesa-107417530554565593@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: GTZ Bulls vs. For
+  The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220119T213000Z
+DTEND:20220119T223000Z
+SUMMARY:[Liga Portuguesa] WD vs. OSC
+UID:liga_portuguesa-107417530554565619@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 1\nTeams: White Dragons vs.
+  Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220119T012839Z
+LAST-MODIFIED:20220119T012839Z
+DTSTAMP:20220119T012839Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
 X-WR-CALNAME:Liga Portuguesa LOL Spielplan
