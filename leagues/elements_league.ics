@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20220125T000000Z
+DTEND:20220125T010000Z
+SUMMARY:[Elements League] BAN vs. FUE
+UID:elements_league-107651358743136111@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Bandits vs. 
+ Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bandits 
+ (0) vs. Fuego (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T010000Z
+DTEND:20220126T020000Z
+SUMMARY:[Elements League] SAP vs. BAN
+UID:elements_league-107651358743136121@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Saprissa Esports 
+ vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Saprissa Esports (1) vs. Bandits (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T030000Z
+DTEND:20220126T040000Z
+SUMMARY:[Elements League] FUE vs. VAN
+UID:elements_league-107651358743201671@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Fuego vs. Vandals
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (1) vs. Vandals Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T000000Z
+DTEND:20220201T010000Z
+SUMMARY:[Elements League] GVE vs. GOT
+UID:elements_league-107651358743201673@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Gravity Elite vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T000000Z
+DTEND:20220126T010000Z
+SUMMARY:[Elements League] JNS vs. GOT
+UID:elements_league-107651358743201675@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Janus Esports vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Janus Esports (1) vs. Goat Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T030000Z
+DTEND:20220125T040000Z
+SUMMARY:[Elements League] GOT vs. SAP
+UID:elements_league-107651358743201679@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Goat Esports vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goat Esports (0) vs. Saprissa Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T020000Z
+DTEND:20220126T030000Z
+SUMMARY:[Elements League] GVE vs. RRR
+UID:elements_league-107651358743201685@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Gravity Elite vs.
+  Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Red Rooster (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T010000Z
+DTEND:20220125T020000Z
+SUMMARY:[Elements League] VAN vs. GVE
+UID:elements_league-107651358743201689@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Vandals Esports 
+ vs. Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Gravity Elite (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T020000Z
+DTEND:20220125T030000Z
+SUMMARY:[Elements League] RRR vs. JNS
+UID:elements_league-107651358743201691@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Red Rooster vs. 
+ Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Red Rooster (0) vs. Janus Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+NAME:Elements League Spielplan
+X-WR-CALNAME:Elements League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

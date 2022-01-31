@@ -6976,42 +6976,46 @@ DTEND:20220119T230000Z
 SUMMARY:[LCS Academy] GG vs. 100
 UID:lcs-academy-107424951278581704@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: GG Academy vs. 100 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: GG 
+ Academy (1) vs. 100 Academy (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220120T010000Z
 DTEND:20220120T030000Z
-SUMMARY:[LCS Academy] CLG vs. C9
+SUMMARY:[LCS Academy] C9 vs. CLG
 UID:lcs-academy-107424951278581706@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: CLG Academy vs. C9 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: C9 Academy vs. CLG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: C9 
+ Academy (1) vs. CLG Academy (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220119T210000Z
 DTEND:20220119T230000Z
-SUMMARY:[LCS Academy] FLY vs. DIG
+SUMMARY:[LCS Academy] DIG vs. FLY
 UID:lcs-academy-107424951278581738@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: FLY Academy vs. DIG 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: DIG Academy vs. FLY 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: DIG 
+ Academy (2) vs. FLY Academy (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220119T230000Z
 DTEND:20220120T010000Z
-SUMMARY:[LCS Academy] TL vs. EG
+SUMMARY:[LCS Academy] EG vs. TL
 UID:lcs-academy-107424951278581752@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: TL Academy vs. EG 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: EG Academy vs. TL 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: EG 
+ Academy (1) vs. TL Academy (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7020,10 +7024,191 @@ DTEND:20220120T010000Z
 SUMMARY:[LCS Academy] TSM vs. IMT
 UID:lcs-academy-107424951278647304@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: TSM Academy vs. IMT 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TSM 
+ Academy (0) vs. IMT Academy (2)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T210000Z
+DTEND:20220127T230000Z
+SUMMARY:[LCS Academy] C9 vs. 100
+UID:lcs-academy-107424951278581688@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: C9 Academy vs. 100 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: C9 
+ Academy (2) vs. 100 Academy (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T210000Z
+DTEND:20220120T230000Z
+SUMMARY:[LCS Academy] FLY vs. 100
+UID:lcs-academy-107424951278581696@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: FLY Academy vs. 100 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: FLY 
+ Academy (0) vs. 100 Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T230000Z
+DTEND:20220127T010000Z
+SUMMARY:[LCS Academy] TSM vs. 100
+UID:lcs-academy-107424951278581702@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: TSM Academy vs. 100 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TSM 
+ Academy (0) vs. 100 Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T210000Z
+DTEND:20220126T230000Z
+SUMMARY:[LCS Academy] DIG vs. C9
+UID:lcs-academy-107424951278581708@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: DIG Academy vs. C9 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: DIG 
+ Academy (2) vs. C9 Academy (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T210000Z
+DTEND:20220120T230000Z
+SUMMARY:[LCS Academy] C9 vs. TSM
+UID:lcs-academy-107424951278581718@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: C9 Academy vs. TSM 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: C9 
+ Academy (0) vs. TSM Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T230000Z
+DTEND:20220127T010000Z
+SUMMARY:[LCS Academy] CLG vs. IMT
+UID:lcs-academy-107424951278581728@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: CLG Academy vs. IMT 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: CLG 
+ Academy (2) vs. IMT Academy (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T230000Z
+DTEND:20220121T010000Z
+SUMMARY:[LCS Academy] CLG vs. TL
+UID:lcs-academy-107424951278581730@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: CLG Academy vs. TL 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: CLG 
+ Academy (2) vs. TL Academy (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T210000Z
+DTEND:20220127T230000Z
+SUMMARY:[LCS Academy] TSM vs. CLG
+UID:lcs-academy-107424951278581732@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: TSM Academy vs. CLG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TSM 
+ Academy (0) vs. CLG Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T010000Z
+DTEND:20220128T030000Z
+SUMMARY:[LCS Academy] TL vs. DIG
+UID:lcs-academy-107424951278581742@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: TL Academy vs. DIG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TL 
+ Academy (1) vs. DIG Academy (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T230000Z
+DTEND:20220121T010000Z
+SUMMARY:[LCS Academy] GG vs. DIG
+UID:lcs-academy-107424951278581746@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: GG Academy vs. DIG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: GG 
+ Academy (2) vs. DIG Academy (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T010000Z
+DTEND:20220127T030000Z
+SUMMARY:[LCS Academy] FLY vs. EG
+UID:lcs-academy-107424951278581748@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: FLY Academy vs. EG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: FLY 
+ Academy (0) vs. EG Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T010000Z
+DTEND:20220121T030000Z
+SUMMARY:[LCS Academy] EG vs. IMT
+UID:lcs-academy-107424951278581750@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 1\nTeams: EG Academy vs. IMT 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: EG 
+ Academy (0) vs. IMT Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T230000Z
+DTEND:20220128T010000Z
+SUMMARY:[LCS Academy] GG vs. EG
+UID:lcs-academy-107424951278581756@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: GG Academy vs. EG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: GG 
+ Academy (1) vs. EG Academy (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T230000Z
+DTEND:20220128T010000Z
+SUMMARY:[LCS Academy] IMT vs. FLY
+UID:lcs-academy-107424951278581758@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: IMT Academy vs. FLY 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: IMT 
+ Academy (0) vs. FLY Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T210000Z
+DTEND:20220126T230000Z
+SUMMARY:[LCS Academy] GG vs. TL
+UID:lcs-academy-107424951278647310@lol.ics.tools
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 2\nTeams: GG Academy vs. TL 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: GG 
+ Academy (0) vs. TL Academy (2)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
 END:VEVENT
 NAME:LCS Academy Spielplan
 X-WR-CALNAME:LCS Academy Spielplan

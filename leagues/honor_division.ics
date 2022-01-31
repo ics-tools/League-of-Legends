@@ -8,31 +8,34 @@ DTEND:20220120T020000Z
 SUMMARY:[Honor Division] ZLT vs. ATH
 UID:honor_division-107593829779558497@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Zylant Esports vs.
-  Atheris Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Atheris Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zylant Esports (0) vs. Atheris Esports (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220120T020000Z
 DTEND:20220120T030000Z
-SUMMARY:[Honor Division] 2MR vs. 6K
+SUMMARY:[Honor Division] 6K vs. 2MR
 UID:honor_division-107593829779558507@lol.ics.tools
-DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Tomorrow Esports 
- vs. Six Karma\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Six Karma vs. 
+ Tomorrow Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Six Karma (1) vs. Tomorrow Esports (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220120T030000Z
 DTEND:20220120T040000Z
-SUMMARY:[Honor Division] ARC vs. MC2
+SUMMARY:[Honor Division] MC2 vs. ARC
 UID:honor_division-107593829779624047@lol.ics.tools
-DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Arctic Gaming vs. 
- Atomic Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Atomic Esports vs.
+  Arctic Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atomic Esports (0) vs. Arctic Gaming (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +44,251 @@ DTEND:20220120T050000Z
 SUMMARY:[Honor Division] TK vs. PK
 UID:honor_division-107593829779624065@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: The Kings vs. Peek
-  Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
+ Kings (1) vs. Peek Gaming (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T030000Z
+DTEND:20220122T040000Z
+SUMMARY:[Honor Division] ATH vs. 6K
+UID:honor_division-107593829779558485@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Atheris Esports 
+ vs. Six Karma\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atheris Esports (0) vs. Six Karma (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T020000Z
+DTEND:20220121T030000Z
+SUMMARY:[Honor Division] ARC vs. ATH
+UID:honor_division-107593829779558489@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Arctic Gaming vs. 
+ Atheris Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Arctic Gaming (0) vs. Atheris Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T040000Z
+DTEND:20220127T050000Z
+SUMMARY:[Honor Division] PK vs. ATH
+UID:honor_division-107593829779558491@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Peek Gaming vs. 
+ Atheris Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Peek Gaming (0) vs. Atheris Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T040000Z
+DTEND:20220128T050000Z
+SUMMARY:[Honor Division] ATH vs. TK
+UID:honor_division-107593829779558493@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Atheris Esports 
+ vs. The Kings\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atheris Esports (1) vs. The Kings (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T030000Z
+DTEND:20220129T040000Z
+SUMMARY:[Honor Division] 2MR vs. ATH
+UID:honor_division-107593829779558495@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Tomorrow Esports 
+ vs. Atheris Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Tomorrow Esports (0) vs. Atheris Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T020000Z
+DTEND:20220128T030000Z
+SUMMARY:[Honor Division] MC2 vs. 6K
+UID:honor_division-107593829779558499@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Atomic Esports vs.
+  Six Karma\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atomic Esports (0) vs. Six Karma (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T010000Z
+DTEND:20220129T020000Z
+SUMMARY:[Honor Division] 6K vs. ARC
+UID:honor_division-107593829779558501@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Six Karma vs. 
+ Arctic Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Six Karma (0) vs. Arctic Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T010000Z
+DTEND:20220127T020000Z
+SUMMARY:[Honor Division] 6K vs. TK
+UID:honor_division-107593829779558505@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Six Karma vs. The 
+ Kings\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Six Karma
+  (1) vs. The Kings (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T040000Z
+DTEND:20220121T050000Z
+SUMMARY:[Honor Division] ZLT vs. 6K
+UID:honor_division-107593829779624045@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Zylant Esports vs.
+  Six Karma\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zylant Esports (0) vs. Six Karma (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T010000Z
+DTEND:20220121T020000Z
+SUMMARY:[Honor Division] PK vs. MC2
+UID:honor_division-107593829779624049@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Peek Gaming vs. 
+ Atomic Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Peek Gaming (1) vs. Atomic Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T040000Z
+DTEND:20220129T050000Z
+SUMMARY:[Honor Division] TK vs. MC2
+UID:honor_division-107593829779624051@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: The Kings vs. 
+ Atomic Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ The Kings (1) vs. Atomic Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T010000Z
+DTEND:20220122T020000Z
+SUMMARY:[Honor Division] MC2 vs. 2MR
+UID:honor_division-107593829779624053@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Atomic Esports vs.
+  Tomorrow Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Atomic Esports (0) vs. Tomorrow Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T030000Z
+DTEND:20220127T040000Z
+SUMMARY:[Honor Division] ZLT vs. MC2
+UID:honor_division-107593829779624055@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Zylant Esports vs.
+  Atomic Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Zylant Esports (1) vs. Atomic Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T040000Z
+DTEND:20220122T050000Z
+SUMMARY:[Honor Division] ARC vs. PK
+UID:honor_division-107593829779624057@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Arctic Gaming vs. 
+ Peek Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Arctic Gaming (1) vs. Peek Gaming (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T020000Z
+DTEND:20220127T030000Z
+SUMMARY:[Honor Division] 2MR vs. ARC
+UID:honor_division-107593829779624061@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Tomorrow Esports 
+ vs. Arctic Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Tomorrow Esports (0) vs. Arctic Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T030000Z
+DTEND:20220128T040000Z
+SUMMARY:[Honor Division] ARC vs. ZLT
+UID:honor_division-107593829779624063@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Arctic Gaming vs. 
+ Zylant Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Arctic Gaming (0) vs. Zylant Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T010000Z
+DTEND:20220128T020000Z
+SUMMARY:[Honor Division] PK vs. 2MR
+UID:honor_division-107593829779624067@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Peek Gaming vs. 
+ Tomorrow Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Peek Gaming (0) vs. Tomorrow Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T020000Z
+DTEND:20220129T030000Z
+SUMMARY:[Honor Division] ZLT vs. PK
+UID:honor_division-107593829779624069@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 2\nTeams: Zylant Esports vs.
+  Peek Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zylant Esports (0) vs. Peek Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T030000Z
+DTEND:20220121T040000Z
+SUMMARY:[Honor Division] 2MR vs. TK
+UID:honor_division-107593829779624071@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: Tomorrow Esports 
+ vs. The Kings\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Tomorrow Esports (0) vs. The Kings (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T020000Z
+DTEND:20220122T030000Z
+SUMMARY:[Honor Division] TK vs. ZLT
+UID:honor_division-107593829779624073@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 1\nTeams: The Kings vs. 
+ Zylant Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ The Kings (1) vs. Zylant Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
 END:VEVENT
 NAME:Honor Division Spielplan
 X-WR-CALNAME:Honor Division Spielplan

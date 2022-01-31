@@ -127,12 +127,11 @@ DTSTART:20190202T120000Z
 DTEND:20190202T130000Z
 SUMMARY:[TCL] FB vs. BUR
 UID:turkiye-sampiyonluk-ligi-101422616593957088@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 
  Bursaspor Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Bursaspor Esports 
- (0)\n
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Bursaspor Esports (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -140,11 +139,11 @@ DTSTART:20190217T120000Z
 DTEND:20190217T130000Z
 SUMMARY:[TCL] FB vs. HWA
 UID:turkiye-sampiyonluk-ligi-101422616594153697@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. HWA
-  GAMING\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. HWA 
+ GAMING\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (1) vs. HWA GAMING (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -177,12 +176,11 @@ DTSTART:20190309T140000Z
 DTEND:20190309T150000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-101422616594612452@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Galatasaray Espor 
- (0)\n
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Galatasaray Espor (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -262,12 +260,12 @@ DTSTART:20190224T100000Z
 DTEND:20190224T110000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-101422616595988715@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Papara SuperMassive 
- Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Papara SuperMassive Blaze 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -384,11 +382,11 @@ DTSTART:20190317T110000Z
 DTEND:20190317T120000Z
 SUMMARY:[TCL] FB vs. BJKK
 UID:turkiye-sampiyonluk-ligi-101422616597496053@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. 
  Besiktasarchive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  1907 Fenerbahçe Espor (1) vs. Besiktasarchive (0)\n
+  Fenerbahçe Espor (1) vs. Besiktasarchive (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -408,11 +406,11 @@ DTSTART:20190316T130000Z
 DTEND:20190316T140000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616597758199@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -468,11 +466,11 @@ DTSTART:20190302T110000Z
 DTEND:20190302T120000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-101422616598479100@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -516,12 +514,11 @@ DTSTART:20190303T100000Z
 DTEND:20190303T110000Z
 SUMMARY:[TCL] BUR vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616599068928@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Bursaspor Esports vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Bursaspor Esports vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Bursaspor Esports (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: Bursaspor Esports (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -577,11 +574,11 @@ DTSTART:20190310T130000Z
 DTEND:20190310T140000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616599855365@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -673,12 +670,11 @@ DTSTART:20190203T140000Z
 DTEND:20190203T150000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616601035021@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: Galatasaray Espor (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -907,11 +903,11 @@ DTSTART:20190216T140000Z
 DTEND:20190216T150000Z
 SUMMARY:[TCL] BJKK vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616603787552@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Besiktasarchive vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Besiktasarchive vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Besiktasarchive (0) vs. 1907 Fenerbahçe Espor (1)\n
+ completed\nErgebnisse: Besiktasarchive (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -919,11 +915,11 @@ DTSTART:20190210T130000Z
 DTEND:20190210T140000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-101422616603918625@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -931,11 +927,11 @@ DTSTART:20190209T110000Z
 DTEND:20190209T120000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-101422616604049698@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Dark Passage (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1064,11 +1060,11 @@ DTSTART:20190223T110000Z
 DTEND:20190223T120000Z
 SUMMARY:[TCL] RYL vs. FB
 UID:turkiye-sampiyonluk-ligi-101422616605819181@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Royal Youth vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Royal Youth (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Royal Youth vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
+ Youth (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,12 +1108,11 @@ DTSTART:20190407T100000Z
 DTEND:20190407T150000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-101776592368446455@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (3) vs. Galatasaray Espor 
- (0)\n
+ completed\nErgebnisse: Fenerbahçe Espor (3) vs. Galatasaray Espor (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1161,12 +1156,12 @@ DTSTART:20190413T110000Z
 DTEND:20190413T160000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-101776592369822715@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Großes Finale\nTeams: 1907 Fenerbahçe Espor 
- vs. Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (3) vs. Papara SuperMassive 
- Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Großes Finale\nTeams: Fenerbahçe Espor vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (3) vs. Papara SuperMassive Blaze 
+ (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1260,11 +1255,11 @@ DTSTART:20190630T140000Z
 DTEND:20190630T150000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771774095874@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1296,12 +1291,11 @@ DTSTART:20190713T140000Z
 DTEND:20190713T150000Z
 SUMMARY:[TCL] FB vs. BUR
 UID:turkiye-sampiyonluk-ligi-102235771775013381@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. 
  Bursaspor Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Bursaspor Esports 
- (1)\n
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Bursaspor Esports (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1321,12 +1315,11 @@ DTSTART:20190622T130000Z
 DTEND:20190622T140000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771775603207@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: Galatasaray Espor (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1469,11 +1462,11 @@ DTSTART:20190616T150000Z
 DTEND:20190616T160000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771779207699@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1517,12 +1510,11 @@ DTSTART:20190727T140000Z
 DTEND:20190727T150000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-102235771780321815@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Galatasaray Espor 
- (1)\n
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1566,11 +1558,11 @@ DTSTART:20190706T130000Z
 DTEND:20190706T140000Z
 SUMMARY:[TCL] FB vs. BJKK
 UID:turkiye-sampiyonluk-ligi-102235771781501467@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. 
  Besiktasarchive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  1907 Fenerbahçe Espor (1) vs. Besiktasarchive (0)\n
+  Fenerbahçe Espor (1) vs. Besiktasarchive (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1686,12 +1678,11 @@ DTSTART:20190721T140000Z
 DTEND:20190721T150000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771784450597@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: fastPay Wildcats (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1771,11 +1762,11 @@ DTSTART:20190629T130000Z
 DTEND:20190629T140000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-102235771786547756@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Dark Passage (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1893,11 +1884,11 @@ DTEND:20190707T160000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771789562422@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Papara SuperMassive Blaze vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. 1907 Fenerbahçe 
- Espor (0)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Fenerbahçe Espor 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1917,12 +1908,12 @@ DTSTART:20190608T110000Z
 DTEND:20190608T120000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-102235771790152248@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Papara SuperMassive 
- Blaze (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Papara SuperMassive Blaze 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,12 +1921,11 @@ DTSTART:20190621T170000Z
 DTEND:20190621T180000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-102235771790414393@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. fastPay Wildcats 
- (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1943,12 +1933,11 @@ DTSTART:20190609T120000Z
 DTEND:20190609T130000Z
 SUMMARY:[TCL] BUR vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771790742074@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Bursaspor Esports vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Bursaspor Esports vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Bursaspor Esports (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: Bursaspor Esports (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1992,11 +1981,11 @@ DTSTART:20190720T150000Z
 DTEND:20190720T160000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-102235771791987262@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2028,11 +2017,11 @@ DTSTART:20190728T130000Z
 DTEND:20190728T140000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771792904769@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2052,11 +2041,11 @@ DTSTART:20190804T140000Z
 DTEND:20190804T150000Z
 SUMMARY:[TCL] BJKK vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771793494595@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Besiktasarchive vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Besiktasarchive vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Besiktasarchive (1) vs. 1907 Fenerbahçe Espor (0)\n
+ completed\nErgebnisse: Besiktasarchive (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2077,11 +2066,11 @@ DTSTART:20190803T130000Z
 DTEND:20190803T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771794084421@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Team Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2198,11 +2187,11 @@ DTSTART:20190714T150000Z
 DTEND:20190714T160000Z
 SUMMARY:[TCL] RYL vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771797230159@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Royal Youth vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Royal Youth (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Royal Youth vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
+ Youth (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2246,11 +2235,11 @@ DTSTART:20190615T110000Z
 DTEND:20190615T120000Z
 SUMMARY:[TCL] FB vs. RYL
 UID:turkiye-sampiyonluk-ligi-102235771798999635@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 1907 Fenerbahçe Espor vs. 
- Royal Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Royal Youth (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Royal 
+ Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Royal Youth (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2297,11 +2286,10 @@ DTEND:20190818T160000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-102638763030148815@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Galatasaray Espor vs. 
- 1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (3) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor (3) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2369,12 +2357,11 @@ DTSTART:20200229T140000Z
 DTEND:20200229T150000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-103495781305002080@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. fastPay Wildcats 
- (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. fastPay Wildcats (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2455,11 +2442,11 @@ DTSTART:20200201T130000Z
 DTEND:20200201T140000Z
 SUMMARY:[TCL] FB vs. 5R
 UID:turkiye-sampiyonluk-ligi-103495781305002094@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: 1907 Fenerbahçe Espor vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (1) vs. 5 Ronin (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2527,11 +2514,11 @@ DTSTART:20200216T110000Z
 DTEND:20200216T120000Z
 SUMMARY:[TCL] FB vs. BJK
 UID:turkiye-sampiyonluk-ligi-103495781305002106@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2599,12 +2586,12 @@ DTSTART:20200209T120000Z
 DTEND:20200209T130000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-103495781305002118@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Papara SuperMassive 
- Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Papara SuperMassive Blaze 
+ (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2612,11 +2599,11 @@ DTSTART:20200223T140000Z
 DTEND:20200223T150000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305002120@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2624,11 +2611,11 @@ DTSTART:20200202T130000Z
 DTEND:20200202T140000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305002122@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2636,11 +2623,11 @@ DTSTART:20200215T110000Z
 DTEND:20200215T120000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305002124@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2648,11 +2635,11 @@ DTSTART:20200222T120000Z
 DTEND:20200222T130000Z
 SUMMARY:[TCL] RYL vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305002126@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Royal Youth vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Royal Youth (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Royal Youth vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
+ Youth (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2804,12 +2791,11 @@ DTSTART:20200414T130000Z
 DTEND:20200414T140000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305067688@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: fastPay Wildcats (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2890,11 +2876,11 @@ DTSTART:20200301T130000Z
 DTEND:20200301T140000Z
 SUMMARY:[TCL] 5R vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305067702@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 5 Ronin vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 5 Ronin vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (0) vs. 1907 Fenerbahçe Espor (1)\n
+ (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2962,11 +2948,11 @@ DTSTART:20200404T140000Z
 DTEND:20200404T150000Z
 SUMMARY:[TCL] BJK vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305067714@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Beşiktaş vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Beşiktaş vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş 
- (0) vs. 1907 Fenerbahçe Espor (1)\n
+ (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3035,11 +3021,11 @@ DTEND:20200405T140000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305067726@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Papara SuperMassive Blaze vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (0) vs. 1907 Fenerbahçe 
- Espor (1)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (0) vs. Fenerbahçe Espor 
+ (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3047,11 +3033,11 @@ DTSTART:20200413T120000Z
 DTEND:20200413T130000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-103495781305067728@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Dark Passage (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3059,11 +3045,11 @@ DTSTART:20200314T140000Z
 DTEND:20200314T150000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-103495781305067730@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3071,11 +3057,11 @@ DTSTART:20200308T110000Z
 DTEND:20200308T120000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067732@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3083,11 +3069,11 @@ DTSTART:20200315T120000Z
 DTEND:20200315T130000Z
 SUMMARY:[TCL] FB vs. RYL
 UID:turkiye-sampiyonluk-ligi-103495781305067734@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
- Royal Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Royal Youth (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. Royal 
+ Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Royal Youth (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3240,11 +3226,11 @@ DTSTART:20200504T110000Z
 DTEND:20200504T160000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781309458681@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (3) vs. Team Aurora (2)\n
+DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (3) vs. Team Aurora (2)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3264,12 +3250,11 @@ DTSTART:20200511T110000Z
 DTEND:20200511T160000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-103495781309458693@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Finale\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (3) vs. fastPay Wildcats 
- (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Finale\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (3) vs. fastPay Wildcats (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3289,11 +3274,11 @@ DTSTART:20200719T140000Z
 DTEND:20200719T150000Z
 SUMMARY:[TCL] 5R vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640200954@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (1) vs. 1907 Fenerbahçe Espor (0)\n
+ (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3301,11 +3286,11 @@ DTSTART:20200614T150000Z
 DTEND:20200614T160000Z
 SUMMARY:[TCL] BJK vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266492@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş 
- (1) vs. 1907 Fenerbahçe Espor (0)\n
+ (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3313,11 +3298,11 @@ DTSTART:20200704T130000Z
 DTEND:20200704T140000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-104248884640266494@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Dark Passage (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3325,11 +3310,11 @@ DTSTART:20200726T130000Z
 DTEND:20200726T140000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266496@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3337,12 +3322,11 @@ DTSTART:20200621T150000Z
 DTEND:20200621T160000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266498@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (0) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: Galatasaray Espor (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3350,12 +3334,11 @@ DTSTART:20200606T110000Z
 DTEND:20200606T120000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-104248884640266500@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. fastPay Wildcats 
- (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3363,11 +3346,11 @@ DTSTART:20200801T130000Z
 DTEND:20200801T140000Z
 SUMMARY:[TCL] FB vs. RYL
 UID:turkiye-sampiyonluk-ligi-104248884640266502@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 
- Royal Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Royal Youth (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. Royal 
+ Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Royal Youth (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3375,12 +3358,12 @@ DTSTART:20200613T110000Z
 DTEND:20200613T120000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-104248884640266504@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Papara SuperMassive 
- Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Papara SuperMassive Blaze 
+ (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3388,11 +3371,11 @@ DTSTART:20200607T120000Z
 DTEND:20200607T130000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266506@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3834,11 +3817,11 @@ DTSTART:20200620T140000Z
 DTEND:20200620T150000Z
 SUMMARY:[TCL] FB vs. 5R
 UID:turkiye-sampiyonluk-ligi-104248884640266580@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (0) vs. 5 Ronin (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3846,11 +3829,11 @@ DTSTART:20200718T150000Z
 DTEND:20200718T160000Z
 SUMMARY:[TCL] FB vs. BJK
 UID:turkiye-sampiyonluk-ligi-104248884640266582@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3858,11 +3841,11 @@ DTSTART:20200802T140000Z
 DTEND:20200802T150000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266584@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3870,11 +3853,11 @@ DTSTART:20200627T130000Z
 DTEND:20200627T140000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-104248884640266586@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3882,12 +3865,11 @@ DTSTART:20200725T140000Z
 DTEND:20200725T150000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-104248884640266588@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Galatasaray Espor 
- (1)\n
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3895,12 +3877,11 @@ DTSTART:20200705T150000Z
 DTEND:20200705T160000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266590@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: fastPay Wildcats (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3908,11 +3889,11 @@ DTSTART:20200628T140000Z
 DTEND:20200628T150000Z
 SUMMARY:[TCL] RYL vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266592@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Royal Youth vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Royal Youth (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Royal Youth vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
+ Youth (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3921,11 +3902,11 @@ DTEND:20200712T160000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266594@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Papara SuperMassive Blaze vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (0) vs. 1907 Fenerbahçe 
- Espor (1)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (0) vs. Fenerbahçe Espor 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3933,11 +3914,11 @@ DTSTART:20200711T140000Z
 DTEND:20200711T150000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266596@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4452,11 +4433,11 @@ DTSTART:20210131T120000Z
 DTEND:20210131T130000Z
 SUMMARY:[TCL] FB vs. 5R
 UID:turkiye-sampiyonluk-ligi-105562822076218128@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 1907 Fenerbahçe Espor vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (1) vs. 5 Ronin (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4464,11 +4445,11 @@ DTSTART:20210320T120000Z
 DTEND:20210320T130000Z
 SUMMARY:[TCL] FB vs. BJK
 UID:turkiye-sampiyonluk-ligi-105562822076218130@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (1) vs. Beşiktaş (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4476,11 +4457,11 @@ DTSTART:20210321T120000Z
 DTEND:20210321T130000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076218132@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4488,11 +4469,11 @@ DTSTART:20210313T130000Z
 DTEND:20210313T140000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076218134@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4500,12 +4481,11 @@ DTSTART:20210307T130000Z
 DTEND:20210307T140000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-105562822076218136@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Galatasaray Espor 
- (0)\n
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Galatasaray Espor (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4513,12 +4493,11 @@ DTSTART:20210227T150000Z
 DTEND:20210227T160000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-105562822076218138@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. fastPay Wildcats 
- (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4526,11 +4505,11 @@ DTSTART:20210123T130000Z
 DTEND:20210123T140000Z
 SUMMARY:[TCL] FB vs. NSR
 UID:turkiye-sampiyonluk-ligi-105562822076218140@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: 1907 Fenerbahçe Espor vs. 
- NASR ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (0) vs. NASR ESPORTS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. NASR ESPORTS (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4538,12 +4517,12 @@ DTSTART:20210314T130000Z
 DTEND:20210314T140000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-105562822076218142@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Papara SuperMassive 
- Blaze (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Papara SuperMassive Blaze 
+ (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4551,11 +4530,11 @@ DTSTART:20210130T140000Z
 DTEND:20210130T150000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076218144@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4999,11 +4978,11 @@ DTSTART:20210306T130000Z
 DTEND:20210306T140000Z
 SUMMARY:[TCL] 5R vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283754@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (0) vs. 1907 Fenerbahçe Espor (1)\n
+ (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5011,11 +4990,11 @@ DTSTART:20210214T150000Z
 DTEND:20210214T160000Z
 SUMMARY:[TCL] BJK vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283756@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Beşiktaş vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Beşiktaş vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş 
- (0) vs. 1907 Fenerbahçe Espor (1)\n
+ (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5023,11 +5002,11 @@ DTSTART:20210220T140000Z
 DTEND:20210220T150000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-105562822076283758@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Dark Passage (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5035,11 +5014,11 @@ DTSTART:20210207T130000Z
 DTEND:20210207T140000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-105562822076283760@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5047,12 +5026,11 @@ DTSTART:20210206T150000Z
 DTEND:20210206T160000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283762@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: Galatasaray Espor (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5060,12 +5038,11 @@ DTSTART:20210124T150000Z
 DTEND:20210124T160000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283764@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: fastPay Wildcats (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5073,11 +5050,11 @@ DTSTART:20210221T140000Z
 DTEND:20210221T150000Z
 SUMMARY:[TCL] NSR vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283766@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: NASR ESPORTS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: NASR ESPORTS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: NASR ESPORTS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5086,11 +5063,11 @@ DTEND:20210213T140000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076283768@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Papara SuperMassive Blaze vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. 1907 Fenerbahçe 
- Espor (0)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Fenerbahçe Espor 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5098,11 +5075,11 @@ DTSTART:20210228T130000Z
 DTEND:20210228T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076283770@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5544,11 +5521,11 @@ DTSTART:20210403T110000Z
 DTEND:20210403T160000Z
 SUMMARY:[TCL] FB vs. NSR
 UID:turkiye-sampiyonluk-ligi-105788375893721894@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: 1907 Fenerbahçe Espor 
- vs. NASR ESPORTS\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (3) vs. NASR ESPORTS (2)\n
+DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Fenerbahçe Espor vs. 
+ NASR ESPORTS\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (3) vs. NASR ESPORTS (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5568,12 +5545,12 @@ DTSTART:20210410T110000Z
 DTEND:20210410T160000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-105788375893721906@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Fenerbahçe Espor vs. 
  Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (3) vs. Papara SuperMassive 
- Blaze (2)\n
+ completed\nErgebnisse: Fenerbahçe Espor (3) vs. Papara SuperMassive Blaze 
+ (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5593,12 +5570,11 @@ DTSTART:20210417T110000Z
 DTEND:20210417T160000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-105788375893721918@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Finale\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Finale\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (3) vs. 1907 Fenerbahçe Espor 
- (1)\n
+ completed\nErgebnisse: fastPay Wildcats (3) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5606,11 +5582,11 @@ DTSTART:20210321T160000Z
 DTEND:20210321T170000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-105928543392225533@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5618,11 +5594,11 @@ DTSTART:20210710T110000Z
 DTEND:20210710T120000Z
 SUMMARY:[TCL] 5R vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011324139@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 5 Ronin vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 5 Ronin vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (1) vs. 1907 Fenerbahçe Espor (0)\n
+ (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5630,11 +5606,11 @@ DTSTART:20210704T150000Z
 DTEND:20210704T160000Z
 SUMMARY:[TCL] FB vs. BJK
 UID:turkiye-sampiyonluk-ligi-106269459011651821@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 1907 Fenerbahçe Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5642,11 +5618,11 @@ DTSTART:20210703T140000Z
 DTEND:20210703T150000Z
 SUMMARY:[TCL] DP vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011651823@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Dark Passage vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dark Passage (1) vs. 1907 Fenerbahçe Espor (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5654,12 +5630,11 @@ DTSTART:20210612T110000Z
 DTEND:20210612T120000Z
 SUMMARY:[TCL] IW vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011651825@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: fastPay Wildcats (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5667,11 +5642,11 @@ DTSTART:20210627T120000Z
 DTEND:20210627T130000Z
 SUMMARY:[TCL] FB vs. GAL
 UID:turkiye-sampiyonluk-ligi-106269459011651827@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907
-  Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5679,12 +5654,11 @@ DTSTART:20210724T150000Z
 DTEND:20210724T160000Z
 SUMMARY:[TCL] FB vs. GS
 UID:turkiye-sampiyonluk-ligi-106269459011651829@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 1907 Fenerbahçe Espor vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. 
  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Galatasaray Espor 
- (1)\n
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5692,11 +5666,11 @@ DTSTART:20210626T140000Z
 DTEND:20210626T150000Z
 SUMMARY:[TCL] FB vs. NSR
 UID:turkiye-sampiyonluk-ligi-106269459011651831@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: 1907 Fenerbahçe Espor vs. 
- NASR ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (0) vs. NASR ESPORTS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. NASR ESPORTS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5704,12 +5678,12 @@ DTSTART:20210717T120000Z
 DTEND:20210717T130000Z
 SUMMARY:[TCL] FB vs. SMB
 UID:turkiye-sampiyonluk-ligi-106269459011717369@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 1907 Fenerbahçe Espor vs. 
- Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Papara SuperMassive 
- Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Papara SuperMassive Blaze 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5717,11 +5691,11 @@ DTSTART:20210718T110000Z
 DTEND:20210718T120000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011717371@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6164,11 +6138,11 @@ DTSTART:20210808T110000Z
 DTEND:20210808T120000Z
 SUMMARY:[TCL] FB vs. 5R
 UID:turkiye-sampiyonluk-ligi-106269459011782981@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 1907 Fenerbahçe Espor vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
  Fenerbahçe Espor (0) vs. 5 Ronin (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6176,11 +6150,11 @@ DTSTART:20210807T110000Z
 DTEND:20210807T120000Z
 SUMMARY:[TCL] BJK vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011782983@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Beşiktaş vs. 1907 Fenerbahçe 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Beşiktaş vs. Fenerbahçe 
  Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş 
- (0) vs. 1907 Fenerbahçe Espor (1)\n
+ (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6188,11 +6162,11 @@ DTSTART:20210801T110000Z
 DTEND:20210801T120000Z
 SUMMARY:[TCL] FB vs. DP
 UID:turkiye-sampiyonluk-ligi-106269459011782985@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 1907 Fenerbahçe Espor vs. 
- Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Fenerbahçe Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Dark Passage (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6200,12 +6174,11 @@ DTSTART:20210711T150000Z
 DTEND:20210711T160000Z
 SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-106269459011782987@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 1907 Fenerbahçe Espor vs. 
- fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. fastPay Wildcats 
- (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. fastPay Wildcats (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6213,11 +6186,11 @@ DTSTART:20210731T120000Z
 DTEND:20210731T130000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011782989@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: GALAKTICOS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6225,12 +6198,11 @@ DTSTART:20210620T150000Z
 DTEND:20210620T160000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011782991@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Galatasaray Espor vs. 1907 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Galatasaray Espor vs. 
  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (1) vs. 1907 Fenerbahçe Espor 
- (0)\n
+ completed\nErgebnisse: Galatasaray Espor (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6238,11 +6210,11 @@ DTSTART:20210725T120000Z
 DTEND:20210725T130000Z
 SUMMARY:[TCL] NSR vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011782993@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: NASR ESPORTS vs. 1907 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: NASR ESPORTS (0) vs. 1907 Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: NASR ESPORTS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6251,11 +6223,11 @@ DTEND:20210613T140000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011782995@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Papara SuperMassive Blaze vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. 1907 Fenerbahçe 
- Espor (0)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Fenerbahçe Espor 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6263,11 +6235,11 @@ DTSTART:20210619T130000Z
 DTEND:20210619T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011782997@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 1907 Fenerbahçe Espor vs. 
- Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 1907 Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6788,6 +6760,248 @@ DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: fastPay Wildcats vs.
 CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T110000Z
+DTEND:20220129T120000Z
+SUMMARY:[TCL] 5R vs. FB
+UID:turkiye-sampiyonluk-ligi-107566458490383601@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: 5 Ronin vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
+ (0) vs. Fenerbahçe Espor (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T110000Z
+DTEND:20220123T120000Z
+SUMMARY:[TCL] FB vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490383603@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Beşiktaş (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T110000Z
+DTEND:20220130T120000Z
+SUMMARY:[TCL] FB vs. IW
+UID:turkiye-sampiyonluk-ligi-107566458490383607@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. fastPay Wildcats (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T120000Z
+DTEND:20220122T130000Z
+SUMMARY:[TCL] FB vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490383617@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Team Aurora (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T130000Z
+DTEND:20220122T140000Z
+SUMMARY:[TCL] GAL vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383625@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: GALAKTICOS vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. 5 Ronin (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T150000Z
+DTEND:20220123T160000Z
+SUMMARY:[TCL] SMB vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383631@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Papara SuperMassive Blaze vs.
+  5 Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Papara
+  SuperMassive Blaze (0) vs. 5 Ronin (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T130000Z
+DTEND:20220130T140000Z
+SUMMARY:[TCL] AUR vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383633@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (1) vs. 5 Ronin (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T120000Z
+DTEND:20220130T130000Z
+SUMMARY:[TCL] NSR vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490383643@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: NASR ESPORTS vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (1) vs. Beşiktaş (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T140000Z
+DTEND:20220122T150000Z
+SUMMARY:[TCL] SMB vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490383645@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Papara SuperMassive Blaze vs.
+  Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (1) vs. Beşiktaş (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T120000Z
+DTEND:20220129T130000Z
+SUMMARY:[TCL] BJK vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490383647@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş
+  (0) vs. Team Aurora (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T150000Z
+DTEND:20220122T160000Z
+SUMMARY:[TCL] IW vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490383649@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay
+  Wildcats (0) vs. Dark Passage (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T140000Z
+DTEND:20220130T150000Z
+SUMMARY:[TCL] DP vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490383651@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Dark Passage vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark
+  Passage (1) vs. GALAKTICOS (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T130000Z
+DTEND:20220123T140000Z
+SUMMARY:[TCL] GS vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490383653@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Galatasaray Espor vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (0) vs. Dark Passage (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T150000Z
+DTEND:20220129T160000Z
+SUMMARY:[TCL] DP vs. NSR
+UID:turkiye-sampiyonluk-ligi-107566458490383655@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Dark Passage vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (0) vs. NASR ESPORTS (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T140000Z
+DTEND:20220123T150000Z
+SUMMARY:[TCL] IW vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490383661@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (1) vs. GALAKTICOS (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T140000Z
+DTEND:20220129T150000Z
+SUMMARY:[TCL] IW vs. SMB
+UID:turkiye-sampiyonluk-ligi-107566458490383667@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: fastPay Wildcats vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats (0) vs. Papara SuperMassive Blaze 
+ (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T130000Z
+DTEND:20220129T140000Z
+SUMMARY:[TCL] GAL vs. GS
+UID:turkiye-sampiyonluk-ligi-107566458490383671@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: GALAKTICOS vs. Galatasaray 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Galatasaray Espor (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220122T110000Z
+DTEND:20220122T120000Z
+SUMMARY:[TCL] GS vs. NSR
+UID:turkiye-sampiyonluk-ligi-107566458490449215@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Galatasaray Espor vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. NASR ESPORTS (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T150000Z
+DTEND:20220130T160000Z
+SUMMARY:[TCL] GS vs. SMB
+UID:turkiye-sampiyonluk-ligi-107566458490449217@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Galatasaray Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor (0) vs. Papara SuperMassive Blaze
+  (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T120000Z
+DTEND:20220123T130000Z
+SUMMARY:[TCL] NSR vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490449223@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: NASR ESPORTS vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. Team Aurora (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
 END:VEVENT
 NAME:TCL Spielplan
 X-WR-CALNAME:TCL Spielplan

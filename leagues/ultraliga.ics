@@ -1626,12 +1626,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220119T180000Z
 DTEND:20220119T190000Z
-SUMMARY:[Ultraliga] DV1 vs. IHG
+SUMMARY:[Ultraliga] IHG vs. DV1
 UID:ultraliga-107416436274165328@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Devils.One vs. 
- Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Illuminar Gaming vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Illuminar Gaming (1) vs. Devils.One (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1664,9 +1665,10 @@ DTEND:20220119T170000Z
 SUMMARY:[Ultraliga] WOLF vs. RGO
 UID:ultraliga-107416436274165356@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Topo Centras Iron 
- Wolves vs. AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wolves vs. AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. AGO Rogue (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1687,20 +1689,22 @@ DTEND:20220119T210000Z
 SUMMARY:[Ultraliga] KNF vs. Z10
 UID:ultraliga-107416436274230912@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Komil&Friends vs. Zero 
- Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (0) vs. Zero Tenacity (1)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220119T190000Z
 DTEND:20220119T200000Z
-SUMMARY:[Ultraliga] GSK vs. GGM
+SUMMARY:[Ultraliga] GGM vs. GSK
 UID:ultraliga-107416436274230926@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Goskilla vs. 
- Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Gentlemen's Gaming vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Goskilla (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1731,13 +1735,134 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220119T170000Z
 DTEND:20220119T180000Z
-SUMMARY:[Ultraliga] FSK vs. TEG
+SUMMARY:[Ultraliga] TEG vs. FSK
 UID:ultraliga-107416436274230944@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Forsaken vs. Team ESCA 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 2\nTeams: Team ESCA Gaming vs. 
+ Forsaken\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ ESCA Gaming (1) vs. Forsaken (0)\n
 CREATED:20220119T012839Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220119T012839Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T190000Z
+DTEND:20220126T200000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-107416436274165326@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: AGO Rogue vs. Illuminar
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (0) vs. Illuminar Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T190000Z
+DTEND:20220125T200000Z
+SUMMARY:[Ultraliga] KNF vs. IHG
+UID:ultraliga-107416436274165334@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Komil&Friends vs. 
+ Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Komil&Friends (1) vs. Illuminar Gaming (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T200000Z
+DTEND:20220125T210000Z
+SUMMARY:[Ultraliga] GGM vs. RGO
+UID:ultraliga-107416436274165348@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Gentlemen's Gaming vs. 
+ AGO Rogue\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. AGO Rogue (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T200000Z
+DTEND:20220126T210000Z
+SUMMARY:[Ultraliga] KNF vs. DV1
+UID:ultraliga-107416436274230900@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Komil&Friends vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (1) vs. Devils.One (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T170000Z
+DTEND:20220125T180000Z
+SUMMARY:[Ultraliga] WOLF vs. DV1
+UID:ultraliga-107416436274230906@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Topo Centras Iron 
+ Wolves vs. Devils.One\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Devils.One (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T170000Z
+DTEND:20220126T180000Z
+SUMMARY:[Ultraliga] Z10 vs. TEG
+UID:ultraliga-107416436274230914@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Zero Tenacity vs. Team 
+ ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zero Tenacity (0) vs. Team ESCA Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T160000Z
+DTEND:20220125T170000Z
+SUMMARY:[Ultraliga] FSK vs. Z10
+UID:ultraliga-107416436274230920@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Forsaken vs. Zero 
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Forsaken (1) vs. Zero Tenacity (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T160000Z
+DTEND:20220126T170000Z
+SUMMARY:[Ultraliga] GGM vs. FSK
+UID:ultraliga-107416436274230930@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Gentlemen's Gaming vs. 
+ Forsaken\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (0) vs. Forsaken (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T180000Z
+DTEND:20220125T190000Z
+SUMMARY:[Ultraliga] GSK vs. TEG
+UID:ultraliga-107416436274230940@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Goskilla vs. Team ESCA 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goskilla
+  (0) vs. Team ESCA Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T180000Z
+DTEND:20220126T190000Z
+SUMMARY:[Ultraliga] WOLF vs. GSK
+UID:ultraliga-107416436274230946@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 3\nTeams: Topo Centras Iron 
+ Wolves vs. Goskilla\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Goskilla (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
 END:VEVENT
 NAME:Ultraliga Spielplan
 X-WR-CALNAME:Ultraliga Spielplan

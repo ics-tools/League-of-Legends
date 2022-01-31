@@ -1700,6 +1700,154 @@ CREATED:20220119T012839Z
 LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T180000Z
+DTEND:20220131T190000Z
+SUMMARY:[Greek Legends League] GSMC vs. ANO
+UID:greek_legends-107575345395646003@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Gamespace 
+ Mediterranean College Esports vs. Anorthosis Famagusta Esports\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T180000Z
+DTEND:20220127T190000Z
+SUMMARY:[Greek Legends League] ANO vs. TP
+UID:greek_legends-107575345395646009@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Anorthosis 
+ Famagusta Esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. Team Phantasma
+  (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T180000Z
+DTEND:20220126T190000Z
+SUMMARY:[Greek Legends League] ZRL vs. ANO
+UID:greek_legends-107575345395646013@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Zerolag 
+ Esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Zerolag Esports (0) vs. Anorthosis 
+ Famagusta Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T200000Z
+DTEND:20220127T210000Z
+SUMMARY:[Greek Legends League] GOAL vs. HIVE
+UID:greek_legends-107575345395646017@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Olympiacos 
+ Alimou esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Olympiacos Alimou esports (0) vs. Hive Athens EC 
+ (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T200000Z
+DTEND:20220131T210000Z
+SUMMARY:[Greek Legends League] TP vs. GOAL
+UID:greek_legends-107575345395646021@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Team 
+ Phantasma vs. Olympiacos Alimou esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T200000Z
+DTEND:20220126T210000Z
+SUMMARY:[Greek Legends League] GOAL vs. WLG
+UID:greek_legends-107575345395646023@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Olympiacos 
+ Alimou esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Olympiacos Alimou esports (0) vs. We Love Gaming 
+ (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T170000Z
+DTEND:20220126T180000Z
+SUMMARY:[Greek Legends League] GSMC vs. RFS
+UID:greek_legends-107575345395646029@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Gamespace 
+ Mediterranean College Esports vs. Team Refuse\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports 
+ (0) vs. Team Refuse (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T170000Z
+DTEND:20220127T180000Z
+SUMMARY:[Greek Legends League] GSMC vs. ZRL
+UID:greek_legends-107575345395646035@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Gamespace 
+ Mediterranean College Esports vs. Zerolag Esports\nSpiel-Strategie: bestOf
+  1\nStatus: completed\nErgebnisse: Gamespace Mediterranean College Esports
+  (1) vs. Zerolag Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T170000Z
+DTEND:20220131T180000Z
+SUMMARY:[Greek Legends League] RFS vs. HIVE
+UID:greek_legends-107575345395646037@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Team Refuse 
+ vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T190000Z
+DTEND:20220126T200000Z
+SUMMARY:[Greek Legends League] TP vs. HIVE
+UID:greek_legends-107575345395646039@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Team 
+ Phantasma vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Phantasma (0) vs. Hive Athens EC (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T190000Z
+DTEND:20220127T200000Z
+SUMMARY:[Greek Legends League] RFS vs. WLG
+UID:greek_legends-107575345395711583@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 2\nTeams: Team Refuse 
+ vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. We Love Gaming (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T190000Z
+DTEND:20220131T200000Z
+SUMMARY:[Greek Legends League] ZRL vs. WLG
+UID:greek_legends-107575345395711591@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 3\nTeams: Zerolag 
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
 NAME:Greek Legends League Spielplan
 X-WR-CALNAME:Greek Legends League Spielplan
 END:VCALENDAR

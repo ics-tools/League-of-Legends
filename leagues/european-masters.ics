@@ -3843,11 +3843,11 @@ DTSTART:20210329T163000Z
 DTEND:20210329T173000Z
 SUMMARY:[European Masters] MKS vs. M2
 UID:european-masters-105945560581709812@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Mkers vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: MKERS vs. 
  Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Mkers (1) vs. Method2Madness (0)\n
+ MKERS (1) vs. Method2Madness (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3867,11 +3867,11 @@ DTSTART:20210329T183000Z
 DTEND:20210329T193000Z
 SUMMARY:[European Masters] MKS vs. S04E
 UID:european-masters-105945560581709816@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Mkers vs. Schalke 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: MKERS vs. Schalke 
  04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Mkers (0) vs. Schalke 04 Evolution (1)\n
+ MKERS (0) vs. Schalke 04 Evolution (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3892,10 +3892,10 @@ DTEND:20210329T153000Z
 SUMMARY:[European Masters] ESB vs. MKS
 UID:european-masters-105945560581709820@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: eSuba vs. 
- Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (0)
-  vs. Mkers (1)\n
+ MKERS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (0)
+  vs. MKERS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3915,11 +3915,11 @@ DTSTART:20210330T163000Z
 DTEND:20210330T173000Z
 SUMMARY:[European Masters] MKS vs. M2
 UID:european-masters-105945560581709824@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Mkers vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: MKERS vs. 
  Method2Madness\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Mkers (1) vs. Method2Madness (0)\n
+ MKERS (1) vs. Method2Madness (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3939,11 +3939,11 @@ DTSTART:20210330T193000Z
 DTEND:20210330T203000Z
 SUMMARY:[European Masters] MKS vs. S04E
 UID:european-masters-105945560581709828@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: Mkers vs. Schalke 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: MKERS vs. Schalke 
  04 Evolution\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Mkers (0) vs. Schalke 04 Evolution (1)\n
+ MKERS (0) vs. Schalke 04 Evolution (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3964,10 +3964,10 @@ DTEND:20210330T163000Z
 SUMMARY:[European Masters] ESB vs. MKS
 UID:european-masters-105945560581709832@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Tag 2\nTeams: eSuba vs. 
- Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (0)
-  vs. Mkers (1)\n
+ MKERS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (0)
+  vs. MKERS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4036,11 +4036,11 @@ DTSTART:20210401T173000Z
 DTEND:20210401T203000Z
 SUMMARY:[European Masters] MKS vs. Z10
 UID:european-masters-105980662873433655@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 3\nTeams: Mkers vs. Zero 
- Tenacity\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Mkers 
+DESCRIPTION:Liga: European Masters\nPhase: Tag 3\nTeams: MKERS vs. Zero 
+ Tenacity\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: MKERS 
  (2) vs. Zero Tenacity (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4074,11 +4074,11 @@ DTSTART:20210415T193000Z
 DTEND:20210415T203000Z
 SUMMARY:[European Masters] MKS vs. BIG
 UID:european-masters-105990084005116459@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Mkers vs. Berlin
+DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: MKERS vs. Berlin
   International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Mkers (0) vs. Berlin International Gaming (1)\n
+ completed\nErgebnisse: MKERS (0) vs. Berlin International Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4099,11 +4099,11 @@ DTSTART:20210417T183000Z
 DTEND:20210417T193000Z
 SUMMARY:[European Masters] MKS vs. K1
 UID:european-masters-105990084005116463@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Mkers vs. K1CK 
- Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mkers 
+DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: MKERS vs. K1CK 
+ Neosurf\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MKERS 
  (1) vs. K1CK Neosurf (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4112,10 +4112,10 @@ DTEND:20210416T153000Z
 SUMMARY:[European Masters] ANO vs. MKS
 UID:european-masters-105990084005116465@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 1\nTeams: Anorthosis 
- Famagusta Esports vs. Mkers\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. Mkers (1)\n
+ Famagusta Esports vs. MKERS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (0) vs. MKERS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4150,10 +4150,10 @@ DTEND:20210421T203000Z
 SUMMARY:[European Masters] BIG vs. MKS
 UID:european-masters-105990084005116471@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Berlin 
- International Gaming vs. Mkers\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Berlin International Gaming (1) vs. Mkers (0)\n
+ International Gaming vs. MKERS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Berlin International Gaming (1) vs. MKERS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4175,10 +4175,10 @@ DTEND:20210421T183000Z
 SUMMARY:[European Masters] K1 vs. MKS
 UID:european-masters-105990084005116475@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: K1CK Neosurf vs.
-  Mkers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK 
- Neosurf (0) vs. Mkers (1)\n
+  MKERS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: K1CK 
+ Neosurf (0) vs. MKERS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4186,11 +4186,11 @@ DTSTART:20210421T203000Z
 DTEND:20210421T213000Z
 SUMMARY:[European Masters] MKS vs. ANO
 UID:european-masters-105990084005116477@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: Mkers vs. 
+DESCRIPTION:Liga: European Masters\nPhase: Woche 2\nTeams: MKERS vs. 
  Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Mkers (0) vs. Anorthosis Famagusta Esports (1)\n
+ completed\nErgebnisse: MKERS (0) vs. Anorthosis Famagusta Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4633,10 +4633,10 @@ DTEND:20210427T173000Z
 SUMMARY:[European Masters] UCAM vs. MKS
 UID:european-masters-105990084005182087@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Viertelfinale\nTeams: UCAM 
- Esports Club vs. Mkers\nSpiel-Strategie: bestOf 3\nStatus: 
- completed\nErgebnisse: UCAM Esports Club (2) vs. Mkers (0)\n
+ Esports Club vs. MKERS\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (2) vs. MKERS (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT

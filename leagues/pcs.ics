@@ -1279,11 +1279,11 @@ DTSTART:20210717T110000Z
 DTEND:20210717T120000Z
 SUMMARY:[PCS] ALF vs. BYG
 UID:pcs-106269875363826241@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Alpha Esports vs. Beyond 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Alpha 
- Esports (0) vs. Beyond Gaming (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Alpha Esports vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Alpha Esports (0) vs. Mega Bank Beyond Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1375,11 +1375,11 @@ DTSTART:20210711T090000Z
 DTEND:20210711T100000Z
 SUMMARY:[PCS] BYG vs. BJD
 UID:pcs-106269875363826257@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Beyond Gaming vs. Berjaya 
- Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Berjaya Dragons (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Berjaya Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Mega Bank Beyond Gaming (1) vs. Berjaya Dragons (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1471,11 +1471,11 @@ DTSTART:20210723T080000Z
 DTEND:20210723T090000Z
 SUMMARY:[PCS] BYG vs. BME
 UID:pcs-106269875363826273@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Beyond Gaming vs. BOOM 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (0) vs. BOOM Esports (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Mega Bank Beyond Gaming vs. 
+ BOOM Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (0) vs. BOOM Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1483,11 +1483,12 @@ DTSTART:20210716T080000Z
 DTEND:20210716T090000Z
 SUMMARY:[PCS] HKA vs. BYG
 UID:pcs-106269875363826275@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Hong Kong Attitude vs. Beyond
-  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Hong 
- Kong Attitude (0) vs. Beyond Gaming (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Hong Kong Attitude vs. Mega 
+ Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Hong Kong Attitude (0) vs. Mega Bank Beyond Gaming 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1495,11 +1496,11 @@ DTSTART:20210711T110000Z
 DTEND:20210711T120000Z
 SUMMARY:[PCS] BYG vs. IMP
 UID:pcs-106269875363826277@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Beyond Gaming vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond
-  Gaming (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
+ Bank Beyond Gaming (1) vs. Impunity (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1507,11 +1508,11 @@ DTSTART:20210724T090000Z
 DTEND:20210724T100000Z
 SUMMARY:[PCS] LYB vs. BYG
 UID:pcs-106269875363826279@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Liyab Esports vs. Beyond 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liyab 
- Esports (0) vs. Beyond Gaming (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Liyab Esports vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liyab Esports (0) vs. Mega Bank Beyond Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1519,11 +1520,11 @@ DTSTART:20210710T110000Z
 DTEND:20210710T120000Z
 SUMMARY:[PCS] BYG vs. MCX
 UID:pcs-106269875363826281@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Beyond Gaming vs. Machi 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Machi Esports (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Machi Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. Machi Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1531,11 +1532,11 @@ DTSTART:20210718T130000Z
 DTEND:20210718T140000Z
 SUMMARY:[PCS] JT vs. BYG
 UID:pcs-106269875363826283@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Taipei J Team vs. Beyond 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei J
-  Team (0) vs. Beyond Gaming (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Taipei J Team vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Taipei J Team (0) vs. Mega Bank Beyond Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1543,11 +1544,11 @@ DTSTART:20210709T080000Z
 DTEND:20210709T090000Z
 SUMMARY:[PCS] PSG vs. BYG
 UID:pcs-106269875363826285@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: PSG Talon vs. Beyond 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
- Talon (1) vs. Beyond Gaming (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: PSG Talon vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PSG Talon (1) vs. Mega Bank Beyond Gaming (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1819,11 +1820,11 @@ DTSTART:20210807T120000Z
 DTEND:20210807T130000Z
 SUMMARY:[PCS] BYG vs. ALF
 UID:pcs-106269875363891867@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Beyond Gaming vs. Alpha 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Alpha Esports (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Mega Bank Beyond Gaming vs. 
+ Alpha Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. Alpha Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1915,11 +1916,11 @@ DTSTART:20210730T090000Z
 DTEND:20210730T100000Z
 SUMMARY:[PCS] BYG vs. BJD
 UID:pcs-106269875363891883@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Beyond Gaming vs. Berjaya 
- Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Berjaya Dragons (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Mega Bank Beyond Gaming vs. 
+ Berjaya Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Mega Bank Beyond Gaming (1) vs. Berjaya Dragons (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2011,11 +2012,11 @@ DTSTART:20210801T130000Z
 DTEND:20210801T140000Z
 SUMMARY:[PCS] BYG vs. BME
 UID:pcs-106269875363891899@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Beyond Gaming vs. BOOM 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. BOOM Esports (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Mega Bank Beyond Gaming vs. 
+ BOOM Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. BOOM Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2023,11 +2024,12 @@ DTSTART:20210805T080000Z
 DTEND:20210805T090000Z
 SUMMARY:[PCS] BYG vs. HKA
 UID:pcs-106269875363891901@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Beyond Gaming vs. Hong Kong 
- Attitude\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond
-  Gaming (0) vs. Hong Kong Attitude (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Mega Bank Beyond Gaming vs. 
+ Hong Kong Attitude\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (0) vs. Hong Kong Attitude 
+ (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2035,11 +2037,11 @@ DTSTART:20210731T110000Z
 DTEND:20210731T120000Z
 SUMMARY:[PCS] BYG vs. IMP
 UID:pcs-106269875363891903@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Beyond Gaming vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond
-  Gaming (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Mega Bank Beyond Gaming vs. 
+ Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
+ Bank Beyond Gaming (1) vs. Impunity (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2047,11 +2049,11 @@ DTSTART:20210806T090000Z
 DTEND:20210806T100000Z
 SUMMARY:[PCS] BYG vs. LYB
 UID:pcs-106269875363891905@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Beyond Gaming vs. Liyab 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Liyab Esports (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Mega Bank Beyond Gaming vs. 
+ Liyab Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. Liyab Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2059,11 +2061,11 @@ DTSTART:20210724T110000Z
 DTEND:20210724T120000Z
 SUMMARY:[PCS] MCX vs. BYG
 UID:pcs-106269875363891907@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Machi Esports vs. Beyond 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
- Esports (0) vs. Beyond Gaming (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Machi Esports vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Machi Esports (0) vs. Mega Bank Beyond Gaming (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2071,11 +2073,11 @@ DTSTART:20210805T100000Z
 DTEND:20210805T110000Z
 SUMMARY:[PCS] BYG vs. JT
 UID:pcs-106269875363891909@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Beyond Gaming vs. Taipei J 
- Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Taipei J Team (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Mega Bank Beyond Gaming vs. 
+ Taipei J Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. Taipei J Team (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2083,11 +2085,11 @@ DTSTART:20210725T080000Z
 DTEND:20210725T090000Z
 SUMMARY:[PCS] BYG vs. PSG
 UID:pcs-106269875363891911@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Beyond Gaming vs. PSG 
- Talon\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (0) vs. PSG Talon (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Mega Bank Beyond Gaming vs. 
+ PSG Talon\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
+ Bank Beyond Gaming (0) vs. PSG Talon (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2371,11 +2373,11 @@ DTSTART:20210808T100000Z
 DTEND:20210808T110000Z
 SUMMARY:[PCS] BYG vs. MCX
 UID:pcs-106715628565463375@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Beyond Gaming vs. Machi 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beyond 
- Gaming (1) vs. Machi Esports (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Mega Bank Beyond Gaming vs. 
+ Machi Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (1) vs. Machi Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2419,11 +2421,11 @@ DTSTART:20210815T090000Z
 DTEND:20210815T140000Z
 SUMMARY:[PCS] BYG vs. MCX
 UID:pcs-106737410609088117@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Beyond 
- Gaming vs. Machi Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Beyond Gaming (3) vs. Machi Esports (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Mega 
+ Bank Beyond Gaming vs. Machi Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (3) vs. Machi Esports (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2468,10 +2470,10 @@ DTEND:20210827T140000Z
 SUMMARY:[PCS] PSG vs. BYG
 UID:pcs-106737410609088137@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: PSG 
- Talon vs. Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: PSG Talon (2) vs. Beyond Gaming (3)\n
+ Talon vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: PSG Talon (2) vs. Mega Bank Beyond Gaming (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2515,11 +2517,11 @@ DTSTART:20210829T090000Z
 DTEND:20210829T140000Z
 SUMMARY:[PCS] BYG vs. PSG
 UID:pcs-106737410609088161@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Beyond 
- Gaming vs. PSG Talon\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Beyond Gaming (2) vs. PSG Talon (3)\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Mega 
+ Bank Beyond Gaming vs. PSG Talon\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (2) vs. PSG Talon (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 NAME:PCS Spielplan

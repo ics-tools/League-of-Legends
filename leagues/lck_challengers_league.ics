@@ -2729,6 +2729,372 @@ CREATED:20220119T012839Z
 LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220119T012839Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T100000Z
+DTEND:20220124T110000Z
+SUMMARY:[LCK Challengers] BRO vs. DRX
+UID:lck_challengers_league-107439257587481813@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: BRO Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: BRO Challengers (0) vs. DRX Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T050000Z
+DTEND:20220121T060000Z
+SUMMARY:[LCK Challengers] HLE vs. DRX
+UID:lck_challengers_league-107439257587481817@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: HLE Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. DRX Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T050000Z
+DTEND:20220120T060000Z
+SUMMARY:[LCK Challengers] KDF vs. DRX
+UID:lck_challengers_league-107439257587481821@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: Kwangdong Freecs 
+ Challengers vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Kwangdong Freecs Challengers (1) vs. DRX 
+ Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T120000Z
+DTEND:20220124T130000Z
+SUMMARY:[LCK Challengers] GEN vs. DK
+UID:lck_challengers_league-107439257587547367@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: GEN Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GEN Challengers (0) vs. DWG KIA Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T050000Z
+DTEND:20220120T060000Z
+SUMMARY:[LCK Challengers] KT vs. DK
+UID:lck_challengers_league-107439257587547371@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: kt Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (0) vs. DWG KIA Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T050000Z
+DTEND:20220121T060000Z
+SUMMARY:[LCK Challengers] LSB vs. DK
+UID:lck_challengers_league-107439257587547375@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: LSB Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (0) vs. DWG KIA Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T050000Z
+DTEND:20220121T060000Z
+SUMMARY:[LCK Challengers] GEN vs. BRO
+UID:lck_challengers_league-107439257587547381@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: GEN Challengers 
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GEN Challengers (1) vs. BRO Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T050000Z
+DTEND:20220120T060000Z
+SUMMARY:[LCK Challengers] LSB vs. BRO
+UID:lck_challengers_league-107439257587547389@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: LSB Challengers 
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. BRO Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T050000Z
+DTEND:20220120T060000Z
+SUMMARY:[LCK Challengers] HLE vs. GEN
+UID:lck_challengers_league-107439257587547395@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: HLE Challengers 
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. GEN Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T110000Z
+DTEND:20220124T120000Z
+SUMMARY:[LCK Challengers] NS vs. HLE
+UID:lck_challengers_league-107439257587547413@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: NS Challengers 
+ vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. HLE Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T080000Z
+DTEND:20220124T090000Z
+SUMMARY:[LCK Challengers] LSB vs. KT
+UID:lck_challengers_league-107439257587547419@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: LSB Challengers 
+ vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. kt Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T050000Z
+DTEND:20220121T060000Z
+SUMMARY:[LCK Challengers] T1 vs. KT
+UID:lck_challengers_league-107439257587547423@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: T1 Challengers 
+ vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (0) vs. kt Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220121T050000Z
+DTEND:20220121T060000Z
+SUMMARY:[LCK Challengers] NS vs. KDF
+UID:lck_challengers_league-107439257587612963@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: NS Challengers 
+ vs. Kwangdong Freecs Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. Kwangdong Freecs Challengers
+  (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T090000Z
+DTEND:20220124T100000Z
+SUMMARY:[LCK Challengers] T1 vs. KDF
+UID:lck_challengers_league-107439257587612965@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: T1 Challengers 
+ vs. Kwangdong Freecs Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (1) vs. Kwangdong Freecs Challengers
+  (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T050000Z
+DTEND:20220120T060000Z
+SUMMARY:[LCK Challengers] T1 vs. NS
+UID:lck_challengers_league-107439257587612971@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 2\nTeams: T1 Challengers 
+ vs. NS Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (0) vs. NS Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T050000Z
+DTEND:20220128T060000Z
+SUMMARY:[LCK Challengers] GEN vs. DRX
+UID:lck_challengers_league-107439257587612977@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: GEN Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GEN Challengers (0) vs. DRX Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T080000Z
+DTEND:20220125T090000Z
+SUMMARY:[LCK Challengers] KT vs. DRX
+UID:lck_challengers_league-107439257587612981@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: kt Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (0) vs. DRX Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T050000Z
+DTEND:20220127T060000Z
+SUMMARY:[LCK Challengers] LSB vs. DRX
+UID:lck_challengers_league-107439257587612985@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: LSB Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (0) vs. DRX Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T050000Z
+DTEND:20220128T060000Z
+SUMMARY:[LCK Challengers] HLE vs. DK
+UID:lck_challengers_league-107439257587612995@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: HLE Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. DWG KIA Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T050000Z
+DTEND:20220127T060000Z
+SUMMARY:[LCK Challengers] KDF vs. DK
+UID:lck_challengers_league-107439257587612999@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: Kwangdong Freecs 
+ Challengers vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Kwangdong Freecs Challengers (1) vs. DWG KIA 
+ Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T120000Z
+DTEND:20220125T130000Z
+SUMMARY:[LCK Challengers] NS vs. DK
+UID:lck_challengers_league-107439257587613003@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: NS Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. DWG KIA Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T050000Z
+DTEND:20220127T060000Z
+SUMMARY:[LCK Challengers] HLE vs. BRO
+UID:lck_challengers_league-107439257587613009@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: HLE Challengers 
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (1) vs. BRO Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T110000Z
+DTEND:20220125T120000Z
+SUMMARY:[LCK Challengers] KDF vs. BRO
+UID:lck_challengers_league-107439257587613013@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: Kwangdong Freecs 
+ Challengers vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. BRO 
+ Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T050000Z
+DTEND:20220128T060000Z
+SUMMARY:[LCK Challengers] T1 vs. BRO
+UID:lck_challengers_league-107439257588268379@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: T1 Challengers 
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (1) vs. BRO Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T100000Z
+DTEND:20220125T110000Z
+SUMMARY:[LCK Challengers] LSB vs. GEN
+UID:lck_challengers_league-107439257588333923@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: LSB Challengers 
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. GEN Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T050000Z
+DTEND:20220127T060000Z
+SUMMARY:[LCK Challengers] T1 vs. GEN
+UID:lck_challengers_league-107439257588333927@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: T1 Challengers 
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (1) vs. GEN Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T090000Z
+DTEND:20220125T100000Z
+SUMMARY:[LCK Challengers] T1 vs. HLE
+UID:lck_challengers_league-107439257588333937@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: T1 Challengers 
+ vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (1) vs. HLE Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T050000Z
+DTEND:20220128T060000Z
+SUMMARY:[LCK Challengers] KDF vs. KT
+UID:lck_challengers_league-107439257588333939@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: Kwangdong Freecs 
+ Challengers vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. kt Challengers
+  (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T050000Z
+DTEND:20220127T060000Z
+SUMMARY:[LCK Challengers] NS vs. KT
+UID:lck_challengers_league-107439257588333943@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: NS Challengers 
+ vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. kt Challengers (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T050000Z
+DTEND:20220128T060000Z
+SUMMARY:[LCK Challengers] NS vs. LSB
+UID:lck_challengers_league-107439257588333953@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 3\nTeams: NS Challengers 
+ vs. LSB Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (1) vs. LSB Challengers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
 NAME:LCK Challengers Spielplan
 X-WR-CALNAME:LCK Challengers Spielplan
 END:VCALENDAR

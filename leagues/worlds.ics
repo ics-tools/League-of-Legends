@@ -2084,10 +2084,11 @@ DTEND:20211008T160000Z
 SUMMARY:[WM] GS vs. BYG
 UID:worlds-106926282334990199@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Vorrunde: K.-o.-Phase\nTeams: Galatasaray 
- Espor vs. Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (2) vs. Beyond Gaming (3)\n
+ Espor vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor (2) vs. Mega Bank Beyond Gaming 
+ (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2095,11 +2096,12 @@ DTSTART:20211009T110000Z
 DTEND:20211009T160000Z
 SUMMARY:[WM] BYG vs. HLE
 UID:worlds-106926282334990205@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Vorrunde: K.-o.-Phase\nTeams: Beyond Gaming 
- vs. Hanwha Life Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Beyond Gaming (0) vs. Hanwha Life Esports (3)\n
+DESCRIPTION:Liga: WM\nPhase: Vorrunde: K.-o.-Phase\nTeams: Mega Bank Beyond
+  Gaming vs. Hanwha Life Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (0) vs. Hanwha Life Esports
+  (3)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2323,11 +2325,11 @@ DTSTART:20211006T150000Z
 DTEND:20211006T160000Z
 SUMMARY:[WM] BYG vs. C9
 UID:worlds-106971698244809229@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Beyond 
- Gaming vs. Cloud9\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Beyond Gaming (0) vs. Cloud9 (1)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Mega Bank 
+ Beyond Gaming vs. Cloud9\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (0) vs. Cloud9 (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2335,11 +2337,12 @@ DTSTART:20211006T170000Z
 DTEND:20211006T180000Z
 SUMMARY:[WM] BYG vs. UOL
 UID:worlds-106971698244809231@lol.ics.tools
-DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Beyond 
- Gaming vs. Unicorns of Love\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Beyond Gaming (1) vs. Unicorns of Love (0)\n
+DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Mega Bank 
+ Beyond Gaming vs. Unicorns of Love\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (1) vs. Unicorns of Love 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2348,10 +2351,11 @@ DTEND:20211005T170000Z
 SUMMARY:[WM] GS vs. BYG
 UID:worlds-106971698244809233@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Galatasaray 
- Espor vs. Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor (1) vs. Beyond Gaming (0)\n
+ Espor vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor (1) vs. Mega Bank Beyond Gaming 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2360,10 +2364,11 @@ DTEND:20211007T140000Z
 SUMMARY:[WM] DFM vs. BYG
 UID:worlds-106971698244809235@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: DetonatioN 
- FocusMe vs. Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: DetonatioN FocusMe (1) vs. Beyond Gaming (0)\n
+ FocusMe vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: DetonatioN FocusMe (1) vs. Mega Bank Beyond Gaming 
+ (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3022,10 +3027,11 @@ DTEND:20211007T160000Z
 SUMMARY:[WM] UOL vs. BYG
 UID:worlds-107060710045553311@lol.ics.tools
 DESCRIPTION:Liga: WM\nPhase: Gruppenphase der Vorrunde\nTeams: Unicorns of 
- Love vs. Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Unicorns of Love (0) vs. Beyond Gaming (1)\n
+ Love vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Unicorns of Love (0) vs. Mega Bank Beyond Gaming 
+ (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT

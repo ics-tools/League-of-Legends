@@ -1602,6 +1602,194 @@ CREATED:20220117T013828Z
 LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T180000Z
+DTEND:20220124T190000Z
+SUMMARY:[Hitpoint Masters] ESB vs. BRT
+UID:hitpoint_masters-107597929688619123@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: eSuba vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba (1)
+  vs. BRUTE (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T170000Z
+DTEND:20220120T180000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ESB
+UID:hitpoint_masters-107597929688619127@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Dark Tigers vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Tigers (0) vs. eSuba (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T180000Z
+DTEND:20220127T190000Z
+SUMMARY:[Hitpoint Masters] OVA vs. ESB
+UID:hitpoint_masters-107597929688684665@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Cryptova vs. 
+ eSuba\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cryptova 
+ (0) vs. eSuba (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T180000Z
+DTEND:20220131T190000Z
+SUMMARY:[Hitpoint Masters] ING vs. ESB
+UID:hitpoint_masters-107597929688684667@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Inside Games vs.
+  eSuba\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T200000Z
+DTEND:20220124T210000Z
+SUMMARY:[Hitpoint Masters] DNE vs. SIN
+UID:hitpoint_masters-107597929688684669@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dynamo Eclot vs.
+  SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dynamo Eclot (1) vs. SINNERS Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T200000Z
+DTEND:20220127T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. SIN
+UID:hitpoint_masters-107597929688684671@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: BRUTE vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  BRUTE (0) vs. SINNERS Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T190000Z
+DTEND:20220131T200000Z
+SUMMARY:[Hitpoint Masters] OVA vs. SIN
+UID:hitpoint_masters-107597929688684677@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Cryptova vs. 
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T180000Z
+DTEND:20220120T190000Z
+SUMMARY:[Hitpoint Masters] SIN vs. ING
+UID:hitpoint_masters-107597929688684679@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: SINNERS Esports 
+ vs. Inside Games\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: SINNERS Esports (1) vs. Inside Games (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T200000Z
+DTEND:20220120T210000Z
+SUMMARY:[Hitpoint Masters] BRT vs. DNE
+UID:hitpoint_masters-107597929688684681@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: BRUTE vs. Dynamo
+  Eclot\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (1) vs. Dynamo Eclot (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T190000Z
+DTEND:20220127T200000Z
+SUMMARY:[Hitpoint Masters] DNE vs. EIQ
+UID:hitpoint_masters-107597929688684683@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dynamo Eclot vs.
+  Entropiq\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynamo Eclot (0) vs. Entropiq (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T200000Z
+DTEND:20220131T210000Z
+SUMMARY:[Hitpoint Masters] DTG vs. DNE
+UID:hitpoint_masters-107597929688684685@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Dark Tigers vs. 
+ Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T170000Z
+DTEND:20220131T180000Z
+SUMMARY:[Hitpoint Masters] EIQ vs. BRT
+UID:hitpoint_masters-107597929688684691@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 3\nTeams: Entropiq vs. 
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T190000Z
+DTEND:20220124T200000Z
+SUMMARY:[Hitpoint Masters] EIQ vs. DTG
+UID:hitpoint_masters-107597929688684699@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Entropiq vs. 
+ Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Entropiq (1) vs. Dark Tigers (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T190000Z
+DTEND:20220120T200000Z
+SUMMARY:[Hitpoint Masters] EIQ vs. OVA
+UID:hitpoint_masters-107597929688684701@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 1\nTeams: Entropiq vs. 
+ Cryptova\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Entropiq (1) vs. Cryptova (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T170000Z
+DTEND:20220127T180000Z
+SUMMARY:[Hitpoint Masters] DTG vs. ING
+UID:hitpoint_masters-107597929688684707@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Dark Tigers vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Tigers (0) vs. Inside Games (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T170000Z
+DTEND:20220124T180000Z
+SUMMARY:[Hitpoint Masters] OVA vs. ING
+UID:hitpoint_masters-107597929688684709@lol.ics.tools
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 2\nTeams: Cryptova vs. 
+ Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Cryptova (1) vs. Inside Games (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
 NAME:Hitpoint Masters Spielplan
 X-WR-CALNAME:Hitpoint Masters Spielplan
 END:VCALENDAR

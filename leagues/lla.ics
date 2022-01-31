@@ -5657,6 +5657,66 @@ CREATED:20211129T025653Z
 LAST-MODIFIED:20211129T025653Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T220000Z
+DTEND:20220130T230000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. GET
+UID:lla-107530554768873317@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: Rainbow7  vs. 
+ Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Rainbow7  (1) vs. Globant Emerald Team (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T200000Z
+DTEND:20220129T210000Z
+SUMMARY:[Liga Latinoamérica] XTN vs. AZE
+UID:lla-107530554768873321@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: XTEN Esports 
+ vs. Team Aze\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ XTEN Esports (0) vs. Team Aze (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T200000Z
+DTEND:20220130T210000Z
+SUMMARY:[Liga Latinoamérica] AK vs. AZE
+UID:lla-107530554768873325@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: All Knights 
+ vs. Team Aze\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ All Knights (0) vs. Team Aze (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220130T210000Z
+DTEND:20220130T220000Z
+SUMMARY:[Liga Latinoamérica] XTN vs. EST
+UID:lla-107530554768938869@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: XTEN Esports 
+ vs. Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: XTEN Esports (0) vs. Estral Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T210000Z
+DTEND:20220129T220000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. AK
+UID:lla-107530554768938889@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: Rainbow7  vs. 
+ All Knights\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Rainbow7  (1) vs. All Knights (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan
 END:VCALENDAR

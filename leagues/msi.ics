@@ -547,11 +547,11 @@ DTSTART:20190501T100000Z
 DTEND:20190501T110000Z
 SUMMARY:[MSI] FB vs. ISG
 UID:msi-101978171942129516@lol.ics.tools
-DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: 1907 
- Fenerbahçe Espor vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Isurus (0)\n
+DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Fenerbahçe 
+ Espor vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Isurus (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -572,10 +572,10 @@ DTEND:20190501T170000Z
 SUMMARY:[MSI] ISG vs. FB
 UID:msi-101978171942719342@lol.ics.tools
 DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Isurus vs. 
- 1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Isurus (1) vs. 1907 Fenerbahçe Espor (0)\n
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Isurus (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -583,11 +583,11 @@ DTSTART:20190501T140000Z
 DTEND:20190501T150000Z
 SUMMARY:[MSI] FB vs. DBL
 UID:msi-101978171942981487@lol.ics.tools
-DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: 1907 
- Fenerbahçe Espor vs. Dashing Buffalo\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (0) vs. Dashing Buffalo (1)\n
+DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Fenerbahçe 
+ Espor vs. Dashing Buffalo\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (0) vs. Dashing Buffalo (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -596,10 +596,10 @@ DTEND:20190502T110000Z
 SUMMARY:[MSI] BMR vs. FB
 UID:msi-101978171943309168@lol.ics.tools
 DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Bombers vs.
-  1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Bombers (0) vs. 1907 Fenerbahçe Espor (1)\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Bombers (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -607,11 +607,11 @@ DTSTART:20190501T120000Z
 DTEND:20190501T130000Z
 SUMMARY:[MSI] FB vs. BMR
 UID:msi-101978171943636849@lol.ics.tools
-DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: 1907 
- Fenerbahçe Espor vs. Bombers\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: 1907 Fenerbahçe Espor (1) vs. Bombers (0)\n
+DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Fenerbahçe 
+ Espor vs. Bombers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Bombers (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -680,10 +680,10 @@ DTEND:20190502T120000Z
 SUMMARY:[MSI] DBL vs. FB
 UID:msi-101978171945471863@lol.ics.tools
 DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Dashing 
- Buffalo vs. 1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dashing Buffalo (0) vs. 1907 Fenerbahçe Espor (1)\n
+ Buffalo vs. Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dashing Buffalo (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -728,10 +728,10 @@ DTEND:20190502T180000Z
 SUMMARY:[MSI] DBL vs. FB
 UID:msi-102026265956346906@lol.ics.tools
 DESCRIPTION:Liga: MSI\nPhase: Gruppenphase der Vorrunde\nTeams: Dashing 
- Buffalo vs. 1907 Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Dashing Buffalo (1) vs. 1907 Fenerbahçe Espor (0)\n
+ Buffalo vs. Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dashing Buffalo (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220131T063600Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT

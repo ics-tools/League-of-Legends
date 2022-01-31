@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20220128T020000Z
+DTEND:20220128T030000Z
+SUMMARY:[Stars League] CDM vs. CCC
+UID:claro_gaming_stars_league-107651193187337955@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Club Deportivo 
+ Municipal vs. Cienciano\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Club Deportivo Municipal (1) vs. Cienciano (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T010000Z
+DTEND:20220129T020000Z
+SUMMARY:[Stars League] SB vs. CCC
+UID:claro_gaming_stars_league-107651193187337967@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Spectacled Bears vs.
+  Cienciano\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Spectacled Bears (1) vs. Cienciano (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T020000Z
+DTEND:20220129T030000Z
+SUMMARY:[Stars League] CDM vs. INS
+UID:claro_gaming_stars_league-107651193187337977@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Club Deportivo 
+ Municipal vs. Instinct Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Club Deportivo Municipal (0) vs. Instinct Gaming 
+ (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T000000Z
+DTEND:20220128T010000Z
+SUMMARY:[Stars League] DD vs. DVE
+UID:claro_gaming_stars_league-107651193187337981@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Diamond Doves vs. 
+ Deliverance Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Diamond Doves (1) vs. Deliverance Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T030000Z
+DTEND:20220129T040000Z
+SUMMARY:[Stars League] DVE vs. INC
+UID:claro_gaming_stars_league-107651193187337985@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Deliverance Esports 
+ vs. Incubus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Deliverance Esports (0) vs. Incubus (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T000000Z
+DTEND:20220129T010000Z
+SUMMARY:[Stars League] FSY vs. DD
+UID:claro_gaming_stars_league-107651193187337991@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Fantasy Gaming vs. 
+ Diamond Doves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fantasy Gaming (0) vs. Diamond Doves (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T030000Z
+DTEND:20220128T040000Z
+SUMMARY:[Stars League] INS vs. FSY
+UID:claro_gaming_stars_league-107651193187338001@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Instinct Gaming vs. 
+ Fantasy Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Instinct Gaming (1) vs. Fantasy Gaming (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T010000Z
+DTEND:20220128T020000Z
+SUMMARY:[Stars League] SB vs. INC
+UID:claro_gaming_stars_league-107651193187338007@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 1\nTeams: Spectacled Bears vs.
+  Incubus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Spectacled Bears (1) vs. Incubus (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+NAME:Stars League Spielplan
+X-WR-CALNAME:Stars League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

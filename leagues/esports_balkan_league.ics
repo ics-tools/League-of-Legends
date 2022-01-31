@@ -1531,6 +1531,149 @@ CREATED:20220117T013828Z
 LAST-MODIFIED:20220119T012839Z
 DTSTAMP:20220117T013828Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T180000Z
+DTEND:20220131T190000Z
+SUMMARY:[Esports Balkan League] AUX vs. VPG
+UID:esports_balkan_league-107468404709576933@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Auxesis 
+ Esports vs. Valiance PRO GAME\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T190000Z
+DTEND:20220120T200000Z
+SUMMARY:[Esports Balkan League] VPG vs. CZV
+UID:esports_balkan_league-107468404709576937@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Valiance 
+ PRO GAME vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance PRO GAME (0) vs. Crvena Zvezda Esports 
+ (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T180000Z
+DTEND:20220124T190000Z
+SUMMARY:[Esports Balkan League] DIA vs. VPG
+UID:esports_balkan_league-107468404709576939@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Diamant 
+ Esports vs. Valiance PRO GAME\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Diamant Esports (1) vs. Valiance PRO GAME (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T210000Z
+DTEND:20220131T220000Z
+SUMMARY:[Esports Balkan League] DIA vs. NXK
+UID:esports_balkan_league-107468404709576951@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Diamant 
+ Esports vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T200000Z
+DTEND:20220120T210000Z
+SUMMARY:[Esports Balkan League] NXK vs. SVJ
+UID:esports_balkan_league-107468404709576953@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Nexus KTRL 
+ vs. SOVEJA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Nexus KTRL (1) vs. SOVEJA (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T200000Z
+DTEND:20220124T210000Z
+SUMMARY:[Esports Balkan League] CWE vs. NXK
+UID:esports_balkan_league-107468404709576955@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Cyber 
+ Wolves Esports vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyber Wolves Esports (0) vs. Nexus KTRL (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T210000Z
+DTEND:20220124T220000Z
+SUMMARY:[Esports Balkan League] AUX vs. CZV
+UID:esports_balkan_league-107468404709576959@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: Auxesis 
+ Esports vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Auxesis Esports (0) vs. Crvena Zvezda Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T210000Z
+DTEND:20220120T220000Z
+SUMMARY:[Esports Balkan League] AUX vs. CWE
+UID:esports_balkan_league-107468404709576965@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Auxesis 
+ Esports vs. Cyber Wolves Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Auxesis Esports (1) vs. Cyber Wolves Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220120T180000Z
+DTEND:20220120T190000Z
+SUMMARY:[Esports Balkan League] DIA vs. STR
+UID:esports_balkan_league-107468404709576969@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 1\nTeams: Diamant 
+ Esports vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Diamant Esports (0) vs. Split Raiders (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220124T190000Z
+DTEND:20220124T200000Z
+SUMMARY:[Esports Balkan League] SVJ vs. STR
+UID:esports_balkan_league-107468404709576971@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 2\nTeams: SOVEJA vs. 
+ Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SOVEJA (1) vs. Split Raiders (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T190000Z
+DTEND:20220131T200000Z
+SUMMARY:[Esports Balkan League] CWE vs. STR
+UID:esports_balkan_league-107468404709576973@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: Cyber 
+ Wolves Esports vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220131T200000Z
+DTEND:20220131T210000Z
+SUMMARY:[Esports Balkan League] SVJ vs. CZV
+UID:esports_balkan_league-107468404709576977@lol.ics.tools
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 3\nTeams: SOVEJA vs. 
+ Crvena Zvezda Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
 NAME:Esports Balkan League Spielplan
 X-WR-CALNAME:Esports Balkan League Spielplan
 END:VCALENDAR
