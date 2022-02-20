@@ -32,9 +32,10 @@ DTEND:20220201T010000Z
 SUMMARY:[Golden League] MYN vs. AWK
 UID:movistar_fiber_golden_league-107639438038172988@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Team Mayan eSports 
- vs. Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Mayan eSports (1) vs. Awake Gaming (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -108,6 +109,330 @@ DESCRIPTION:Liga: Golden League\nPhase: Woche 1\nTeams: Zeu5 Bogotá vs.
 CREATED:20220131T063601Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T010000Z
+DTEND:20220202T020000Z
+SUMMARY:[Golden League] BRR vs. AWK
+UID:movistar_fiber_golden_league-107639438038172978@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Braves Rising vs. 
+ Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Braves Rising (0) vs. Awake Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T030000Z
+DTEND:20220203T040000Z
+SUMMARY:[Golden League] NOC vs. AWK
+UID:movistar_fiber_golden_league-107639438038172984@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: NOCTA vs. Awake 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NOCTA 
+ (0) vs. Awake Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T020000Z
+DTEND:20220208T030000Z
+SUMMARY:[Golden League] AWK vs. STS
+UID:movistar_fiber_golden_league-107639438038172986@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Awake Gaming vs. 
+ Spirituals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Awake Gaming (1) vs. Spirituals (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T000000Z
+DTEND:20220209T010000Z
+SUMMARY:[Golden League] Z5 vs. AWK
+UID:movistar_fiber_golden_league-107639438038172990@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Zeu5 Bogotá vs. 
+ Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zeu5 Bogotá (1) vs. Awake Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T030000Z
+DTEND:20220201T040000Z
+SUMMARY:[Golden League] ELR vs. BRR
+UID:movistar_fiber_golden_league-107639438038172992@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: ELR Gaming vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ ELR Gaming (0) vs. Braves Rising (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T000000Z
+DTEND:20220203T010000Z
+SUMMARY:[Golden League] KOG vs. BRR
+UID:movistar_fiber_golden_league-107639438038172994@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: King of Goats vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ King of Goats (1) vs. Braves Rising (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T030000Z
+DTEND:20220209T040000Z
+SUMMARY:[Golden League] STS vs. BRR
+UID:movistar_fiber_golden_league-107639438038172998@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Spirituals vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Spirituals (0) vs. Braves Rising (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T000000Z
+DTEND:20220208T010000Z
+SUMMARY:[Golden League] MYN vs. BRR
+UID:movistar_fiber_golden_league-107639438038173000@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Team Mayan eSports 
+ vs. Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Mayan eSports (0) vs. Braves Rising (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T020000Z
+DTEND:20220209T030000Z
+SUMMARY:[Golden League] ELR vs. KOG
+UID:movistar_fiber_golden_league-107639438038173004@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: ELR Gaming vs. King
+  of Goats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: ELR 
+ Gaming (0) vs. King of Goats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T010000Z
+DTEND:20220208T020000Z
+SUMMARY:[Golden League] NOC vs. ELR
+UID:movistar_fiber_golden_league-107639438038173006@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: NOCTA vs. ELR 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NOCTA 
+ (1) vs. ELR Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T020000Z
+DTEND:20220203T030000Z
+SUMMARY:[Golden League] MYN vs. ELR
+UID:movistar_fiber_golden_league-107639438038173010@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Team Mayan eSports 
+ vs. ELR Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Mayan eSports (1) vs. ELR Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T020000Z
+DTEND:20220202T030000Z
+SUMMARY:[Golden League] Z5 vs. ELR
+UID:movistar_fiber_golden_league-107639438038173012@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Zeu5 Bogotá vs. ELR
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Zeu5 
+ Bogotá (1) vs. ELR Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T020000Z
+DTEND:20220201T030000Z
+SUMMARY:[Golden League] STS vs. KOG
+UID:movistar_fiber_golden_league-107639438038173016@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Spirituals vs. King
+  of Goats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Spirituals (0) vs. King of Goats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T030000Z
+DTEND:20220202T040000Z
+SUMMARY:[Golden League] MYN vs. KOG
+UID:movistar_fiber_golden_league-107639438038173018@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Team Mayan eSports 
+ vs. King of Goats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Mayan eSports (0) vs. King of Goats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T030000Z
+DTEND:20220208T040000Z
+SUMMARY:[Golden League] Z5 vs. KOG
+UID:movistar_fiber_golden_league-107639438038238556@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Zeu5 Bogotá vs. 
+ King of Goats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zeu5 Bogotá (1) vs. King of Goats (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T000000Z
+DTEND:20220202T010000Z
+SUMMARY:[Golden League] STS vs. NOC
+UID:movistar_fiber_golden_league-107639438038238558@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Spirituals vs. 
+ NOCTA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Spirituals (0) vs. NOCTA (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T010000Z
+DTEND:20220209T020000Z
+SUMMARY:[Golden League] MYN vs. NOC
+UID:movistar_fiber_golden_league-107639438038238560@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 3\nTeams: Team Mayan eSports 
+ vs. NOCTA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Mayan eSports (0) vs. NOCTA (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T010000Z
+DTEND:20220201T020000Z
+SUMMARY:[Golden League] Z5 vs. NOC
+UID:movistar_fiber_golden_league-107639438038238562@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Zeu5 Bogotá vs. 
+ NOCTA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Zeu5 
+ Bogotá (1) vs. NOCTA (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T010000Z
+DTEND:20220203T020000Z
+SUMMARY:[Golden League] Z5 vs. STS
+UID:movistar_fiber_golden_league-107639438038238566@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 2\nTeams: Zeu5 Bogotá vs. 
+ Spirituals\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Zeu5
+  Bogotá (1) vs. Spirituals (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T010000Z
+DTEND:20220215T020000Z
+SUMMARY:[Golden League] Z5 vs. AWK
+UID:movistar_fiber_golden_league-107639438038238572@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: Zeu5 Bogotá vs. 
+ Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zeu5 Bogotá (1) vs. Awake Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T020000Z
+DTEND:20220216T030000Z
+SUMMARY:[Golden League] MYN vs. Z5
+UID:movistar_fiber_golden_league-107639438038238578@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: Team Mayan eSports 
+ vs. Zeu5 Bogotá\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team Mayan eSports (0) vs. Zeu5 Bogotá (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T010000Z
+DTEND:20220216T020000Z
+SUMMARY:[Golden League] KOG vs. AWK
+UID:movistar_fiber_golden_league-107639438038238582@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: King of Goats vs. 
+ Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ King of Goats (1) vs. Awake Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T000000Z
+DTEND:20220215T010000Z
+SUMMARY:[Golden League] BRR vs. KOG
+UID:movistar_fiber_golden_league-107639438038238584@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: Braves Rising vs. 
+ King of Goats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Braves Rising (0) vs. King of Goats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T030000Z
+DTEND:20220215T040000Z
+SUMMARY:[Golden League] ELR vs. AWK
+UID:movistar_fiber_golden_league-107639438038238598@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: ELR Gaming vs. 
+ Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ ELR Gaming (0) vs. Awake Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T000000Z
+DTEND:20220216T010000Z
+SUMMARY:[Golden League] BRR vs. MYN
+UID:movistar_fiber_golden_league-107639438038238602@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: Braves Rising vs. 
+ Team Mayan eSports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Braves Rising (1) vs. Team Mayan eSports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T020000Z
+DTEND:20220215T030000Z
+SUMMARY:[Golden League] NOC vs. MYN
+UID:movistar_fiber_golden_league-107639438038238606@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: NOCTA vs. Team 
+ Mayan eSports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ NOCTA (0) vs. Team Mayan eSports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T030000Z
+DTEND:20220216T040000Z
+SUMMARY:[Golden League] ELR vs. NOC
+UID:movistar_fiber_golden_league-107639438038238608@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 4\nTeams: ELR Gaming vs. 
+ NOCTA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: ELR 
+ Gaming (0) vs. NOCTA (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
 END:VEVENT
 NAME:Golden League Spielplan
 X-WR-CALNAME:Golden League Spielplan

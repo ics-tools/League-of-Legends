@@ -5717,6 +5717,318 @@ CREATED:20220131T063601Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T200000Z
+DTEND:20220206T210000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. GET
+UID:lla-107530554768873307@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Team Aze vs. 
+ Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Aze (1) vs. Globant Emerald Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T210000Z
+DTEND:20220212T220000Z
+SUMMARY:[Liga Latinoamérica] GET vs. XTN
+UID:lla-107530554768873309@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Globant 
+ Emerald Team vs. XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (1) vs. XTEN Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T200000Z
+DTEND:20220213T210000Z
+SUMMARY:[Liga Latinoamérica] EST vs. GET
+UID:lla-107530554768873311@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Estral Esports
+  vs. Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Estral Esports (1) vs. Globant Emerald Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T220000Z
+DTEND:20220219T230000Z
+SUMMARY:[Liga Latinoamérica] GET vs. AK
+UID:lla-107530554768873313@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: Globant 
+ Emerald Team vs. All Knights\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (0) vs. All Knights (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T230000Z
+DTEND:20220206T000000Z
+SUMMARY:[Liga Latinoamérica] GET vs. INF
+UID:lla-107530554768873315@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Globant 
+ Emerald Team vs. INFINITY\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (0) vs. INFINITY (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T200000Z
+DTEND:20220204T210000Z
+SUMMARY:[Liga Latinoamérica] GET vs. ISG
+UID:lla-107530554768873319@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: Globant 
+ Emerald Team vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (0) vs. Isurus (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T200000Z
+DTEND:20220212T210000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. EST
+UID:lla-107530554768873323@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Team Aze vs. 
+ Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Aze (0) vs. Estral Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T210000Z
+DTEND:20220219T220000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. INF
+UID:lla-107530554768873327@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: Team Aze vs. 
+ INFINITY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aze (0) vs. INFINITY (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T220000Z
+DTEND:20220205T230000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. R7
+UID:lla-107530554768938865@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Team Aze vs. 
+ Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aze (0) vs. Rainbow7  (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T220000Z
+DTEND:20220213T230000Z
+SUMMARY:[Liga Latinoamérica] ISG vs. AZE
+UID:lla-107530554768938867@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Isurus vs. 
+ Team Aze\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Isurus
+  (0) vs. Team Aze (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T210000Z
+DTEND:20220213T220000Z
+SUMMARY:[Liga Latinoamérica] AK vs. XTN
+UID:lla-107530554768938871@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: All Knights 
+ vs. XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: All Knights (0) vs. XTEN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T210000Z
+DTEND:20220206T220000Z
+SUMMARY:[Liga Latinoamérica] XTN vs. INF
+UID:lla-107530554768938873@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: XTEN Esports 
+ vs. INFINITY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ XTEN Esports (0) vs. INFINITY (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T000000Z
+DTEND:20220220T010000Z
+SUMMARY:[Liga Latinoamérica] XTN vs. R7
+UID:lla-107530554768938875@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: XTEN Esports 
+ vs. Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ XTEN Esports (1) vs. Rainbow7  (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T200000Z
+DTEND:20220205T210000Z
+SUMMARY:[Liga Latinoamérica] ISG vs. XTN
+UID:lla-107530554768938877@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Isurus vs. 
+ XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Isurus (0) vs. XTEN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T210000Z
+DTEND:20220205T220000Z
+SUMMARY:[Liga Latinoamérica] EST vs. AK
+UID:lla-107530554768938879@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Estral Esports
+  vs. All Knights\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Estral Esports (1) vs. All Knights (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T210000Z
+DTEND:20220204T220000Z
+SUMMARY:[Liga Latinoamérica] INF vs. EST
+UID:lla-107530554768938881@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: INFINITY vs. 
+ Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ INFINITY (1) vs. Estral Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T230000Z
+DTEND:20220207T000000Z
+SUMMARY:[Liga Latinoamérica] EST vs. R7
+UID:lla-107530554768938883@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: Estral Esports
+  vs. Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Estral Esports (0) vs. Rainbow7  (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T230000Z
+DTEND:20220220T000000Z
+SUMMARY:[Liga Latinoamérica] ISG vs. EST
+UID:lla-107530554768938885@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: Isurus vs. 
+ Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Isurus (0) vs. Estral Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T200000Z
+DTEND:20220219T210000Z
+SUMMARY:[Liga Latinoamérica] INF vs. AK
+UID:lla-107530554768938887@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: INFINITY vs. 
+ All Knights\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ INFINITY (1) vs. All Knights (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T220000Z
+DTEND:20220206T230000Z
+SUMMARY:[Liga Latinoamérica] AK vs. ISG
+UID:lla-107530554768938891@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 2\nTeams: All Knights 
+ vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: All 
+ Knights (0) vs. Isurus (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T230000Z
+DTEND:20220214T000000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. INF
+UID:lla-107530554768938893@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Rainbow7  vs. 
+ INFINITY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Rainbow7  (1) vs. INFINITY (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T220000Z
+DTEND:20220204T230000Z
+SUMMARY:[Liga Latinoamérica] INF vs. ISG
+UID:lla-107530554768938895@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 1\nTeams: INFINITY vs. 
+ Isurus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INFINITY
+  (1) vs. Isurus (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T220000Z
+DTEND:20220212T230000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. ISG
+UID:lla-107530554768938897@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 3\nTeams: Rainbow7  vs. 
+ Isurus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Rainbow7
+   (1) vs. Isurus (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T220000Z
+DTEND:20220220T230000Z
+SUMMARY:[Liga Latinoamérica] ISG vs. GET
+UID:lla-107530554768938911@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: Isurus vs. 
+ Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Isurus (1) vs. Globant Emerald Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T200000Z
+DTEND:20220220T210000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. XTN
+UID:lla-107530554768938913@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: Team Aze vs. 
+ XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Aze (0) vs. XTEN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T210000Z
+DTEND:20220220T220000Z
+SUMMARY:[Liga Latinoamérica] AK vs. R7
+UID:lla-107530554769004481@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 4\nTeams: All Knights 
+ vs. Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ All Knights (0) vs. Rainbow7  (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan
 END:VCALENDAR

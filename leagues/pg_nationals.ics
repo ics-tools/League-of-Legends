@@ -1750,6 +1750,295 @@ CREATED:20220131T063601Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T190000Z
+DTEND:20220201T200000Z
+SUMMARY:[PG Nationals] OP vs. MCK
+UID:pg_nationals-107457033676675675@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Anc Outplayed vs. 
+ Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Anc Outplayed (0) vs. Macko Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T200000Z
+DTEND:20220208T210000Z
+SUMMARY:[PG Nationals] ATE vs. MCK
+UID:pg_nationals-107457033676675677@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Atleta Esport vs. 
+ Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (0) vs. Macko Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T190000Z
+DTEND:20220202T200000Z
+SUMMARY:[PG Nationals] CGG vs. MCK
+UID:pg_nationals-107457033676675685@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Cyberground Gaming 
+ vs. Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyberground Gaming (0) vs. Macko Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T200000Z
+DTEND:20220202T210000Z
+SUMMARY:[PG Nationals] OP vs. EE
+UID:pg_nationals-107457033676675699@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Anc Outplayed vs. 
+ Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Anc Outplayed (1) vs. Esports Empire (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T180000Z
+DTEND:20220202T190000Z
+SUMMARY:[PG Nationals] ATE vs. GGE
+UID:pg_nationals-107457033676675703@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Atleta Esport vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (1) vs. GGEsports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T200000Z
+DTEND:20220201T210000Z
+SUMMARY:[PG Nationals] ATE vs. AXL
+UID:pg_nationals-107457033676675705@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Atleta Esport vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Atleta 
+ Esport (1) vs. Axolotl (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T210000Z
+DTEND:20220202T220000Z
+SUMMARY:[PG Nationals] AXL vs. SMS
+UID:pg_nationals-107457033676675713@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Axolotl vs. Samsung 
+ Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Axolotl (1) vs. Samsung Morning Stars (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T210000Z
+DTEND:20220201T220000Z
+SUMMARY:[PG Nationals] SMS vs. EE
+UID:pg_nationals-107457033676675717@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: Samsung Morning 
+ Stars vs. Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Esports Empire (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T210000Z
+DTEND:20220208T220000Z
+SUMMARY:[PG Nationals] GGE vs. AXL
+UID:pg_nationals-107457033676675719@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: GGEsports vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GGEsports (0) vs. Axolotl (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T180000Z
+DTEND:20220201T190000Z
+SUMMARY:[PG Nationals] GGE vs. CGG
+UID:pg_nationals-107457033676675721@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 3\nTeams: GGEsports vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GGEsports (1) vs. Cyberground Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T180000Z
+DTEND:20220208T190000Z
+SUMMARY:[PG Nationals] EE vs. CGG
+UID:pg_nationals-107457033676675729@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Esports Empire vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Esports Empire (0) vs. Cyberground Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T180000Z
+DTEND:20220216T190000Z
+SUMMARY:[PG Nationals] SMS vs. MCK
+UID:pg_nationals-107457033676741271@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Samsung Morning 
+ Stars vs. Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Macko Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T210000Z
+DTEND:20220215T220000Z
+SUMMARY:[PG Nationals] MCK vs. GGE
+UID:pg_nationals-107457033676741273@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Macko Esports vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Macko
+  Esports (1) vs. GGEsports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T190000Z
+DTEND:20220209T200000Z
+SUMMARY:[PG Nationals] MCK vs. AXL
+UID:pg_nationals-107457033676741275@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Macko Esports vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Macko 
+ Esports (1) vs. Axolotl (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T180000Z
+DTEND:20220215T190000Z
+SUMMARY:[PG Nationals] ATE vs. OP
+UID:pg_nationals-107457033676741281@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Atleta Esport vs. 
+ Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (1) vs. Anc Outplayed (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T190000Z
+DTEND:20220208T200000Z
+SUMMARY:[PG Nationals] SMS vs. OP
+UID:pg_nationals-107457033676741283@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Samsung Morning 
+ Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Anc Outplayed (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T190000Z
+DTEND:20220216T200000Z
+SUMMARY:[PG Nationals] AXL vs. OP
+UID:pg_nationals-107457033676741287@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Axolotl vs. Anc 
+ Outplayed\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Axolotl (0) vs. Anc Outplayed (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T200000Z
+DTEND:20220209T210000Z
+SUMMARY:[PG Nationals] OP vs. CGG
+UID:pg_nationals-107457033676741289@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Anc Outplayed vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anc Outplayed (0) vs. Cyberground Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T210000Z
+DTEND:20220216T220000Z
+SUMMARY:[PG Nationals] ATE vs. CGG
+UID:pg_nationals-107457033676741299@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Atleta Esport vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Atleta Esport (1) vs. Cyberground Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T210000Z
+DTEND:20220209T220000Z
+SUMMARY:[PG Nationals] ATE vs. EE
+UID:pg_nationals-107457033676741301@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Atleta Esport vs. 
+ Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (1) vs. Esports Empire (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T180000Z
+DTEND:20220209T190000Z
+SUMMARY:[PG Nationals] SMS vs. GGE
+UID:pg_nationals-107457033676741303@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 4\nTeams: Samsung Morning 
+ Stars vs. GGEsports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. GGEsports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T190000Z
+DTEND:20220215T200000Z
+SUMMARY:[PG Nationals] CGG vs. SMS
+UID:pg_nationals-107457033676741307@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Cyberground Gaming 
+ vs. Samsung Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyberground Gaming (1) vs. Samsung Morning Stars 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T200000Z
+DTEND:20220216T210000Z
+SUMMARY:[PG Nationals] GGE vs. EE
+UID:pg_nationals-107457033676741315@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: GGEsports vs. 
+ Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GGEsports (1) vs. Esports Empire (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T200000Z
+DTEND:20220215T210000Z
+SUMMARY:[PG Nationals] EE vs. AXL
+UID:pg_nationals-107457033676741319@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 5\nTeams: Esports Empire vs. 
+ Axolotl\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Esports
+  Empire (1) vs. Axolotl (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
 NAME:PG Nationals Spielplan
 X-WR-CALNAME:PG Nationals Spielplan
 END:VCALENDAR

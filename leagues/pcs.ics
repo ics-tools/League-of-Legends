@@ -1315,11 +1315,11 @@ DTSTART:20210709T100000Z
 DTEND:20210709T110000Z
 SUMMARY:[PCS] IMP vs. ALF
 UID:pcs-106269875363826247@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Impunity vs. Alpha 
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Impunity Esports vs. Alpha 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Impunity (1) vs. Alpha Esports (0)\n
+ Impunity Esports (1) vs. Alpha Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1411,11 +1411,11 @@ DTSTART:20210710T130000Z
 DTEND:20210710T140000Z
 SUMMARY:[PCS] BJD vs. IMP
 UID:pcs-106269875363826263@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Berjaya Dragons vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Berjaya Dragons (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Berjaya Dragons vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Berjaya
+  Dragons (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1497,10 +1497,11 @@ DTEND:20210711T120000Z
 SUMMARY:[PCS] BYG vs. IMP
 UID:pcs-106269875363826277@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Mega Bank Beyond Gaming vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
- Bank Beyond Gaming (1) vs. Impunity (0)\n
+ Impunity Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (1) vs. Impunity Esports 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1568,11 +1569,11 @@ DTSTART:20210716T120000Z
 DTEND:20210716T130000Z
 SUMMARY:[PCS] BME vs. IMP
 UID:pcs-106269875363826289@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: BOOM Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BOOM 
- Esports (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: BOOM Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BOOM 
+ Esports (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1628,11 +1629,11 @@ DTSTART:20210711T130000Z
 DTEND:20210711T140000Z
 SUMMARY:[PCS] IMP vs. HKA
 UID:pcs-106269875363891835@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Impunity vs. Hong Kong 
- Attitude\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Impunity (0) vs. Hong Kong Attitude (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 1\nTeams: Impunity Esports vs. Hong 
+ Kong Attitude\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Impunity Esports (0) vs. Hong Kong Attitude (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1688,11 +1689,11 @@ DTSTART:20210723T120000Z
 DTEND:20210723T130000Z
 SUMMARY:[PCS] LYB vs. IMP
 UID:pcs-106269875363891845@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Liyab Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liyab 
- Esports (0) vs. Impunity (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Liyab Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liyab 
+ Esports (0) vs. Impunity Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1700,11 +1701,11 @@ DTSTART:20210717T120000Z
 DTEND:20210717T130000Z
 SUMMARY:[PCS] MCX vs. IMP
 UID:pcs-106269875363891847@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Machi Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
- Esports (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: Machi Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
+ Esports (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1712,11 +1713,11 @@ DTSTART:20210724T080000Z
 DTEND:20210724T090000Z
 SUMMARY:[PCS] JT vs. IMP
 UID:pcs-106269875363891849@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Taipei J Team vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei
-  J Team (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Taipei J Team vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei 
+ J Team (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1724,11 +1725,11 @@ DTSTART:20210718T080000Z
 DTEND:20210718T090000Z
 SUMMARY:[PCS] PSG vs. IMP
 UID:pcs-106269875363891851@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: PSG Talon vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
- Talon (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 2\nTeams: PSG Talon vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1856,11 +1857,11 @@ DTSTART:20210801T080000Z
 DTEND:20210801T090000Z
 SUMMARY:[PCS] ALF vs. IMP
 UID:pcs-106269875363891873@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Alpha Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Alpha 
- Esports (0) vs. Impunity (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Alpha Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Alpha 
+ Esports (0) vs. Impunity Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1952,11 +1953,11 @@ DTSTART:20210805T130000Z
 DTEND:20210805T140000Z
 SUMMARY:[PCS] IMP vs. BJD
 UID:pcs-106269875363891889@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity vs. Berjaya 
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity Esports vs. Berjaya 
  Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Impunity (0) vs. Berjaya Dragons (1)\n
+ Impunity Esports (0) vs. Berjaya Dragons (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2038,10 +2039,11 @@ DTEND:20210731T120000Z
 SUMMARY:[PCS] BYG vs. IMP
 UID:pcs-106269875363891903@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Mega Bank Beyond Gaming vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
- Bank Beyond Gaming (1) vs. Impunity (0)\n
+ Impunity Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (1) vs. Impunity Esports 
+ (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2109,11 +2111,11 @@ DTSTART:20210730T120000Z
 DTEND:20210730T130000Z
 SUMMARY:[PCS] IMP vs. BME
 UID:pcs-106269875363891915@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Impunity vs. BOOM 
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Impunity Esports vs. BOOM 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Impunity (0) vs. BOOM Esports (1)\n
+ Impunity Esports (0) vs. BOOM Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2170,10 +2172,10 @@ DTEND:20210725T110000Z
 SUMMARY:[PCS] HKA vs. IMP
 UID:pcs-106269875363957461@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Woche 3\nTeams: Hong Kong Attitude vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Hong 
- Kong Attitude (0) vs. Impunity (1)\n
+ Impunity Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Hong Kong Attitude (0) vs. Impunity Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2229,11 +2231,11 @@ DTSTART:20210806T110000Z
 DTEND:20210806T120000Z
 SUMMARY:[PCS] IMP vs. LYB
 UID:pcs-106269875363957471@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity vs. Liyab 
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity Esports vs. Liyab 
  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Impunity (0) vs. Liyab Esports (1)\n
+ Impunity Esports (0) vs. Liyab Esports (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2241,11 +2243,11 @@ DTSTART:20210801T100000Z
 DTEND:20210801T110000Z
 SUMMARY:[PCS] MCX vs. IMP
 UID:pcs-106269875363957473@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Machi Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
- Esports (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 4\nTeams: Machi Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Machi 
+ Esports (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2253,11 +2255,11 @@ DTSTART:20210807T110000Z
 DTEND:20210807T120000Z
 SUMMARY:[PCS] IMP vs. JT
 UID:pcs-106269875363957475@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity vs. Taipei J 
- Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Impunity 
- (0) vs. Taipei J Team (1)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Impunity Esports vs. Taipei J
+  Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Impunity 
+ Esports (0) vs. Taipei J Team (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2265,11 +2267,11 @@ DTSTART:20210806T130000Z
 DTEND:20210806T140000Z
 SUMMARY:[PCS] PSG vs. IMP
 UID:pcs-106269875363957477@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: PSG Talon vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
- Talon (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: PSG Talon vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220220T231232Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2349,11 +2351,11 @@ DTSTART:20210808T080000Z
 DTEND:20210808T090000Z
 SUMMARY:[PCS] LYB vs. IMP
 UID:pcs-106715618413216076@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Liyab Esports vs. 
- Impunity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liyab 
- Esports (1) vs. Impunity (0)\n
+DESCRIPTION:Liga: PCS\nPhase: Woche 5\nTeams: Liyab Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liyab 
+ Esports (1) vs. Impunity Esports (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20211129T025653Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2523,6 +2525,369 @@ DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Mega
 CREATED:20211129T025653Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T090000Z
+DTEND:20220211T100000Z
+SUMMARY:[PCS] DCG vs. JT
+UID:pcs-107693721182670174@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. Taipei 
+ J Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Deep 
+ Cross Gaming (1) vs. Taipei J Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T100000Z
+DTEND:20220212T110000Z
+SUMMARY:[PCS] JT vs. IMP
+UID:pcs-107693721182735712@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei 
+ J Team (1) vs. Impunity Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T120000Z
+DTEND:20220218T130000Z
+SUMMARY:[PCS] JT vs. FAK
+UID:pcs-107693721182735714@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Frank 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei 
+ J Team (1) vs. Frank Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T090000Z
+DTEND:20220219T100000Z
+SUMMARY:[PCS] CFO vs. JT
+UID:pcs-107693721182735716@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. Taipei
+  J Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CTBC 
+ Flying Oyster (1) vs. Taipei J Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T090000Z
+DTEND:20220213T100000Z
+SUMMARY:[PCS] JT vs. HG
+UID:pcs-107693721182735720@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Hurricane 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei J
+  Team (1) vs. Hurricane Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T110000Z
+DTEND:20220220T120000Z
+SUMMARY:[PCS] JT vs. BYG
+UID:pcs-107693721182735724@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Taipei J Team (1) vs. Mega Bank Beyond Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T110000Z
+DTEND:20220213T120000Z
+SUMMARY:[PCS] DCG vs. FAK
+UID:pcs-107693721182735730@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. Frank 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Deep 
+ Cross Gaming (1) vs. Frank Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T130000Z
+DTEND:20220220T140000Z
+SUMMARY:[PCS] CFO vs. DCG
+UID:pcs-107693721182735732@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. Deep 
+ Cross Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ CTBC Flying Oyster (1) vs. Deep Cross Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T080000Z
+DTEND:20220219T090000Z
+SUMMARY:[PCS] DCG vs. S9
+UID:pcs-107693721182735734@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. 
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Deep Cross
+  Gaming (1) vs. SEM9 (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T110000Z
+DTEND:20220218T120000Z
+SUMMARY:[PCS] DCG vs. MFT
+UID:pcs-107693721182735738@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. Meta 
+ Falcon Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Deep Cross Gaming (1) vs. Meta Falcon Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T100000Z
+DTEND:20220219T110000Z
+SUMMARY:[PCS] BYG vs. DCG
+UID:pcs-107693721182735740@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Deep Cross Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (0) vs. Deep Cross Gaming 
+ (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T100000Z
+DTEND:20220211T110000Z
+SUMMARY:[PCS] FAK vs. IMP
+UID:pcs-107693721182735744@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (1) vs. Impunity Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T100000Z
+DTEND:20220218T110000Z
+SUMMARY:[PCS] IMP vs. CFO
+UID:pcs-107693721182735746@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Impunity Esports vs. CTBC 
+ Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Impunity Esports (0) vs. CTBC Flying Oyster (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T090000Z
+DTEND:20220220T100000Z
+SUMMARY:[PCS] S9 vs. IMP
+UID:pcs-107693721182735748@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: SEM9 vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SEM9 
+ (0) vs. Impunity Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T110000Z
+DTEND:20220219T120000Z
+SUMMARY:[PCS] IMP vs. MFT
+UID:pcs-107693721182735752@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Impunity Esports vs. Meta 
+ Falcon Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Impunity Esports (1) vs. Meta Falcon Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T120000Z
+DTEND:20220213T130000Z
+SUMMARY:[PCS] PSG vs. IMP
+UID:pcs-107693721182735756@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Impunity 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Impunity Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T090000Z
+DTEND:20220212T100000Z
+SUMMARY:[PCS] CFO vs. FAK
+UID:pcs-107693721182735758@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. Frank 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CTBC 
+ Flying Oyster (1) vs. Frank Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T100000Z
+DTEND:20220220T110000Z
+SUMMARY:[PCS] FAK vs. HG
+UID:pcs-107693721182735762@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. Hurricane 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (1) vs. Hurricane Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T130000Z
+DTEND:20220219T140000Z
+SUMMARY:[PCS] FAK vs. PSG
+UID:pcs-107693721182735768@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. PSG 
+ Talon\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (0) vs. PSG Talon (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T080000Z
+DTEND:20220218T090000Z
+SUMMARY:[PCS] CFO vs. S9
+UID:pcs-107693721182735770@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. 
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CTBC 
+ Flying Oyster (1) vs. SEM9 (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T100000Z
+DTEND:20220213T110000Z
+SUMMARY:[PCS] MFT vs. CFO
+UID:pcs-107693721182735774@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. CTBC 
+ Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Meta Falcon Team (0) vs. CTBC Flying Oyster (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T120000Z
+DTEND:20220219T130000Z
+SUMMARY:[PCS] S9 vs. HG
+UID:pcs-107693721182735780@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: SEM9 vs. Hurricane 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SEM9 (0)
+  vs. Hurricane Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T080000Z
+DTEND:20220220T090000Z
+SUMMARY:[PCS] S9 vs. BYG
+UID:pcs-107693721182735784@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: SEM9 vs. Mega Bank Beyond 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SEM9 (0)
+  vs. Mega Bank Beyond Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T090000Z
+DTEND:20220218T100000Z
+SUMMARY:[PCS] PSG vs. S9
+UID:pcs-107693721182735786@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. SEM9\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG Talon (1) vs. SEM9
+  (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T110000Z
+DTEND:20220211T120000Z
+SUMMARY:[PCS] MFT vs. HG
+UID:pcs-107693721182735788@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. 
+ Hurricane Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Meta Falcon Team (1) vs. Hurricane Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T130000Z
+DTEND:20220218T140000Z
+SUMMARY:[PCS] BYG vs. HG
+UID:pcs-107693721182735790@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Hurricane Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (1) vs. Hurricane Gaming 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T110000Z
+DTEND:20220212T120000Z
+SUMMARY:[PCS] PSG vs. HG
+UID:pcs-107693721182735792@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Hurricane 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Hurricane Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T120000Z
+DTEND:20220212T130000Z
+SUMMARY:[PCS] MFT vs. BYG
+UID:pcs-107693721182735794@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. Mega 
+ Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Meta Falcon Team (1) vs. Mega Bank Beyond Gaming 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T120000Z
+DTEND:20220220T130000Z
+SUMMARY:[PCS] PSG vs. MFT
+UID:pcs-107693721182801332@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Meta Falcon 
+ Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG Talon 
+ (1) vs. Meta Falcon Team (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T120000Z
+DTEND:20220211T130000Z
+SUMMARY:[PCS] PSG vs. BYG
+UID:pcs-107693721182801334@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Mega Bank 
+ Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PSG Talon (0) vs. Mega Bank Beyond Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
 END:VEVENT
 NAME:PCS Spielplan
 X-WR-CALNAME:PCS Spielplan

@@ -1,103 +1,440 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20220127T020000Z
 DTEND:20220127T030000Z
-SUMMARY:[Volcano Discover League] GDP vs. ACS
+SUMMARY:[Volcano League] GDP vs. ACS
 UID:volcano_discover_league-107682708469383662@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: God's 
- Plan vs. AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: God's Plan (0) vs. AceS GaminG (1)\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: God's Plan vs. 
+ AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ God's Plan (0) vs. AceS GaminG (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220129T010000Z
 DTEND:20220129T020000Z
-SUMMARY:[Volcano Discover League] PD vs. ACS
+SUMMARY:[Volcano League] PD vs. ACS
 UID:volcano_discover_league-107682708469383666@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Pirate 
- Dream vs. AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Pirate Dream (1) vs. AceS GaminG (0)\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Pirate Dream vs. 
+ AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pirate Dream (1) vs. AceS GaminG (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220129T030000Z
 DTEND:20220129T040000Z
-SUMMARY:[Volcano Discover League] HK vs. DSC
+SUMMARY:[Volcano League] HK vs. DSC
 UID:volcano_discover_league-107682708469514748@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Hooked 
- Esports vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Hooked Esports vs.
+   Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Hooked Esports (1) vs.  Descuydado Esports (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220127T010000Z
 DTEND:20220127T020000Z
-SUMMARY:[Volcano Discover League] PD vs. DSC
+SUMMARY:[Volcano League] PD vs. DSC
 UID:volcano_discover_league-107682708469580286@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Pirate 
- Dream vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Pirate Dream vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Pirate Dream (1) vs.  Descuydado Esports (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220127T000000Z
 DTEND:20220127T010000Z
-SUMMARY:[Volcano Discover League] HK vs. GSE
+SUMMARY:[Volcano League] HK vs. GSE
 UID:volcano_discover_league-107682708469580294@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Hooked 
- Esports vs. GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Hooked Esports vs.
+  GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Hooked Esports (0) vs. GeekSide Esports (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220129T000000Z
 DTEND:20220129T010000Z
-SUMMARY:[Volcano Discover League] WS vs. GSE
+SUMMARY:[Volcano League] WS vs. GSE
 UID:volcano_discover_league-107682708469580300@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Waia 
- Snikt vs. GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Waia Snikt vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
  completed\nErgebnisse: Waia Snikt (1) vs. GeekSide Esports (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220129T020000Z
 DTEND:20220129T030000Z
-SUMMARY:[Volcano Discover League] SKC vs. GDP
+SUMMARY:[Volcano League] SKC vs. GDP
 UID:volcano_discover_league-107682708469645842@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Skull 
- Cracker Clan vs. God's Plan\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Skull Cracker Clan (1) vs. God's Plan (0)\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Skull Cracker Clan
+  vs. God's Plan\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Skull Cracker Clan (1) vs. God's Plan (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220127T030000Z
 DTEND:20220127T040000Z
-SUMMARY:[Volcano Discover League] SKC vs. WS
+SUMMARY:[Volcano League] SKC vs. WS
 UID:volcano_discover_league-107682708469842464@lol.ics.tools
-DESCRIPTION:Liga: Volcano Discover League\nPhase: Woche 1\nTeams: Skull 
- Cracker Clan vs. Waia Snikt\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Skull Cracker Clan (1) vs. Waia Snikt (0)\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 1\nTeams: Skull Cracker Clan
+  vs. Waia Snikt\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Skull Cracker Clan (1) vs. Waia Snikt (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T010000Z
+DTEND:20220202T020000Z
+SUMMARY:[Volcano League] DSC vs. ACS
+UID:volcano_discover_league-107682708468466154@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams:  Descuydado 
+ Esports vs. AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse:  Descuydado Esports (1) vs. AceS GaminG (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T000000Z
+DTEND:20220203T010000Z
+SUMMARY:[Volcano League] ACS vs. GSE
+UID:volcano_discover_league-107682708469383660@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: AceS GaminG vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AceS GaminG (1) vs. GeekSide Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T010000Z
+DTEND:20220212T020000Z
+SUMMARY:[Volcano League] HK vs. ACS
+UID:volcano_discover_league-107682708469383664@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Hooked Esports vs.
+  AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Hooked Esports (0) vs. AceS GaminG (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T030000Z
+DTEND:20220205T040000Z
+SUMMARY:[Volcano League] ACS vs. SKC
+UID:volcano_discover_league-107682708469383668@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: AceS GaminG vs. 
+ Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AceS GaminG (0) vs. Skull Cracker Clan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T010000Z
+DTEND:20220210T020000Z
+SUMMARY:[Volcano League] WS vs. ACS
+UID:volcano_discover_league-107682708469383670@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Waia Snikt vs. 
+ AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Waia Snikt (0) vs. AceS GaminG (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T010000Z
+DTEND:20220205T020000Z
+SUMMARY:[Volcano League] GSE vs. DSC
+UID:volcano_discover_league-107682708469449208@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: GeekSide Esports 
+ vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GeekSide Esports (0) vs.  Descuydado Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T030000Z
+DTEND:20220210T040000Z
+SUMMARY:[Volcano League] GDP vs. DSC
+UID:volcano_discover_league-107682708469449210@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: God's Plan vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: God's Plan (0) vs.  Descuydado Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T000000Z
+DTEND:20220212T010000Z
+SUMMARY:[Volcano League] SKC vs. DSC
+UID:volcano_discover_league-107682708469580288@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Skull Cracker Clan
+  vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Skull Cracker Clan (0) vs.  Descuydado Esports 
+ (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T020000Z
+DTEND:20220203T030000Z
+SUMMARY:[Volcano League] DSC vs. WS
+UID:volcano_discover_league-107682708469580290@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams:  Descuydado 
+ Esports vs. Waia Snikt\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse:  Descuydado Esports (1) vs. Waia Snikt (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T020000Z
+DTEND:20220202T030000Z
+SUMMARY:[Volcano League] GDP vs. GSE
+UID:volcano_discover_league-107682708469580292@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: God's Plan vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: God's Plan (1) vs. GeekSide Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T030000Z
+DTEND:20220212T040000Z
+SUMMARY:[Volcano League] PD vs. GSE
+UID:volcano_discover_league-107682708469580296@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Pirate Dream vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pirate Dream (0) vs. GeekSide Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T020000Z
+DTEND:20220210T030000Z
+SUMMARY:[Volcano League] SKC vs. GSE
+UID:volcano_discover_league-107682708469580298@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Skull Cracker Clan
+  vs. GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Skull Cracker Clan (1) vs. GeekSide Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T030000Z
+DTEND:20220203T040000Z
+SUMMARY:[Volcano League] GDP vs. HK
+UID:volcano_discover_league-107682708469645838@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: God's Plan vs. 
+ Hooked Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ God's Plan (1) vs. Hooked Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T000000Z
+DTEND:20220205T010000Z
+SUMMARY:[Volcano League] GDP vs. PD
+UID:volcano_discover_league-107682708469645840@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: God's Plan vs. 
+ Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ God's Plan (0) vs. Pirate Dream (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T020000Z
+DTEND:20220212T030000Z
+SUMMARY:[Volcano League] WS vs. GDP
+UID:volcano_discover_league-107682708469645844@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Waia Snikt vs. 
+ God's Plan\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Waia
+  Snikt (0) vs. God's Plan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T000000Z
+DTEND:20220210T010000Z
+SUMMARY:[Volcano League] PD vs. HK
+UID:volcano_discover_league-107682708469645846@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 3\nTeams: Pirate Dream vs. 
+ Hooked Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pirate Dream (1) vs. Hooked Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T000000Z
+DTEND:20220202T010000Z
+SUMMARY:[Volcano League] SKC vs. HK
+UID:volcano_discover_league-107682708469645848@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: Skull Cracker Clan
+  vs. Hooked Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Skull Cracker Clan (0) vs. Hooked Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T020000Z
+DTEND:20220205T030000Z
+SUMMARY:[Volcano League] WS vs. HK
+UID:volcano_discover_league-107682708469645850@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: Waia Snikt vs. 
+ Hooked Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Waia Snikt (1) vs. Hooked Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T010000Z
+DTEND:20220203T020000Z
+SUMMARY:[Volcano League] PD vs. SKC
+UID:volcano_discover_league-107682708469711388@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: Pirate Dream vs. 
+ Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pirate Dream (0) vs. Skull Cracker Clan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T030000Z
+DTEND:20220202T040000Z
+SUMMARY:[Volcano League] WS vs. PD
+UID:volcano_discover_league-107682708469842462@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 2\nTeams: Waia Snikt vs. 
+ Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Waia Snikt (1) vs. Pirate Dream (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T010000Z
+DTEND:20220217T020000Z
+SUMMARY:[Volcano League] PD vs. DSC
+UID:volcano_discover_league-107682708469908004@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: Pirate Dream vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pirate Dream (0) vs.  Descuydado Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T020000Z
+DTEND:20220219T030000Z
+SUMMARY:[Volcano League] WS vs. DSC
+UID:volcano_discover_league-107682708469908010@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: Waia Snikt vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Waia Snikt (0) vs.  Descuydado Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T010000Z
+DTEND:20220219T020000Z
+SUMMARY:[Volcano League] SKC vs. PD
+UID:volcano_discover_league-107682708469908014@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: Skull Cracker Clan
+  vs. Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Skull Cracker Clan (1) vs. Pirate Dream (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T000000Z
+DTEND:20220217T010000Z
+SUMMARY:[Volcano League] ACS vs. SKC
+UID:volcano_discover_league-107682708469908016@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: AceS GaminG vs. 
+ Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AceS GaminG (0) vs. Skull Cracker Clan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T030000Z
+DTEND:20220217T040000Z
+SUMMARY:[Volcano League] GSE vs. PD
+UID:volcano_discover_league-107682708470039102@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: GeekSide Esports 
+ vs. Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GeekSide Esports (0) vs. Pirate Dream (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T000000Z
+DTEND:20220219T010000Z
+SUMMARY:[Volcano League] ACS vs. WS
+UID:volcano_discover_league-107682708470039106@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: AceS GaminG vs. 
+ Waia Snikt\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AceS
+  GaminG (0) vs. Waia Snikt (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T020000Z
+DTEND:20220217T030000Z
+SUMMARY:[Volcano League] WS vs. GDP
+UID:volcano_discover_league-107682708470039110@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: Waia Snikt vs. 
+ God's Plan\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Waia
+  Snikt (0) vs. God's Plan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T030000Z
+DTEND:20220219T040000Z
+SUMMARY:[Volcano League] GSE vs. GDP
+UID:volcano_discover_league-107682708470039112@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 4\nTeams: GeekSide Esports 
+ vs. God's Plan\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GeekSide Esports (0) vs. God's Plan (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan
-METHOD:PUBLISH
 END:VCALENDAR

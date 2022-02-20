@@ -1,0 +1,872 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+BEGIN:VEVENT
+DTSTART:20220205T010000Z
+DTEND:20220205T020000Z
+SUMMARY:[Master Flow League] 9Z vs. BOC
+UID:master_flow_league-107728324360390534@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: 9z Gaming vs. 
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 9z Gaming (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T210000Z
+DTEND:20220202T220000Z
+SUMMARY:[Master Flow League] EBG vs. BOC
+UID:master_flow_league-107728324360390536@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: eBRO Gaming 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: eBRO Gaming (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T000000Z
+DTEND:20220127T010000Z
+SUMMARY:[Master Flow League] KRU vs. BOC
+UID:master_flow_league-107728324360390538@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: KRÜ Esports 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KRÜ Esports (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T000000Z
+DTEND:20220128T010000Z
+SUMMARY:[Master Flow League] LEV vs. BOC
+UID:master_flow_league-107728324360390540@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Leviatán 
+ Esports vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Leviatán Esports (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T220000Z
+DTEND:20220211T230000Z
+SUMMARY:[Master Flow League] BOC vs. MVG
+UID:master_flow_league-107728324360390542@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Boca Juniors 
+ Gaming vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boca Juniors Gaming (1) vs. Malvinas Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T020000Z
+DTEND:20220218T030000Z
+SUMMARY:[Master Flow League] EV vs. BOC
+UID:master_flow_league-107728324360390544@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Maycam Evolve 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T000000Z
+DTEND:20220204T010000Z
+SUMMARY:[Master Flow League] RIV vs. BOC
+UID:master_flow_league-107728324360390546@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: River Plate 
+ Gaming vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. Boca Juniors Gaming 
+ (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T010000Z
+DTEND:20220211T020000Z
+SUMMARY:[Master Flow League] STM vs. BOC
+UID:master_flow_league-107728324360390548@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Stone Movistar
+  vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T210000Z
+DTEND:20220209T220000Z
+SUMMARY:[Master Flow League] PAM vs. BOC
+UID:master_flow_league-107728324360390550@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Ualá Pampas 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T220000Z
+DTEND:20220216T230000Z
+SUMMARY:[Master Flow League] UBK vs. BOC
+UID:master_flow_league-107728324360390552@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Undead BK vs. 
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Undead BK (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T020000Z
+DTEND:20220129T030000Z
+SUMMARY:[Master Flow League] WAP vs. BOC
+UID:master_flow_league-107728324360390554@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Wap Esports 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T220000Z
+DTEND:20220127T230000Z
+SUMMARY:[Master Flow League] EBG vs. 9Z
+UID:master_flow_league-107728324360390556@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: eBRO Gaming 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eBRO Gaming (0) vs. 9z Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T000000Z
+DTEND:20220211T010000Z
+SUMMARY:[Master Flow League] KRU vs. 9Z
+UID:master_flow_league-107728324360390558@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: KRÜ Esports 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRÜ Esports (0) vs. 9z Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T010000Z
+DTEND:20220212T020000Z
+SUMMARY:[Master Flow League] 9Z vs. LEV
+UID:master_flow_league-107728324360390560@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: 9z Gaming vs. 
+ Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 9z Gaming (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T020000Z
+DTEND:20220210T030000Z
+SUMMARY:[Master Flow League] MVG vs. 9Z
+UID:master_flow_league-107728324360390562@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Malvinas 
+ Gaming vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Malvinas Gaming (1) vs. 9z Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T010000Z
+DTEND:20220127T020000Z
+SUMMARY:[Master Flow League] EV vs. 9Z
+UID:master_flow_league-107728324360390564@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Maycam Evolve 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Maycam Evolve (0) vs. 9z Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T000000Z
+DTEND:20220129T010000Z
+SUMMARY:[Master Flow League] RIV vs. 9Z
+UID:master_flow_league-107728324360390566@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: River Plate 
+ Gaming vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (1) vs. 9z Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T220000Z
+DTEND:20220203T230000Z
+SUMMARY:[Master Flow League] STM vs. 9Z
+UID:master_flow_league-107728324360390568@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Stone Movistar
+  vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Stone Movistar (1) vs. 9z Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T010000Z
+DTEND:20220217T020000Z
+SUMMARY:[Master Flow League] PAM vs. 9Z
+UID:master_flow_league-107728324360390570@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Ualá Pampas (0) vs. 9z Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T230000Z
+DTEND:20220218T000000Z
+SUMMARY:[Master Flow League] UBK vs. 9Z
+UID:master_flow_league-107728324360390572@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Undead BK vs. 
+ 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (1) vs. 9z Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T010000Z
+DTEND:20220203T020000Z
+SUMMARY:[Master Flow League] WAP vs. 9Z
+UID:master_flow_league-107728324360390574@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Wap Esports 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wap Esports (1) vs. 9z Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T000000Z
+DTEND:20220212T010000Z
+SUMMARY:[Master Flow League] KRU vs. EBG
+UID:master_flow_league-107728324360390576@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: KRÜ Esports 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  KRÜ Esports (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T010000Z
+DTEND:20220210T020000Z
+SUMMARY:[Master Flow League] LEV vs. EBG
+UID:master_flow_league-107728324360390578@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Leviatán 
+ Esports vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Leviatán Esports (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T010000Z
+DTEND:20220218T020000Z
+SUMMARY:[Master Flow League] MVG vs. EBG
+UID:master_flow_league-107728324360390580@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Malvinas 
+ Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Malvinas Gaming (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T230000Z
+DTEND:20220205T000000Z
+SUMMARY:[Master Flow League] EV vs. EBG
+UID:master_flow_league-107728324360390582@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Maycam Evolve 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Maycam Evolve (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T220000Z
+DTEND:20220126T230000Z
+SUMMARY:[Master Flow League] RIV vs. EBG
+UID:master_flow_league-107728324360390584@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: River Plate 
+ Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T020000Z
+DTEND:20220217T030000Z
+SUMMARY:[Master Flow League] STM vs. EBG
+UID:master_flow_league-107728324360390586@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Stone Movistar
+  vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. eBRO Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T020000Z
+DTEND:20220211T030000Z
+SUMMARY:[Master Flow League] PAM vs. EBG
+UID:master_flow_league-107728324360390588@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Ualá Pampas 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Ualá Pampas (1) vs. eBRO Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T230000Z
+DTEND:20220129T000000Z
+SUMMARY:[Master Flow League] UBK vs. EBG
+UID:master_flow_league-107728324360390590@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Undead BK vs. 
+ eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T210000Z
+DTEND:20220203T220000Z
+SUMMARY:[Master Flow League] WAP vs. EBG
+UID:master_flow_league-107728324360390592@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Wap Esports 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Wap Esports (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T230000Z
+DTEND:20220204T000000Z
+SUMMARY:[Master Flow League] LEV vs. KRU
+UID:master_flow_league-107728324360390594@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Leviatán 
+ Esports vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Leviatán Esports (1) vs. KRÜ Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T220000Z
+DTEND:20220128T230000Z
+SUMMARY:[Master Flow League] MVG vs. KRU
+UID:master_flow_league-107728324360456132@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Malvinas 
+ Gaming vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Malvinas Gaming (0) vs. KRÜ Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T230000Z
+DTEND:20220128T000000Z
+SUMMARY:[Master Flow League] EV vs. KRU
+UID:master_flow_league-107728324360456134@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Maycam Evolve 
+ vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Maycam Evolve (1) vs. KRÜ Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T000000Z
+DTEND:20220217T010000Z
+SUMMARY:[Master Flow League] RIV vs. KRU
+UID:master_flow_league-107728324360456136@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: River Plate 
+ Gaming vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (1) vs. KRÜ Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T230000Z
+DTEND:20220210T000000Z
+SUMMARY:[Master Flow League] STM vs. KRU
+UID:master_flow_league-107728324360456138@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Stone Movistar
+  vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. KRÜ Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T230000Z
+DTEND:20220203T000000Z
+SUMMARY:[Master Flow League] PAM vs. KRU
+UID:master_flow_league-107728324360456140@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Ualá Pampas 
+ vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Ualá Pampas (1) vs. KRÜ Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T020000Z
+DTEND:20220205T030000Z
+SUMMARY:[Master Flow League] UBK vs. KRU
+UID:master_flow_league-107728324360456142@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Undead BK vs. 
+ KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. KRÜ Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T000000Z
+DTEND:20220218T010000Z
+SUMMARY:[Master Flow League] KRU vs. WAP
+UID:master_flow_league-107728324360456144@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: KRÜ Esports 
+ vs. Wap Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  KRÜ Esports (1) vs. Wap Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T210000Z
+DTEND:20220216T220000Z
+SUMMARY:[Master Flow League] MVG vs. LEV
+UID:master_flow_league-107728324360456146@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Malvinas 
+ Gaming vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Malvinas Gaming (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T220000Z
+DTEND:20220210T230000Z
+SUMMARY:[Master Flow League] EV vs. LEV
+UID:master_flow_league-107728324360456148@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Maycam Evolve 
+ vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T020000Z
+DTEND:20220203T030000Z
+SUMMARY:[Master Flow League] RIV vs. LEV
+UID:master_flow_league-107728324360456150@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: River Plate 
+ Gaming vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220129T010000Z
+DTEND:20220129T020000Z
+SUMMARY:[Master Flow League] STM vs. LEV
+UID:master_flow_league-107728324360456152@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Stone Movistar
+  vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T220000Z
+DTEND:20220217T230000Z
+SUMMARY:[Master Flow League] PAM vs. LEV
+UID:master_flow_league-107728324360456154@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
+ vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. Leviatán Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T210000Z
+DTEND:20220126T220000Z
+SUMMARY:[Master Flow League] UBK vs. LEV
+UID:master_flow_league-107728324360456156@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Undead BK vs. 
+ Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Undead BK (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T210000Z
+DTEND:20220204T220000Z
+SUMMARY:[Master Flow League] WAP vs. LEV
+UID:master_flow_league-107728324360456158@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Wap Esports 
+ vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T020000Z
+DTEND:20220204T030000Z
+SUMMARY:[Master Flow League] EV vs. MVG
+UID:master_flow_league-107728324360456160@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Maycam Evolve 
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (1) vs. Malvinas Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T220000Z
+DTEND:20220204T230000Z
+SUMMARY:[Master Flow League] RIV vs. MVG
+UID:master_flow_league-107728324360456162@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: River Plate 
+ Gaming vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (1) vs. Malvinas Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T220000Z
+DTEND:20220202T230000Z
+SUMMARY:[Master Flow League] STM vs. MVG
+UID:master_flow_league-107728324360456164@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Stone Movistar
+  vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. Malvinas Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T230000Z
+DTEND:20220127T000000Z
+SUMMARY:[Master Flow League] PAM vs. MVG
+UID:master_flow_league-107728324360456166@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. Malvinas Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T210000Z
+DTEND:20220210T220000Z
+SUMMARY:[Master Flow League] UBK vs. MVG
+UID:master_flow_league-107728324360456168@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Undead BK vs. 
+ Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Undead BK (0) vs. Malvinas Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T210000Z
+DTEND:20220127T220000Z
+SUMMARY:[Master Flow League] WAP vs. MVG
+UID:master_flow_league-107728324360456170@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Wap Esports 
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Malvinas Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T000000Z
+DTEND:20220210T010000Z
+SUMMARY:[Master Flow League] RIV vs. EV
+UID:master_flow_league-107728324360456172@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: River Plate 
+ Gaming vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (1) vs. Maycam Evolve (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T210000Z
+DTEND:20220211T220000Z
+SUMMARY:[Master Flow League] STM vs. EV
+UID:master_flow_league-107728324360456174@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Stone Movistar
+  vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. Maycam Evolve (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T210000Z
+DTEND:20220128T220000Z
+SUMMARY:[Master Flow League] PAM vs. EV
+UID:master_flow_league-107728324360456176@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
+ vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. Maycam Evolve (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220203T000000Z
+DTEND:20220203T010000Z
+SUMMARY:[Master Flow League] UBK vs. EV
+UID:master_flow_league-107728324360456178@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Undead BK vs. 
+ Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. Maycam Evolve (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T230000Z
+DTEND:20220217T000000Z
+SUMMARY:[Master Flow League] WAP vs. EV
+UID:master_flow_league-107728324360456180@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Wap Esports 
+ vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Maycam Evolve (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220217T210000Z
+DTEND:20220217T220000Z
+SUMMARY:[Master Flow League] STM vs. RIV
+UID:master_flow_league-107728324360456182@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Stone Movistar
+  vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. River Plate Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T010000Z
+DTEND:20220128T020000Z
+SUMMARY:[Master Flow League] PAM vs. RIV
+UID:master_flow_league-107728324360456184@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
+ vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. River Plate Gaming (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220211T230000Z
+DTEND:20220212T000000Z
+SUMMARY:[Master Flow League] RIV vs. UBK
+UID:master_flow_league-107728324360456186@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: River Plate 
+ Gaming vs. Undead BK\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. Undead BK (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220210T230000Z
+DTEND:20220211T000000Z
+SUMMARY:[Master Flow League] WAP vs. RIV
+UID:master_flow_league-107728324360456188@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Wap Esports 
+ vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. River Plate Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T000000Z
+DTEND:20220205T010000Z
+SUMMARY:[Master Flow League] PAM vs. STM
+UID:master_flow_league-107728324360456190@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Ualá Pampas 
+ vs. Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. Stone Movistar (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220128T020000Z
+DTEND:20220128T030000Z
+SUMMARY:[Master Flow League] UBK vs. STM
+UID:master_flow_league-107728324360456192@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Undead BK vs. 
+ Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (1) vs. Stone Movistar (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220127T020000Z
+DTEND:20220127T030000Z
+SUMMARY:[Master Flow League] WAP vs. STM
+UID:master_flow_league-107728324360456194@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Wap Esports 
+ vs. Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Stone Movistar (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220204T010000Z
+DTEND:20220204T020000Z
+SUMMARY:[Master Flow League] UBK vs. PAM
+UID:master_flow_league-107728324360456196@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Undead BK vs. 
+ Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. Ualá Pampas (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T020000Z
+DTEND:20220212T030000Z
+SUMMARY:[Master Flow League] WAP vs. PAM
+UID:master_flow_league-107728324360456198@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Wap Esports 
+ vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Wap Esports (0) vs. Ualá Pampas (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T220000Z
+DTEND:20220209T230000Z
+SUMMARY:[Master Flow League] WAP vs. UBK
+UID:master_flow_league-107728324360456200@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Wap Esports 
+ vs. Undead BK\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wap Esports (1) vs. Undead BK (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T000000Z
+DTEND:20220219T010000Z
+SUMMARY:[Master Flow League] KRU vs. BOC
+UID:master_flow_league-107728324360456206@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: KRÜ Esports 
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KRÜ Esports (0) vs. Boca Juniors Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T010000Z
+DTEND:20220219T020000Z
+SUMMARY:[Master Flow League] EV vs. 9Z
+UID:master_flow_league-107728324360521768@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Maycam Evolve 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Maycam Evolve (0) vs. 9z Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T220000Z
+DTEND:20220218T230000Z
+SUMMARY:[Master Flow League] RIV vs. EBG
+UID:master_flow_league-107728324360521788@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: River Plate 
+ Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. eBRO Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T210000Z
+DTEND:20220218T220000Z
+SUMMARY:[Master Flow League] UBK vs. LEV
+UID:master_flow_league-107728324360521824@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Undead BK vs. 
+ Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Undead BK (0) vs. Leviatán Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220218T230000Z
+DTEND:20220219T000000Z
+SUMMARY:[Master Flow League] PAM vs. MVG
+UID:master_flow_league-107728324360587370@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (0) vs. Malvinas Gaming (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T020000Z
+DTEND:20220219T030000Z
+SUMMARY:[Master Flow League] STM vs. WAP
+UID:master_flow_league-107728324360587398@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Stone Movistar
+  vs. Wap Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. Wap Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+NAME:Master Flow League Spielplan
+X-WR-CALNAME:Master Flow League Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

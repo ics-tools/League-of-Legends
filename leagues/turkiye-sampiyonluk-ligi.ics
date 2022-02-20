@@ -7003,6 +7003,367 @@ CREATED:20220131T063601Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T140000Z
+DTEND:20220206T150000Z
+SUMMARY:[TCL] DP vs. FB
+UID:turkiye-sampiyonluk-ligi-107566458490383605@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Dark Passage vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Fenerbahçe Espor (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T130000Z
+DTEND:20220212T140000Z
+SUMMARY:[TCL] FB vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490383609@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. GALAKTICOS (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T130000Z
+DTEND:20220205T140000Z
+SUMMARY:[TCL] FB vs. GS
+UID:turkiye-sampiyonluk-ligi-107566458490383611@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Fenerbahçe Espor vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Galatasaray Espor (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T130000Z
+DTEND:20220219T140000Z
+SUMMARY:[TCL] NSR vs. FB
+UID:turkiye-sampiyonluk-ligi-107566458490383613@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: NASR ESPORTS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (1) vs. Fenerbahçe Espor (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T110000Z
+DTEND:20220213T120000Z
+SUMMARY:[TCL] FB vs. SMB
+UID:turkiye-sampiyonluk-ligi-107566458490383615@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Fenerbahçe Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor (1) vs. Papara SuperMassive Blaze 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T120000Z
+DTEND:20220205T130000Z
+SUMMARY:[TCL] BJK vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383619@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Beşiktaş vs. 5 Ronin\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş (0) vs. 5 
+ Ronin (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T150000Z
+DTEND:20220219T160000Z
+SUMMARY:[TCL] DP vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383621@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Dark Passage vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. 5 Ronin (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T120000Z
+DTEND:20220212T130000Z
+SUMMARY:[TCL] IW vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383623@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: fastPay Wildcats vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
+ Wildcats (1) vs. 5 Ronin (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T150000Z
+DTEND:20220213T160000Z
+SUMMARY:[TCL] 5R vs. GS
+UID:turkiye-sampiyonluk-ligi-107566458490383627@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: 5 Ronin vs. Galatasaray 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
+ (0) vs. Galatasaray Espor (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T150000Z
+DTEND:20220206T160000Z
+SUMMARY:[TCL] NSR vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490383629@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: NASR ESPORTS vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. 5 Ronin (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T130000Z
+DTEND:20220213T140000Z
+SUMMARY:[TCL] BJK vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490383635@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Beşiktaş vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Beşiktaş (0) vs. Dark Passage (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T120000Z
+DTEND:20220206T130000Z
+SUMMARY:[TCL] BJK vs. IW
+UID:turkiye-sampiyonluk-ligi-107566458490383637@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Beşiktaş vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Beşiktaş (0) vs. fastPay Wildcats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T120000Z
+DTEND:20220219T130000Z
+SUMMARY:[TCL] BJK vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490383639@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Beşiktaş vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Beşiktaş (1) vs. GALAKTICOS (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T140000Z
+DTEND:20220212T150000Z
+SUMMARY:[TCL] GS vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490383641@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Galatasaray Espor vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Beşiktaş (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T150000Z
+DTEND:20220205T160000Z
+SUMMARY:[TCL] SMB vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490383657@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Papara SuperMassive Blaze vs.
+  Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (0) vs. Dark Passage (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T110000Z
+DTEND:20220212T120000Z
+SUMMARY:[TCL] AUR vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490383659@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (1) vs. Dark Passage (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T110000Z
+DTEND:20220219T120000Z
+SUMMARY:[TCL] GS vs. IW
+UID:turkiye-sampiyonluk-ligi-107566458490383663@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Galatasaray Espor vs. fastPay
+  Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (0) vs. fastPay Wildcats (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T140000Z
+DTEND:20220213T150000Z
+SUMMARY:[TCL] IW vs. NSR
+UID:turkiye-sampiyonluk-ligi-107566458490383665@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: fastPay Wildcats vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay
+  Wildcats (1) vs. NASR ESPORTS (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T110000Z
+DTEND:20220205T120000Z
+SUMMARY:[TCL] IW vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490383669@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
+ Wildcats (1) vs. Team Aurora (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T140000Z
+DTEND:20220205T150000Z
+SUMMARY:[TCL] GAL vs. NSR
+UID:turkiye-sampiyonluk-ligi-107566458490383673@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: GALAKTICOS vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. NASR ESPORTS (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T130000Z
+DTEND:20220206T140000Z
+SUMMARY:[TCL] SMB vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490449211@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Papara SuperMassive Blaze vs.
+  GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (0) vs. GALAKTICOS (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220213T120000Z
+DTEND:20220213T130000Z
+SUMMARY:[TCL] GAL vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490449213@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: GALAKTICOS vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Team Aurora (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220206T110000Z
+DTEND:20220206T120000Z
+SUMMARY:[TCL] AUR vs. GS
+UID:turkiye-sampiyonluk-ligi-107566458490449219@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. Galatasaray 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. Galatasaray Espor (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T150000Z
+DTEND:20220212T160000Z
+SUMMARY:[TCL] SMB vs. NSR
+UID:turkiye-sampiyonluk-ligi-107566458490449221@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Papara SuperMassive Blaze vs.
+  NASR ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (0) vs. NASR ESPORTS (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T140000Z
+DTEND:20220219T150000Z
+SUMMARY:[TCL] SMB vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490449225@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Papara SuperMassive Blaze vs.
+  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T110000Z
+DTEND:20220220T120000Z
+SUMMARY:[TCL] FB vs. AUR
+UID:turkiye-sampiyonluk-ligi-107566458490449243@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T120000Z
+DTEND:20220220T130000Z
+SUMMARY:[TCL] 5R vs. GAL
+UID:turkiye-sampiyonluk-ligi-107566458490449251@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: 5 Ronin vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 
+ Ronin (1) vs. GALAKTICOS (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T140000Z
+DTEND:20220220T150000Z
+SUMMARY:[TCL] BJK vs. SMB
+UID:turkiye-sampiyonluk-ligi-107566458490449271@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Beşiktaş vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş (1) vs. Papara SuperMassive Blaze (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T130000Z
+DTEND:20220220T140000Z
+SUMMARY:[TCL] IW vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490449275@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: fastPay Wildcats vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay
+  Wildcats (1) vs. Dark Passage (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T150000Z
+DTEND:20220220T160000Z
+SUMMARY:[TCL] NSR vs. GS
+UID:turkiye-sampiyonluk-ligi-107566458490449305@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: NASR ESPORTS vs. Galatasaray 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. Galatasaray Espor (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
 NAME:TCL Spielplan
 X-WR-CALNAME:TCL Spielplan
 END:VCALENDAR

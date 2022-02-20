@@ -1548,9 +1548,10 @@ DTEND:20220131T223000Z
 SUMMARY:[Liga Portuguesa] EGN vs. BFC
 UID:liga_portuguesa-107417530554565567@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: EGN Esports vs. 
- Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: EGN
+  Esports (1) vs. Boavista FC (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1620,9 +1621,10 @@ DTEND:20220131T211500Z
 SUMMARY:[Liga Portuguesa] OFF7 vs. FTW
 UID:liga_portuguesa-107417530554565599@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: OFFSET Esports 
- vs. For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: OFFSET Esports (1) vs. For The Win Esports (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1643,9 +1645,10 @@ DTEND:20220131T200000Z
 SUMMARY:[Liga Portuguesa] OSC vs. GTZ
 UID:liga_portuguesa-107417530554565605@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: Odivelas Sports 
- Club vs. GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Club vs. GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Odivelas Sports Club (0) vs. GTZ Bulls (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1663,12 +1666,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220131T224500Z
 DTEND:20220131T234500Z
-SUMMARY:[Liga Portuguesa] WD vs. KRM
+SUMMARY:[Liga Portuguesa] KRM vs. WD
 UID:liga_portuguesa-107417530554565615@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: White Dragons vs.
-  Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: Karma Clan 
+ Esports vs. White Dragons\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Karma Clan Esports (0) vs. White Dragons (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1682,6 +1686,271 @@ DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 2\nTeams: OFFSET Esports
 CREATED:20220131T063601Z
 LAST-MODIFIED:20220131T063601Z
 DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T201500Z
+DTEND:20220202T211500Z
+SUMMARY:[Liga Portuguesa] BFC vs. GTZ
+UID:liga_portuguesa-107417530554565571@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: Boavista FC vs. 
+ GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Boavista FC (0) vs. GTZ Bulls (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220207T224500Z
+DTEND:20220207T234500Z
+SUMMARY:[Liga Portuguesa] BFC vs. OSC
+UID:liga_portuguesa-107417530554565575@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: Boavista FC vs. 
+ Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boavista FC (0) vs. Odivelas Sports Club (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T213000Z
+DTEND:20220202T223000Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. EGN
+UID:liga_portuguesa-107417530554565589@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: OFFSET Esports 
+ vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  OFFSET Esports (0) vs. EGN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220207T190000Z
+DTEND:20220207T200000Z
+SUMMARY:[Liga Portuguesa] WD vs. EGN
+UID:liga_portuguesa-107417530554565591@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: White Dragons vs.
+  EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ White Dragons (0) vs. EGN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220207T201500Z
+DTEND:20220207T211500Z
+SUMMARY:[Liga Portuguesa] FTW vs. KRM
+UID:liga_portuguesa-107417530554565595@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: For The Win 
+ Esports vs. Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: For The Win Esports (1) vs. Karma Clan Esports 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T224500Z
+DTEND:20220202T234500Z
+SUMMARY:[Liga Portuguesa] WD vs. FTW
+UID:liga_portuguesa-107417530554565601@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: White Dragons vs.
+  For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: White Dragons (0) vs. For The Win Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220207T213000Z
+DTEND:20220207T223000Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. GTZ
+UID:liga_portuguesa-107417530554565607@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: OFFSET Esports 
+ vs. GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ OFFSET Esports (1) vs. GTZ Bulls (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T190000Z
+DTEND:20220202T200000Z
+SUMMARY:[Liga Portuguesa] OSC vs. KRM
+UID:liga_portuguesa-107417530554565611@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 3\nTeams: Odivelas Sports 
+ Club vs. Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Odivelas Sports Club (0) vs. Karma Clan Esports 
+ (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T190000Z
+DTEND:20220209T200000Z
+SUMMARY:[Liga Portuguesa] BFC vs. KRM
+UID:liga_portuguesa-107417530554565629@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: Boavista FC vs. 
+ Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boavista FC (0) vs. Karma Clan Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220214T213000Z
+DTEND:20220214T223000Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. BFC
+UID:liga_portuguesa-107417530554631169@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: OFFSET Esports 
+ vs. Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  OFFSET Esports (1) vs. Boavista FC (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T201500Z
+DTEND:20220216T211500Z
+SUMMARY:[Liga Portuguesa] WD vs. BFC
+UID:liga_portuguesa-107417530554631171@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: White Dragons vs.
+  Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ White Dragons (1) vs. Boavista FC (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T224500Z
+DTEND:20220209T234500Z
+SUMMARY:[Liga Portuguesa] FTW vs. EGN
+UID:liga_portuguesa-107417530554631173@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: For The Win 
+ Esports vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: For The Win Esports (1) vs. EGN Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T224500Z
+DTEND:20220216T234500Z
+SUMMARY:[Liga Portuguesa] GTZ vs. EGN
+UID:liga_portuguesa-107417530554631175@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: GTZ Bulls vs. EGN
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GTZ 
+ Bulls (0) vs. EGN Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220214T201500Z
+DTEND:20220214T211500Z
+SUMMARY:[Liga Portuguesa] EGN vs. KRM
+UID:liga_portuguesa-107417530554631177@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: EGN Esports vs. 
+ Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: EGN Esports (1) vs. Karma Clan Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220221T201500Z
+DTEND:20220221T211500Z
+SUMMARY:[Liga Portuguesa] OSC vs. EGN
+UID:liga_portuguesa-107417530554631179@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 6\nTeams: Odivelas Sports 
+ Club vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220214T190000Z
+DTEND:20220214T200000Z
+SUMMARY:[Liga Portuguesa] GTZ vs. FTW
+UID:liga_portuguesa-107417530554631185@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: GTZ Bulls vs. For
+  The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GTZ Bulls (1) vs. For The Win Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T190000Z
+DTEND:20220216T200000Z
+SUMMARY:[Liga Portuguesa] FTW vs. OSC
+UID:liga_portuguesa-107417530554631189@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: For The Win 
+ Esports vs. Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: For The Win Esports (1) vs. Odivelas Sports Club 
+ (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T213000Z
+DTEND:20220209T223000Z
+SUMMARY:[Liga Portuguesa] GTZ vs. WD
+UID:liga_portuguesa-107417530554631201@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: GTZ Bulls vs. 
+ White Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GTZ Bulls (0) vs. White Dragons (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T213000Z
+DTEND:20220216T223000Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. KRM
+UID:liga_portuguesa-107417530554631205@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: OFFSET Esports 
+ vs. Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: OFFSET Esports (0) vs. Karma Clan Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T201500Z
+DTEND:20220209T211500Z
+SUMMARY:[Liga Portuguesa] OSC vs. OFF7
+UID:liga_portuguesa-107417530554631209@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 4\nTeams: Odivelas Sports 
+ Club vs. OFFSET Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Odivelas Sports Club (0) vs. OFFSET Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220214T224500Z
+DTEND:20220214T234500Z
+SUMMARY:[Liga Portuguesa] WD vs. OSC
+UID:liga_portuguesa-107417530554631211@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: White Dragons vs.
+  Odivelas Sports Club\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: White Dragons (1) vs. Odivelas Sports Club (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220221T190000Z
+DTEND:20220221T200000Z
+SUMMARY:[Liga Portuguesa] WD vs. OFF7
+UID:liga_portuguesa-107417530554631213@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 6\nTeams: White Dragons vs.
+  OFFSET Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
 X-WR-CALNAME:Liga Portuguesa LOL Spielplan
