@@ -7546,9 +7546,10 @@ DTEND:20220221T013000Z
 SUMMARY:[LCS] CLG vs. TL
 UID:lcs-107458367241084549@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 3\nTeams: Counter Logic Gaming vs. Team
-  Liquid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Counter
+  Logic Gaming (0) vs. Team Liquid (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT

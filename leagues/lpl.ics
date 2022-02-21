@@ -10932,9 +10932,10 @@ DTEND:20220221T120000Z
 SUMMARY:[LPL] V5 vs. LGD
 UID:lpl-107417779634174206@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 6\nTeams: Victory Five vs. LGD 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Victory 
+ Five (2) vs. LGD Gaming (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT

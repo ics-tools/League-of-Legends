@@ -3515,9 +3515,10 @@ DTEND:20220221T120000Z
 SUMMARY:[LCK Challengers] KT vs. DK
 UID:lck_challengers_league-107559433600069818@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: kt Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (0) vs. DWG KIA Challengers (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3551,9 +3552,10 @@ DTEND:20220221T110000Z
 SUMMARY:[LCK Challengers] LSB vs. BRO
 UID:lck_challengers_league-107559433600135372@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: LSB Challengers 
- vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. BRO Challengers (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3562,9 +3564,10 @@ DTEND:20220221T100000Z
 SUMMARY:[LCK Challengers] HLE vs. GEN
 UID:lck_challengers_league-107559433600135378@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: HLE Challengers 
- vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. GEN Challengers (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3634,9 +3637,10 @@ DTEND:20220221T090000Z
 SUMMARY:[LCK Challengers] T1 vs. NS
 UID:lck_challengers_league-107559433600135418@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: T1 Challengers 
- vs. NS Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. NS Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (1) vs. NS Challengers (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 NAME:LCK Challengers Spielplan
