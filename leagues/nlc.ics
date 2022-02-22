@@ -2668,9 +2668,10 @@ DTEND:20220221T210000Z
 SUMMARY:[NLC] SNG vs. X7
 UID:nlc-107417432878728034@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Team Singularity vs. 
- X7\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ X7\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (0) vs. X7 (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2715,9 +2716,10 @@ DTEND:20220221T220000Z
 SUMMARY:[NLC] NKI vs. JDXL
 UID:nlc-107417432878793594@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Nyyrikki vs. JD|XL\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Nyyrikki (0) vs. JD|XL
+  (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2762,9 +2764,10 @@ DTEND:20220221T180000Z
 SUMMARY:[NLC] ASTL vs. DY
 UID:nlc-107417432878793612@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Astralis Talent vs. 
- Dusty\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Dusty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Astralis 
+ Talent (0) vs. Dusty (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2809,9 +2812,10 @@ DTEND:20220221T190000Z
 SUMMARY:[NLC] MNM vs. RDL
 UID:nlc-107417432878793628@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: MnM Gaming vs. RIDDLE\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: MnM Gaming (0) vs. 
+ RIDDLE (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2841,12 +2845,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220221T190000Z
 DTEND:20220221T200000Z
-SUMMARY:[NLC] BFR vs. VNR
+SUMMARY:[NLC] VNR vs. BFR
 UID:nlc-107417432878793640@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Bifrost vs. Vanir\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 7\nTeams: Vanir vs. Bifrost\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vanir (0) vs. Bifrost 
+ (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT

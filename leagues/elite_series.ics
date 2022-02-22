@@ -368,9 +368,10 @@ DTEND:20220221T190000Z
 SUMMARY:[Elite Series] 7AM vs. S1
 UID:elite_series-107563481239680537@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: Team 7AM vs. Sector 
- One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 7AM 
+ (0) vs. Sector One (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -388,12 +389,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220221T200000Z
 DTEND:20220221T210000Z
-SUMMARY:[Elite Series] GENK vs. KVM
+SUMMARY:[Elite Series] KVM vs. GENK
 UID:elite_series-107563481239680543@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: KRC Genk Esports vs.
-  KV Mechelen Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: KV Mechelen Esports 
+ vs. KRC Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (0) vs. KRC Genk Esports (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -486,9 +488,10 @@ DTEND:20220221T200000Z
 SUMMARY:[Elite Series] MCON vs. ION
 UID:elite_series-107563481239877183@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: mCon LG UltraGear 
- vs. ION SQUAD\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. ION SQUAD\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon LG UltraGear (0) vs. ION SQUAD (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -518,12 +521,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220221T210000Z
 DTEND:20220221T220000Z
-SUMMARY:[Elite Series] EZ vs. LION
+SUMMARY:[Elite Series] LION vs. EZ
 UID:elite_series-107563481239877179@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: Echo Zulu vs. 
- LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 6\nTeams: LowLandLions vs. 
+ Echo Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (1) vs. Echo Zulu (0)\n
 CREATED:20220221T013403Z
-LAST-MODIFIED:20220221T013403Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220221T013403Z
 END:VEVENT
 NAME:Elite Series Spielplan

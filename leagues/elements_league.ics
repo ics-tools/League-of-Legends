@@ -403,9 +403,10 @@ DTEND:20220222T010000Z
 SUMMARY:[Elements League] VAN vs. FUE
 UID:elements_league-107659745139428762@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Vandals Esports 
- vs. Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vandals Esports (1) vs. Fuego (0)\n
 CREATED:20220221T124756Z
-LAST-MODIFIED:20220221T124756Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220221T124756Z
 END:VEVENT
 BEGIN:VEVENT
@@ -418,6 +419,17 @@ DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Red Rooster vs.
 CREATED:20220221T124756Z
 LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220221T124756Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T030000Z
+DTEND:20220222T040000Z
+SUMMARY:[Elements League] JNS vs. GOT
+UID:elements_league-107659745139428766@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Janus Esports vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
 END:VEVENT
 NAME:Elements League Spielplan
 X-WR-CALNAME:Elements League Spielplan

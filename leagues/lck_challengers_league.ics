@@ -3492,9 +3492,10 @@ SUMMARY:[LCK Challengers] KDF vs. DRX
 UID:lck_challengers_league-107559433600069804@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: Kwangdong Freecs 
  Challengers vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. DRX 
+ Challengers (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3642,6 +3643,62 @@ DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: T1 Challengers
 CREATED:20220220T231233Z
 LAST-MODIFIED:20220221T124756Z
 DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T110000Z
+DTEND:20220222T120000Z
+SUMMARY:[LCK Challengers] HLE vs. DRX
+UID:lck_challengers_league-107559433600069800@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: HLE Challengers 
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T090000Z
+DTEND:20220222T100000Z
+SUMMARY:[LCK Challengers] LSB vs. DK
+UID:lck_challengers_league-107559433600069822@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: LSB Challengers 
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T080000Z
+DTEND:20220222T090000Z
+SUMMARY:[LCK Challengers] GEN vs. BRO
+UID:lck_challengers_league-107559433600069828@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: GEN Challengers 
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T100000Z
+DTEND:20220222T110000Z
+SUMMARY:[LCK Challengers] T1 vs. KT
+UID:lck_challengers_league-107559433600135406@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: T1 Challengers 
+ vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T120000Z
+DTEND:20220222T130000Z
+SUMMARY:[LCK Challengers] NS vs. KDF
+UID:lck_challengers_league-107559433600135410@lol.ics.tools
+DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: NS Challengers 
+ vs. Kwangdong Freecs Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220222T013439Z
 END:VEVENT
 NAME:LCK Challengers Spielplan
 X-WR-CALNAME:LCK Challengers Spielplan
