@@ -501,9 +501,9 @@ SUMMARY:[Honor League] SW vs. UC
 UID:entel_honor_leagu-107677841286697838@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Santiago 
  Wanderers vs. Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Santiago Wanderers (1) vs. Cruzados Esports (0)\n
 CREATED:20220221T124756Z
-LAST-MODIFIED:20220221T124756Z
+LAST-MODIFIED:20220222T124934Z
 DTSTAMP:20220221T124756Z
 END:VEVENT
 BEGIN:VEVENT
@@ -574,6 +574,29 @@ DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Rebirth Esports
 CREATED:20220222T013439Z
 LAST-MODIFIED:20220222T013439Z
 DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T000000Z
+DTEND:20220223T010000Z
+SUMMARY:[Honor League] FG vs. UC
+UID:entel_honor_leagu-107677841286763452@lol.ics.tools
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Furious Gaming 
+ vs. Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T010000Z
+DTEND:20220223T020000Z
+SUMMARY:[Honor League] WCE vs. SW
+UID:entel_honor_leagu-107677841286829074@lol.ics.tools
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Wolf Club 
+ Gaming vs. Santiago Wanderers\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T124934Z
 END:VEVENT
 NAME:Honor League Spielplan
 X-WR-CALNAME:Honor League Spielplan

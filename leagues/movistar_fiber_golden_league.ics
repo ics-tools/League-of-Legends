@@ -452,9 +452,10 @@ DTEND:20220222T020000Z
 SUMMARY:[Golden League] NOC vs. KOG
 UID:movistar_fiber_golden_league-107639438038238586@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: NOCTA vs. King of 
- Goats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Goats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NOCTA (1)
+  vs. King of Goats (0)\n
 CREATED:20220221T124756Z
-LAST-MODIFIED:20220221T124756Z
+LAST-MODIFIED:20220222T124934Z
 DTSTAMP:20220221T124756Z
 END:VEVENT
 BEGIN:VEVENT
@@ -463,21 +464,56 @@ DTEND:20220222T040000Z
 SUMMARY:[Golden League] MYN vs. KOG
 UID:movistar_fiber_golden_league-107639438038238588@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: Team Mayan eSports 
- vs. King of Goats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. King of Goats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Mayan eSports (0) vs. King of Goats (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220222T124934Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T020000Z
 DTEND:20220222T030000Z
-SUMMARY:[Golden League] NOC vs. BRR
+SUMMARY:[Golden League] BRR vs. NOC
 UID:movistar_fiber_golden_league-107639438038238600@lol.ics.tools
-DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: NOCTA vs. Braves 
- Rising\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: Braves Rising vs. 
+ NOCTA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Braves 
+ Rising (1) vs. NOCTA (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220222T124934Z
 DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T000000Z
+DTEND:20220223T010000Z
+SUMMARY:[Golden League] BRR vs. Z5
+UID:movistar_fiber_golden_league-107639438038238574@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: Braves Rising vs. 
+ Zeu5 Bogotá\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T010000Z
+DTEND:20220223T020000Z
+SUMMARY:[Golden League] NOC vs. AWK
+UID:movistar_fiber_golden_league-107639438038238594@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: NOCTA vs. Awake 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T020000Z
+DTEND:20220223T030000Z
+SUMMARY:[Golden League] ELR vs. BRR
+UID:movistar_fiber_golden_league-107639438038238604@lol.ics.tools
+DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: ELR Gaming vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T124934Z
 END:VEVENT
 NAME:Golden League Spielplan
 X-WR-CALNAME:Golden League Spielplan
