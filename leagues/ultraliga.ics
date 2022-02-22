@@ -2256,9 +2256,10 @@ DTEND:20220222T170000Z
 SUMMARY:[Ultraliga] Z10 vs. DV1
 UID:ultraliga-107416436274296522@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Zero Tenacity vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Zero
+  Tenacity (1) vs. Devils.One (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220222T183649Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2278,10 +2279,22 @@ DTEND:20220222T180000Z
 SUMMARY:[Ultraliga] FSK vs. WOLF
 UID:ultraliga-107416436274296576@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Forsaken vs. Topo 
- Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Forsaken (0) vs. Topo Centras Iron Wolves (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220222T183649Z
 DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T160000Z
+DTEND:20220223T170000Z
+SUMMARY:[Ultraliga] FSK vs. DV1
+UID:ultraliga-107416436274296534@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 7\nTeams: Forsaken vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220222T183649Z
+LAST-MODIFIED:20220222T183649Z
+DTSTAMP:20220222T183649Z
 END:VEVENT
 NAME:Ultraliga Spielplan
 X-WR-CALNAME:Ultraliga Spielplan

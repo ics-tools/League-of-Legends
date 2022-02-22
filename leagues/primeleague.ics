@@ -3409,9 +3409,10 @@ DTEND:20220222T180000Z
 SUMMARY:[Prime League] WAVE vs. GL
 UID:primeleague-107417741194085608@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Wave Esports vs. 
- GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wave Esports (0) vs. GamerLegion (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220222T183649Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT

@@ -2182,12 +2182,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T170000Z
 DTEND:20220222T180000Z
-SUMMARY:[Greek Legends League] RFS vs. HIVE
+SUMMARY:[Greek Legends League] HIVE vs. RFS
 UID:greek_legends-107575345395711629@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Team Refuse 
- vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Hive Athens 
+ EC vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Hive Athens EC (1) vs. Team Refuse (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220222T183649Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
