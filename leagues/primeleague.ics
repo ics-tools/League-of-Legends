@@ -3398,9 +3398,10 @@ DTEND:20220222T210000Z
 SUMMARY:[Prime League] PTA vs. EWI
 UID:primeleague-107417741194085586@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: PENTA 1860 vs. E WIE
-  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: PENTA 1860 (0) vs. E WIE EINFACH E-SPORTS (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3422,9 +3423,10 @@ SUMMARY:[Prime League] EINS vs. BIG
 UID:primeleague-107417741194085618@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Eintracht Spandau 
  vs. Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Eintracht Spandau (1) vs. Berlin International 
+ Gaming (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3433,21 +3435,23 @@ DTEND:20220222T190000Z
 SUMMARY:[Prime League] MOUZ vs. SKP
 UID:primeleague-107417741194151192@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Mousesports vs. SK 
- Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming Prime\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mousesports (0) vs. SK Gaming Prime (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T210000Z
 DTEND:20220222T220000Z
-SUMMARY:[Prime League] USE vs. S04
+SUMMARY:[Prime League] S04 vs. USE
 UID:primeleague-107417741194151204@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Unicorns of Love 
- Sexy Edition vs. Schalke 04\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Schalke 04 vs. 
+ Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Schalke 04 (1) vs. Unicorns of Love Sexy Edition 
+ (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 NAME:Prime League Spielplan

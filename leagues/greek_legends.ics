@@ -2158,25 +2158,27 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T180000Z
 DTEND:20220222T190000Z
-SUMMARY:[Greek Legends League] GSMC vs. ANO
+SUMMARY:[Greek Legends League] ANO vs. GSMC
 UID:greek_legends-107575345395711595@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Gamespace 
- Mediterranean College Esports vs. Anorthosis Famagusta Esports\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Anorthosis 
+ Famagusta Esports vs. Gamespace Mediterranean College Esports\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Anorthosis Famagusta 
+ Esports (1) vs. Gamespace Mediterranean College Esports (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T200000Z
 DTEND:20220222T210000Z
-SUMMARY:[Greek Legends League] TP vs. GOAL
+SUMMARY:[Greek Legends League] GOAL vs. TP
 UID:greek_legends-107575345395711613@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Team 
- Phantasma vs. Olympiacos Alimou esports\nSpiel-Strategie: bestOf 
- 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Olympiacos 
+ Alimou esports vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Olympiacos Alimou esports (0) vs. Team Phantasma 
+ (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2197,9 +2199,10 @@ DTEND:20220222T200000Z
 SUMMARY:[Greek Legends League] ZRL vs. WLG
 UID:greek_legends-107575345395777183@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 6\nTeams: Zerolag 
- Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports vs. We Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (0) vs. We Love Gaming (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 NAME:Greek Legends League Spielplan

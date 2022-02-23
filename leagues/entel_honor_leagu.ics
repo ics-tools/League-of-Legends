@@ -449,13 +449,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220208T210000Z
 DTEND:20220208T220000Z
-SUMMARY:[Honor League] WCE vs. MOX
+SUMMARY:[Honor League] MOX vs. WCE
 UID:entel_honor_leagu-107677841286763436@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Wolf Club 
- Gaming vs. Movistar Optix\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Wolf Club Gaming (0) vs. Movistar Optix (0)\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Movistar Optix 
+ vs. Wolf Club Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Optix (1) vs. Wolf Club Gaming (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -548,20 +548,22 @@ DTEND:20220222T220000Z
 SUMMARY:[Honor League] MAZ vs. DHX
 UID:entel_honor_leagu-107677841286763470@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Maze Gaming vs.
-  Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Maze Gaming (0) vs. Dark Horse (1)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220222T230000Z
 DTEND:20220223T000000Z
-SUMMARY:[Honor League] N5R vs. MG
+SUMMARY:[Honor League] MG vs. N5R
 UID:entel_honor_leagu-107677841286829048@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Newstar vs. 
- Meta Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Meta Gaming vs.
+  Newstar\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Meta 
+ Gaming (1) vs. Newstar (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -570,9 +572,10 @@ DTEND:20220222T230000Z
 SUMMARY:[Honor League] RBT vs. MOX
 UID:entel_honor_leagu-107677841286829058@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Rebirth Esports
-  vs. Movistar Optix\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Movistar Optix\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Rebirth Esports (1) vs. Movistar Optix (0)\n
 CREATED:20220222T013439Z
-LAST-MODIFIED:20220222T013439Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T013439Z
 END:VEVENT
 BEGIN:VEVENT
@@ -581,9 +584,10 @@ DTEND:20220223T010000Z
 SUMMARY:[Honor League] FG vs. UC
 UID:entel_honor_leagu-107677841286763452@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Furious Gaming 
- vs. Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Furious Gaming (1) vs. Cruzados Esports (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT

@@ -485,12 +485,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T000000Z
 DTEND:20220223T010000Z
-SUMMARY:[Golden League] BRR vs. Z5
+SUMMARY:[Golden League] Z5 vs. BRR
 UID:movistar_fiber_golden_league-107639438038238574@lol.ics.tools
-DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: Braves Rising vs. 
- Zeu5 Bogotá\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Golden League\nPhase: Woche 5\nTeams: Zeu5 Bogotá vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Zeu5 Bogotá (1) vs. Braves Rising (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T014417Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
