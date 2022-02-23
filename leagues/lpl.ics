@@ -11062,12 +11062,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T090000Z
 DTEND:20220223T120000Z
-SUMMARY:[LPL] UP vs. OMG
+SUMMARY:[LPL] OMG vs. UP
 UID:lpl-107417779634239806@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 6\nTeams: Ultra Prime vs. Oh My 
- God\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 6\nTeams: Oh My God vs. Ultra 
+ Prime\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Oh My God
+  (1) vs. Ultra Prime (2)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT

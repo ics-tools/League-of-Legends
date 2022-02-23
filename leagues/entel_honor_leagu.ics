@@ -593,13 +593,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T010000Z
 DTEND:20220223T020000Z
-SUMMARY:[Honor League] WCE vs. SW
+SUMMARY:[Honor League] SW vs. WCE
 UID:entel_honor_leagu-107677841286829074@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Wolf Club 
- Gaming vs. Santiago Wanderers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Santiago 
+ Wanderers vs. Wolf Club Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Santiago Wanderers (1) vs. Wolf Club Gaming (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 NAME:Honor League Spielplan

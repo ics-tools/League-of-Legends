@@ -2357,12 +2357,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T080000Z
 DTEND:20220223T090000Z
-SUMMARY:[LCO] PGG vs. ORD
+SUMMARY:[LCO] ORD vs. PGG
 UID:lco-107439320898324932@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: Pentanet.GG vs. ORDER\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: ORDER vs. Pentanet.GG\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (1) vs. 
+ Pentanet.GG (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2371,31 +2372,34 @@ DTEND:20220223T080000Z
 SUMMARY:[LCO] MEC vs. DW
 UID:lco-107439320898324940@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: MAMMOTH vs. Dire 
- Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
+ (0) vs. Dire Wolves (1)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T090000Z
 DTEND:20220223T100000Z
-SUMMARY:[LCO] PCE vs. CHF
+SUMMARY:[LCO] CHF vs. PCE
 UID:lco-107439320898324956@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: PEACE vs. The Chiefs\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: The Chiefs vs. PEACE\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: The Chiefs (1) vs. 
+ PEACE (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T100000Z
 DTEND:20220223T110000Z
-SUMMARY:[LCO] KNG vs. GRV
+SUMMARY:[LCO] GRV vs. KNG
 UID:lco-107439320898324952@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: Kanga Esports vs. 
- Gravitas\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 5\nTeams: Gravitas vs. Kanga 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravitas (0) vs. Kanga Esports (1)\n
 CREATED:20220222T183649Z
-LAST-MODIFIED:20220222T183649Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T183649Z
 END:VEVENT
 NAME:LCO Spielplan

@@ -7659,12 +7659,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T080000Z
 DTEND:20220223T110000Z
-SUMMARY:[LCK] KDF vs. KT
+SUMMARY:[LCK] KT vs. KDF
 UID:lck-107418445248279830@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Woche 6\nTeams: Kwangdong Freecs vs. kt 
- Rolster\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK\nPhase: Woche 6\nTeams: kt Rolster vs. Kwangdong 
+ Freecs\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: kt 
+ Rolster (0) vs. Kwangdong Freecs (2)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT

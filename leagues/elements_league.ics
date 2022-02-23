@@ -440,20 +440,22 @@ DTEND:20220223T020000Z
 SUMMARY:[Elements League] VAN vs. BAN
 UID:elements_league-107659745139428750@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Vandals Esports 
- vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vandals Esports (0) vs. Bandits (1)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220223T020000Z
 DTEND:20220223T030000Z
-SUMMARY:[Elements League] RRR vs. FUE
+SUMMARY:[Elements League] FUE vs. RRR
 UID:elements_league-107659745139428758@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Red Rooster vs. 
- Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Fuego vs. Red 
+ Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (1) vs. Red Rooster (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
@@ -462,9 +464,10 @@ DTEND:20220223T040000Z
 SUMMARY:[Elements League] GVE vs. GOT
 UID:elements_league-107659745139428764@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Gravity Elite vs.
-  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Goat Esports (0)\n
 CREATED:20220222T124934Z
-LAST-MODIFIED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
 DTSTAMP:20220222T124934Z
 END:VEVENT
 BEGIN:VEVENT
