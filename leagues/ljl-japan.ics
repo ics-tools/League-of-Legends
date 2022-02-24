@@ -5403,9 +5403,10 @@ DTEND:20220223T130000Z
 SUMMARY:[LJL] DFM vs. AXZ
 UID:ljl-japan-107455808282869673@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: DetonatioN FocusMe vs. 
- AXIZ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ AXIZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: DetonatioN
+  FocusMe (1) vs. AXIZ (0)\n
 CREATED:20220222T183649Z
-LAST-MODIFIED:20220222T183649Z
+LAST-MODIFIED:20220224T014250Z
 DTSTAMP:20220222T183649Z
 END:VEVENT
 BEGIN:VEVENT

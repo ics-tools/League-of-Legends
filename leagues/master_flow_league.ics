@@ -874,9 +874,9 @@ SUMMARY:[Master Flow League] LEV vs. BOC
 UID:master_flow_league-107728324360456208@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Leviatán 
  Esports vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Leviatán Esports (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220223T124906Z
-LAST-MODIFIED:20220223T124906Z
+LAST-MODIFIED:20220224T014251Z
 DTSTAMP:20220223T124906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -885,9 +885,10 @@ DTEND:20220223T230000Z
 SUMMARY:[Master Flow League] EBG vs. 9Z
 UID:master_flow_league-107728324360521760@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: eBRO Gaming 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ eBRO Gaming (0) vs. 9z Gaming (1)\n
 CREATED:20220223T124906Z
-LAST-MODIFIED:20220223T124906Z
+LAST-MODIFIED:20220224T014251Z
 DTSTAMP:20220223T124906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -896,9 +897,10 @@ DTEND:20220224T000000Z
 SUMMARY:[Master Flow League] EV vs. KRU
 UID:master_flow_league-107728324360521802@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Maycam Evolve 
- vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Maycam Evolve (0) vs. KRÜ Esports (1)\n
 CREATED:20220223T124906Z
-LAST-MODIFIED:20220223T124906Z
+LAST-MODIFIED:20220224T014251Z
 DTSTAMP:20220223T124906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -907,10 +909,22 @@ DTEND:20220223T220000Z
 SUMMARY:[Master Flow League] WAP vs. MVG
 UID:master_flow_league-107728324360587374@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Wap Esports 
- vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (0) vs. Malvinas Gaming (1)\n
 CREATED:20220223T124906Z
-LAST-MODIFIED:20220223T124906Z
+LAST-MODIFIED:20220224T014251Z
 DTSTAMP:20220223T124906Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T020000Z
+DTEND:20220224T030000Z
+SUMMARY:[Master Flow League] UBK vs. STM
+UID:master_flow_league-107728324360587396@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Undead BK vs. 
+ Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220224T014251Z
+LAST-MODIFIED:20220224T014251Z
+DTSTAMP:20220224T014251Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan

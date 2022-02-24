@@ -435,6 +435,40 @@ CREATED:20220220T231233Z
 LAST-MODIFIED:20220220T231233Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T000000Z
+DTEND:20220224T010000Z
+SUMMARY:[Volcano League] GSE vs. DSC
+UID:volcano_discover_league-107682708469908012@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: GeekSide Esports 
+ vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GeekSide Esports (0) vs.  Descuydado Esports (1)\n
+CREATED:20220224T014251Z
+LAST-MODIFIED:20220224T014251Z
+DTSTAMP:20220224T014251Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T030000Z
+DTEND:20220224T040000Z
+SUMMARY:[Volcano League] WS vs. SKC
+UID:volcano_discover_league-107682708469973556@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: Waia Snikt vs. 
+ Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220224T014251Z
+LAST-MODIFIED:20220224T014251Z
+DTSTAMP:20220224T014251Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T020000Z
+DTEND:20220224T030000Z
+SUMMARY:[Volcano League] GDP vs. ACS
+UID:volcano_discover_league-107682708470039104@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: God's Plan vs. 
+ AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220224T014251Z
+LAST-MODIFIED:20220224T014251Z
+DTSTAMP:20220224T014251Z
+END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan
 END:VCALENDAR
