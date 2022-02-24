@@ -2110,9 +2110,10 @@ DTEND:20220224T180000Z
 SUMMARY:[Hitpoint Masters] ING vs. BRT
 UID:hitpoint_masters-107597929688750289@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 6\nTeams: Inside Games vs.
-  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Inside 
+ Games (1) vs. BRUTE (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220224T183620Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT

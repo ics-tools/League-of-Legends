@@ -3128,12 +3128,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220224T170000Z
 DTEND:20220224T180000Z
-SUMMARY:[SuperLiga] BSO vs. UCAM
+SUMMARY:[SuperLiga] UCAM vs. BSO
 UID:superliga-107468241211150281@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Bisons Eclub vs. UCAM 
- Esports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: UCAM Esports Club vs. 
+ Bisons Eclub\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ UCAM Esports Club (0) vs. Bisons Eclub (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220224T183620Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
