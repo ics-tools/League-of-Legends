@@ -3772,9 +3772,10 @@ DTEND:20220225T060000Z
 SUMMARY:[LCK Challengers] NS vs. DRX
 UID:lck_challengers_league-107559433600069808@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: NS Challengers 
- vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (0) vs. DRX Challengers (1)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T183636Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3783,9 +3784,10 @@ DTEND:20220225T060000Z
 SUMMARY:[LCK Challengers] T1 vs. DK
 UID:lck_challengers_league-107559433600069826@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: T1 Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (0) vs. DWG KIA Challengers (1)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T183636Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3794,9 +3796,10 @@ DTEND:20220225T060000Z
 SUMMARY:[LCK Challengers] KT vs. BRO
 UID:lck_challengers_league-107559433600135368@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: kt Challengers 
- vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: kt Challengers (1) vs. BRO Challengers (0)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T183636Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3806,9 +3809,10 @@ SUMMARY:[LCK Challengers] KDF vs. GEN
 UID:lck_challengers_league-107559433600135382@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: Kwangdong Freecs 
  Challengers vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. GEN 
+ Challengers (1)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T183636Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3817,9 +3821,10 @@ DTEND:20220225T060000Z
 SUMMARY:[LCK Challengers] LSB vs. HLE
 UID:lck_challengers_league-107559433600135394@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 6\nTeams: LSB Challengers 
- vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. HLE Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (0) vs. HLE Challengers (1)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T183636Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 NAME:LCK Challengers Spielplan
