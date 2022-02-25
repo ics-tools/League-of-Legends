@@ -5452,9 +5452,10 @@ DTEND:20220225T100000Z
 SUMMARY:[LJL] AXZ vs. SG
 UID:ljl-japan-107455808282869679@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: AXIZ vs. Sengoku 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AXIZ (0)
+  vs. Sengoku Gaming (1)\n
 CREATED:20220224T183620Z
-LAST-MODIFIED:20220224T183620Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T183620Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5463,9 +5464,10 @@ DTEND:20220225T120000Z
 SUMMARY:[LJL] DFM vs. BC
 UID:ljl-japan-107455808282935221@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: DetonatioN FocusMe vs. 
- Burning Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Burning Core\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (1) vs. Burning Core (0)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5482,12 +5484,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220225T100000Z
 DTEND:20220225T110000Z
-SUMMARY:[LJL] V3 vs. SHG
+SUMMARY:[LJL] SHG vs. V3
 UID:ljl-japan-107455808283000789@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: V3 Esports vs. Fukuoka 
- SoftBank HAWKS gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: Fukuoka SoftBank HAWKS gaming
+  vs. V3 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Fukuoka SoftBank HAWKS gaming (1) vs. V3 Esports (0)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 NAME:LJL Spielplan

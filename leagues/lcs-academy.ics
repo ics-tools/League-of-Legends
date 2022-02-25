@@ -7744,9 +7744,10 @@ DTEND:20220225T030000Z
 SUMMARY:[LCS Academy] TL vs. FLY
 UID:lcs-academy-107424951278647386@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 6\nTeams: TL Academy vs. FLY 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TL 
+ Academy (2) vs. FLY Academy (0)\n
 CREATED:20220224T124932Z
-LAST-MODIFIED:20220224T124932Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T124932Z
 END:VEVENT
 NAME:LCS Academy Spielplan

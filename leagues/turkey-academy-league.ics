@@ -5197,9 +5197,11 @@ DTEND:20220224T170000Z
 SUMMARY:[TAL] BJK vs. FB
 UID:turkey-academy-league-107566682549054983@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Beşiktaş Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (0) vs. Fenerbahçe Espor Akademi 
+ (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5209,9 +5211,10 @@ SUMMARY:[TAL] SMB vs. 5R
 UID:turkey-academy-league-107566682549055011@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Papara SuperMassive Blaze 
  Akademi vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) vs. 5 Ronin 
+ Akademi (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5220,9 +5223,11 @@ DTEND:20220224T160000Z
 SUMMARY:[TAL] GS vs. DP
 UID:turkey-academy-league-107566682549120569@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Galatasaray Espor Akademi vs.
-  Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (0) vs. Dark Passage 
+ Akademi (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5231,9 +5236,11 @@ DTEND:20220224T150000Z
 SUMMARY:[TAL] GAL vs. IW
 UID:turkey-academy-league-107566682549120577@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: GALAKTICOS Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (0) vs. fastPay Wildcats Akademi
+  (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5242,9 +5249,10 @@ DTEND:20220224T180000Z
 SUMMARY:[TAL] AUR vs. NSR
 UID:turkey-academy-league-107566682549120603@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. NASR 
- ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Team Aurora Akademi (0) vs. NASR ESPORTS Akademi (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T124804Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
