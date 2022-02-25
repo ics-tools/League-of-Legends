@@ -3059,9 +3059,10 @@ DTEND:20220224T210000Z
 SUMMARY:[La Ligue Française] LDLC vs. KC
 UID:lfl-107468370561192044@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: LDLC OL vs. 
- Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LDLC OL (0) vs. Karmine Corp (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3082,9 +3083,10 @@ DTEND:20220224T220000Z
 SUMMARY:[La Ligue Française] OPL vs. GO
 UID:lfl-107468370561192070@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team Oplon vs.
-  GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Oplon (0) vs. GamersOrigin (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3093,20 +3095,22 @@ DTEND:20220224T200000Z
 SUMMARY:[La Ligue Française] BDSA vs. VITB
 UID:lfl-107468370561192090@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Team BDS 
- Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Academy vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team BDS Academy (0) vs. Vitality.Bee (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220224T180000Z
 DTEND:20220224T190000Z
-SUMMARY:[La Ligue Française] ME vs. SLY
+SUMMARY:[La Ligue Française] SLY vs. ME
 UID:lfl-107468370561257638@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Mirage-
- Elyandra vs. Solary\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 7\nTeams: Solary vs. 
+ Mirage-Elyandra\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Solary (1) vs. Mirage-Elyandra (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 NAME:La Ligue Française Spielplan

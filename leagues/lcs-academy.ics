@@ -7684,9 +7684,10 @@ DTEND:20220225T010000Z
 SUMMARY:[LCS Academy] EG vs. 100
 UID:lcs-academy-107424951278647320@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 6\nTeams: EG Academy vs. 100 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: EG 
+ Academy (1) vs. 100 Academy (1)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220224T063701Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7707,9 +7708,10 @@ DTEND:20220224T230000Z
 SUMMARY:[LCS Academy] CLG vs. C9
 UID:lcs-academy-107424951278647332@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 6\nTeams: CLG Academy vs. C9 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: CLG 
+ Academy (1) vs. C9 Academy (1)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220224T063701Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7718,9 +7720,10 @@ DTEND:20220225T010000Z
 SUMMARY:[LCS Academy] GG vs. DIG
 UID:lcs-academy-107424951278647372@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 6\nTeams: GG Academy vs. DIG 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: GG 
+ Academy (2) vs. DIG Academy (0)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220224T063701Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7729,9 +7732,10 @@ DTEND:20220224T230000Z
 SUMMARY:[LCS Academy] TSM vs. IMT
 UID:lcs-academy-107424951278647394@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 6\nTeams: TSM Academy vs. IMT 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: TSM 
+ Academy (1) vs. IMT Academy (1)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220224T063701Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT

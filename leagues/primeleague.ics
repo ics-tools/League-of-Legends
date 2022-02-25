@@ -3457,23 +3457,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220224T200000Z
 DTEND:20220224T210000Z
-SUMMARY:[Prime League] MOUZ vs. EWI
+SUMMARY:[Prime League] EWI vs. MOUZ
 UID:primeleague-107417741194085596@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Mousesports vs. E 
- WIE EINFACH E-SPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: E WIE EINFACH 
+ E-SPORTS vs. Mousesports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: E WIE EINFACH E-SPORTS (0) vs. Mousesports (1)\n
 CREATED:20220224T014250Z
-LAST-MODIFIED:20220224T014250Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014250Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220224T190000Z
 DTEND:20220224T200000Z
-SUMMARY:[Prime League] S04 vs. GL
+SUMMARY:[Prime League] GL vs. S04
 UID:primeleague-107417741194085610@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Schalke 04 vs. 
- GamerLegion\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: GamerLegion vs. 
+ Schalke 04\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GamerLegion (0) vs. Schalke 04 (1)\n
 CREATED:20220224T014250Z
-LAST-MODIFIED:20220224T014250Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014250Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3483,21 +3485,23 @@ SUMMARY:[Prime League] PTA vs. BIG
 UID:primeleague-107417741194085616@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: PENTA 1860 vs. 
  Berlin International Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: PENTA 1860 (1) vs. Berlin International Gaming 
+ (0)\n
 CREATED:20220224T014250Z
-LAST-MODIFIED:20220224T014250Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014250Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220224T210000Z
 DTEND:20220224T220000Z
-SUMMARY:[Prime League] USE vs. EINS
+SUMMARY:[Prime League] EINS vs. USE
 UID:primeleague-107417741194151186@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Unicorns of Love 
- Sexy Edition vs. Eintracht Spandau\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Woche 7\nTeams: Eintracht Spandau 
+ vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Eintracht Spandau (1) vs. Unicorns of Love Sexy 
+ Edition (0)\n
 CREATED:20220224T014250Z
-LAST-MODIFIED:20220224T014250Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014250Z
 END:VEVENT
 BEGIN:VEVENT

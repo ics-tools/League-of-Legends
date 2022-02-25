@@ -3098,9 +3098,10 @@ DTEND:20220224T190000Z
 SUMMARY:[SuperLiga] KOI vs. G2AR
 UID:superliga-107468241211084683@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Finetwork KOI vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Finetwork KOI (0) vs. G2 Arctic (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3109,9 +3110,10 @@ DTEND:20220224T210000Z
 SUMMARY:[SuperLiga] FNTQ vs. GIA
 UID:superliga-107468241211084689@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: FnaticTQ vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ
+  (1) vs. Giants (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3120,9 +3122,10 @@ DTEND:20220224T200000Z
 SUMMARY:[SuperLiga] MRS vs. MADM
 UID:superliga-107468241211150241@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Movistar Riders vs. MAD
-  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Riders (1) vs. MAD Lions Madrid (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3143,9 +3146,10 @@ DTEND:20220224T220000Z
 SUMMARY:[SuperLiga] BAR vs. HRTS
 UID:superliga-107468241211150283@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Barça Esports vs. Team 
- Heretics\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Heretics\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Barça 
+ Esports (1) vs. Team Heretics (0)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220224T014251Z
+LAST-MODIFIED:20220225T014147Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 NAME:SuperLiga Spielplan
