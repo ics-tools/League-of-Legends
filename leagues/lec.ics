@@ -7916,9 +7916,10 @@ DTEND:20220226T180000Z
 SUMMARY:[LEC] SK vs. AST
 UID:lec-107417059263365755@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 7\nTeams: SK Gaming vs. 
- Astralis\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Astralis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming (0) vs. Astralis (1)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220225T183636Z
+LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7927,9 +7928,10 @@ DTEND:20220226T170000Z
 SUMMARY:[LEC] MSF vs. VIT
 UID:lec-107417059263431355@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 7\nTeams: Misfits Gaming vs. Team 
- Vitality\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Vitality\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Misfits Gaming (0) vs. Team Vitality (1)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT

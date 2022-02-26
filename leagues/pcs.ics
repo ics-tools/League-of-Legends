@@ -2980,9 +2980,10 @@ DTEND:20220226T140000Z
 SUMMARY:[PCS] FAK vs. MFT
 UID:pcs-107693721182735764@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. Meta Falcon
-  Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (1) vs. Meta Falcon Team (0)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220225T183636Z
+LAST-MODIFIED:20220226T183452Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT

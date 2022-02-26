@@ -7746,9 +7746,10 @@ DTEND:20220226T140000Z
 SUMMARY:[LCK] T1 vs. HLE
 UID:lck-107418445248279826@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Woche 6\nTeams: T1 vs. Hanwha Life 
- Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: T1 (2) 
+ vs. Hanwha Life Esports (0)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT

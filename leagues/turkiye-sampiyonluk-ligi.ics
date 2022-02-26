@@ -7367,12 +7367,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T120000Z
 DTEND:20220226T130000Z
-SUMMARY:[TCL] GS vs. DP
+SUMMARY:[TCL] DP vs. GS
 UID:turkiye-sampiyonluk-ligi-107566458490449279@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Galatasaray Espor vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Dark Passage vs. Galatasaray 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Galatasaray Espor (0)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T183452Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7393,9 +7394,10 @@ DTEND:20220226T140000Z
 SUMMARY:[TCL] FB vs. BJK
 UID:turkiye-sampiyonluk-ligi-107566458490449229@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Beşiktaş (1)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220226T183452Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7404,9 +7406,10 @@ DTEND:20220226T160000Z
 SUMMARY:[TCL] 5R vs. SMB
 UID:turkiye-sampiyonluk-ligi-107566458490449257@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 5 Ronin vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin (0) vs. Papara SuperMassive Blaze (1)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220226T183452Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7415,9 +7418,10 @@ DTEND:20220226T150000Z
 SUMMARY:[TCL] AUR vs. NSR
 UID:turkiye-sampiyonluk-ligi-107566458490449313@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. NASR 
- ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (1) vs. NASR ESPORTS (0)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220225T183636Z
+LAST-MODIFIED:20220226T183452Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7452,6 +7456,28 @@ DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Galatasaray Espor vs.
 CREATED:20220226T124548Z
 LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220226T124548Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220227T150000Z
+DTEND:20220227T160000Z
+SUMMARY:[TCL] AUR vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490449273@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220226T183452Z
+LAST-MODIFIED:20220226T183452Z
+DTSTAMP:20220226T183452Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220227T140000Z
+DTEND:20220227T150000Z
+SUMMARY:[TCL] NSR vs. DP
+UID:turkiye-sampiyonluk-ligi-107566458490449281@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: NASR ESPORTS vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220226T183452Z
+LAST-MODIFIED:20220226T183452Z
+DTSTAMP:20220226T183452Z
 END:VEVENT
 NAME:TCL Spielplan
 X-WR-CALNAME:TCL Spielplan

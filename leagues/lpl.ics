@@ -11149,9 +11149,10 @@ DTEND:20220226T140000Z
 SUMMARY:[LPL] TES vs. EDG
 UID:lpl-107417779634108478@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 6\nTeams: Top Esports vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Top 
+ Esports (2) vs. Edward Gaming (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -11160,9 +11161,10 @@ DTEND:20220226T120000Z
 SUMMARY:[LPL] WBG vs. OMG
 UID:lpl-107417779634239814@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 6\nTeams: Weibo Gaming vs. Oh My 
- God\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ God\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (2) vs. Oh My God (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
