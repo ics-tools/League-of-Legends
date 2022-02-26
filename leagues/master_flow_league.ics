@@ -1013,23 +1013,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220225T210000Z
 DTEND:20220225T220000Z
-SUMMARY:[Master Flow League] EBG vs. BOC
+SUMMARY:[Master Flow League] BOC vs. EBG
 UID:master_flow_league-107728324360456204@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: eBRO Gaming 
- vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Boca Juniors 
+ Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boca Juniors Gaming (0) vs. eBRO Gaming (1)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T013258Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220225T230000Z
 DTEND:20220226T000000Z
-SUMMARY:[Master Flow League] PAM vs. KRU
+SUMMARY:[Master Flow League] KRU vs. PAM
 UID:master_flow_league-107728324360521808@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Ualá Pampas 
- vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: KRÜ Esports 
+ vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  KRÜ Esports (0) vs. Ualá Pampas (1)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T013258Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,20 +1040,22 @@ DTEND:20220225T230000Z
 SUMMARY:[Master Flow League] STM vs. MVG
 UID:master_flow_league-107728324360587368@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Stone Movistar
-  vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. Malvinas Gaming (0)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T013258Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T000000Z
 DTEND:20220226T010000Z
-SUMMARY:[Master Flow League] UBK vs. EV
+SUMMARY:[Master Flow League] EV vs. UBK
 UID:master_flow_league-107728324360587382@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Undead BK vs. 
- Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Maycam Evolve 
+ vs. Undead BK\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Maycam Evolve (0) vs. Undead BK (1)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T013258Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT

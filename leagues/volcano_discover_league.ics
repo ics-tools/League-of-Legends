@@ -486,12 +486,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T000000Z
 DTEND:20220226T010000Z
-SUMMARY:[Volcano League] ACS vs. DSC
+SUMMARY:[Volcano League] DSC vs. ACS
 UID:volcano_discover_league-107682708469908006@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: AceS GaminG vs.  
- Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams:  Descuydado 
+ Esports vs. AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse:  Descuydado Esports (1) vs. AceS GaminG (0)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T013258Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
