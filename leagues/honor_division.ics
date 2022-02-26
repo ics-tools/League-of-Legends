@@ -704,20 +704,22 @@ DTEND:20220226T030000Z
 SUMMARY:[Honor Division] ZLT vs. ATH
 UID:honor_division-107593829779689637@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 6\nTeams: Zylant Esports vs.
-  Atheris Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+  Atheris Esports\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Zylant Esports (0) vs. Atheris Esports (2)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220225T014147Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T020000Z
 DTEND:20220226T050000Z
-SUMMARY:[Honor Division] 2MR vs. ARTC
+SUMMARY:[Honor Division] ARTC vs. 2MR
 UID:honor_division-107593829779689657@lol.ics.tools
-DESCRIPTION:Liga: Honor Division\nPhase: Woche 6\nTeams: Tomorrow Esports 
- vs. Arctic Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 6\nTeams: Arctic Gaming vs. 
+ Tomorrow Esports\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Arctic Gaming (0) vs. Tomorrow Esports (2)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 NAME:Honor Division Spielplan

@@ -498,23 +498,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T010000Z
 DTEND:20220226T020000Z
-SUMMARY:[Volcano League] GDP vs. PD
+SUMMARY:[Volcano League] PD vs. GDP
 UID:volcano_discover_league-107682708469973562@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: God's Plan vs. 
- Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: Pirate Dream vs. 
+ God's Plan\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pirate Dream (0) vs. God's Plan (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T020000Z
 DTEND:20220226T030000Z
-SUMMARY:[Volcano League] GSE vs. ACS
+SUMMARY:[Volcano League] ACS vs. GSE
 UID:volcano_discover_league-107682708470039108@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: GeekSide Esports 
- vs. AceS GaminG\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 5\nTeams: AceS GaminG vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: AceS GaminG (0) vs. GeekSide Esports (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan

@@ -1064,9 +1064,10 @@ DTEND:20220226T020000Z
 SUMMARY:[Master Flow League] WAP vs. 9Z
 UID:master_flow_league-107728324360521778@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Wap Esports 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wap Esports (0) vs. 9z Gaming (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,9 +1077,9 @@ SUMMARY:[Master Flow League] RIV vs. LEV
 UID:master_flow_league-107728324360521818@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: River Plate 
  Gaming vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: River Plate Gaming (0) vs. Leviatán Esports (1)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 NAME:Master Flow League Spielplan

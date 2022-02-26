@@ -505,24 +505,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T010000Z
 DTEND:20220226T020000Z
-SUMMARY:[Stars League] CCC vs. INC
+SUMMARY:[Stars League] INC vs. CCC
 UID:claro_gaming_stars_league-107651193187403571@lol.ics.tools
-DESCRIPTION:Liga: Stars League\nPhase: Woche 6\nTeams: Cienciano vs. 
- Incubus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Stars League\nPhase: Woche 6\nTeams: Incubus vs. 
+ Cienciano\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Incubus (1) vs. Cienciano (0)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220226T020000Z
 DTEND:20220226T030000Z
-SUMMARY:[Stars League] DVE vs. CDM
+SUMMARY:[Stars League] CDM vs. DVE
 UID:claro_gaming_stars_league-107651193187403581@lol.ics.tools
-DESCRIPTION:Liga: Stars League\nPhase: Woche 6\nTeams: Deliverance Esports 
- vs. Club Deportivo Municipal\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Stars League\nPhase: Woche 6\nTeams: Club Deportivo 
+ Municipal vs. Deliverance Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Club Deportivo Municipal (1) vs. Deliverance 
+ Esports (0)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220226T124548Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 NAME:Stars League Spielplan
