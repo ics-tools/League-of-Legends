@@ -2992,9 +2992,10 @@ DTEND:20220227T100000Z
 SUMMARY:[PCS] MFT vs. JT
 UID:pcs-107693721182735722@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. Taipei J
-  Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Meta 
+ Falcon Team (0) vs. Taipei J Team (1)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3003,9 +3004,10 @@ DTEND:20220227T130000Z
 SUMMARY:[PCS] IMP vs. HG
 UID:pcs-107693721182735750@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Impunity Esports vs. 
- Hurricane Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Hurricane Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Impunity Esports (1) vs. Hurricane Gaming (0)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3014,9 +3016,10 @@ DTEND:20220227T120000Z
 SUMMARY:[PCS] FAK vs. S9
 UID:pcs-107693721182735760@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. 
- SEM9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (1) vs. SEM9 (0)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3025,9 +3028,11 @@ DTEND:20220227T110000Z
 SUMMARY:[PCS] BYG vs. CFO
 UID:pcs-107693721182735776@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
- CTBC Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ CTBC Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mega Bank Beyond Gaming (1) vs. CTBC Flying Oyster 
+ (0)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 NAME:PCS Spielplan

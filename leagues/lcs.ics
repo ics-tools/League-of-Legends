@@ -7789,9 +7789,9 @@ SUMMARY:[LCS] EG vs. FLY
 UID:lcs-107458367241084567@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Evil Geniuses vs. 
  FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
- Geniuses (0) vs. FlyQuest (0)\n
+ Geniuses (1) vs. FlyQuest (0)\n
 CREATED:20220225T124804Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220225T124804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7836,9 +7836,10 @@ DTEND:20220227T023000Z
 SUMMARY:[LCS] FLY vs. IMT
 UID:lcs-107458367241084575@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: FlyQuest vs. Immortals 
- Progressive\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Progressive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (0) vs. Immortals Progressive (1)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7847,9 +7848,10 @@ DTEND:20220227T033000Z
 SUMMARY:[LCS] EG vs. GG
 UID:lcs-107458367241084577@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 4\nTeams: Evil Geniuses vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Guardians\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
+ Geniuses (1) vs. Golden Guardians (0)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT

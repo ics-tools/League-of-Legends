@@ -5497,12 +5497,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220227T120000Z
 DTEND:20220227T130000Z
-SUMMARY:[LJL] BC vs. AXZ
+SUMMARY:[LJL] AXZ vs. BC
 UID:ljl-japan-107455808283000797@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: Burning Core vs. AXIZ\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: AXIZ vs. Burning Core\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: AXIZ (0) vs. Burning 
+ Core (1)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5511,9 +5512,11 @@ DTEND:20220227T120000Z
 SUMMARY:[LJL] SHG vs. CGA
 UID:ljl-japan-107455808283066361@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: Fukuoka SoftBank HAWKS gaming
-  vs. Crest Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Crest Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fukuoka SoftBank HAWKS gaming (0) vs. Crest Gaming 
+ Act (1)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5522,20 +5525,22 @@ DTEND:20220227T100000Z
 SUMMARY:[LJL] DFM vs. V3
 UID:ljl-japan-107455808283066375@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: DetonatioN FocusMe vs. V3 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (1) vs. V3 Esports (0)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220227T100000Z
 DTEND:20220227T110000Z
-SUMMARY:[LJL] SG vs. RJ
+SUMMARY:[LJL] RJ vs. SG
 UID:ljl-japan-107455808283066383@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: Sengoku Gaming vs. Rascal 
- Jester\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 3\nTeams: Rascal Jester vs. Sengoku 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Rascal 
+ Jester (1) vs. Sengoku Gaming (0)\n
 CREATED:20220226T124548Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220227T183916Z
 DTSTAMP:20220226T124548Z
 END:VEVENT
 NAME:LJL Spielplan
