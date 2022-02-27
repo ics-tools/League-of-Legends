@@ -7940,9 +7940,10 @@ DTEND:20220226T190000Z
 SUMMARY:[LEC] XL vs. RGE
 UID:lec-107417059263365769@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 7\nTeams: EXCEL vs. Rogue\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: EXCEL (0) vs. Rogue 
+ (1)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7951,9 +7952,10 @@ DTEND:20220226T210000Z
 SUMMARY:[LEC] FNC vs. MAD
 UID:lec-107417059263365779@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 7\nTeams: Fnatic vs. MAD Lions\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fnatic (1) vs. MAD 
+ Lions (0)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7962,9 +7964,10 @@ DTEND:20220226T200000Z
 SUMMARY:[LEC] G2 vs. BDS
 UID:lec-107417059263365799@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 7\nTeams: G2 Esports vs. Team 
- BDS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 Esports 
+ (1) vs. Team BDS (0)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 NAME:LEC Spielplan

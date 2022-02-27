@@ -6047,9 +6047,10 @@ DTEND:20220226T220000Z
 SUMMARY:[Liga Latinoamérica] GET vs. R7
 UID:lla-107530554768938909@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Globant 
- Emerald Team vs. Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Emerald Team vs. Rainbow7 \nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (0) vs. Rainbow7  (1)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T013258Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6058,9 +6059,10 @@ DTEND:20220226T210000Z
 SUMMARY:[Liga Latinoamérica] AZE vs. AK
 UID:lla-107530554768938917@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Team Aze vs. 
- All Knights\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ All Knights\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Aze (1) vs. All Knights (0)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T013258Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6069,9 +6071,10 @@ DTEND:20220227T000000Z
 SUMMARY:[Liga Latinoamérica] EST vs. XTN
 UID:lla-107530554768938925@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Estral Esports
-  vs. XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Estral Esports (1) vs. XTEN Esports (0)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T013258Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6080,9 +6083,10 @@ DTEND:20220226T230000Z
 SUMMARY:[Liga Latinoamérica] ISG vs. INF
 UID:lla-107530554769004487@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Isurus vs. 
- INFINITY\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ INFINITY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Isurus
+  (0) vs. INFINITY (1)\n
 CREATED:20220226T013258Z
-LAST-MODIFIED:20220226T013258Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013258Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6106,6 +6110,28 @@ DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: XTEN Esports
 CREATED:20220226T183451Z
 LAST-MODIFIED:20220226T183451Z
 DTSTAMP:20220226T183451Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220227T230000Z
+DTEND:20220228T000000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. AZE
+UID:lla-107530554768938921@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Rainbow7  vs. 
+ Team Aze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220227T014102Z
+LAST-MODIFIED:20220227T014102Z
+DTSTAMP:20220227T014102Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220227T220000Z
+DTEND:20220227T230000Z
+SUMMARY:[Liga Latinoamérica] AK vs. EST
+UID:lla-107530554769004471@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: All Knights 
+ vs. Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220227T014102Z
+LAST-MODIFIED:20220227T014102Z
+DTSTAMP:20220227T014102Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan

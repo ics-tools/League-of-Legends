@@ -7087,9 +7087,10 @@ DTEND:20220226T210000Z
 SUMMARY:[CBLOL] NMG vs. ITZ
 UID:cblol-brazil-107405837336966059@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: Netshoes Miners vs. 
- INTZ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ INTZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Netshoes 
+ Miners (1) vs. INTZ (0)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7098,9 +7099,10 @@ DTEND:20220226T200000Z
 SUMMARY:[CBLOL] KBM vs. PNG
 UID:cblol-brazil-107405837336966073@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: KaBuM! Esports vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM! 
+ Esports (0) vs. paiN Gaming (1)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7121,9 +7123,10 @@ DTEND:20220226T190000Z
 SUMMARY:[CBLOL] RNS vs. LBR
 UID:cblol-brazil-107405837337031645@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 6\nTeams: RENSGA vs. Liberty\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA (1) vs. Liberty
+  (0)\n
 CREATED:20220226T013257Z
-LAST-MODIFIED:20220226T013257Z
+LAST-MODIFIED:20220227T014102Z
 DTSTAMP:20220226T013257Z
 END:VEVENT
 BEGIN:VEVENT
