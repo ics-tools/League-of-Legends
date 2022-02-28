@@ -11221,9 +11221,10 @@ DTEND:20220228T120000Z
 SUMMARY:[LPL] WE vs. RA
 UID:lpl-107417779634239822@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Team WE vs. Rare Atom\nSpiel-
- Strategie: bestOf 3\nStatus: unstarted\n
+ Strategie: bestOf 3\nStatus: completed\nErgebnisse: Team WE (0) vs. Rare 
+ Atom (2)\n
 CREATED:20220227T014102Z
-LAST-MODIFIED:20220227T014102Z
+LAST-MODIFIED:20220228T124906Z
 DTSTAMP:20220227T014102Z
 END:VEVENT
 BEGIN:VEVENT
