@@ -6095,9 +6095,10 @@ DTEND:20220227T220000Z
 SUMMARY:[Liga Latinoamérica] INF vs. GET
 UID:lla-107530554768938907@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: INFINITY vs. 
- Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: INFINITY (1) vs. Globant Emerald Team (0)\n
 CREATED:20220226T183451Z
-LAST-MODIFIED:20220226T183451Z
+LAST-MODIFIED:20220228T014118Z
 DTSTAMP:20220226T183451Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6106,9 +6107,10 @@ DTEND:20220227T210000Z
 SUMMARY:[Liga Latinoamérica] XTN vs. ISG
 UID:lla-107530554769004469@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: XTEN Esports 
- vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: XTEN
+  Esports (1) vs. Isurus (0)\n
 CREATED:20220226T183451Z
-LAST-MODIFIED:20220226T183451Z
+LAST-MODIFIED:20220228T014118Z
 DTSTAMP:20220226T183451Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6117,9 +6119,10 @@ DTEND:20220228T000000Z
 SUMMARY:[Liga Latinoamérica] R7 vs. AZE
 UID:lla-107530554768938921@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: Rainbow7  vs. 
- Team Aze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Team Aze\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Rainbow7  (1) vs. Team Aze (0)\n
 CREATED:20220227T014102Z
-LAST-MODIFIED:20220227T014102Z
+LAST-MODIFIED:20220228T014118Z
 DTSTAMP:20220227T014102Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6128,9 +6131,10 @@ DTEND:20220227T230000Z
 SUMMARY:[Liga Latinoamérica] AK vs. EST
 UID:lla-107530554769004471@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 5\nTeams: All Knights 
- vs. Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Estral Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: All Knights (1) vs. Estral Esports (0)\n
 CREATED:20220227T014102Z
-LAST-MODIFIED:20220227T014102Z
+LAST-MODIFIED:20220228T014118Z
 DTSTAMP:20220227T014102Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
