@@ -2953,12 +2953,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T170000Z
 DTEND:20220228T180000Z
-SUMMARY:[NLC] DY vs. X7
+SUMMARY:[NLC] X7 vs. DY
 UID:nlc-107417432878728032@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Dusty vs. X7\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: X7 vs. Dusty\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: X7 (1) vs. Dusty (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2967,9 +2967,10 @@ DTEND:20220228T190000Z
 SUMMARY:[NLC] SNG vs. JDXL
 UID:nlc-107417432878793586@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Team Singularity vs. 
- JD|XL\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ JD|XL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Singularity (0) vs. JD|XL (1)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2978,9 +2979,10 @@ DTEND:20220228T200000Z
 SUMMARY:[NLC] BFR vs. RDL
 UID:nlc-107417432878793632@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Bifrost vs. RIDDLE\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bifrost (1) vs. RIDDLE
+  (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2989,20 +2991,22 @@ DTEND:20220228T220000Z
 SUMMARY:[NLC] ASTL vs. VNR
 UID:nlc-107417432878793642@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Astralis Talent vs. 
- Vanir\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Vanir\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Astralis 
+ Talent (0) vs. Vanir (1)\n
 CREATED:20220228T014118Z
-LAST-MODIFIED:20220228T014118Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014118Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T200000Z
 DTEND:20220228T210000Z
-SUMMARY:[NLC] NKI vs. MNM
+SUMMARY:[NLC] MNM vs. NKI
 UID:nlc-107417432878793644@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: Nyyrikki vs. MnM 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 8\nTeams: MnM Gaming vs. 
+ Nyyrikki\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MnM 
+ Gaming (0) vs. Nyyrikki (1)\n
 CREATED:20220228T014118Z
-LAST-MODIFIED:20220228T014118Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014118Z
 END:VEVENT
 NAME:NLC Spielplan

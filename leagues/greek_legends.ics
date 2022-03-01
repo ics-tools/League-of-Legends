@@ -2208,13 +2208,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T180000Z
 DTEND:20220228T190000Z
-SUMMARY:[Greek Legends League] HIVE vs. ANO
+SUMMARY:[Greek Legends League] ANO vs. HIVE
 UID:greek_legends-107575345395711597@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Hive Athens 
- EC vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Anorthosis 
+ Famagusta Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. Hive Athens EC
+  (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2224,9 +2225,10 @@ SUMMARY:[Greek Legends League] GSMC vs. GOAL
 UID:greek_legends-107575345395711607@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Gamespace 
  Mediterranean College Esports vs. Olympiacos Alimou esports\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gamespace 
+ Mediterranean College Esports (0) vs. Olympiacos Alimou esports (1)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2235,9 +2237,10 @@ DTEND:20220228T180000Z
 SUMMARY:[Greek Legends League] ZRL vs. RFS
 UID:greek_legends-107575345395777177@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Zerolag 
- Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (1) vs. Team Refuse (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2246,10 +2249,57 @@ DTEND:20220228T210000Z
 SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-107575345395777179@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: We Love 
- Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: We Love Gaming (1) vs. Team Phantasma (0)\n
 CREATED:20220228T014119Z
-LAST-MODIFIED:20220228T014119Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014119Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T200000Z
+DTEND:20220301T210000Z
+SUMMARY:[Greek Legends League] GOAL vs. ANO
+UID:greek_legends-107575345395711593@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Olympiacos 
+ Alimou esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T015226Z
+DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T170000Z
+DTEND:20220301T180000Z
+SUMMARY:[Greek Legends League] WLG vs. GSMC
+UID:greek_legends-107575345395711625@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: We Love 
+ Gaming vs. Gamespace Mediterranean College Esports\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T015226Z
+DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T180000Z
+DTEND:20220301T190000Z
+SUMMARY:[Greek Legends League] ZRL vs. HIVE
+UID:greek_legends-107575345395777171@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Zerolag 
+ Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T015226Z
+DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T190000Z
+DTEND:20220301T200000Z
+SUMMARY:[Greek Legends League] TP vs. RFS
+UID:greek_legends-107575345395777173@lol.ics.tools
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Team 
+ Phantasma vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T015226Z
+DTSTAMP:20220301T015226Z
 END:VEVENT
 NAME:Greek Legends League Spielplan
 X-WR-CALNAME:Greek Legends League Spielplan

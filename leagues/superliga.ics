@@ -3158,20 +3158,22 @@ DTEND:20220228T190000Z
 SUMMARY:[SuperLiga] MADM vs. GIA
 UID:superliga-107468241211084687@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: MAD Lions Madrid vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD 
+ Lions Madrid (1) vs. Giants (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T200000Z
 DTEND:20220228T210000Z
-SUMMARY:[SuperLiga] BSO vs. FNTQ
+SUMMARY:[SuperLiga] FNTQ vs. BSO
 UID:superliga-107468241211150263@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Bisons Eclub vs. 
- FnaticTQ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: FnaticTQ vs. Bisons 
+ Eclub\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ 
+ (0) vs. Bisons Eclub (1)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3180,9 +3182,10 @@ DTEND:20220228T200000Z
 SUMMARY:[SuperLiga] BAR vs. MRS
 UID:superliga-107468241211150269@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Barça Esports vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Barça Esports (0) vs. Movistar Riders (1)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3191,20 +3194,22 @@ DTEND:20220228T180000Z
 SUMMARY:[SuperLiga] KOI vs. UCAM
 UID:superliga-107468241211150279@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Finetwork KOI vs. UCAM 
- Esports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Finetwork KOI (1) vs. UCAM Esports Club (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T210000Z
 DTEND:20220228T220000Z
-SUMMARY:[SuperLiga] HRTS vs. G2AR
+SUMMARY:[SuperLiga] G2AR vs. HRTS
 UID:superliga-107468241211084679@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Team Heretics vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: G2 Arctic vs. Team 
+ Heretics\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: G2 
+ Arctic (1) vs. Team Heretics (0)\n
 CREATED:20220228T014118Z
-LAST-MODIFIED:20220228T014118Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014118Z
 END:VEVENT
 NAME:SuperLiga Spielplan

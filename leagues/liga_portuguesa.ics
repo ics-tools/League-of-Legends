@@ -1913,9 +1913,9 @@ SUMMARY:[Liga Portuguesa] OFF7 vs. KRM
 UID:liga_portuguesa-107417530554631205@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 5\nTeams: OFFSET Esports 
  vs. Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: OFFSET Esports (0) vs. Karma Clan Esports (1)\n
+ completed\nErgebnisse: OFFSET Esports (1) vs. Karma Clan Esports (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2032,9 +2032,10 @@ DTEND:20220228T200000Z
 SUMMARY:[Liga Portuguesa] OFF7 vs. EGN
 UID:liga_portuguesa-107417530554631181@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: OFFSET Esports 
- vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  OFFSET Esports (0) vs. EGN Esports (1)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2043,9 +2044,10 @@ DTEND:20220228T211500Z
 SUMMARY:[Liga Portuguesa] GTZ vs. BFC
 UID:liga_portuguesa-107417530554565627@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: GTZ Bulls vs. 
- Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: GTZ
+  Bulls (1) vs. Boavista FC (0)\n
 CREATED:20220228T014118Z
-LAST-MODIFIED:20220228T014118Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014118Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2054,9 +2056,10 @@ DTEND:20220228T234500Z
 SUMMARY:[Liga Portuguesa] WD vs. FTW
 UID:liga_portuguesa-107417530554631193@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: White Dragons vs.
-  For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: White Dragons (0) vs. For The Win Esports (1)\n
 CREATED:20220228T124906Z
-LAST-MODIFIED:20220228T124906Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T124906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2066,9 +2069,10 @@ SUMMARY:[Liga Portuguesa] OSC vs. KRM
 UID:liga_portuguesa-107417530554631203@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: Odivelas Sports 
  Club vs. Karma Clan Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Odivelas Sports Club (0) vs. Karma Clan Esports 
+ (1)\n
 CREATED:20220228T124906Z
-LAST-MODIFIED:20220228T124906Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T124906Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan

@@ -2133,23 +2133,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T190000Z
 DTEND:20220228T200000Z
-SUMMARY:[Hitpoint Masters] OVA vs. SIN
+SUMMARY:[Hitpoint Masters] SIN vs. OVA
 UID:hitpoint_masters-107597929688684733@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Cryptova vs. 
- SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: SINNERS Esports 
+ vs. Cryptova\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ SINNERS Esports (1) vs. Cryptova (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T180000Z
 DTEND:20220228T190000Z
-SUMMARY:[Hitpoint Masters] DTG vs. DNE
+SUMMARY:[Hitpoint Masters] DNE vs. DTG
 UID:hitpoint_masters-107597929688684741@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Dark Tigers vs. 
- Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Dynamo Eclot vs.
+  Dark Tigers\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynamo Eclot (1) vs. Dark Tigers (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,20 +2160,22 @@ DTEND:20220228T180000Z
 SUMMARY:[Hitpoint Masters] EIQ vs. BRT
 UID:hitpoint_masters-107597929688684747@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Entropiq vs. 
- BRUTE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ BRUTE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Entropiq 
+ (1) vs. BRUTE (0)\n
 CREATED:20220227T183916Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220227T183916Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220228T200000Z
 DTEND:20220228T210000Z
-SUMMARY:[Hitpoint Masters] ING vs. ESB
+SUMMARY:[Hitpoint Masters] ESB vs. ING
 UID:hitpoint_masters-107597929688684723@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Inside Games vs.
-  eSuba\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: eSuba vs. Inside
+  Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (1) vs. Inside Games (0)\n
 CREATED:20220228T014119Z
-LAST-MODIFIED:20220228T014119Z
+LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220228T014119Z
 END:VEVENT
 NAME:Hitpoint Masters Spielplan
