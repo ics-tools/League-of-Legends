@@ -2352,34 +2352,34 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T190000Z
 DTEND:20220301T200000Z
-SUMMARY:[Ultraliga] TEG vs. IHG
+SUMMARY:[Ultraliga] IHG vs. TEG
 UID:ultraliga-107416436274230962@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Team ESCA Gaming vs. 
- Illuminar Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Illuminar Gaming vs. 
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220301T124919Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T180000Z
 DTEND:20220301T190000Z
-SUMMARY:[Ultraliga] Z10 vs. RGO
+SUMMARY:[Ultraliga] RGO vs. Z10
 UID:ultraliga-107416436274230972@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Zero Tenacity vs. AGO 
- Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: AGO Rogue vs. Zero 
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220301T124919Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T160000Z
 DTEND:20220301T170000Z
-SUMMARY:[Ultraliga] GSK vs. DV1
+SUMMARY:[Ultraliga] DV1 vs. GSK
 UID:ultraliga-107416436274296530@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Goskilla vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Devils.One vs. 
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220301T124919Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT

@@ -632,9 +632,10 @@ DTEND:20220301T020000Z
 SUMMARY:[Honor League] MOX vs. MAZ
 UID:entel_honor_leagu-107677841286829036@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Movistar Optix 
- vs. Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Movistar Optix (1) vs. Maze Gaming (0)\n
 CREATED:20220228T124906Z
-LAST-MODIFIED:20220228T124906Z
+LAST-MODIFIED:20220301T124919Z
 DTSTAMP:20220228T124906Z
 END:VEVENT
 BEGIN:VEVENT
