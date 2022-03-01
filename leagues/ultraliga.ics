@@ -2377,9 +2377,10 @@ DTEND:20220301T170000Z
 SUMMARY:[Ultraliga] DV1 vs. GSK
 UID:ultraliga-107416436274296530@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Devils.One vs. 
- Goskilla\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Goskilla\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Devils.One (1) vs. Goskilla (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220301T183627Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2389,9 +2390,10 @@ SUMMARY:[Ultraliga] WOLF vs. GGM
 UID:ultraliga-107416436274296554@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Topo Centras Iron 
  Wolves vs. Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Topo Centras Iron Wolves (1) vs. Gentlemen's Gaming
+  (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220301T183627Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2404,6 +2406,28 @@ DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Forsaken vs.
 CREATED:20220301T015226Z
 LAST-MODIFIED:20220301T015226Z
 DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T170000Z
+DTEND:20220302T180000Z
+SUMMARY:[Ultraliga] DV1 vs. RGO
+UID:ultraliga-107416436274230970@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Devils.One vs. AGO 
+ Rogue\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220301T183627Z
+LAST-MODIFIED:20220301T183627Z
+DTSTAMP:20220301T183627Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T160000Z
+DTEND:20220302T170000Z
+SUMMARY:[Ultraliga] GGM vs. Z10
+UID:ultraliga-107416436274296536@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Gentlemen's Gaming vs. 
+ Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220301T183627Z
+LAST-MODIFIED:20220301T183627Z
+DTSTAMP:20220301T183627Z
 END:VEVENT
 NAME:Ultraliga Spielplan
 X-WR-CALNAME:Ultraliga Spielplan

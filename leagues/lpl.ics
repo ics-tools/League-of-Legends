@@ -11245,9 +11245,10 @@ DTEND:20220301T140000Z
 SUMMARY:[LPL] TES vs. BLG
 UID:lpl-107417779634108422@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Top Esports vs. Bilibili 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Top 
+ Esports (2) vs. Bilibili Gaming (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220301T183627Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
