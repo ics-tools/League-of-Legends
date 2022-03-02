@@ -3906,10 +3906,9 @@ DTEND:20220301T120000Z
 SUMMARY:[LCK Challengers] HLE vs. DK
 UID:lck_challengers_league-107559433600069816@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 7\nTeams: HLE Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: HLE Challengers (0) vs. DWG KIA Challengers (0)\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT

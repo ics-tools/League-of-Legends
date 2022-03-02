@@ -11269,9 +11269,10 @@ DTEND:20220302T120000Z
 SUMMARY:[LPL] LGD vs. EDG
 UID:lpl-107417779634108450@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: LGD Gaming vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: LGD 
+ Gaming (0) vs. Edward Gaming (2)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT

@@ -7779,12 +7779,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T080000Z
 DTEND:20220302T110000Z
-SUMMARY:[LCK] HLE vs. BRO
+SUMMARY:[LCK] BRO vs. HLE
 UID:lck-107418445248279762@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Woche 7\nTeams: Hanwha Life Esports vs. 
- Fredit BRION\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK\nPhase: Woche 7\nTeams: Fredit BRION vs. Hanwha Life 
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Fredit 
+ BRION (2) vs. Hanwha Life Esports (1)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT

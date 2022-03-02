@@ -2501,23 +2501,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T100000Z
 DTEND:20220302T110000Z
-SUMMARY:[LCO] CHF vs. ORD
+SUMMARY:[LCO] ORD vs. CHF
 UID:lco-107439320898324980@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: The Chiefs vs. ORDER\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: ORDER vs. The Chiefs\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: ORDER (0) vs. The 
+ Chiefs (1)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T090000Z
 DTEND:20220302T100000Z
-SUMMARY:[LCO] GRV vs. DW
+SUMMARY:[LCO] DW vs. GRV
 UID:lco-107439320898324990@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: Gravitas vs. Dire 
- Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: Dire Wolves vs. 
+ Gravitas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
+ Wolves (1) vs. Gravitas (0)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2526,9 +2528,10 @@ DTEND:20220302T080000Z
 SUMMARY:[LCO] MEC vs. PCE
 UID:lco-107439320898325020@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: MAMMOTH vs. PEACE\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. PEACE 
+ (1)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2537,9 +2540,10 @@ DTEND:20220302T090000Z
 SUMMARY:[LCO] PGG vs. KNG
 UID:lco-107439320898325030@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 6\nTeams: Pentanet.GG vs. Kanga 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pentanet.GG (1) vs. Kanga Esports (0)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 NAME:LCO Spielplan

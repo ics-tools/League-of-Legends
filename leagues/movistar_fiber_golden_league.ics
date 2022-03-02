@@ -569,12 +569,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T020000Z
 DTEND:20220302T030000Z
-SUMMARY:[Golden League] BRR vs. AWK
+SUMMARY:[Golden League] AWK vs. BRR
 UID:movistar_fiber_golden_league-107639438038238592@lol.ics.tools
-DESCRIPTION:Liga: Golden League\nPhase: Woche 6\nTeams: Braves Rising vs. 
- Awake Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Golden League\nPhase: Woche 6\nTeams: Awake Gaming vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Awake Gaming (1) vs. Braves Rising (0)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT
@@ -583,9 +584,10 @@ DTEND:20220302T020000Z
 SUMMARY:[Golden League] ELR vs. MYN
 UID:movistar_fiber_golden_league-107639438038238610@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Woche 6\nTeams: ELR Gaming vs. Team
-  Mayan eSports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Mayan eSports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ ELR Gaming (1) vs. Team Mayan eSports (0)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 NAME:Golden League Spielplan

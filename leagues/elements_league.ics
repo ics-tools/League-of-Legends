@@ -521,12 +521,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T010000Z
 DTEND:20220302T020000Z
-SUMMARY:[Elements League] SAP vs. FUE
+SUMMARY:[Elements League] FUE vs. SAP
 UID:elements_league-107659745139428760@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Saprissa Esports 
- vs. Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Fuego vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fuego (0) vs. Saprissa Esports (1)\n
 CREATED:20220228T124906Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220228T124906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -559,20 +560,22 @@ DTEND:20220302T030000Z
 SUMMARY:[Elements League] VAN vs. GOT
 UID:elements_league-107659745139428772@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Vandals Esports 
- vs. Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Goat Esports (1)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T030000Z
 DTEND:20220302T040000Z
-SUMMARY:[Elements League] JNS vs. GVE
+SUMMARY:[Elements League] GVE vs. JNS
 UID:elements_league-107659745139428774@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Janus Esports vs.
-  Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Gravity Elite vs.
+  Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (0) vs. Janus Esports (1)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 NAME:Elements League Spielplan

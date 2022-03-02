@@ -689,12 +689,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T010000Z
 DTEND:20220302T020000Z
-SUMMARY:[Honor League] MAZ vs. FG
+SUMMARY:[Honor League] FG vs. MAZ
 UID:entel_honor_leagu-107677841286829020@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Maze Gaming vs.
-  Furious Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Furious Gaming 
+ vs. Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Furious Gaming (0) vs. Maze Gaming (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T124937Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
