@@ -2258,13 +2258,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T200000Z
 DTEND:20220301T210000Z
-SUMMARY:[Greek Legends League] GOAL vs. ANO
+SUMMARY:[Greek Legends League] ANO vs. GOAL
 UID:greek_legends-107575345395711593@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Olympiacos 
- Alimou esports vs. Anorthosis Famagusta Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Anorthosis 
+ Famagusta Esports vs. Olympiacos Alimou esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Anorthosis Famagusta Esports (1) vs. 
+ Olympiacos Alimou esports (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2286,20 +2287,22 @@ DTEND:20220301T190000Z
 SUMMARY:[Greek Legends League] ZRL vs. HIVE
 UID:greek_legends-107575345395777171@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Zerolag 
- Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports vs. Hive Athens EC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Zerolag Esports (1) vs. Hive Athens EC (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T190000Z
 DTEND:20220301T200000Z
-SUMMARY:[Greek Legends League] TP vs. RFS
+SUMMARY:[Greek Legends League] RFS vs. TP
 UID:greek_legends-107575345395777173@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Team 
- Phantasma vs. Team Refuse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Woche 7\nTeams: Team Refuse 
+ vs. Team Phantasma\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Refuse (0) vs. Team Phantasma (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 NAME:Greek Legends League Spielplan

@@ -2138,46 +2138,94 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T200000Z
 DTEND:20220301T210000Z
-SUMMARY:[PG Nationals] CGG vs. MCK
+SUMMARY:[PG Nationals] MCK vs. CGG
 UID:pg_nationals-107457033676741277@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Cyberground Gaming 
- vs. Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Macko Esports vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Macko Esports (1) vs. Cyberground Gaming (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T190000Z
 DTEND:20220301T200000Z
-SUMMARY:[PG Nationals] EE vs. OP
+SUMMARY:[PG Nationals] OP vs. EE
 UID:pg_nationals-107457033676741291@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Esports Empire vs. 
- Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Anc Outplayed vs. 
+ Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Anc Outplayed (0) vs. Esports Empire (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T210000Z
 DTEND:20220301T220000Z
-SUMMARY:[PG Nationals] GGE vs. ATE
+SUMMARY:[PG Nationals] ATE vs. GGE
 UID:pg_nationals-107457033676741295@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: GGEsports vs. Atleta
-  Esport\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Atleta Esport vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Atleta Esport (1) vs. GGEsports (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220301T180000Z
 DTEND:20220301T190000Z
-SUMMARY:[PG Nationals] AXL vs. SMS
+SUMMARY:[PG Nationals] SMS vs. AXL
 UID:pg_nationals-107457033676741305@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Axolotl vs. Samsung 
- Morning Stars\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Samsung Morning 
+ Stars vs. Axolotl\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Axolotl (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T180000Z
+DTEND:20220302T190000Z
+SUMMARY:[PG Nationals] SMS vs. OP
+UID:pg_nationals-107457033676675691@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Samsung Morning 
+ Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T190000Z
+DTEND:20220302T200000Z
+SUMMARY:[PG Nationals] ATE vs. MCK
+UID:pg_nationals-107457033676675733@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Atleta Esport vs. 
+ Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T200000Z
+DTEND:20220302T210000Z
+SUMMARY:[PG Nationals] AXL vs. GGE
+UID:pg_nationals-107457033676741311@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Axolotl vs. 
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T210000Z
+DTEND:20220302T220000Z
+SUMMARY:[PG Nationals] EE vs. CGG
+UID:pg_nationals-107457033676741321@lol.ics.tools
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Esports Empire vs. 
+ Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
 END:VEVENT
 NAME:PG Nationals Spielplan
 X-WR-CALNAME:PG Nationals Spielplan

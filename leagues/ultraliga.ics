@@ -2355,9 +2355,10 @@ DTEND:20220301T200000Z
 SUMMARY:[Ultraliga] IHG vs. TEG
 UID:ultraliga-107416436274230962@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Illuminar Gaming vs. 
- Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Illuminar Gaming (0) vs. Team ESCA Gaming (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2366,9 +2367,10 @@ DTEND:20220301T190000Z
 SUMMARY:[Ultraliga] RGO vs. Z10
 UID:ultraliga-107416436274230972@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: AGO Rogue vs. Zero 
- Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Zero Tenacity (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2402,9 +2404,10 @@ DTEND:20220301T210000Z
 SUMMARY:[Ultraliga] FSK vs. KNF
 UID:ultraliga-107416436274296564@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Forsaken vs. 
- Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Forsaken (0) vs. Komil&Friends (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2428,6 +2431,40 @@ DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Gentlemen's Gaming vs.
 CREATED:20220301T183627Z
 LAST-MODIFIED:20220301T183627Z
 DTSTAMP:20220301T183627Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T200000Z
+DTEND:20220302T210000Z
+SUMMARY:[Ultraliga] FSK vs. IHG
+UID:ultraliga-107416436274230968@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Forsaken vs. Illuminar 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T190000Z
+DTEND:20220302T200000Z
+SUMMARY:[Ultraliga] GSK vs. KNF
+UID:ultraliga-107416436274296560@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Goskilla vs. 
+ Komil&Friends\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T180000Z
+DTEND:20220302T190000Z
+SUMMARY:[Ultraliga] WOLF vs. TEG
+UID:ultraliga-107416436274296568@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 8\nTeams: Topo Centras Iron 
+ Wolves vs. Team ESCA Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220302T014750Z
+LAST-MODIFIED:20220302T014750Z
+DTSTAMP:20220302T014750Z
 END:VEVENT
 NAME:Ultraliga Spielplan
 X-WR-CALNAME:Ultraliga Spielplan

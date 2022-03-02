@@ -536,9 +536,10 @@ DTEND:20220302T010000Z
 SUMMARY:[Golden League] KOG vs. Z5
 UID:movistar_fiber_golden_league-107639438038238570@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Woche 6\nTeams: King of Goats vs. 
- Zeu5 Bogotá\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Zeu5 Bogotá\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ King of Goats (0) vs. Zeu5 Bogotá (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT

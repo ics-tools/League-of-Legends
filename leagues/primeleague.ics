@@ -3523,9 +3523,10 @@ SUMMARY:[Prime League] BIG vs. MOUZ
 UID:primeleague-107417752301978923@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Berlin International Gaming vs. Mousesports\nSpiel-Strategie: 
- bestOf 5\nStatus: unstarted\n
+ bestOf 5\nStatus: completed\nErgebnisse: Berlin International Gaming (3) 
+ vs. Mousesports (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014750Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 NAME:Prime League Spielplan

@@ -500,9 +500,10 @@ DTEND:20220302T010000Z
 SUMMARY:[Elements League] RRR vs. BAN
 UID:elements_league-107659745139428746@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Red Rooster vs. 
- Bandits\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Red 
+ Rooster (1) vs. Bandits (0)\n
 CREATED:20220228T124906Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220228T124906Z
 END:VEVENT
 BEGIN:VEVENT

@@ -2901,9 +2901,10 @@ DTEND:20220301T210000Z
 SUMMARY:[CBLOL Academy] FUR vs. FLA
 UID:cblol_academy-107565607661108962@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: FURIA Academy vs. 
- Flamengo Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Flamengo Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: FURIA Academy (1) vs. Flamengo Academy (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2923,9 +2924,10 @@ DTEND:20220302T000000Z
 SUMMARY:[CBLOL Academy] KBM vs. PNG
 UID:cblol_academy-107565607661174552@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: KaBuM! Academy vs. 
- paiN Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ paiN Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KaBuM! Academy (0) vs. paiN Academy (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2934,9 +2936,10 @@ DTEND:20220301T230000Z
 SUMMARY:[CBLOL Academy] RNS vs. LBR
 UID:cblol_academy-107565607661240102@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: Rensga Academy vs. 
- Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Rensga Academy (0) vs. Liberty Academy (1)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2945,10 +2948,22 @@ DTEND:20220301T220000Z
 SUMMARY:[CBLOL Academy] LLL vs. RED
 UID:cblol_academy-107565607661240108@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: LOUD Academy vs. 
- RED Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ RED Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LOUD Academy (1) vs. RED Academy (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220301T015226Z
+LAST-MODIFIED:20220302T014751Z
 DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T200000Z
+DTEND:20220302T210000Z
+SUMMARY:[CBLOL Academy] FLA vs. LLL
+UID:cblol_academy-107565607661108970@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: Flamengo Academy 
+ vs. LOUD Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220302T014751Z
+LAST-MODIFIED:20220302T014751Z
+DTSTAMP:20220302T014751Z
 END:VEVENT
 NAME:CBLOL Academy Spielplan
 X-WR-CALNAME:CBLOL Academy Spielplan
