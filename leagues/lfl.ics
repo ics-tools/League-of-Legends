@@ -3220,12 +3220,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T170000Z
 DTEND:20220303T180000Z
-SUMMARY:[La Ligue Française] ME vs. OPL
+SUMMARY:[La Ligue Française] OPL vs. ME
 UID:lfl-107468370561257648@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Mirage-
- Elyandra vs. Team Oplon\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 8\nTeams: Team Oplon vs.
+  Mirage-Elyandra\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Team Oplon (1) vs. Mirage-Elyandra (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220303T183500Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 NAME:La Ligue Française Spielplan

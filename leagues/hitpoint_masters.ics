@@ -2195,9 +2195,10 @@ DTEND:20220303T180000Z
 SUMMARY:[Hitpoint Masters] DTG vs. SIN
 UID:hitpoint_masters-107597929688684731@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Dark Tigers vs. 
- SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SINNERS Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Dark Tigers (0) vs. SINNERS Esports (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220303T183500Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT

@@ -3237,12 +3237,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T170000Z
 DTEND:20220303T180000Z
-SUMMARY:[SuperLiga] BAR vs. MADM
+SUMMARY:[SuperLiga] MADM vs. BAR
 UID:superliga-107468241211150247@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Barça Esports vs. MAD 
- Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: MAD Lions Madrid vs. 
+ Barça Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ MAD Lions Madrid (1) vs. Barça Esports (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220303T183500Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
