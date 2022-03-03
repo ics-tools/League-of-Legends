@@ -728,9 +728,10 @@ DTEND:20220303T030000Z
 SUMMARY:[Honor Division] ATH vs. 6K
 UID:honor_division-107593829779624077@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Atheris Esports 
- vs. Six Karma\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ vs. Six Karma\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Atheris Esports (2) vs. Six Karma (0)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT
@@ -739,10 +740,22 @@ DTEND:20220303T050000Z
 SUMMARY:[Honor Division] 2MR vs. TK
 UID:honor_division-107593829779755205@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Tomorrow Esports 
- vs. The Kings\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ vs. The Kings\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Tomorrow Esports (0) vs. The Kings (2)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220303T014917Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220304T000000Z
+DTEND:20220304T030000Z
+SUMMARY:[Honor Division] ZLT vs. ARTC
+UID:honor_division-107593829779689649@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Zylant Esports vs.
+  Arctic Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220303T063803Z
+LAST-MODIFIED:20220303T063803Z
+DTSTAMP:20220303T063803Z
 END:VEVENT
 NAME:Honor Division Spielplan
 X-WR-CALNAME:Honor Division Spielplan

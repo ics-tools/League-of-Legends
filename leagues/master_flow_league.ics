@@ -1137,9 +1137,10 @@ DTEND:20220303T020000Z
 SUMMARY:[Master Flow League] UBK vs. PAM
 UID:master_flow_league-107728324360587400@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Undead BK vs. 
- Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. Ualá Pampas (1)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1159,9 +1160,10 @@ DTEND:20220303T030000Z
 SUMMARY:[Master Flow League] EV vs. MVG
 UID:master_flow_league-107728324360521828@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Maycam Evolve 
- vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (1) vs. Malvinas Gaming (0)\n
 CREATED:20220303T014918Z
-LAST-MODIFIED:20220303T014918Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220303T014918Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1174,6 +1176,39 @@ DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: River Plate
 CREATED:20220303T014918Z
 LAST-MODIFIED:20220303T014918Z
 DTSTAMP:20220303T014918Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220304T010000Z
+DTEND:20220304T020000Z
+SUMMARY:[Master Flow League] 9Z vs. BOC
+UID:master_flow_league-107728324360456202@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: 9z Gaming vs. 
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220303T063803Z
+LAST-MODIFIED:20220303T063803Z
+DTSTAMP:20220303T063803Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220303T230000Z
+DTEND:20220304T000000Z
+SUMMARY:[Master Flow League] EV vs. EBG
+UID:master_flow_league-107728324360521786@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Maycam Evolve 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220303T063803Z
+LAST-MODIFIED:20220303T063803Z
+DTSTAMP:20220303T063803Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220304T000000Z
+DTEND:20220304T010000Z
+SUMMARY:[Master Flow League] PAM vs. STM
+UID:master_flow_league-107728324360587394@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Ualá Pampas 
+ vs. Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220303T063803Z
+LAST-MODIFIED:20220303T063803Z
+DTSTAMP:20220303T063803Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan

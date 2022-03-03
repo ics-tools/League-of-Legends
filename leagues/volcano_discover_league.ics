@@ -525,9 +525,10 @@ DTEND:20220303T020000Z
 SUMMARY:[Volcano League] GSE vs. SKC
 UID:volcano_discover_league-107682708469973558@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: GeekSide Esports 
- vs. Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GeekSide Esports (0) vs. Skull Cracker Clan (1)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT
@@ -548,9 +549,10 @@ DTEND:20220303T030000Z
 SUMMARY:[Volcano League] GDP vs. DSC
 UID:volcano_discover_league-107682708469908008@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: God's Plan vs.  
- Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: God's Plan (0) vs.  Descuydado Esports (1)\n
 CREATED:20220303T014918Z
-LAST-MODIFIED:20220303T014918Z
+LAST-MODIFIED:20220303T063803Z
 DTSTAMP:20220303T014918Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan
