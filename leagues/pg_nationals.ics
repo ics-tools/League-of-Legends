@@ -2189,20 +2189,22 @@ DTEND:20220302T190000Z
 SUMMARY:[PG Nationals] SMS vs. OP
 UID:pg_nationals-107457033676675691@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Samsung Morning 
- Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Stars vs. Anc Outplayed\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Samsung Morning Stars (0) vs. Anc Outplayed (1)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T190000Z
 DTEND:20220302T200000Z
-SUMMARY:[PG Nationals] ATE vs. MCK
+SUMMARY:[PG Nationals] MCK vs. ATE
 UID:pg_nationals-107457033676675733@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Atleta Esport vs. 
- Macko Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Macko Esports vs. 
+ Atleta Esport\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Macko Esports (1) vs. Atleta Esport (0)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2211,20 +2213,22 @@ DTEND:20220302T210000Z
 SUMMARY:[PG Nationals] AXL vs. GGE
 UID:pg_nationals-107457033676741311@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Axolotl vs. 
- GGEsports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ GGEsports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Axolotl (0) vs. GGEsports (1)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T210000Z
 DTEND:20220302T220000Z
-SUMMARY:[PG Nationals] EE vs. CGG
+SUMMARY:[PG Nationals] CGG vs. EE
 UID:pg_nationals-107457033676741321@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Esports Empire vs. 
- Cyberground Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Woche 7\nTeams: Cyberground Gaming 
+ vs. Esports Empire\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cyberground Gaming (1) vs. Esports Empire (0)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 NAME:PG Nationals Spielplan

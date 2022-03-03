@@ -5583,12 +5583,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T120000Z
 DTEND:20220302T130000Z
-SUMMARY:[LJL] CGA vs. BC
+SUMMARY:[LJL] BC vs. CGA
 UID:ljl-japan-107455808283000811@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 4\nTeams: Crest Gaming Act vs. Burning 
- Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 4\nTeams: Burning Core vs. Crest Gaming
+  Act\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Burning 
+ Core (0) vs. Crest Gaming Act (1)\n
 CREATED:20220301T183628Z
-LAST-MODIFIED:20220301T183628Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220301T183628Z
 END:VEVENT
 NAME:LJL Spielplan

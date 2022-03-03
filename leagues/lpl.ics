@@ -11278,12 +11278,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T110000Z
 DTEND:20220302T140000Z
-SUMMARY:[LPL] WBG vs. RNG
+SUMMARY:[LPL] RNG vs. WBG
 UID:lpl-107417779634239866@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Weibo Gaming vs. Royal Never 
- Give Up\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Royal Never Give Up vs. Weibo
+  Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Royal 
+ Never Give Up (2) vs. Weibo Gaming (0)\n
 CREATED:20220301T124919Z
-LAST-MODIFIED:20220301T124919Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220301T124919Z
 END:VEVENT
 NAME:LPL Spielplan

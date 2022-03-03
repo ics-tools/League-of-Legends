@@ -629,45 +629,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T180000Z
 DTEND:20220302T190000Z
-SUMMARY:[Elite Series] MCON vs. S1
+SUMMARY:[Elite Series] S1 vs. MCON
 UID:elite_series-107563481239680539@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: mCon LG UltraGear 
- vs. Sector One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: Sector One vs. mCon 
+ LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Sector One (0) vs. mCon LG UltraGear (1)\n
 CREATED:20220302T014751Z
-LAST-MODIFIED:20220302T014751Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014751Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T190000Z
 DTEND:20220302T200000Z
-SUMMARY:[Elite Series] LION vs. KVM
+SUMMARY:[Elite Series] KVM vs. LION
 UID:elite_series-107563481239680545@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: LowLandLions vs. KV 
- Mechelen Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: KV Mechelen Esports 
+ vs. LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: KV Mechelen Esports (0) vs. LowLandLions (1)\n
 CREATED:20220302T014751Z
-LAST-MODIFIED:20220302T014751Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014751Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T210000Z
 DTEND:20220302T220000Z
-SUMMARY:[Elite Series] 7AM vs. GENK
+SUMMARY:[Elite Series] GENK vs. 7AM
 UID:elite_series-107563481239680559@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: Team 7AM vs. KRC 
- Genk Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: KRC Genk Esports vs.
+  Team 7AM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KRC 
+ Genk Esports (1) vs. Team 7AM (0)\n
 CREATED:20220302T014751Z
-LAST-MODIFIED:20220302T014751Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014751Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T200000Z
 DTEND:20220302T210000Z
-SUMMARY:[Elite Series] EZ vs. ION
+SUMMARY:[Elite Series] ION vs. EZ
 UID:elite_series-107563481239877185@lol.ics.tools
-DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: Echo Zulu vs. ION 
- SQUAD\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elite Series\nPhase: Woche 7\nTeams: ION SQUAD vs. Echo 
+ Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: ION SQUAD 
+ (0) vs. Echo Zulu (1)\n
 CREATED:20220302T014751Z
-LAST-MODIFIED:20220302T014751Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014751Z
 END:VEVENT
 NAME:Elite Series Spielplan

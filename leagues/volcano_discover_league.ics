@@ -536,10 +536,22 @@ DTEND:20220303T010000Z
 SUMMARY:[Volcano League] WS vs. PD
 UID:volcano_discover_league-107682708470039100@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: Waia Snikt vs. 
- Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Waia Snikt (0) vs. Pirate Dream (1)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T014918Z
 DTSTAMP:20220302T124937Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220303T020000Z
+DTEND:20220303T030000Z
+SUMMARY:[Volcano League] GDP vs. DSC
+UID:volcano_discover_league-107682708469908008@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: God's Plan vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220303T014918Z
+LAST-MODIFIED:20220303T014918Z
+DTSTAMP:20220303T014918Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan

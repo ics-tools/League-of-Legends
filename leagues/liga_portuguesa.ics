@@ -2078,12 +2078,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220302T190000Z
 DTEND:20220302T200000Z
-SUMMARY:[Liga Portuguesa] WD vs. EGN
+SUMMARY:[Liga Portuguesa] EGN vs. WD
 UID:liga_portuguesa-107417530554631183@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: White Dragons vs.
-  EGN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: EGN Esports vs. 
+ White Dragons\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ EGN Esports (0) vs. White Dragons (1)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2093,9 +2094,10 @@ SUMMARY:[Liga Portuguesa] KRM vs. FTW
 UID:liga_portuguesa-107417530554631187@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: Karma Clan 
  Esports vs. For The Win Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Karma Clan Esports (0) vs. For The Win Esports 
+ (1)\n
 CREATED:20220302T014750Z
-LAST-MODIFIED:20220302T014750Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T014750Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2104,9 +2106,10 @@ DTEND:20220302T234500Z
 SUMMARY:[Liga Portuguesa] OSC vs. BFC
 UID:liga_portuguesa-107417530554565631@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: Odivelas Sports 
- Club vs. Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Club vs. Boavista FC\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Odivelas Sports Club (1) vs. Boavista FC (0)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2115,9 +2118,10 @@ DTEND:20220302T223000Z
 SUMMARY:[Liga Portuguesa] OFF7 vs. GTZ
 UID:liga_portuguesa-107417530554631199@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Woche 7\nTeams: OFFSET Esports 
- vs. GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GTZ Bulls\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ OFFSET Esports (1) vs. GTZ Bulls (0)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220302T124937Z
+LAST-MODIFIED:20220303T014917Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
