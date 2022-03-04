@@ -1185,9 +1185,10 @@ DTEND:20220304T020000Z
 SUMMARY:[Master Flow League] 9Z vs. BOC
 UID:master_flow_league-107728324360456202@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: 9z Gaming vs. 
- Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 9z Gaming (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220303T063803Z
-LAST-MODIFIED:20220303T063803Z
+LAST-MODIFIED:20220304T124942Z
 DTSTAMP:20220303T063803Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1220,9 +1221,10 @@ DTEND:20220304T030000Z
 SUMMARY:[Master Flow League] UBK vs. KRU
 UID:master_flow_league-107728324360521810@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Undead BK vs. 
- KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (1) vs. KRÜ Esports (0)\n
 CREATED:20220303T125000Z
-LAST-MODIFIED:20220303T125000Z
+LAST-MODIFIED:20220304T124942Z
 DTSTAMP:20220303T125000Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,6 +1259,39 @@ DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Wap Esports
 CREATED:20220304T015304Z
 LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220304T015304Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T020000Z
+DTEND:20220305T030000Z
+SUMMARY:[Master Flow League] MVG vs. 9Z
+UID:master_flow_league-107728324360521766@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Malvinas 
+ Gaming vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T010000Z
+DTEND:20220305T020000Z
+SUMMARY:[Master Flow League] LEV vs. EBG
+UID:master_flow_league-107728324360521782@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Leviatán 
+ Esports vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T000000Z
+DTEND:20220305T010000Z
+SUMMARY:[Master Flow League] RIV vs. EV
+UID:master_flow_league-107728324360587376@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: River Plate 
+ Gaming vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan

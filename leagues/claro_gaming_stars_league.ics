@@ -545,9 +545,10 @@ DTEND:20220304T020000Z
 SUMMARY:[Stars League] DVE vs. SB
 UID:claro_gaming_stars_league-107651193187403567@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Deliverance Esports 
- vs. Spectacled Bears\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Spectacled Bears\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Deliverance Esports (0) vs. Spectacled Bears (1)\n
 CREATED:20220303T125000Z
-LAST-MODIFIED:20220303T125000Z
+LAST-MODIFIED:20220304T124942Z
 DTSTAMP:20220303T125000Z
 END:VEVENT
 BEGIN:VEVENT
@@ -556,10 +557,44 @@ DTEND:20220304T030000Z
 SUMMARY:[Stars League] CCC vs. INS
 UID:claro_gaming_stars_league-107651193187338017@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Cienciano vs. 
- Instinct Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Instinct Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Cienciano (1) vs. Instinct Gaming (0)\n
 CREATED:20220303T183500Z
-LAST-MODIFIED:20220303T183500Z
+LAST-MODIFIED:20220304T124942Z
 DTSTAMP:20220303T183500Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T000000Z
+DTEND:20220305T010000Z
+SUMMARY:[Stars League] SB vs. INS
+UID:claro_gaming_stars_league-107651193187338011@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Spectacled Bears vs.
+  Instinct Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T020000Z
+DTEND:20220305T030000Z
+SUMMARY:[Stars League] CDM vs. INC
+UID:claro_gaming_stars_league-107651193187403569@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Club Deportivo 
+ Municipal vs. Incubus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T010000Z
+DTEND:20220305T020000Z
+SUMMARY:[Stars League] DVE vs. DD
+UID:claro_gaming_stars_league-107651193187403587@lol.ics.tools
+DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Deliverance Esports 
+ vs. Diamond Doves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220304T124942Z
+LAST-MODIFIED:20220304T124942Z
+DTSTAMP:20220304T124942Z
 END:VEVENT
 NAME:Stars League Spielplan
 X-WR-CALNAME:Stars League Spielplan
