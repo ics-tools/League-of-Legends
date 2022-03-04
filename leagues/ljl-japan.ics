@@ -5634,9 +5634,10 @@ DTEND:20220304T130000Z
 SUMMARY:[LJL] SHG vs. V3
 UID:ljl-japan-107455808283066381@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 4\nTeams: Fukuoka SoftBank HAWKS gaming
-  vs. V3 Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. V3 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Fukuoka SoftBank HAWKS gaming (1) vs. V3 Esports (0)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220304T183616Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 NAME:LJL Spielplan

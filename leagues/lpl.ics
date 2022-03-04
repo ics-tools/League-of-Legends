@@ -11317,9 +11317,10 @@ DTEND:20220304T140000Z
 SUMMARY:[LPL] FPX vs. BLG
 UID:lpl-107417779634108382@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: FunPlus Phoenix vs. Bilibili 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: FunPlus 
+ Phoenix (2) vs. Bilibili Gaming (1)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220304T183616Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT

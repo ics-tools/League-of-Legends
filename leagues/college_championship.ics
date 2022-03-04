@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+NAME:College Championship Spielplan
+X-WR-CALNAME:College Championship Spielplan
+METHOD:PUBLISH
+END:VCALENDAR

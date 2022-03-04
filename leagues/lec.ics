@@ -8020,9 +8020,10 @@ DTEND:20220304T180000Z
 SUMMARY:[LEC] SK vs. RGE
 UID:lec-107417059263431357@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: SK Gaming vs. Rogue\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK Gaming (1) vs. 
+ Rogue (0)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220304T183616Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 NAME:LEC Spielplan

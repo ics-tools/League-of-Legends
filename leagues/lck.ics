@@ -7841,9 +7841,10 @@ DTEND:20220304T140000Z
 SUMMARY:[LCK] HLE vs. DK
 UID:lck-107418445248214198@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Woche 7\nTeams: Hanwha Life Esports vs. DWG 
- KIA\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ KIA\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Hanwha Life
+  Esports (0) vs. DWG KIA (2)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220304T183616Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
