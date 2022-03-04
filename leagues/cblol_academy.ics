@@ -2913,9 +2913,10 @@ DTEND:20220303T210000Z
 SUMMARY:[CBLOL Academy] NMG vs. ITZ
 UID:cblol_academy-107565607661174538@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: Netshoes Miners 
- Academy vs. INTZ Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Academy vs. INTZ Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Netshoes Miners Academy (1) vs. INTZ Academy (0)\n
 CREATED:20220301T015226Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220301T015226Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2996,9 +2997,10 @@ DTEND:20220303T220000Z
 SUMMARY:[CBLOL Academy] LBR vs. RED
 UID:cblol_academy-107565607661240100@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 6\nTeams: Liberty Academy vs.
-  RED Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  RED Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Liberty Academy (1) vs. RED Academy (0)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT

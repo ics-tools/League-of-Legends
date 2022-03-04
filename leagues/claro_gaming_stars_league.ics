@@ -533,9 +533,10 @@ DTEND:20220304T010000Z
 SUMMARY:[Stars League] DD vs. INC
 UID:claro_gaming_stars_league-107651193187403573@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Diamond Doves vs. 
- Incubus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Incubus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Diamond
+  Doves (0) vs. Incubus (1)\n
 CREATED:20220303T063803Z
-LAST-MODIFIED:20220303T063803Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T063803Z
 END:VEVENT
 BEGIN:VEVENT

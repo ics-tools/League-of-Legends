@@ -2181,12 +2181,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T190000Z
 DTEND:20220303T200000Z
-SUMMARY:[Hitpoint Masters] EIQ vs. ESB
+SUMMARY:[Hitpoint Masters] ESB vs. EIQ
 UID:hitpoint_masters-107597929688684717@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Entropiq vs. 
- eSuba\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: eSuba vs. 
+ Entropiq\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: eSuba 
+ (0) vs. Entropiq (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2204,23 +2205,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T180000Z
 DTEND:20220303T190000Z
-SUMMARY:[Hitpoint Masters] ING vs. DNE
+SUMMARY:[Hitpoint Masters] DNE vs. ING
 UID:hitpoint_masters-107597929688684745@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Inside Games vs.
-  Dynamo Eclot\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Dynamo Eclot vs.
+  Inside Games\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynamo Eclot (1) vs. Inside Games (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T200000Z
 DTEND:20220303T210000Z
-SUMMARY:[Hitpoint Masters] OVA vs. BRT
+SUMMARY:[Hitpoint Masters] BRT vs. OVA
 UID:hitpoint_masters-107597929688750287@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: Cryptova vs. 
- BRUTE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Woche 7\nTeams: BRUTE vs. 
+ Cryptova\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: BRUTE 
+ (1) vs. Cryptova (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 NAME:Hitpoint Masters Spielplan

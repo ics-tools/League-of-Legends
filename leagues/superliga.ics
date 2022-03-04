@@ -3218,20 +3218,22 @@ DTEND:20220303T220000Z
 SUMMARY:[SuperLiga] MRS vs. G2AR
 UID:superliga-107468241211084675@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Movistar Riders vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Movistar
+  Riders (0) vs. G2 Arctic (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T200000Z
 DTEND:20220303T210000Z
-SUMMARY:[SuperLiga] BSO vs. GIA
+SUMMARY:[SuperLiga] GIA vs. BSO
 UID:superliga-107468241211150237@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Bisons Eclub vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Giants vs. Bisons 
+ Eclub\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Giants 
+ (1) vs. Bisons Eclub (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3249,12 +3251,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T190000Z
 DTEND:20220303T200000Z
-SUMMARY:[SuperLiga] KOI vs. FNTQ
+SUMMARY:[SuperLiga] FNTQ vs. KOI
 UID:superliga-107468241211150261@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Finetwork KOI vs. 
- FnaticTQ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: FnaticTQ vs. Finetwork 
+ KOI\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ 
+ (0) vs. Finetwork KOI (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3263,9 +3266,10 @@ DTEND:20220303T190000Z
 SUMMARY:[SuperLiga] HRTS vs. UCAM
 UID:superliga-107468241211150275@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Team Heretics vs. UCAM 
- Esports Club\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports Club\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team Heretics (0) vs. UCAM Esports Club (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 NAME:SuperLiga Spielplan

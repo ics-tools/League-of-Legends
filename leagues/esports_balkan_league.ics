@@ -2115,23 +2115,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T190000Z
 DTEND:20220303T200000Z
-SUMMARY:[Esports Balkan League] SVJ vs. VPG
+SUMMARY:[Esports Balkan League] VPG vs. SVJ
 UID:esports_balkan_league-107468404709642533@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: SOVEJA vs. 
- Valiance PRO GAME\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Valiance 
+ PRO GAME vs. SOVEJA\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Valiance PRO GAME (1) vs. SOVEJA (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220303T200000Z
 DTEND:20220303T210000Z
-SUMMARY:[Esports Balkan League] STR vs. NXK
+SUMMARY:[Esports Balkan League] NXK vs. STR
 UID:esports_balkan_league-107468404709642539@lol.ics.tools
-DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Split 
- Raiders vs. Nexus KTRL\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Nexus KTRL 
+ vs. Split Raiders\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Nexus KTRL (0) vs. Split Raiders (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2141,9 +2143,9 @@ SUMMARY:[Esports Balkan League] DIA vs. AUX
 UID:esports_balkan_league-107468404709642553@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Diamant 
  Esports vs. Auxesis Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Diamant Esports (1) vs. Auxesis Esports (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2153,9 +2155,10 @@ SUMMARY:[Esports Balkan League] CWE vs. CZV
 UID:esports_balkan_league-107468404709642571@lol.ics.tools
 DESCRIPTION:Liga: Esports Balkan League\nPhase: Woche 7\nTeams: Cyber 
  Wolves Esports vs. Crvena Zvezda Esports\nSpiel-Strategie: bestOf 
- 1\nStatus: unstarted\n
+ 1\nStatus: completed\nErgebnisse: Cyber Wolves Esports (0) vs. Crvena 
+ Zvezda Esports (1)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220303T014917Z
+LAST-MODIFIED:20220304T015304Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 NAME:Esports Balkan League Spielplan
