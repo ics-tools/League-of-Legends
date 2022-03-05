@@ -558,12 +558,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T000000Z
 DTEND:20220305T010000Z
-SUMMARY:[Volcano League] SKC vs. DSC
+SUMMARY:[Volcano League] DSC vs. SKC
 UID:volcano_discover_league-107682708469908002@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: Skull Cracker Clan
-  vs.  Descuydado Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams:  Descuydado 
+ Esports vs. Skull Cracker Clan\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse:  Descuydado Esports (1) vs. Skull Cracker Clan 
+ (0)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T014430Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 BEGIN:VEVENT

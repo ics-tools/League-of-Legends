@@ -1230,12 +1230,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220304T210000Z
 DTEND:20220304T220000Z
-SUMMARY:[Master Flow League] PAM vs. BOC
+SUMMARY:[Master Flow League] BOC vs. PAM
 UID:master_flow_league-107728324360521754@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Ualá Pampas 
- vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Boca Juniors 
+ Gaming vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boca Juniors Gaming (0) vs. Ualá Pampas (1)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220305T014430Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1244,9 +1245,10 @@ DTEND:20220305T000000Z
 SUMMARY:[Master Flow League] STM vs. KRU
 UID:master_flow_league-107728324360521806@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Stone Movistar
-  vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (1) vs. KRÜ Esports (0)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220305T014430Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,9 +1257,10 @@ DTEND:20220304T230000Z
 SUMMARY:[Master Flow League] WAP vs. UBK
 UID:master_flow_league-107728324360587404@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Wap Esports 
- vs. Undead BK\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Undead BK\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Wap Esports (1) vs. Undead BK (0)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220305T014430Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1285,12 +1288,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T000000Z
 DTEND:20220305T010000Z
-SUMMARY:[Master Flow League] RIV vs. EV
+SUMMARY:[Master Flow League] EV vs. RIV
 UID:master_flow_league-107728324360587376@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: River Plate 
- Gaming vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Maycam Evolve 
+ vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (0) vs. River Plate Gaming (1)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T014430Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 NAME:Master Flow League Spielplan
