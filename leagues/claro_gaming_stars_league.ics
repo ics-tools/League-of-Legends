@@ -578,12 +578,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T020000Z
 DTEND:20220305T030000Z
-SUMMARY:[Stars League] CDM vs. INC
+SUMMARY:[Stars League] INC vs. CDM
 UID:claro_gaming_stars_league-107651193187403569@lol.ics.tools
-DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Club Deportivo 
- Municipal vs. Incubus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Stars League\nPhase: Woche 7\nTeams: Incubus vs. Club 
+ Deportivo Municipal\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Incubus (1) vs. Club Deportivo Municipal (0)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 BEGIN:VEVENT

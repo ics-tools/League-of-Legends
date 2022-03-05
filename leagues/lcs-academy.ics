@@ -7864,9 +7864,10 @@ DTEND:20220305T030000Z
 SUMMARY:[LCS Academy] FLY vs. DIG
 UID:lcs-academy-107424951278647364@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 7\nTeams: FLY Academy vs. DIG 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: FLY 
+ Academy (1) vs. DIG Academy (1)\n
 CREATED:20220304T124941Z
-LAST-MODIFIED:20220304T124941Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124941Z
 END:VEVENT
 NAME:LCS Academy Spielplan

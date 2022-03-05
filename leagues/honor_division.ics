@@ -776,20 +776,22 @@ DTEND:20220305T050000Z
 SUMMARY:[Honor Division] ARTC vs. 6K
 UID:honor_division-107593829779624081@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Arctic Gaming vs. 
- Six Karma\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Six Karma\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Arctic Gaming (2) vs. Six Karma (0)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T000000Z
 DTEND:20220305T030000Z
-SUMMARY:[Honor Division] 2MR vs. ZLT
+SUMMARY:[Honor Division] ZLT vs. 2MR
 UID:honor_division-107593829779755201@lol.ics.tools
-DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Tomorrow Esports 
- vs. Zylant Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 7\nTeams: Zylant Esports vs.
+  Tomorrow Esports\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Zylant Esports (2) vs. Tomorrow Esports (0)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 NAME:Honor Division Spielplan

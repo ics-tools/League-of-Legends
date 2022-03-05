@@ -574,20 +574,22 @@ DTEND:20220305T030000Z
 SUMMARY:[Volcano League] ACS vs. PD
 UID:volcano_discover_league-107682708469973560@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: AceS GaminG vs. 
- Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Pirate Dream\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ AceS GaminG (1) vs. Pirate Dream (0)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T010000Z
 DTEND:20220305T020000Z
-SUMMARY:[Volcano League] GSE vs. WS
+SUMMARY:[Volcano League] WS vs. GSE
 UID:volcano_discover_league-107682708470039114@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: GeekSide Esports 
- vs. Waia Snikt\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Woche 6\nTeams: Waia Snikt vs. 
+ GeekSide Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Waia Snikt (0) vs. GeekSide Esports (1)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan

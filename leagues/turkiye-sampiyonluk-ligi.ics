@@ -7488,34 +7488,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T110000Z
 DTEND:20220305T120000Z
-SUMMARY:[TCL] IW vs. FB
+SUMMARY:[TCL] FB vs. IW
 UID:turkiye-sampiyonluk-ligi-107566458490449233@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: fastPay Wildcats vs. 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Fenerbahçe Espor vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. fastPay Wildcats (1)\n
 CREATED:20220304T124942Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T124942Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T140000Z
 DTEND:20220305T150000Z
-SUMMARY:[TCL] AUR vs. 5R
+SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449259@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. Team 
+ Aurora\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220304T183616Z
-LAST-MODIFIED:20220304T183616Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T183616Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T130000Z
 DTEND:20220305T140000Z
-SUMMARY:[TCL] NSR vs. BJK
+SUMMARY:[TCL] BJK vs. NSR
 UID:turkiye-sampiyonluk-ligi-107566458490449269@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: NASR ESPORTS vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Beşiktaş vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220304T183616Z
-LAST-MODIFIED:20220304T183616Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T183616Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7532,13 +7533,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220305T150000Z
 DTEND:20220305T160000Z
-SUMMARY:[TCL] SMB vs. GS
+SUMMARY:[TCL] GS vs. SMB
 UID:turkiye-sampiyonluk-ligi-107566458490449307@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze vs.
-  Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Galatasaray Espor vs. Papara 
+ SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220304T183616Z
-LAST-MODIFIED:20220304T183616Z
+LAST-MODIFIED:20220305T124634Z
 DTSTAMP:20220304T183616Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220306T120000Z
+DTEND:20220306T130000Z
+SUMMARY:[TCL] GS vs. FB
+UID:turkiye-sampiyonluk-ligi-107566458490449237@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Galatasaray Espor vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220305T124634Z
+LAST-MODIFIED:20220305T124634Z
+DTSTAMP:20220305T124634Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220306T110000Z
+DTEND:20220306T120000Z
+SUMMARY:[TCL] AUR vs. IW
+UID:turkiye-sampiyonluk-ligi-107566458490449295@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. fastPay 
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220305T124634Z
+LAST-MODIFIED:20220305T124634Z
+DTSTAMP:20220305T124634Z
 END:VEVENT
 NAME:TCL Spielplan
 X-WR-CALNAME:TCL Spielplan
