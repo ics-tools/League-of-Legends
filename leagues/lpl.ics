@@ -11341,9 +11341,10 @@ DTEND:20220305T140000Z
 SUMMARY:[LPL] RNG vs. EDG
 UID:lpl-107417779634108466@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Royal Never Give Up vs. 
- Edward Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Edward Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Royal Never Give Up (2) vs. Edward Gaming (1)\n
 CREATED:20220304T124941Z
-LAST-MODIFIED:20220304T124941Z
+LAST-MODIFIED:20220305T183520Z
 DTSTAMP:20220304T124941Z
 END:VEVENT
 BEGIN:VEVENT

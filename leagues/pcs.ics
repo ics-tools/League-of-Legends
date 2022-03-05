@@ -3162,9 +3162,10 @@ DTEND:20220305T130000Z
 SUMMARY:[PCS] JT vs. CFO
 UID:pcs-107693721182801342@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. CTBC Flying
-  Oyster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Oyster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei 
+ J Team (1) vs. CTBC Flying Oyster (0)\n
 CREATED:20220304T183617Z
-LAST-MODIFIED:20220304T183617Z
+LAST-MODIFIED:20220305T183520Z
 DTSTAMP:20220304T183617Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3173,9 +3174,11 @@ DTEND:20220305T140000Z
 SUMMARY:[PCS] DCG vs. BYG
 UID:pcs-107693721182997974@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. Mega 
- Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Deep Cross Gaming (1) vs. Mega Bank Beyond Gaming 
+ (0)\n
 CREATED:20220304T183617Z
-LAST-MODIFIED:20220304T183617Z
+LAST-MODIFIED:20220305T183520Z
 DTSTAMP:20220304T183617Z
 END:VEVENT
 BEGIN:VEVENT
