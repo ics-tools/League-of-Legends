@@ -3187,9 +3187,10 @@ DTEND:20220306T090000Z
 SUMMARY:[PCS] PSG vs. DCG
 UID:pcs-107693721182735742@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Deep Cross 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Deep Cross Gaming (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3198,9 +3199,10 @@ DTEND:20220306T110000Z
 SUMMARY:[PCS] BYG vs. JT
 UID:pcs-107693721182997958@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
- Taipei J Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Taipei J Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Mega Bank Beyond Gaming (0) vs. Taipei J Team (1)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3209,9 +3211,10 @@ DTEND:20220306T100000Z
 SUMMARY:[PCS] DCG vs. CFO
 UID:pcs-107693721182997966@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Deep Cross Gaming vs. CTBC 
- Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Flying Oyster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Deep Cross Gaming (1) vs. CTBC Flying Oyster (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3220,9 +3223,10 @@ DTEND:20220306T120000Z
 SUMMARY:[PCS] IMP vs. S9
 UID:pcs-107693721182997982@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Impunity Esports vs. 
- SEM9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Impunity 
+ Esports (1) vs. SEM9 (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3242,9 +3246,10 @@ DTEND:20220306T130000Z
 SUMMARY:[PCS] PSG vs. MFT
 UID:pcs-107693721183063566@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Meta Falcon 
- Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG Talon 
+ (1) vs. Meta Falcon Team (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 NAME:PCS Spielplan

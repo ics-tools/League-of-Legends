@@ -7563,9 +7563,10 @@ DTEND:20220306T120000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-107566458490449295@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T124658Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
