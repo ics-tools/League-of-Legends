@@ -5682,9 +5682,10 @@ DTEND:20220306T130000Z
 SUMMARY:[LJL] DFM vs. RJ
 UID:ljl-japan-107455808283066371@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 4\nTeams: DetonatioN FocusMe vs. Rascal
-  Jester\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Jester\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (0) vs. Rascal Jester (1)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 NAME:LJL Spielplan

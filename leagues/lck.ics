@@ -7889,9 +7889,10 @@ DTEND:20220306T140000Z
 SUMMARY:[LCK] T1 vs. KT
 UID:lck-107418445248279842@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Woche 7\nTeams: T1 vs. kt Rolster\nSpiel-
- Strategie: bestOf 3\nStatus: unstarted\n
+ Strategie: bestOf 3\nStatus: completed\nErgebnisse: T1 (2) vs. kt Rolster 
+ (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 NAME:LCK Spielplan

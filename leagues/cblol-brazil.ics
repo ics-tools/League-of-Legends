@@ -7254,9 +7254,10 @@ DTEND:20220306T180000Z
 SUMMARY:[CBLOL] PNG vs. FLA
 UID:cblol-brazil-107405837336966031@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: paiN Gaming vs. Flamengo 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: paiN 
+ Gaming (1) vs. Flamengo Esports (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7265,9 +7266,10 @@ DTEND:20220306T170000Z
 SUMMARY:[CBLOL] ITZ vs. LLL
 UID:cblol-brazil-107405837336966057@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: INTZ vs. LOUD\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (0) vs. LOUD 
+ (1)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT

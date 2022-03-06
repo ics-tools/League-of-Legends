@@ -3235,9 +3235,10 @@ DTEND:20220306T140000Z
 SUMMARY:[PCS] FAK vs. HG
 UID:pcs-107693721183063532@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. Hurricane 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (1) vs. Hurricane Gaming (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT

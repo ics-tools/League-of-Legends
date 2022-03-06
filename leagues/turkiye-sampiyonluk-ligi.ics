@@ -7552,9 +7552,10 @@ DTEND:20220306T130000Z
 SUMMARY:[TCL] GS vs. FB
 UID:turkiye-sampiyonluk-ligi-107566458490449237@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Galatasaray Espor vs. 
- Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor (1) vs. Fenerbahçe Espor (0)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7575,9 +7576,10 @@ DTEND:20220306T150000Z
 SUMMARY:[TCL] BJK vs. 5R
 UID:turkiye-sampiyonluk-ligi-107566458490449245@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Beşiktaş vs. 5 Ronin\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş (0) vs. 5 
+ Ronin (1)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7586,9 +7588,10 @@ DTEND:20220306T140000Z
 SUMMARY:[TCL] SMB vs. DP
 UID:turkiye-sampiyonluk-ligi-107566458490449283@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze vs.
-  Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Dark Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (1) vs. Dark Passage (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7597,9 +7600,10 @@ DTEND:20220306T160000Z
 SUMMARY:[TCL] NSR vs. GAL
 UID:turkiye-sampiyonluk-ligi-107566458490449299@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: NASR ESPORTS vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR
+  ESPORTS (1) vs. GALAKTICOS (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 NAME:TCL Spielplan

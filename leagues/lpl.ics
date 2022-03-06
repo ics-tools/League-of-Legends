@@ -11365,9 +11365,10 @@ DTEND:20220306T140000Z
 SUMMARY:[LPL] TES vs. LNG
 UID:lpl-107417779634239770@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 7\nTeams: Top Esports vs. LNG 
- Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Top 
+ Esports (2) vs. LNG Esports (1)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220305T124634Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT

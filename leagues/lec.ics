@@ -8096,9 +8096,10 @@ DTEND:20220306T180000Z
 SUMMARY:[LEC] VIT vs. AST
 UID:lec-107417059263365759@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: Team Vitality vs. 
- Astralis\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Astralis\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Vitality (1) vs. Astralis (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8118,9 +8119,10 @@ DTEND:20220306T190000Z
 SUMMARY:[LEC] MAD vs. BDS
 UID:lec-107417059263431345@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: MAD Lions vs. Team 
- BDS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ BDS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAD Lions 
+ (1) vs. Team BDS (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8129,9 +8131,10 @@ DTEND:20220306T170000Z
 SUMMARY:[LEC] SK vs. MSF
 UID:lec-107417059263431351@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: SK Gaming vs. Misfits 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SK 
+ Gaming (1) vs. Misfits Gaming (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220306T183440Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
