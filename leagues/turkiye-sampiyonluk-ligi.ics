@@ -188,11 +188,11 @@ DTSTART:20190310T120000Z
 DTEND:20190310T130000Z
 SUMMARY:[TCL] GS vs. AUR
 UID:turkiye-sampiyonluk-ligi-101422616594809061@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Galatasaray Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Galatasaray Espor (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Galatasaray Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -550,11 +550,11 @@ DTSTART:20190317T140000Z
 DTEND:20190317T150000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-101422616599593219@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (0) vs. Team Aurora (1)\n
+ GALAKTICOS (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -939,11 +939,11 @@ DTSTART:20190309T120000Z
 DTEND:20190309T130000Z
 SUMMARY:[TCL] AUR vs. BUR
 UID:turkiye-sampiyonluk-ligi-101422616604246307@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. Bursaspor 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Bursaspor Esports (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ Bursaspor Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (1) vs. Bursaspor Esports (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -951,11 +951,11 @@ DTSTART:20190316T100000Z
 DTEND:20190316T110000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-101422616604377380@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Dark Passage (0)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1120,11 +1120,11 @@ DTSTART:20190330T100000Z
 DTEND:20190330T150000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-101776592368839672@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Team Aurora vs. 
- Galatasaray Espor\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. Galatasaray Espor (3)\n
+DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Info Yatırım Aurora vs.
+  Galatasaray Espor\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (3)\n
 CREATED:20211129T025649Z
-LAST-MODIFIED:20211129T025649Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025649Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1206,11 +1206,11 @@ DTSTART:20190720T130000Z
 DTEND:20190720T140000Z
 SUMMARY:[TCL] BJKK vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771772916222@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Besiktasarchive vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Besiktasarchive (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Besiktasarchive vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Besiktasarchive (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,11 +1255,11 @@ DTSTART:20190630T140000Z
 DTEND:20190630T150000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-102235771774095874@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,11 +1267,11 @@ DTSTART:20190714T130000Z
 DTEND:20190714T140000Z
 SUMMARY:[TCL] DP vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771774423555@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Dark Passage vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
- Passage (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Dark Passage vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1486,11 +1486,11 @@ DTSTART:20190608T150000Z
 DTEND:20190608T160000Z
 SUMMARY:[TCL] AUR vs. RYL
 UID:turkiye-sampiyonluk-ligi-102235771779731989@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. Royal 
- Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Royal Youth (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. Royal
+  Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Royal Youth (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1534,11 +1534,11 @@ DTSTART:20190728T120000Z
 DTEND:20190728T130000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-102235771780911641@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. Galatasaray 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Galatasaray Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1546,11 +1546,11 @@ DTSTART:20190616T110000Z
 DTEND:20190616T120000Z
 SUMMARY:[TCL] AUR vs. BJKK
 UID:turkiye-sampiyonluk-ligi-102235771781239322@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 
  Besiktasarchive\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora (0) vs. Besiktasarchive (1)\n
+  Info Yatırım Aurora (0) vs. Besiktasarchive (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1690,11 +1690,11 @@ DTSTART:20190609T140000Z
 DTEND:20190609T150000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771784778278@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1702,11 +1702,11 @@ DTSTART:20190707T130000Z
 DTEND:20190707T140000Z
 SUMMARY:[TCL] RYL vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771785105959@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Royal Youth vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Royal Youth vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
- Youth (1) vs. Team Aurora (0)\n
+ Youth (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1714,11 +1714,11 @@ DTSTART:20190713T110000Z
 DTEND:20190713T120000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-102235771785368104@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. fastPay Wildcats (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (1) vs. fastPay Wildcats (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1726,11 +1726,11 @@ DTSTART:20190629T120000Z
 DTEND:20190629T130000Z
 SUMMARY:[TCL] GS vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771785695785@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Galatasaray Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Galatasaray Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Galatasaray Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1810,11 +1810,11 @@ DTSTART:20190727T110000Z
 DTEND:20190727T120000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771787792944@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (1) vs. Team Aurora (0)\n
+ GALAKTICOS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1859,11 +1859,11 @@ DTSTART:20190615T140000Z
 DTEND:20190615T150000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-102235771788972596@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Dark Passage (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1969,11 +1969,11 @@ DTSTART:20190621T180000Z
 DTEND:20190621T190000Z
 SUMMARY:[TCL] BUR vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771791659581@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Bursaspor Esports vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Bursaspor Esports (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Bursaspor Esports vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Bursaspor Esports (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2066,11 +2066,11 @@ DTSTART:20190803T130000Z
 DTEND:20190803T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771794084421@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2103,11 +2103,11 @@ DTSTART:20190622T120000Z
 DTEND:20190622T130000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-102235771795067464@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (1) vs. GALAKTICOS (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (1) vs. GALAKTICOS (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2163,11 +2163,12 @@ DTSTART:20190706T150000Z
 DTEND:20190706T160000Z
 SUMMARY:[TCL] AUR vs. SMB
 UID:turkiye-sampiyonluk-ligi-102235771796574797@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Team Aurora vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (1) vs. Papara SuperMassive Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (1) vs. Papara SuperMassive 
+ Blaze (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2176,10 +2177,11 @@ DTEND:20190804T140000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-102235771796902478@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2199,11 +2201,11 @@ DTSTART:20190721T150000Z
 DTEND:20190721T160000Z
 SUMMARY:[TCL] AUR vs. BUR
 UID:turkiye-sampiyonluk-ligi-102235771797557840@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. Bursaspor 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Bursaspor Esports (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Info Yatırım Aurora vs. 
+ Bursaspor Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (1) vs. Bursaspor Esports (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124956Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2260,11 +2262,11 @@ DTSTART:20190804T153000Z
 DTEND:20190804T163000Z
 SUMMARY:[TCL] BJKK vs. AUR
 UID:turkiye-sampiyonluk-ligi-102559254460593688@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Besiktasarchive vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Besiktasarchive (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Besiktasarchive vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Besiktasarchive (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2297,11 +2299,11 @@ DTSTART:20190824T110000Z
 DTEND:20190824T160000Z
 SUMMARY:[TCL] RYL vs. AUR
 UID:turkiye-sampiyonluk-ligi-102638763030279888@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Royal Youth vs. Team 
- Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Royal 
- Youth (3) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Royal Youth vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Royal Youth (3) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2310,10 +2312,10 @@ DTEND:20190817T160000Z
 SUMMARY:[TCL] BJKK vs. AUR
 UID:turkiye-sampiyonluk-ligi-102638763030476497@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Besiktasarchive vs. 
- Team Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Besiktasarchive (2) vs. Team Aurora (3)\n
+ Info Yatırım Aurora\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Besiktasarchive (2) vs. Info Yatırım Aurora (3)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2406,11 +2408,11 @@ DTSTART:20200222T140000Z
 DTEND:20200222T150000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-103495781305002088@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. fastPay Wildcats (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2490,11 +2492,11 @@ DTSTART:20200223T120000Z
 DTEND:20200223T130000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-103495781305002102@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. 5 Ronin (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. 5 Ronin (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2562,11 +2564,11 @@ DTSTART:20200209T130000Z
 DTEND:20200209T140000Z
 SUMMARY:[TCL] BJK vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305002114@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş
-  (1) vs. Team Aurora (0)\n
+  (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2623,11 +2625,11 @@ DTSTART:20200215T110000Z
 DTEND:20200215T120000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-103495781305002124@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Info Yatırım Aurora vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2671,11 +2673,12 @@ DTSTART:20200202T140000Z
 DTEND:20200202T150000Z
 SUMMARY:[TCL] AUR vs. SMB
 UID:turkiye-sampiyonluk-ligi-103495781305002132@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (1) vs. Papara SuperMassive Blaze (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (1) vs. Papara SuperMassive 
+ Blaze (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,11 +2710,11 @@ DTSTART:20200216T130000Z
 DTEND:20200216T140000Z
 SUMMARY:[TCL] DP vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067674@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Dark Passage vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
- Passage (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Dark Passage vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2731,11 +2734,11 @@ DTSTART:20200229T110000Z
 DTEND:20200229T120000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067678@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (1) vs. Team Aurora (0)\n
+ GALAKTICOS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2755,11 +2758,11 @@ DTSTART:20200208T110000Z
 DTEND:20200208T120000Z
 SUMMARY:[TCL] RYL vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067682@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Royal Youth vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Royal Youth vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
- Youth (0) vs. Team Aurora (1)\n
+ Youth (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2840,11 +2843,11 @@ DTSTART:20200315T130000Z
 DTEND:20200315T140000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067696@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2924,11 +2927,11 @@ DTSTART:20200413T130000Z
 DTEND:20200413T140000Z
 SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067710@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (0) vs. Team Aurora (1)\n
+ (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2996,11 +2999,11 @@ DTSTART:20200405T120000Z
 DTEND:20200405T130000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-103495781305067722@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Beşiktaş (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Beşiktaş (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,11 +3060,11 @@ DTSTART:20200308T110000Z
 DTEND:20200308T120000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067732@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3107,10 +3110,11 @@ DTEND:20200314T140000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781305067740@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3142,11 +3146,11 @@ DTSTART:20200404T110000Z
 DTEND:20200404T120000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-103495781305067746@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Dark Passage (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,11 +3170,11 @@ DTSTART:20200414T120000Z
 DTEND:20200414T130000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-103495781305067750@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3190,11 +3194,11 @@ DTSTART:20200307T140000Z
 DTEND:20200307T150000Z
 SUMMARY:[TCL] AUR vs. RYL
 UID:turkiye-sampiyonluk-ligi-103495781305067754@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. Royal 
- Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Royal Youth (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. Royal
+  Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Royal Youth (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3203,10 +3207,11 @@ DTEND:20200427T160000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781309458669@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Papara SuperMassive 
- Blaze vs. Team Aurora\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Team Aurora (3)\n
+ Blaze vs. Info Yatırım Aurora\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (3)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3226,11 +3231,11 @@ DTSTART:20200504T110000Z
 DTEND:20200504T160000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-103495781309458681@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (3) vs. Team Aurora (2)\n
+DESCRIPTION:Liga: TCL\nPhase: Halbfinale\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (3) vs. Info Yatırım Aurora (2)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3262,11 +3267,11 @@ DTSTART:20200414T153000Z
 DTEND:20200414T163000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-103997540870769457@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Beşiktaş (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Beşiktaş (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20211129T025650Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3371,11 +3376,11 @@ DTSTART:20200607T120000Z
 DTEND:20200607T130000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-104248884640266506@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3467,11 +3472,11 @@ DTSTART:20200801T110000Z
 DTEND:20200801T120000Z
 SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266522@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (1) vs. Team Aurora (0)\n
+ (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3551,11 +3556,11 @@ DTSTART:20200613T150000Z
 DTEND:20200613T160000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-104248884640266536@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Beşiktaş (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3623,11 +3628,11 @@ DTSTART:20200705T110000Z
 DTEND:20200705T120000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-104248884640266548@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Dark Passage (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3683,11 +3688,11 @@ DTSTART:20200704T140000Z
 DTEND:20200704T150000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266558@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (1) vs. Team Aurora (0)\n
+ GALAKTICOS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3732,11 +3737,11 @@ DTSTART:20200614T130000Z
 DTEND:20200614T140000Z
 SUMMARY:[TCL] GS vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266566@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Galatasaray Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Galatasaray Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Galatasaray Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3769,11 +3774,11 @@ DTSTART:20200725T120000Z
 DTEND:20200725T130000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-104248884640266572@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. fastPay Wildcats (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3793,11 +3798,11 @@ DTSTART:20200719T150000Z
 DTEND:20200719T160000Z
 SUMMARY:[TCL] RYL vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266576@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Royal Youth vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Royal Youth vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Royal 
- Youth (0) vs. Team Aurora (1)\n
+ Youth (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3806,10 +3811,11 @@ DTEND:20200627T120000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266578@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3914,11 +3920,11 @@ DTSTART:20200711T140000Z
 DTEND:20200711T150000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266596@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4010,11 +4016,11 @@ DTSTART:20200628T130000Z
 DTEND:20200628T140000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-104248884640266612@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. 5 Ronin (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. 5 Ronin (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4094,11 +4100,11 @@ DTSTART:20200712T120000Z
 DTEND:20200712T130000Z
 SUMMARY:[TCL] BJK vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640266626@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Beşiktaş vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Beşiktaş vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş
-  (1) vs. Team Aurora (0)\n
+  (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4167,11 +4173,11 @@ DTSTART:20200606T120000Z
 DTEND:20200606T130000Z
 SUMMARY:[TCL] DP vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640332174@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Dark Passage vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
- Passage (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Dark Passage vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4227,11 +4233,11 @@ DTSTART:20200802T110000Z
 DTEND:20200802T120000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-104248884640332184@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4276,11 +4282,11 @@ DTSTART:20200718T140000Z
 DTEND:20200718T150000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-104248884640332192@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. Galatasaray 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Galatasaray Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Info Yatırım Aurora vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4313,11 +4319,11 @@ DTSTART:20200621T130000Z
 DTEND:20200621T140000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-104248884640332198@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4337,11 +4343,11 @@ DTSTART:20200620T150000Z
 DTEND:20200620T160000Z
 SUMMARY:[TCL] AUR vs. RYL
 UID:turkiye-sampiyonluk-ligi-104248884640332202@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. Royal 
- Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Royal Youth (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Info Yatırım Aurora vs. Royal
+  Youth\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Royal Youth (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4349,11 +4355,12 @@ DTSTART:20200726T140000Z
 DTEND:20200726T150000Z
 SUMMARY:[TCL] AUR vs. SMB
 UID:turkiye-sampiyonluk-ligi-104248884640332204@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. Papara SuperMassive Blaze (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Papara SuperMassive 
+ Blaze (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4530,11 +4537,11 @@ DTSTART:20210130T140000Z
 DTEND:20210130T150000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-105562822076218144@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4626,11 +4633,11 @@ DTSTART:20210220T150000Z
 DTEND:20210220T160000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-105562822076283696@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. 5 Ronin (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Info Yatırım Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. 5 Ronin (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4710,11 +4717,11 @@ DTSTART:20210131T110000Z
 DTEND:20210131T120000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-105562822076283710@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Beşiktaş (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4783,11 +4790,11 @@ DTSTART:20210206T110000Z
 DTEND:20210206T120000Z
 SUMMARY:[TCL] DP vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076283722@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Dark Passage vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
- Passage (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Dark Passage vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4843,11 +4850,11 @@ DTSTART:20210227T110000Z
 DTEND:20210227T120000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-105562822076283732@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4892,11 +4899,11 @@ DTSTART:20210123T150000Z
 DTEND:20210123T160000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-105562822076283740@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. Galatasaray 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Galatasaray Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4929,11 +4936,11 @@ DTSTART:20210314T120000Z
 DTEND:20210314T130000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-105562822076283746@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. fastPay Wildcats (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4954,11 +4961,11 @@ DTSTART:20210207T120000Z
 DTEND:20210207T130000Z
 SUMMARY:[TCL] AUR vs. NSR
 UID:turkiye-sampiyonluk-ligi-105562822076283750@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. NASR 
- ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. NASR ESPORTS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Info Yatırım Aurora vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. NASR ESPORTS (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4966,11 +4973,12 @@ DTSTART:20210214T140000Z
 DTEND:20210214T150000Z
 SUMMARY:[TCL] AUR vs. SMB
 UID:turkiye-sampiyonluk-ligi-105562822076283752@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. Papara SuperMassive Blaze (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Papara SuperMassive 
+ Blaze (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20211129T025651Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5075,11 +5083,11 @@ DTSTART:20210228T130000Z
 DTEND:20210228T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076283770@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5171,11 +5179,11 @@ DTSTART:20210321T110000Z
 DTEND:20210321T120000Z
 SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349322@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: 5 Ronin vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (1) vs. Team Aurora (0)\n
+ (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5255,11 +5263,11 @@ DTSTART:20210306T110000Z
 DTEND:20210306T120000Z
 SUMMARY:[TCL] BJK vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349336@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Beşiktaş vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Beşiktaş vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş
-  (1) vs. Team Aurora (0)\n
+  (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5327,11 +5335,11 @@ DTSTART:20210307T110000Z
 DTEND:20210307T120000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-105562822076349348@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Dark Passage (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5387,11 +5395,11 @@ DTSTART:20210124T140000Z
 DTEND:20210124T150000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349358@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (1) vs. Team Aurora (0)\n
+ GALAKTICOS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5436,11 +5444,11 @@ DTSTART:20210221T130000Z
 DTEND:20210221T140000Z
 SUMMARY:[TCL] GS vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349366@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Galatasaray Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Galatasaray Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Galatasaray Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5473,11 +5481,11 @@ DTSTART:20210213T120000Z
 DTEND:20210213T130000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349372@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5497,11 +5505,11 @@ DTSTART:20210313T110000Z
 DTEND:20210313T120000Z
 SUMMARY:[TCL] NSR vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349376@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: NASR ESPORTS vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
- ESPORTS (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: NASR ESPORTS vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5510,10 +5518,11 @@ DTEND:20210320T140000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-105562822076349378@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5691,11 +5700,11 @@ DTSTART:20210718T110000Z
 DTEND:20210718T120000Z
 SUMMARY:[TCL] AUR vs. FB
 UID:turkiye-sampiyonluk-ligi-106269459011717371@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Fenerbahçe Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. 
+ Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5787,11 +5796,11 @@ DTSTART:20210717T110000Z
 DTEND:20210717T120000Z
 SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011717387@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 5 Ronin vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: 5 Ronin vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (0) vs. Team Aurora (1)\n
+ (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5871,11 +5880,11 @@ DTSTART:20210612T130000Z
 DTEND:20210612T140000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-106269459011717401@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Beşiktaş (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5944,11 +5953,11 @@ DTSTART:20210710T120000Z
 DTEND:20210710T130000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-106269459011717413@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Dark Passage (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Dark Passage (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6005,11 +6014,11 @@ DTSTART:20210725T150000Z
 DTEND:20210725T160000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-106269459011717423@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. fastPay Wildcats (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6053,11 +6062,11 @@ DTSTART:20210807T140000Z
 DTEND:20210807T150000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-106269459011782967@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6090,11 +6099,11 @@ DTSTART:20210731T110000Z
 DTEND:20210731T120000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-106269459011782973@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Team Aurora vs. Galatasaray 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Galatasaray Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6114,11 +6123,11 @@ DTSTART:20210801T120000Z
 DTEND:20210801T130000Z
 SUMMARY:[TCL] NSR vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011782977@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: NASR ESPORTS vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
- ESPORTS (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: NASR ESPORTS vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6126,11 +6135,12 @@ DTSTART:20210620T140000Z
 DTEND:20210620T150000Z
 SUMMARY:[TCL] AUR vs. SMB
 UID:turkiye-sampiyonluk-ligi-106269459011782979@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. Papara 
- SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora (0) vs. Papara SuperMassive Blaze (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Papara SuperMassive 
+ Blaze (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6235,11 +6245,11 @@ DTSTART:20210619T130000Z
 DTEND:20210619T140000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011782997@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6331,11 +6341,11 @@ DTSTART:20210613T140000Z
 DTEND:20210613T150000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-106269459011783013@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. 5 Ronin (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Info Yatırım Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. 5 Ronin (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6415,11 +6425,11 @@ DTSTART:20210711T120000Z
 DTEND:20210711T130000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-106269459011783027@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Beşiktaş (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. Beşiktaş (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6487,11 +6497,11 @@ DTSTART:20210808T130000Z
 DTEND:20210808T140000Z
 SUMMARY:[TCL] DP vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011783039@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
- Passage (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6548,11 +6558,11 @@ DTSTART:20210626T150000Z
 DTEND:20210626T160000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011848585@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6596,11 +6606,11 @@ DTSTART:20210704T120000Z
 DTEND:20210704T130000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-106269459011848593@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team
-  Aurora (0) vs. GALAKTICOS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. 
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6633,11 +6643,11 @@ DTSTART:20210627T140000Z
 DTEND:20210627T150000Z
 SUMMARY:[TCL] GS vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011848599@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Galatasaray Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Galatasaray Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6658,11 +6668,11 @@ DTSTART:20210703T130000Z
 DTEND:20210703T140000Z
 SUMMARY:[TCL] AUR vs. NSR
 UID:turkiye-sampiyonluk-ligi-106269459011848603@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. NASR 
- ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. NASR ESPORTS (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (0) vs. NASR ESPORTS (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6671,10 +6681,11 @@ DTEND:20210724T130000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-106269459011848605@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20211129T025652Z
+LAST-MODIFIED:20220307T124957Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6802,11 +6813,11 @@ DTSTART:20220122T120000Z
 DTEND:20220122T130000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490383617@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6838,11 +6849,11 @@ DTSTART:20220130T130000Z
 DTEND:20220130T140000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-107566458490383633@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Team Aurora vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. 5 Ronin (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Info Yatırım Aurora vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. 5 Ronin (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6874,11 +6885,11 @@ DTSTART:20220129T120000Z
 DTEND:20220129T130000Z
 SUMMARY:[TCL] BJK vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490383647@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 2\nTeams: Beşiktaş vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Beşiktaş
-  (0) vs. Team Aurora (1)\n
+  (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6996,11 +7007,11 @@ DTSTART:20220123T120000Z
 DTEND:20220123T130000Z
 SUMMARY:[TCL] NSR vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449223@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: NASR ESPORTS vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
- ESPORTS (0) vs. Team Aurora (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 1\nTeams: NASR ESPORTS vs. Info Yatırım
+  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7189,11 +7200,11 @@ DTSTART:20220212T110000Z
 DTEND:20220212T120000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-107566458490383659@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Team Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Dark Passage (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: Info Yatırım Aurora vs. Dark 
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Dark Passage (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7225,11 +7236,11 @@ DTSTART:20220205T110000Z
 DTEND:20220205T120000Z
 SUMMARY:[TCL] IW vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490383669@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: fastPay 
- Wildcats (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: fastPay Wildcats vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ fastPay Wildcats (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7261,11 +7272,11 @@ DTSTART:20220213T120000Z
 DTEND:20220213T130000Z
 SUMMARY:[TCL] GAL vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449213@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: GALAKTICOS vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 4\nTeams: GALAKTICOS vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS (0) vs. Team Aurora (1)\n
+ GALAKTICOS (0) vs. Info Yatırım Aurora (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7273,11 +7284,11 @@ DTSTART:20220206T110000Z
 DTEND:20220206T120000Z
 SUMMARY:[TCL] AUR vs. GS
 UID:turkiye-sampiyonluk-ligi-107566458490449219@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Team Aurora vs. Galatasaray 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. Galatasaray Espor (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 3\nTeams: Info Yatırım Aurora vs. 
+ Galatasaray Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. Galatasaray Espor (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7298,10 +7309,11 @@ DTEND:20220219T150000Z
 SUMMARY:[TCL] SMB vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449225@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Papara SuperMassive Blaze vs.
-  Team Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Papara SuperMassive Blaze (1) vs. Team Aurora (0)\n
+  Info Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (1) vs. Info Yatırım 
+ Aurora (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7309,11 +7321,11 @@ DTSTART:20220220T110000Z
 DTEND:20220220T120000Z
 SUMMARY:[TCL] FB vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449243@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. Team 
- Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Fenerbahçe Espor (1) vs. Team Aurora (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 5\nTeams: Fenerbahçe Espor vs. Info 
+ Yatırım Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fenerbahçe Espor (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7417,11 +7429,11 @@ DTSTART:20220226T140000Z
 DTEND:20220226T150000Z
 SUMMARY:[TCL] AUR vs. NSR
 UID:turkiye-sampiyonluk-ligi-107566458490449313@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. NASR 
- ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. NASR ESPORTS (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. NASR 
+ ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. NASR ESPORTS (0)\n
 CREATED:20220225T183636Z
-LAST-MODIFIED:20220226T183452Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220225T183636Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7466,11 +7478,11 @@ DTSTART:20220227T150000Z
 DTEND:20220227T160000Z
 SUMMARY:[TCL] AUR vs. BJK
 UID:turkiye-sampiyonluk-ligi-107566458490449273@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Team Aurora vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (1) vs. Beşiktaş (0)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 6\nTeams: Info Yatırım Aurora vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Beşiktaş (0)\n
 CREATED:20220226T183452Z
-LAST-MODIFIED:20220227T183916Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220226T183452Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7502,11 +7514,11 @@ DTSTART:20220305T140000Z
 DTEND:20220305T150000Z
 SUMMARY:[TCL] 5R vs. AUR
 UID:turkiye-sampiyonluk-ligi-107566458490449259@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. Team 
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: 5 Ronin vs. Info Yatırım 
  Aurora\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 Ronin 
- (1) vs. Team Aurora (0)\n
+ (1) vs. Info Yatırım Aurora (0)\n
 CREATED:20220304T183616Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220304T183616Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7563,11 +7575,11 @@ DTSTART:20220306T110000Z
 DTEND:20220306T120000Z
 SUMMARY:[TCL] AUR vs. IW
 UID:turkiye-sampiyonluk-ligi-107566458490449295@lol.ics.tools
-DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Team Aurora vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
- Aurora (0) vs. fastPay Wildcats (1)\n
+DESCRIPTION:Liga: TCL\nPhase: Woche 7\nTeams: Info Yatırım Aurora vs. 
+ fastPay Wildcats\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora (0) vs. fastPay Wildcats (1)\n
 CREATED:20220305T124634Z
-LAST-MODIFIED:20220306T124658Z
+LAST-MODIFIED:20220307T124958Z
 DTSTAMP:20220305T124634Z
 END:VEVENT
 BEGIN:VEVENT
