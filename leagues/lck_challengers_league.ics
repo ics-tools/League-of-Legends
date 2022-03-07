@@ -4113,9 +4113,10 @@ DTEND:20220307T130000Z
 SUMMARY:[LCK Challengers] HLE vs. GEN
 UID:lck_challengers_league-107559433600201004@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 8\nTeams: HLE Challengers 
- vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. GEN Challengers (1)\n
 CREATED:20220306T124658Z
-LAST-MODIFIED:20220306T124658Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220306T124658Z
 END:VEVENT
 BEGIN:VEVENT

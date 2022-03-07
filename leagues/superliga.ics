@@ -3289,9 +3289,10 @@ DTEND:20220307T180000Z
 SUMMARY:[SuperLiga] UCAM vs. MADM
 UID:superliga-107468241211150243@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: UCAM Esports Club vs. 
- MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ MAD Lions Madrid\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: UCAM Esports Club (1) vs. MAD Lions Madrid (0)\n
 CREATED:20220306T124658Z
-LAST-MODIFIED:20220306T124658Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220306T124658Z
 END:VEVENT
 BEGIN:VEVENT

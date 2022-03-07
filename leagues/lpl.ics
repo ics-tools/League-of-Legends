@@ -11401,9 +11401,10 @@ DTEND:20220307T140000Z
 SUMMARY:[LPL] EDG vs. AL
 UID:lpl-107417779634042782@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 8\nTeams: Edward Gaming vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Edward 
+ Gaming (1) vs. Anyone's Legend (2)\n
 CREATED:20220306T124657Z
-LAST-MODIFIED:20220306T124657Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20220306T124657Z
 END:VEVENT
 BEGIN:VEVENT

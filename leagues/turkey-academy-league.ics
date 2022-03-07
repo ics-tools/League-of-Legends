@@ -56,11 +56,12 @@ DTSTART:20200221T150000Z
 DTEND:20200221T160000Z
 SUMMARY:[TAL] AUR vs. 5R
 UID:turkey-academy-league-103556721519400337@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (1) vs. 5 Ronin Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. 5 Ronin Akademi
+  (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -143,12 +144,12 @@ DTSTART:20200204T170000Z
 DTEND:20200204T180000Z
 SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-103556721519400351@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 
- Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Papara SuperMassive 
- Blaze Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Papara 
+ SuperMassive Blaze Akademi (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -221,12 +222,12 @@ DTSTART:20200213T140000Z
 DTEND:20200213T150000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-103556721519400363@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Fenerbahçe Espor 
- Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Fenerbahçe 
+ Espor Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -285,11 +286,12 @@ DTSTART:20200207T160000Z
 DTEND:20200207T170000Z
 SUMMARY:[TAL] BJK vs. AUR
 UID:turkey-academy-league-103556721519400373@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Beşiktaş Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Beşiktaş Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Beşiktaş Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -334,11 +336,12 @@ DTSTART:20200214T160000Z
 DTEND:20200214T170000Z
 SUMMARY:[TAL] DP vs. AUR
 UID:turkey-academy-league-103556721519400381@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Dark Passage Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Dark Passage Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Dark Passage Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -384,11 +387,12 @@ DTSTART:20200227T140000Z
 DTEND:20200227T150000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-103556721519400389@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -396,11 +400,12 @@ DTSTART:20200206T140000Z
 DTEND:20200206T150000Z
 SUMMARY:[TAL] RYLA vs. AUR
 UID:turkey-academy-league-103556721519400391@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Royal Youth Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Royal Youth Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Royal Youth Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Royal Youth Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -408,12 +413,12 @@ DTSTART:20200220T170000Z
 DTEND:20200220T180000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-103556721519400393@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -509,11 +514,12 @@ DTSTART:20200409T160000Z
 DTEND:20200409T170000Z
 SUMMARY:[TAL] 5R vs. AUR
 UID:turkey-academy-league-103556721519465945@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 5 Ronin Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin Akademi (0) vs. Info Yatırım Aurora Akademi
+  (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -598,11 +604,11 @@ DTEND:20200312T170000Z
 SUMMARY:[TAL] SMB vs. AUR
 UID:turkey-academy-league-103556721519465959@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze 
- Akademi vs. Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze Akademi (0) vs. Team 
- Aurora Akademi (1)\n
+ Akademi vs. Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Papara SuperMassive Blaze Akademi (0) 
+ vs. Info Yatırım Aurora Akademi (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -676,11 +682,11 @@ DTEND:20200306T150000Z
 SUMMARY:[TAL] FB vs. AUR
 UID:turkey-academy-league-103556721519465971@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Fenerbahçe Espor Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -739,11 +745,12 @@ DTSTART:20200403T150000Z
 DTEND:20200403T160000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-103556721519465981@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Beşiktaş Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Beşiktaş 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -788,11 +795,12 @@ DTSTART:20200402T140000Z
 DTEND:20200402T150000Z
 SUMMARY:[TAL] AUR vs. DP
 UID:turkey-academy-league-103556721519465989@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. Dark 
- Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (1) vs. Dark Passage Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Dark Passage 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -838,12 +846,12 @@ DTSTART:20200410T150000Z
 DTEND:20200410T160000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-103556721519465997@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Team Aurora Akademi vs. 
- GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. GALAKTICOS Akademi 
- (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. GALAKTICOS 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -851,11 +859,12 @@ DTSTART:20200305T170000Z
 DTEND:20200305T180000Z
 SUMMARY:[TAL] AUR vs. RYLA
 UID:turkey-academy-league-103556721519465999@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. Royal
-  Youth Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (1) vs. Royal Youth Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Info Yatırım Aurora Akademi 
+ vs. Royal Youth Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Royal Youth 
+ Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -864,11 +873,11 @@ DTEND:20200313T170000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-103556721519466001@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -928,11 +937,12 @@ DTSTART:20200417T110000Z
 DTEND:20200417T160000Z
 SUMMARY:[TAL] BJK vs. AUR
 UID:turkey-academy-league-103556721527395872@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Beşiktaş Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- Beşiktaş Akademi (1) vs. Team Aurora Akademi (3)\n
+DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Beşiktaş Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (3)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -940,12 +950,12 @@ DTSTART:20200419T110000Z
 DTEND:20200419T160000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-103556721527395878@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (3)\n
+DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (3)\n
 CREATED:20211129T025650Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183613Z
 DTSTAMP:20211129T025650Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,11 +1013,12 @@ DTSTART:20200730T140000Z
 DTEND:20200730T150000Z
 SUMMARY:[TAL] 5R vs. AUR
 UID:turkey-academy-league-104253013262800297@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 5 Ronin Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin Akademi (0) vs. Info Yatırım Aurora Akademi
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1104,11 +1115,11 @@ DTEND:20200625T150000Z
 SUMMARY:[TAL] SMB vs. AUR
 UID:turkey-academy-league-104253013262865849@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Papara SuperMassive Blaze 
- Akademi vs. Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) vs. Team 
- Aurora Akademi (0)\n
+ Akademi vs. Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) 
+ vs. Info Yatırım Aurora Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1194,12 +1205,12 @@ DTSTART:20200609T150000Z
 DTEND:20200609T160000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-104253013262865863@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Fenerbahçe Espor 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Fenerbahçe 
+ Espor Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1271,11 +1282,12 @@ DTSTART:20200611T180000Z
 DTEND:20200611T190000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-104253013262865875@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Beşiktaş Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Beşiktaş 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1333,11 +1345,12 @@ DTSTART:20200608T150000Z
 DTEND:20200608T160000Z
 SUMMARY:[TAL] DP vs. AUR
 UID:turkey-academy-league-104253013262865885@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Dark Passage Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Dark Passage Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Dark Passage Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1396,11 +1409,12 @@ DTSTART:20200702T170000Z
 DTEND:20200702T180000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-104253013262865895@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1408,11 +1422,12 @@ DTSTART:20200618T180000Z
 DTEND:20200618T190000Z
 SUMMARY:[TAL] AUR vs. RYLA
 UID:turkey-academy-league-104253013262865897@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Team Aurora Akademi vs. Royal
-  Youth Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (1) vs. Royal Youth Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Info Yatırım Aurora Akademi 
+ vs. Royal Youth Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Royal Youth 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1420,12 +1435,12 @@ DTSTART:20200723T150000Z
 DTEND:20200723T160000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-104253013262865899@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1433,12 +1448,12 @@ DTSTART:20200716T170000Z
 DTEND:20200716T180000Z
 SUMMARY:[TAL] AUR vs. GS
 UID:turkey-academy-league-104253013262865901@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Team Aurora Akademi vs. 
- Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Galatasaray Espor 
- Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Info Yatırım Aurora Akademi 
+ vs. Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Galatasaray 
+ Espor Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,11 +1588,12 @@ DTSTART:20200626T160000Z
 DTEND:20200626T170000Z
 SUMMARY:[TAL] AUR vs. 5R
 UID:turkey-academy-league-104253013262865923@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (1) vs. 5 Ronin Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. 5 Ronin Akademi
+  (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1674,12 +1690,12 @@ DTSTART:20200724T170000Z
 DTEND:20200724T180000Z
 SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-104253013262865939@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. 
- Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Papara SuperMassive 
- Blaze Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Papara 
+ SuperMassive Blaze Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,11 +1782,11 @@ DTEND:20200709T180000Z
 SUMMARY:[TAL] FB vs. AUR
 UID:turkey-academy-league-104253013262865953@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Fenerbahçe Espor Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1842,11 +1858,12 @@ DTSTART:20200710T150000Z
 DTEND:20200710T160000Z
 SUMMARY:[TAL] BJK vs. AUR
 UID:turkey-academy-league-104253013262865965@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Beşiktaş Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Beşiktaş Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Beşiktaş Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1904,11 +1921,12 @@ DTSTART:20200703T140000Z
 DTEND:20200703T150000Z
 SUMMARY:[TAL] AUR vs. DP
 UID:turkey-academy-league-104253013262865975@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Team Aurora Akademi vs. Dark 
- Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. Dark Passage Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Info Yatırım Aurora Akademi 
+ vs. Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Dark Passage 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1967,12 +1985,12 @@ DTSTART:20200731T140000Z
 DTEND:20200731T150000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-104253013262865985@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Team Aurora Akademi vs. 
- GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. GALAKTICOS Akademi 
- (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. GALAKTICOS 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1980,11 +1998,12 @@ DTSTART:20200717T180000Z
 DTEND:20200717T190000Z
 SUMMARY:[TAL] RYLA vs. AUR
 UID:turkey-academy-league-104253013262865987@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Royal Youth Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Royal Youth Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Royal Youth Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Royal Youth Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1993,11 +2012,11 @@ DTEND:20200619T170000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-104253013262865989@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2006,11 +2025,11 @@ DTEND:20200612T170000Z
 SUMMARY:[TAL] GS vs. AUR
 UID:turkey-academy-league-104253013262865991@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Galatasaray Espor Akademi vs.
-  Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+  Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2096,11 +2115,11 @@ DTEND:20200808T160000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-104253013264701014@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: fastPay Wildcats Akademi 
- vs. Team Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (3) vs. Team Aurora 
- Akademi (0)\n
+ vs. Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (3) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2250,12 +2269,12 @@ DTSTART:20210128T170000Z
 DTEND:20210128T180000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-105562790519126633@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Fenerbahçe Espor 
- Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Fenerbahçe 
+ Espor Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2350,11 +2369,12 @@ DTSTART:20210218T180000Z
 DTEND:20210218T190000Z
 SUMMARY:[TAL] AUR vs. 5R
 UID:turkey-academy-league-105562790519126649@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Team Aurora Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (0) vs. 5 Ronin Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Info Yatırım Aurora Akademi 
+ vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. 5 Ronin Akademi
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2437,11 +2457,12 @@ DTSTART:20210129T140000Z
 DTEND:20210129T150000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-105562790519126663@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Beşiktaş Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Beşiktaş 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2513,11 +2534,12 @@ DTSTART:20210204T140000Z
 DTEND:20210204T150000Z
 SUMMARY:[TAL] DP vs. AUR
 UID:turkey-academy-league-105562790519126675@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Dark Passage Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Dark Passage Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Dark Passage Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2577,12 +2599,12 @@ DTSTART:20210225T140000Z
 DTEND:20210225T150000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-105562790519126685@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. 
- GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. GALAKTICOS Akademi 
- (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Info Yatırım Aurora Akademi 
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. GALAKTICOS 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2629,12 +2651,12 @@ DTSTART:20210121T180000Z
 DTEND:20210121T190000Z
 SUMMARY:[TAL] AUR vs. GS
 UID:turkey-academy-league-105562790519126693@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 
- Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Galatasaray Espor 
- Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Galatasaray 
+ Espor Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2669,11 +2691,11 @@ DTEND:20210211T160000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-105562790519192235@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2694,11 +2716,12 @@ DTSTART:20210311T140000Z
 DTEND:20210311T150000Z
 SUMMARY:[TAL] NSR vs. AUR
 UID:turkey-academy-league-105562790519192239@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: NASR ESPORTS Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  NASR ESPORTS Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: NASR ESPORTS Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NASR ESPORTS Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,11 +2730,11 @@ DTEND:20210318T170000Z
 SUMMARY:[TAL] SMB vs. AUR
 UID:turkey-academy-league-105562790519192241@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze 
- Akademi vs. Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) vs. Team 
- Aurora Akademi (0)\n
+ Akademi vs. Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) 
+ vs. Info Yatırım Aurora Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2823,11 +2846,11 @@ DTEND:20210226T170000Z
 SUMMARY:[TAL] FB vs. AUR
 UID:turkey-academy-league-105562790519192259@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Fenerbahçe Espor Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220131T063600Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2921,11 +2944,12 @@ DTSTART:20210319T120000Z
 DTEND:20210319T130000Z
 SUMMARY:[TAL] 5R vs. AUR
 UID:turkey-academy-league-105562790519192275@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 5 Ronin Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: 5 Ronin Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin Akademi (0) vs. Info Yatırım Aurora Akademi
+  (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3008,11 +3032,12 @@ DTSTART:20210304T140000Z
 DTEND:20210304T150000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-105562790519192289@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Beşiktaş Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Beşiktaş 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3085,11 +3110,12 @@ DTSTART:20210305T140000Z
 DTEND:20210305T150000Z
 SUMMARY:[TAL] AUR vs. DP
 UID:turkey-academy-league-105562790519192301@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Team Aurora Akademi vs. Dark 
- Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (1) vs. Dark Passage Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Info Yatırım Aurora Akademi 
+ vs. Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Dark Passage 
+ Akademi (0)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3148,11 +3174,12 @@ DTSTART:20210122T170000Z
 DTEND:20210122T180000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-105562790519192311@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3200,11 +3227,11 @@ DTEND:20210219T170000Z
 SUMMARY:[TAL] GS vs. AUR
 UID:turkey-academy-league-105562790519192319@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Galatasaray Espor Akademi vs.
-  Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+  Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3238,12 +3265,12 @@ DTSTART:20210312T150000Z
 DTEND:20210312T160000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-105562790519192325@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3264,11 +3291,12 @@ DTSTART:20210205T150000Z
 DTEND:20210205T160000Z
 SUMMARY:[TAL] AUR vs. NSR
 UID:turkey-academy-league-105562790519192329@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Team Aurora Akademi vs. NASR 
- ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. NASR ESPORTS Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Info Yatırım Aurora Akademi 
+ vs. NASR ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. NASR ESPORTS 
+ Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3276,12 +3304,12 @@ DTSTART:20210212T170000Z
 DTEND:20210212T180000Z
 SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-105562790519257867@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. 
- Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Papara SuperMassive 
- Blaze Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Papara 
+ SuperMassive Blaze Akademi (1)\n
 CREATED:20211129T025651Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025651Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3289,12 +3317,12 @@ DTSTART:20210327T110000Z
 DTEND:20210327T160000Z
 SUMMARY:[TAL] AUR vs. GS
 UID:turkey-academy-league-105788598726345566@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Team Aurora Akademi vs. 
- Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (3) vs. Galatasaray Espor 
- Akademi (2)\n
+DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Info Yatırım Aurora 
+ Akademi vs. Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (3) vs. Galatasaray 
+ Espor Akademi (2)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3315,11 +3343,12 @@ DTSTART:20210328T110000Z
 DTEND:20210328T160000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-105788598726345578@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (3) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (3) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3340,12 +3369,12 @@ DTSTART:20210319T180000Z
 DTEND:20210319T190000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-105917473549309957@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Team Aurora Akademi vs. 
- GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. GALAKTICOS Akademi 
- (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. GALAKTICOS 
+ Akademi (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3367,11 +3396,11 @@ DTEND:20210319T210000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-105917889556164641@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (0) vs. Team Aurora 
- Akademi (1)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (0) vs. Info Yatırım 
+ Aurora Akademi (1)\n
 CREATED:20211129T025652Z
-LAST-MODIFIED:20220119T012838Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025652Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3483,12 +3512,12 @@ DTSTART:20210716T140000Z
 DTEND:20210716T150000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-106342376606018111@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Fenerbahçe Espor 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Fenerbahçe 
+ Espor Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3582,11 +3611,12 @@ DTSTART:20210715T140000Z
 DTEND:20210715T150000Z
 SUMMARY:[TAL] 5R vs. AUR
 UID:turkey-academy-league-106342376606018127@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: 5 Ronin Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 5 Ronin Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: 5 Ronin Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin Akademi (0) vs. Info Yatırım Aurora Akademi
+  (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3669,11 +3699,12 @@ DTSTART:20210709T150000Z
 DTEND:20210709T160000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-106342376606018141@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Beşiktaş Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Beşiktaş 
+ Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3745,11 +3776,12 @@ DTSTART:20210708T150000Z
 DTEND:20210708T160000Z
 SUMMARY:[TAL] AUR vs. DP
 UID:turkey-academy-league-106342376606018153@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Team Aurora Akademi vs. Dark 
- Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. Dark Passage Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Info Yatırım Aurora Akademi 
+ vs. Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Dark Passage 
+ Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3809,11 +3841,12 @@ DTSTART:20210702T150000Z
 DTEND:20210702T160000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-106342376606083699@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3861,11 +3894,11 @@ DTEND:20210625T170000Z
 SUMMARY:[TAL] GS vs. AUR
 UID:turkey-academy-league-106342376606083707@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Galatasaray Espor Akademi vs.
-  Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Galatasaray Espor Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+  Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3899,11 +3932,12 @@ DTSTART:20210730T150000Z
 DTEND:20210730T160000Z
 SUMMARY:[TAL] NSR vs. AUR
 UID:turkey-academy-league-106342376606083713@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: NASR ESPORTS Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  NASR ESPORTS Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: NASR ESPORTS Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NASR ESPORTS Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3924,12 +3958,12 @@ DTSTART:20210723T180000Z
 DTEND:20210723T190000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-106342376606083717@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3937,12 +3971,12 @@ DTSTART:20210618T170000Z
 DTEND:20210618T180000Z
 SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-106342376606083719@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 
- Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Papara SuperMassive 
- Blaze Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Papara 
+ SuperMassive Blaze Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4053,12 +4087,12 @@ DTSTART:20210617T160000Z
 DTEND:20210617T170000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-106342376606083737@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Fenerbahçe Espor 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Fenerbahçe 
+ Espor Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4153,11 +4187,12 @@ DTSTART:20210611T170000Z
 DTEND:20210611T180000Z
 SUMMARY:[TAL] AUR vs. 5R
 UID:turkey-academy-league-106342376606083753@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (1) vs. 5 Ronin Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. 5 Ronin Akademi
+  (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4240,11 +4275,12 @@ DTSTART:20210610T160000Z
 DTEND:20210610T170000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-106342376606083767@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Beşiktaş Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Beşiktaş 
+ Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4317,11 +4353,12 @@ DTSTART:20210806T160000Z
 DTEND:20210806T170000Z
 SUMMARY:[TAL] DP vs. AUR
 UID:turkey-academy-league-106342376606149315@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Dark Passage Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Dark Passage Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Dark Passage Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4380,12 +4417,12 @@ DTSTART:20210805T170000Z
 DTEND:20210805T180000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-106342376606149325@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Team Aurora Akademi vs. 
- GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. GALAKTICOS Akademi 
- (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. GALAKTICOS 
+ Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4432,12 +4469,12 @@ DTSTART:20210729T140000Z
 DTEND:20210729T150000Z
 SUMMARY:[TAL] AUR vs. GS
 UID:turkey-academy-league-106342376606149333@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Team Aurora Akademi vs. 
- Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Galatasaray Espor 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 8\nTeams: Info Yatırım Aurora Akademi 
+ vs. Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Galatasaray 
+ Espor Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4471,11 +4508,12 @@ DTSTART:20210701T160000Z
 DTEND:20210701T170000Z
 SUMMARY:[TAL] AUR vs. NSR
 UID:turkey-academy-league-106342376606149339@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. NASR 
- ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. NASR ESPORTS Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. NASR ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. NASR ESPORTS 
+ Akademi (1)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4497,11 +4535,11 @@ DTEND:20210624T180000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-106342376606149343@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4510,11 +4548,11 @@ DTEND:20210722T160000Z
 SUMMARY:[TAL] SMB vs. AUR
 UID:turkey-academy-league-106342376606149345@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Papara SuperMassive Blaze 
- Akademi vs. Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) vs. Team 
- Aurora Akademi (0)\n
+ Akademi vs. Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 
+ 1\nStatus: completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) 
+ vs. Info Yatırım Aurora Akademi (0)\n
 CREATED:20211129T025653Z
-LAST-MODIFIED:20220119T012839Z
+LAST-MODIFIED:20220307T183614Z
 DTSTAMP:20211129T025653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4599,12 +4637,12 @@ DTSTART:20220120T150000Z
 DTEND:20220120T160000Z
 SUMMARY:[TAL] AUR vs. FB
 UID:turkey-academy-league-107566682549054907@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Team Aurora Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (1) vs. Fenerbahçe Espor 
- Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: Info Yatırım Aurora Akademi 
+ vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (1) vs. Fenerbahçe 
+ Espor Akademi (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4637,11 +4675,12 @@ DTSTART:20220128T160000Z
 DTEND:20220128T170000Z
 SUMMARY:[TAL] AUR vs. 5R
 UID:turkey-academy-league-107566682549054923@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Team Aurora Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Team Aurora Akademi (0) vs. 5 Ronin Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Info Yatırım Aurora Akademi 
+ vs. 5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. 5 Ronin Akademi
+  (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4674,11 +4713,12 @@ DTSTART:20220127T150000Z
 DTEND:20220127T160000Z
 SUMMARY:[TAL] BJK vs. AUR
 UID:turkey-academy-league-107566682549054937@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Beşiktaş Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Beşiktaş Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 2\nTeams: Beşiktaş Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4803,11 +4843,12 @@ DTSTART:20220121T150000Z
 DTEND:20220121T160000Z
 SUMMARY:[TAL] NSR vs. AUR
 UID:turkey-academy-league-107566682549054977@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: NASR ESPORTS Akademi vs. Team
-  Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  NASR ESPORTS Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 1\nTeams: NASR ESPORTS Akademi vs. Info
+  Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NASR ESPORTS Akademi (1) vs. Info Yatırım Aurora 
+ Akademi (0)\n
 CREATED:20220131T063601Z
-LAST-MODIFIED:20220131T063601Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220131T063601Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5005,11 +5046,12 @@ DTSTART:20220210T140000Z
 DTEND:20220210T150000Z
 SUMMARY:[TAL] AUR vs. DP
 UID:turkey-academy-league-107566682549054949@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Team Aurora Akademi vs. Dark 
- Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. Dark Passage Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: Info Yatırım Aurora Akademi 
+ vs. Dark Passage Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Dark Passage 
+ Akademi (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5044,11 +5086,11 @@ DTEND:20220203T150000Z
 SUMMARY:[TAL] IW vs. AUR
 UID:turkey-academy-league-107566682549054959@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: fastPay Wildcats Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5081,11 +5123,12 @@ DTSTART:20220211T150000Z
 DTEND:20220211T160000Z
 SUMMARY:[TAL] GAL vs. AUR
 UID:turkey-academy-league-107566682549054967@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: GALAKTICOS Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- GALAKTICOS Akademi (0) vs. Team Aurora Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 4\nTeams: GALAKTICOS Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (0) vs. Info Yatırım Aurora 
+ Akademi (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5093,12 +5136,12 @@ DTSTART:20220204T140000Z
 DTEND:20220204T150000Z
 SUMMARY:[TAL] AUR vs. GS
 UID:turkey-academy-league-107566682549054973@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Team Aurora Akademi vs. 
- Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Galatasaray Espor 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 3\nTeams: Info Yatırım Aurora Akademi 
+ vs. Galatasaray Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Galatasaray 
+ Espor Akademi (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5119,12 +5162,12 @@ DTSTART:20220217T170000Z
 DTEND:20220217T180000Z
 SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-107566682549054979@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Team Aurora Akademi vs. 
- Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Papara SuperMassive 
- Blaze Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Info Yatırım Aurora Akademi 
+ vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Papara 
+ SuperMassive Blaze Akademi (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5133,11 +5176,11 @@ DTEND:20220218T150000Z
 SUMMARY:[TAL] FB vs. AUR
 UID:turkey-academy-league-107566682549054997@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 5\nTeams: Fenerbahçe Espor Akademi vs. 
- Team Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Fenerbahçe Espor Akademi (1) vs. Team Aurora 
- Akademi (0)\n
+ Info Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor Akademi (1) vs. Info Yatırım 
+ Aurora Akademi (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5248,11 +5291,12 @@ DTSTART:20220224T170000Z
 DTEND:20220224T180000Z
 SUMMARY:[TAL] AUR vs. NSR
 UID:turkey-academy-league-107566682549120603@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. NASR 
- ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Team Aurora Akademi (0) vs. NASR ESPORTS Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Info Yatırım Aurora Akademi 
+ vs. NASR ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. NASR ESPORTS 
+ Akademi (1)\n
 CREATED:20220224T014251Z
-LAST-MODIFIED:20220225T124804Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220224T014251Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5273,11 +5317,12 @@ DTSTART:20220225T180000Z
 DTEND:20220225T190000Z
 SUMMARY:[TAL] AUR vs. BJK
 UID:turkey-academy-league-107566682549055027@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Team Aurora Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. Beşiktaş Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 6\nTeams: Info Yatırım Aurora Akademi 
+ vs. Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Beşiktaş 
+ Akademi (1)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220226T124548Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5337,11 +5382,12 @@ DTSTART:20220303T170000Z
 DTEND:20220303T180000Z
 SUMMARY:[TAL] 5R vs. AUR
 UID:turkey-academy-league-107566682549055013@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: 5 Ronin Akademi vs. Team 
- Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- 5 Ronin Akademi (1) vs. Team Aurora Akademi (0)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: 5 Ronin Akademi vs. Info 
+ Yatırım Aurora Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: 5 Ronin Akademi (1) vs. Info Yatırım Aurora Akademi
+  (0)\n
 CREATED:20220303T014917Z
-LAST-MODIFIED:20220304T124942Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220303T014917Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5424,12 +5470,12 @@ DTSTART:20220304T140000Z
 DTEND:20220304T150000Z
 SUMMARY:[TAL] AUR vs. IW
 UID:turkey-academy-league-107566682549120585@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Team Aurora Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Team Aurora Akademi (0) vs. fastPay Wildcats 
- Akademi (1)\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 7\nTeams: Info Yatırım Aurora Akademi 
+ vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220307T183615Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
