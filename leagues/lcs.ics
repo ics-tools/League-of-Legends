@@ -7981,9 +7981,10 @@ DTEND:20220306T223000Z
 SUMMARY:[LCS] CLG vs. 100
 UID:lcs-107458367241281207@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Counter Logic Gaming vs. 100 
- Thieves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Counter
+  Logic Gaming (0) vs. 100 Thieves (1)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7992,9 +7993,10 @@ DTEND:20220306T233000Z
 SUMMARY:[LCS] EG vs. C9
 UID:lcs-107458367241281229@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Evil Geniuses vs. 
- Cloud9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Cloud9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
+ Geniuses (0) vs. Cloud9 (1)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8003,9 +8005,10 @@ DTEND:20220307T003000Z
 SUMMARY:[LCS] FLY vs. DIG
 UID:lcs-107458367241281253@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: FlyQuest vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FlyQuest (1) vs. Dignitas QNTMPAY (0)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8014,20 +8017,22 @@ DTEND:20220307T013000Z
 SUMMARY:[LCS] GG vs. TSM
 UID:lcs-107458367241871109@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Golden Guardians vs. 
- TSM\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ TSM\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Golden 
+ Guardians (0) vs. TSM (1)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220306T203000Z
 DTEND:20220306T213000Z
-SUMMARY:[LCS] TL vs. IMT
+SUMMARY:[LCS] IMT vs. TL
 UID:lcs-107458367241871115@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Team Liquid vs. Immortals 
- Progressive\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 5\nTeams: Immortals Progressive vs. 
+ Team Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. Team Liquid (1)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 NAME:LCS Spielplan

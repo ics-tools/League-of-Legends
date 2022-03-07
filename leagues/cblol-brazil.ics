@@ -7278,9 +7278,10 @@ DTEND:20220306T190000Z
 SUMMARY:[CBLOL] RED vs. NMG
 UID:cblol-brazil-107405837336966093@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: RED Kalunga vs. Netshoes 
- Miners\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RED 
+ Kalunga (1) vs. Netshoes Miners (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7289,9 +7290,10 @@ DTEND:20220306T210000Z
 SUMMARY:[CBLOL] RNS vs. FUR
 UID:cblol-brazil-107405837336966051@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: RENSGA vs. FURIA\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA (1) vs. FURIA 
+ (0)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7300,9 +7302,10 @@ DTEND:20220306T200000Z
 SUMMARY:[CBLOL] LBR vs. KBM
 UID:cblol-brazil-107405837336966079@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 7\nTeams: Liberty vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty
+  (0) vs. KaBuM! Esports (1)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 NAME:CBLOL Spielplan

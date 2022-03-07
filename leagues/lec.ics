@@ -8108,9 +8108,10 @@ DTEND:20220306T200000Z
 SUMMARY:[LEC] FNC vs. XL
 UID:lec-107417059263365761@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: Fnatic vs. EXCEL\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fnatic (1) vs. EXCEL 
+ (0)\n
 CREATED:20220305T183520Z
-LAST-MODIFIED:20220305T183520Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220305T183520Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8143,9 +8144,10 @@ DTEND:20220306T210000Z
 SUMMARY:[LEC] RGE vs. G2
 UID:lec-107417059263365795@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Woche 8\nTeams: Rogue vs. G2 Esports\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Rogue (1) vs. G2 
+ Esports (0)\n
 CREATED:20220306T014315Z
-LAST-MODIFIED:20220306T014315Z
+LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220306T014315Z
 END:VEVENT
 NAME:LEC Spielplan
