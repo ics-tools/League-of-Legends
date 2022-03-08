@@ -2308,13 +2308,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220307T170000Z
 DTEND:20220307T220000Z
-SUMMARY:[Greek Legends League] TP vs. WLG
+SUMMARY:[Greek Legends League] WLG vs. TP
 UID:greek_legends-107575410020761252@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: Team Phantasma vs. We Love Gaming\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 1\nTeams: We Love Gaming vs. Team Phantasma\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: We Love Gaming (3) vs. Team Phantasma 
+ (0)\n
 CREATED:20220306T124658Z
-LAST-MODIFIED:20220306T124658Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220306T124658Z
 END:VEVENT
 BEGIN:VEVENT

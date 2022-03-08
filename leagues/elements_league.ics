@@ -603,12 +603,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T000000Z
 DTEND:20220308T010000Z
-SUMMARY:[Elements League] RRR vs. GOT
+SUMMARY:[Elements League] GOT vs. RRR
 UID:elements_league-107659745139428768@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Red Rooster vs. 
- Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Goat Esports vs. 
+ Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goat Esports (1) vs. Red Rooster (0)\n
 CREATED:20220307T014706Z
-LAST-MODIFIED:20220307T014706Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220307T014706Z
 END:VEVENT
 BEGIN:VEVENT
@@ -621,6 +622,50 @@ DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Vandals Esports
 CREATED:20220307T014706Z
 LAST-MODIFIED:20220307T014706Z
 DTSTAMP:20220307T014706Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T020000Z
+DTEND:20220309T030000Z
+SUMMARY:[Elements League] GOT vs. BAN
+UID:elements_league-107659745139428740@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Goat Esports vs. 
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220308T014453Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T000000Z
+DTEND:20220309T010000Z
+SUMMARY:[Elements League] GVE vs. FUE
+UID:elements_league-107659745139428754@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Gravity Elite vs.
+  Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220308T014453Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T010000Z
+DTEND:20220309T020000Z
+SUMMARY:[Elements League] VAN vs. JNS
+UID:elements_league-107659745139428786@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Vandals Esports 
+ vs. Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220308T014453Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T030000Z
+DTEND:20220309T040000Z
+SUMMARY:[Elements League] SAP vs. RRR
+UID:elements_league-107659745139428788@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Saprissa Esports 
+ vs. Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220308T014453Z
+DTSTAMP:20220308T014453Z
 END:VEVENT
 NAME:Elements League Spielplan
 X-WR-CALNAME:Elements League Spielplan

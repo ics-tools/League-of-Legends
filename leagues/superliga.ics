@@ -3278,9 +3278,10 @@ DTEND:20220307T190000Z
 SUMMARY:[SuperLiga] FNTQ vs. G2AR
 UID:superliga-107468241211084673@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: FnaticTQ vs. G2 
- Arctic\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Arctic\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FnaticTQ
+  (1) vs. G2 Arctic (0)\n
 CREATED:20220306T124658Z
-LAST-MODIFIED:20220306T124658Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220306T124658Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3301,9 +3302,10 @@ DTEND:20220307T200000Z
 SUMMARY:[SuperLiga] BAR vs. GIA
 UID:superliga-107468241211084697@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Barça Esports vs. 
- Giants\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Giants\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Barça 
+ Esports (1) vs. Giants (0)\n
 CREATED:20220306T183440Z
-LAST-MODIFIED:20220306T183440Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220306T183440Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3312,9 +3314,10 @@ DTEND:20220307T220000Z
 SUMMARY:[SuperLiga] BSO vs. MRS
 UID:superliga-107468241211150273@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Bisons Eclub vs. 
- Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Movistar Riders\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Bisons Eclub (1) vs. Movistar Riders (0)\n
 CREATED:20220306T183440Z
-LAST-MODIFIED:20220306T183440Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220306T183440Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3323,9 +3326,10 @@ DTEND:20220307T210000Z
 SUMMARY:[SuperLiga] KOI vs. HRTS
 UID:superliga-107468241211150285@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Runde 2\nTeams: Finetwork KOI vs. Team 
- Heretics\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Heretics\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Finetwork KOI (1) vs. Team Heretics (0)\n
 CREATED:20220306T183440Z
-LAST-MODIFIED:20220306T183440Z
+LAST-MODIFIED:20220308T014453Z
 DTSTAMP:20220306T183440Z
 END:VEVENT
 NAME:SuperLiga Spielplan
