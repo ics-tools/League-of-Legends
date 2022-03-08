@@ -773,12 +773,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T010000Z
 DTEND:20220308T020000Z
-SUMMARY:[Honor League] SW vs. MAZ
+SUMMARY:[Honor League] MAZ vs. SW
 UID:entel_honor_leagu-107677841286829042@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Santiago 
- Wanderers vs. Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Maze Gaming vs.
+  Santiago Wanderers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maze Gaming (0) vs. Santiago Wanderers (1)\n
 CREATED:20220307T014706Z
-LAST-MODIFIED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
 DTSTAMP:20220307T014706Z
 END:VEVENT
 BEGIN:VEVENT

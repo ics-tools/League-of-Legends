@@ -581,12 +581,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T010000Z
 DTEND:20220308T020000Z
-SUMMARY:[Elements League] GVE vs. BAN
+SUMMARY:[Elements League] BAN vs. GVE
 UID:elements_league-107659745139428742@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Gravity Elite vs.
-  Bandits\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Bandits vs. 
+ Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Bandits (1) vs. Gravity Elite (0)\n
 CREATED:20220307T014706Z
-LAST-MODIFIED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
 DTSTAMP:20220307T014706Z
 END:VEVENT
 BEGIN:VEVENT
@@ -595,9 +596,10 @@ DTEND:20220308T030000Z
 SUMMARY:[Elements League] JNS vs. FUE
 UID:elements_league-107659745139428756@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Janus Esports vs.
-  Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Janus 
+ Esports (1) vs. Fuego (0)\n
 CREATED:20220307T014706Z
-LAST-MODIFIED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
 DTSTAMP:20220307T014706Z
 END:VEVENT
 BEGIN:VEVENT
@@ -615,12 +617,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T030000Z
 DTEND:20220308T040000Z
-SUMMARY:[Elements League] VAN vs. SAP
+SUMMARY:[Elements League] SAP vs. VAN
 UID:elements_league-107659745139428792@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Vandals Esports 
- vs. Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Saprissa Esports 
+ vs. Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Vandals Esports (0)\n
 CREATED:20220307T014706Z
-LAST-MODIFIED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
 DTSTAMP:20220307T014706Z
 END:VEVENT
 BEGIN:VEVENT
