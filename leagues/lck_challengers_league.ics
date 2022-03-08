@@ -4162,9 +4162,10 @@ DTEND:20220308T130000Z
 SUMMARY:[LCK Challengers] LSB vs. DK
 UID:lck_challengers_league-107559433600200984@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 8\nTeams: LSB Challengers 
- vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (1) vs. DWG KIA Challengers (0)\n
 CREATED:20220307T124958Z
-LAST-MODIFIED:20220307T124958Z
+LAST-MODIFIED:20220308T183617Z
 DTSTAMP:20220307T124958Z
 END:VEVENT
 BEGIN:VEVENT

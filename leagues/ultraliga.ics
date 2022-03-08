@@ -2499,9 +2499,10 @@ DTEND:20220308T170000Z
 SUMMARY:[Ultraliga] GGM vs. DV1
 UID:ultraliga-107416436274296524@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Gentlemen's Gaming vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Devils.One (0)\n
 CREATED:20220307T124957Z
-LAST-MODIFIED:20220307T124957Z
+LAST-MODIFIED:20220308T183617Z
 DTSTAMP:20220307T124957Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2521,9 +2522,10 @@ DTEND:20220308T180000Z
 SUMMARY:[Ultraliga] GSK vs. FSK
 UID:ultraliga-107416436274296574@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Goskilla vs. 
- Forsaken\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Forsaken\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goskilla (0) vs. Forsaken (1)\n
 CREATED:20220307T124957Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220308T183617Z
 DTSTAMP:20220307T124957Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2558,6 +2560,28 @@ DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Topo Centras Iron
 CREATED:20220308T125051Z
 LAST-MODIFIED:20220308T125051Z
 DTSTAMP:20220308T125051Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T190000Z
+DTEND:20220309T200000Z
+SUMMARY:[Ultraliga] RGO vs. IHG
+UID:ultraliga-107416436274230952@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: AGO Rogue vs. Illuminar
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T183617Z
+LAST-MODIFIED:20220308T183617Z
+DTSTAMP:20220308T183617Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T200000Z
+DTEND:20220309T210000Z
+SUMMARY:[Ultraliga] KNF vs. DV1
+UID:ultraliga-107416436274296526@lol.ics.tools
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Komil&Friends vs. 
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220308T183617Z
+LAST-MODIFIED:20220308T183617Z
+DTSTAMP:20220308T183617Z
 END:VEVENT
 NAME:Ultraliga Spielplan
 X-WR-CALNAME:Ultraliga Spielplan

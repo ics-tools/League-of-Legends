@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+NAME:Proving Grounds Spielplan
+X-WR-CALNAME:Proving Grounds Spielplan
+METHOD:PUBLISH
+END:VCALENDAR
