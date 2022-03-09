@@ -3545,13 +3545,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T170000Z
 DTEND:20220308T220000Z
-SUMMARY:[Prime League] EINS vs. GL
+SUMMARY:[Prime League] GL vs. EINS
 UID:primeleague-107417752301978935@lol.ics.tools
 DESCRIPTION:Liga: Prime League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: Eintracht Spandau vs. GamerLegion\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 1\nTeams: GamerLegion vs. Eintracht Spandau\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: GamerLegion (0) vs. Eintracht Spandau 
+ (3)\n
 CREATED:20220307T124957Z
-LAST-MODIFIED:20220307T124957Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220307T124957Z
 END:VEVENT
 NAME:Prime League Spielplan

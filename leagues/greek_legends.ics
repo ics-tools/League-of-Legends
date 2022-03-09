@@ -2321,13 +2321,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220308T170000Z
 DTEND:20220308T220000Z
-SUMMARY:[Greek Legends League] HIVE vs. ANO
+SUMMARY:[Greek Legends League] ANO vs. HIVE
 UID:greek_legends-107575410020761258@lol.ics.tools
 DESCRIPTION:Liga: Greek Legends League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: Hive Athens EC vs. Anorthosis Famagusta Esports\nSpiel-
- Strategie: bestOf 5\nStatus: unstarted\n
+ 1\nTeams: Anorthosis Famagusta Esports vs. Hive Athens EC\nSpiel-
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: Anorthosis Famagusta 
+ Esports (0) vs. Hive Athens EC (3)\n
 CREATED:20220307T124958Z
-LAST-MODIFIED:20220307T124958Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220307T124958Z
 END:VEVENT
 NAME:Greek Legends League Spielplan

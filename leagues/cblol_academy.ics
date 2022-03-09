@@ -3021,9 +3021,10 @@ DTEND:20220308T230000Z
 SUMMARY:[CBLOL Academy] FLA vs. ITZ
 UID:cblol_academy-107565607661108964@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: Flamengo Academy 
- vs. INTZ Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. INTZ Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Flamengo Academy (1) vs. INTZ Academy (0)\n
 CREATED:20220307T183615Z
-LAST-MODIFIED:20220307T183615Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220307T183615Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3032,9 +3033,10 @@ DTEND:20220308T210000Z
 SUMMARY:[CBLOL Academy] FUR vs. PNG
 UID:cblol_academy-107565607661174526@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: FURIA Academy vs. 
- paiN Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ paiN Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FURIA Academy (0) vs. paiN Academy (1)\n
 CREATED:20220307T183615Z
-LAST-MODIFIED:20220307T183615Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220307T183615Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3043,9 +3045,10 @@ DTEND:20220308T220000Z
 SUMMARY:[CBLOL Academy] LLL vs. LBR
 UID:cblol_academy-107565607661240094@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: LOUD Academy vs. 
- Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  LOUD Academy (1) vs. Liberty Academy (0)\n
 CREATED:20220307T183615Z
-LAST-MODIFIED:20220307T183615Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220307T183615Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3054,9 +3057,10 @@ DTEND:20220309T010000Z
 SUMMARY:[CBLOL Academy] KBM vs. RED
 UID:cblol_academy-107565607661174554@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: KaBuM! Academy vs. 
- RED Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ RED Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KaBuM! Academy (1) vs. RED Academy (0)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3065,10 +3069,67 @@ DTEND:20220309T000000Z
 SUMMARY:[CBLOL Academy] NMG vs. RNS
 UID:cblol_academy-107565607661240116@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: Netshoes Miners 
- Academy vs. Rensga Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Academy vs. Rensga Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Netshoes Miners Academy (1) vs. Rensga Academy 
+ (0)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T210000Z
+DTEND:20220309T220000Z
+SUMMARY:[CBLOL Academy] PNG vs. FLA
+UID:cblol_academy-107565607661174510@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: paiN Academy vs. 
+ Flamengo Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T000000Z
+DTEND:20220310T010000Z
+SUMMARY:[CBLOL Academy] RNS vs. FUR
+UID:cblol_academy-107565607661174530@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: Rensga Academy vs. 
+ FURIA Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T200000Z
+DTEND:20220309T210000Z
+SUMMARY:[CBLOL Academy] ITZ vs. LLL
+UID:cblol_academy-107565607661174536@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: INTZ Academy vs. 
+ LOUD Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T230000Z
+DTEND:20220310T000000Z
+SUMMARY:[CBLOL Academy] LBR vs. KBM
+UID:cblol_academy-107565607661174546@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: Liberty Academy vs.
+  KaBuM! Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T220000Z
+DTEND:20220309T230000Z
+SUMMARY:[CBLOL Academy] RED vs. NMG
+UID:cblol_academy-107565607661240114@lol.ics.tools
+DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 7\nTeams: RED Academy vs. 
+ Netshoes Miners Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
 END:VEVENT
 NAME:CBLOL Academy Spielplan
 X-WR-CALNAME:CBLOL Academy Spielplan

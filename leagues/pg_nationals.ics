@@ -2238,9 +2238,10 @@ SUMMARY:[PG Nationals] ATE vs. MCK
 UID:pg_nationals-107457033676741323@lol.ics.tools
 DESCRIPTION:Liga: PG Nationals\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Atleta Esport vs. Macko Esports\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 5\nStatus: completed\nErgebnisse: Atleta Esport (1) vs. Macko Esports 
+ (3)\n
 CREATED:20220308T125052Z
-LAST-MODIFIED:20220308T125052Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T125052Z
 END:VEVENT
 BEGIN:VEVENT

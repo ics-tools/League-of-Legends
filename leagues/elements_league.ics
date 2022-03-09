@@ -632,20 +632,22 @@ DTEND:20220309T030000Z
 SUMMARY:[Elements League] GOT vs. BAN
 UID:elements_league-107659745139428740@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Goat Esports vs. 
- Bandits\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goat 
+ Esports (0) vs. Bandits (1)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T000000Z
 DTEND:20220309T010000Z
-SUMMARY:[Elements League] GVE vs. FUE
+SUMMARY:[Elements League] FUE vs. GVE
 UID:elements_league-107659745139428754@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Gravity Elite vs.
-  Fuego\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Fuego vs. Gravity
+  Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (0) vs. Gravity Elite (1)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
 END:VEVENT
 BEGIN:VEVENT
@@ -654,20 +656,22 @@ DTEND:20220309T020000Z
 SUMMARY:[Elements League] VAN vs. JNS
 UID:elements_league-107659745139428786@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Vandals Esports 
- vs. Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Janus Esports (1)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T030000Z
 DTEND:20220309T040000Z
-SUMMARY:[Elements League] SAP vs. RRR
+SUMMARY:[Elements League] RRR vs. SAP
 UID:elements_league-107659745139428788@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Saprissa Esports 
- vs. Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Red Rooster vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Red Rooster (0) vs. Saprissa Esports (1)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
 END:VEVENT
 NAME:Elements League Spielplan

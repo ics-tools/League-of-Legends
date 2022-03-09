@@ -599,10 +599,23 @@ SUMMARY:[Volcano League] PD vs. DSC
 UID:volcano_discover_league-107682708470039116@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Pirate Dream vs.  Descuydado Esports\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 3\nStatus: completed\nErgebnisse: Pirate Dream (0) vs.  Descuydado Esports
+  (2)\n
 CREATED:20220308T014453Z
-LAST-MODIFIED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
 DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T000000Z
+DTEND:20220310T030000Z
+SUMMARY:[Volcano League] GDP vs. SKC
+UID:volcano_discover_league-107682708470039120@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: God's Plan vs. Skull Cracker Clan\nSpiel-Strategie: bestOf 
+ 3\nStatus: unstarted\n
+CREATED:20220309T063804Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220309T063804Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan
