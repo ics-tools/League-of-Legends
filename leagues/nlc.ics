@@ -3131,12 +3131,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T170000Z
 DTEND:20220309T180000Z
-SUMMARY:[NLC] MNM vs. DY
+SUMMARY:[NLC] DY vs. MNM
 UID:nlc-107417432878793606@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: MnM Gaming vs. Dusty\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: Dusty vs. MnM Gaming\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dusty (1) vs. MnM 
+ Gaming (0)\n
 CREATED:20220308T125051Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125051Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3145,9 +3146,10 @@ DTEND:20220309T190000Z
 SUMMARY:[NLC] BFR vs. SNG
 UID:nlc-107417432878793622@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: Bifrost vs. Team 
- Singularity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Singularity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Bifrost (1) vs. Team Singularity (0)\n
 CREATED:20220308T125051Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125051Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3156,20 +3158,22 @@ DTEND:20220309T200000Z
 SUMMARY:[NLC] RDL vs. JDXL
 UID:nlc-107417432878793588@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: RIDDLE vs. JD|XL\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RIDDLE (0) vs. JD|XL 
+ (1)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T200000Z
 DTEND:20220309T210000Z
-SUMMARY:[NLC] NKI vs. VNR
+SUMMARY:[NLC] VNR vs. NKI
 UID:nlc-107417432878793638@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: Nyyrikki vs. Vanir\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: Vanir vs. Nyyrikki\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Vanir (1) vs. Nyyrikki
+  (0)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3178,9 +3182,10 @@ DTEND:20220309T220000Z
 SUMMARY:[NLC] ASTL vs. X7
 UID:nlc-107417432878793582@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Woche 9\nTeams: Astralis Talent vs. 
- X7\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ X7\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Astralis 
+ Talent (1) vs. X7 (0)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 NAME:NLC Spielplan

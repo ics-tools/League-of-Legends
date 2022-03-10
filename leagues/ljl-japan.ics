@@ -5727,12 +5727,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T120000Z
 DTEND:20220309T130000Z
-SUMMARY:[LJL] SHG vs. SG
+SUMMARY:[LJL] SG vs. SHG
 UID:ljl-japan-107455808283066379@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Fukuoka SoftBank HAWKS gaming
-  vs. Sengoku Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Sengoku Gaming vs. Fukuoka 
+ SoftBank HAWKS gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Sengoku Gaming (1) vs. Fukuoka SoftBank HAWKS 
+ gaming (0)\n
 CREATED:20220308T125052Z
-LAST-MODIFIED:20220308T125052Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125052Z
 END:VEVENT
 NAME:LJL Spielplan

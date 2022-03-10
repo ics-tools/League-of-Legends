@@ -1305,9 +1305,10 @@ DTEND:20220310T010000Z
 SUMMARY:[Master Flow League] KRU vs. 9Z
 UID:master_flow_league-107728324360521762@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: KRÜ Esports 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ KRÜ Esports (0) vs. 9z Gaming (1)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,9 +1317,10 @@ DTEND:20220309T230000Z
 SUMMARY:[Master Flow League] EV vs. LEV
 UID:master_flow_league-107728324360521816@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Maycam Evolve 
- vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (0) vs. Leviatán Esports (1)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1327,9 +1329,10 @@ DTEND:20220309T220000Z
 SUMMARY:[Master Flow League] UBK vs. MVG
 UID:master_flow_league-107728324360587372@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Undead BK vs. 
- Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Undead BK (0) vs. Malvinas Gaming (1)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,9 +1341,10 @@ DTEND:20220310T000000Z
 SUMMARY:[Master Flow League] WAP vs. RIV
 UID:master_flow_league-107728324360587392@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Wap Esports 
- vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wap Esports (1) vs. River Plate Gaming (0)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1364,6 +1368,51 @@ DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Ualá Pampas
 CREATED:20220309T124925Z
 LAST-MODIFIED:20220309T124925Z
 DTSTAMP:20220309T124925Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T220000Z
+DTEND:20220310T230000Z
+SUMMARY:[Master Flow League] MVG vs. BOC
+UID:master_flow_league-107728324360456210@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Malvinas 
+ Gaming vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T000000Z
+DTEND:20220311T010000Z
+SUMMARY:[Master Flow League] KRU vs. EBG
+UID:master_flow_league-107728324360521780@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: KRÜ Esports 
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T210000Z
+DTEND:20220310T220000Z
+SUMMARY:[Master Flow League] STM vs. EV
+UID:master_flow_league-107728324360587378@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Stone Movistar
+  vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T230000Z
+DTEND:20220311T000000Z
+SUMMARY:[Master Flow League] UBK vs. RIV
+UID:master_flow_league-107728324360587390@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Undead BK vs. 
+ River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan

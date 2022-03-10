@@ -2130,10 +2130,22 @@ DTEND:20220310T000000Z
 SUMMARY:[Liga Portuguesa] WD vs. FTW
 UID:liga_portuguesa-107417530554631215@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Runde 1\nTeams: White Dragons vs.
-  For The Win Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  For The Win Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: White Dragons (1) vs. For The Win Esports (3)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T190000Z
+DTEND:20220311T000000Z
+SUMMARY:[Liga Portuguesa] OFF7 vs. EGN
+UID:liga_portuguesa-107417530554631221@lol.ics.tools
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Runde 1\nTeams: OFFSET Esports 
+ vs. EGN Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
 X-WR-CALNAME:Liga Portuguesa LOL Spielplan

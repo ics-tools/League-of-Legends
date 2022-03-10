@@ -3236,13 +3236,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T180000Z
 DTEND:20220309T190000Z
-SUMMARY:[La Ligue Française] BDSA vs. MSFP
+SUMMARY:[La Ligue Française] MSFP vs. BDSA
 UID:lfl-107468370561192054@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Team BDS 
- Academy vs. Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Misfits 
+ Premier vs. Team BDS Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Misfits Premier (0) vs. Team BDS Academy (1)\n
 CREATED:20220308T125052Z
-LAST-MODIFIED:20220308T125052Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125052Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3251,20 +3251,22 @@ DTEND:20220309T180000Z
 SUMMARY:[La Ligue Française] OPL vs. GW
 UID:lfl-107468370561192082@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Team Oplon vs.
-  GameWard\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  GameWard\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ Oplon (1) vs. GameWard (0)\n
 CREATED:20220308T125052Z
-LAST-MODIFIED:20220308T125052Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125052Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T190000Z
 DTEND:20220309T200000Z
-SUMMARY:[La Ligue Française] LDLC vs. SLY
+SUMMARY:[La Ligue Française] SLY vs. LDLC
 UID:lfl-107468370561257640@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: LDLC OL vs. 
- Solary\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Solary vs. 
+ LDLC OL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Solary 
+ (0) vs. LDLC OL (1)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3273,9 +3275,10 @@ DTEND:20220309T210000Z
 SUMMARY:[La Ligue Française] VITB vs. KC
 UID:lfl-107468370561192034@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Vitality.Bee 
- vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vitality.Bee (1) vs. Karmine Corp (0)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3284,10 +3287,66 @@ DTEND:20220309T220000Z
 SUMMARY:[La Ligue Française] ME vs. GO
 UID:lfl-107468370561192072@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Mirage-
- Elyandra vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Elyandra vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Mirage-Elyandra (0) vs. GamersOrigin (1)\n
 CREATED:20220309T063804Z
-LAST-MODIFIED:20220309T063804Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220309T063804Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T180000Z
+DTEND:20220310T190000Z
+SUMMARY:[La Ligue Française] OPL vs. KC
+UID:lfl-107468370561192040@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Team Oplon vs.
+  Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T170000Z
+DTEND:20220310T180000Z
+SUMMARY:[La Ligue Française] SLY vs. MSFP
+UID:lfl-107468370561192052@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Solary vs. 
+ Misfits Premier\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T210000Z
+DTEND:20220310T220000Z
+SUMMARY:[La Ligue Française] BDSA vs. GO
+UID:lfl-107468370561192068@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Team BDS 
+ Academy vs. GamersOrigin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T190000Z
+DTEND:20220310T200000Z
+SUMMARY:[La Ligue Française] ME vs. GW
+UID:lfl-107468370561192084@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: Mirage-
+ Elyandra vs. GameWard\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T200000Z
+DTEND:20220310T210000Z
+SUMMARY:[La Ligue Française] LDLC vs. VITB
+UID:lfl-107468370561257632@lol.ics.tools
+DESCRIPTION:Liga: La Ligue Française\nPhase: Woche 9\nTeams: LDLC OL vs. 
+ Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T015437Z
+LAST-MODIFIED:20220310T015437Z
+DTSTAMP:20220310T015437Z
 END:VEVENT
 NAME:La Ligue Française Spielplan
 X-WR-CALNAME:La Ligue Française Spielplan

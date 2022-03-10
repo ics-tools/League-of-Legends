@@ -2538,31 +2538,34 @@ DTEND:20220309T190000Z
 SUMMARY:[Ultraliga] TEG vs. Z10
 UID:ultraliga-107416436274296540@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Team ESCA Gaming vs. 
- Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team ESCA Gaming (0) vs. Zero Tenacity (1)\n
 CREATED:20220308T125051Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125051Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T160000Z
 DTEND:20220309T170000Z
-SUMMARY:[Ultraliga] FSK vs. GGM
+SUMMARY:[Ultraliga] GGM vs. FSK
 UID:ultraliga-107416436274296556@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Forsaken vs. 
- Gentlemen's Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Gentlemen's Gaming vs. 
+ Forsaken\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gentlemen's Gaming (1) vs. Forsaken (0)\n
 CREATED:20220308T125051Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125051Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220309T170000Z
 DTEND:20220309T180000Z
-SUMMARY:[Ultraliga] WOLF vs. GSK
+SUMMARY:[Ultraliga] GSK vs. WOLF
 UID:ultraliga-107416436274296572@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Topo Centras Iron 
- Wolves vs. Goskilla\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Goskilla vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goskilla (0) vs. Topo Centras Iron Wolves (1)\n
 CREATED:20220308T125051Z
-LAST-MODIFIED:20220308T125051Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T125051Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2571,9 +2574,10 @@ DTEND:20220309T200000Z
 SUMMARY:[Ultraliga] RGO vs. IHG
 UID:ultraliga-107416436274230952@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: AGO Rogue vs. Illuminar
-  Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AGO 
+ Rogue (1) vs. Illuminar Gaming (0)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2582,9 +2586,10 @@ DTEND:20220309T210000Z
 SUMMARY:[Ultraliga] KNF vs. DV1
 UID:ultraliga-107416436274296526@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Woche 9\nTeams: Komil&Friends vs. 
- Devils.One\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Devils.One\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Komil&Friends (1) vs. Devils.One (0)\n
 CREATED:20220308T183617Z
-LAST-MODIFIED:20220308T183617Z
+LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220308T183617Z
 END:VEVENT
 NAME:Ultraliga Spielplan
