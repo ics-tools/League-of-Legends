@@ -800,9 +800,10 @@ DTEND:20220310T050000Z
 SUMMARY:[Honor Division] TK vs. 6K
 UID:honor_division-107593829779624089@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 8\nTeams: The Kings vs. Six 
- Karma\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Karma\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: The Kings
+  (1) vs. Six Karma (2)\n
 CREATED:20220309T124925Z
-LAST-MODIFIED:20220309T124925Z
+LAST-MODIFIED:20220310T063816Z
 DTSTAMP:20220309T124925Z
 END:VEVENT
 BEGIN:VEVENT
@@ -811,9 +812,10 @@ DTEND:20220310T030000Z
 SUMMARY:[Honor Division] TK vs. ZLT
 UID:honor_division-107593829779755197@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 8\nTeams: The Kings vs. 
- Zylant Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Zylant Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ The Kings (2) vs. Zylant Esports (0)\n
 CREATED:20220309T124925Z
-LAST-MODIFIED:20220309T124925Z
+LAST-MODIFIED:20220310T063816Z
 DTSTAMP:20220309T124925Z
 END:VEVENT
 BEGIN:VEVENT
@@ -826,6 +828,17 @@ DESCRIPTION:Liga: Honor Division\nPhase: Woche 8\nTeams: Tomorrow Esports
 CREATED:20220310T015437Z
 LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T020000Z
+DTEND:20220311T050000Z
+SUMMARY:[Honor Division] ZLT vs. 6K
+UID:honor_division-107593829779624085@lol.ics.tools
+DESCRIPTION:Liga: Honor Division\nPhase: Woche 8\nTeams: Zylant Esports vs.
+  Six Karma\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220310T063816Z
+LAST-MODIFIED:20220310T063816Z
+DTSTAMP:20220310T063816Z
 END:VEVENT
 NAME:Honor Division Spielplan
 X-WR-CALNAME:Honor Division Spielplan

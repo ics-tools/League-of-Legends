@@ -1353,9 +1353,10 @@ DTEND:20220310T020000Z
 SUMMARY:[Master Flow League] STM vs. BOC
 UID:master_flow_league-107728324360521752@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Stone Movistar
-  vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220309T124925Z
-LAST-MODIFIED:20220309T124925Z
+LAST-MODIFIED:20220310T063816Z
 DTSTAMP:20220309T124925Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1364,9 +1365,10 @@ DTEND:20220310T030000Z
 SUMMARY:[Master Flow League] PAM vs. EBG
 UID:master_flow_league-107728324360521792@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Ualá Pampas 
- vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Ualá Pampas (0) vs. eBRO Gaming (0)\n
 CREATED:20220309T124925Z
-LAST-MODIFIED:20220309T124925Z
+LAST-MODIFIED:20220310T063816Z
 DTSTAMP:20220309T124925Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1413,6 +1415,28 @@ DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Undead BK vs.
 CREATED:20220310T015437Z
 LAST-MODIFIED:20220310T015437Z
 DTSTAMP:20220310T015437Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T010000Z
+DTEND:20220311T020000Z
+SUMMARY:[Master Flow League] LEV vs. 9Z
+UID:master_flow_league-107728324360521764@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Leviatán 
+ Esports vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T063816Z
+LAST-MODIFIED:20220310T063816Z
+DTSTAMP:20220310T063816Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T020000Z
+DTEND:20220311T030000Z
+SUMMARY:[Master Flow League] WAP vs. PAM
+UID:master_flow_league-107728324360587402@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Wap Esports 
+ vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220310T063816Z
+LAST-MODIFIED:20220310T063816Z
+DTSTAMP:20220310T063816Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan
