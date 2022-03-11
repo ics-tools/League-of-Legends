@@ -3558,13 +3558,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220310T170000Z
 DTEND:20220310T220000Z
-SUMMARY:[Prime League] USE vs. BIG
+SUMMARY:[Prime League] BIG vs. USE
 UID:primeleague-107417752301978941@lol.ics.tools
-DESCRIPTION:Liga: Prime League\nPhase: Halbfinale\nTeams: Unicorns of Love 
- Sexy Edition vs. Berlin International Gaming\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Prime League\nPhase: Halbfinale\nTeams: Berlin 
+ International Gaming vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: 
+ bestOf 5\nStatus: completed\nErgebnisse: Berlin International Gaming (0) 
+ vs. Unicorns of Love Sexy Edition (3)\n
 CREATED:20220310T015437Z
-LAST-MODIFIED:20220310T015437Z
+LAST-MODIFIED:20220311T014948Z
 DTSTAMP:20220310T015437Z
 END:VEVENT
 NAME:Prime League Spielplan

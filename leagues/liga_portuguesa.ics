@@ -2139,12 +2139,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220310T190000Z
 DTEND:20220311T000000Z
-SUMMARY:[Liga Portuguesa] OFF7 vs. EGN
+SUMMARY:[Liga Portuguesa] EGN vs. OFF7
 UID:liga_portuguesa-107417530554631221@lol.ics.tools
-DESCRIPTION:Liga: Liga Portuguesa\nPhase: Runde 1\nTeams: OFFSET Esports 
- vs. EGN Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Portuguesa\nPhase: Runde 1\nTeams: EGN Esports vs. 
+ OFFSET Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ EGN Esports (3) vs. OFFSET Esports (0)\n
 CREATED:20220310T015437Z
-LAST-MODIFIED:20220310T015437Z
+LAST-MODIFIED:20220311T014948Z
 DTSTAMP:20220310T015437Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
