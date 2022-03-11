@@ -7984,9 +7984,10 @@ DTEND:20220311T030000Z
 SUMMARY:[LCS Academy] FLY vs. 100
 UID:lcs-academy-107424951278647322@lol.ics.tools
 DESCRIPTION:Liga: LCS Academy\nPhase: Woche 8\nTeams: FLY Academy vs. 100 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: FLY 
+ Academy (2) vs. 100 Academy (0)\n
 CREATED:20220310T063816Z
-LAST-MODIFIED:20220310T063816Z
+LAST-MODIFIED:20220311T183621Z
 DTSTAMP:20220310T063816Z
 END:VEVENT
 BEGIN:VEVENT

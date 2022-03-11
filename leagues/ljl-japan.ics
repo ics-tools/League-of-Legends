@@ -5740,23 +5740,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T090000Z
 DTEND:20220311T100000Z
-SUMMARY:[LJL] CGA vs. AXZ
+SUMMARY:[LJL] AXZ vs. CGA
 UID:ljl-japan-107455808283000799@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Crest Gaming Act vs. 
- AXIZ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: AXIZ vs. Crest Gaming 
+ Act\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AXIZ (1) 
+ vs. Crest Gaming Act (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220311T183621Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T110000Z
 DTEND:20220311T120000Z
-SUMMARY:[LJL] SG vs. BC
+SUMMARY:[LJL] BC vs. SG
 UID:ljl-japan-107455808283066355@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Sengoku Gaming vs. Burning 
- Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Burning Core vs. Sengoku 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Burning 
+ Core (0) vs. Sengoku Gaming (1)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220311T183621Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5766,20 +5768,22 @@ SUMMARY:[LJL] DFM vs. SHG
 UID:ljl-japan-107455808283066369@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: DetonatioN FocusMe vs. 
  Fukuoka SoftBank HAWKS gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: DetonatioN FocusMe (1) vs. Fukuoka SoftBank HAWKS 
+ gaming (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220311T183621Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T120000Z
 DTEND:20220311T130000Z
-SUMMARY:[LJL] RJ vs. V3
+SUMMARY:[LJL] V3 vs. RJ
 UID:ljl-japan-107455808283066385@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: Rascal Jester vs. V3 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: V3 Esports vs. Rascal 
+ Jester\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: V3 
+ Esports (0) vs. Rascal Jester (1)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220311T183621Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 NAME:LJL Spielplan

@@ -606,9 +606,10 @@ SUMMARY:[Stars League] CDM vs. INC
 UID:claro_gaming_stars_league-107651193187403589@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Club Deportivo Municipal vs. Incubus\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 3\nStatus: completed\nErgebnisse: Club Deportivo Municipal (0) vs. Incubus
+  (2)\n
 CREATED:20220310T063816Z
-LAST-MODIFIED:20220310T063816Z
+LAST-MODIFIED:20220311T183622Z
 DTSTAMP:20220310T063816Z
 END:VEVENT
 BEGIN:VEVENT

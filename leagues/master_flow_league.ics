@@ -1424,9 +1424,10 @@ DTEND:20220311T020000Z
 SUMMARY:[Master Flow League] LEV vs. 9Z
 UID:master_flow_league-107728324360521764@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Leviatán 
- Esports vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Leviatán Esports (0) vs. 9z Gaming (1)\n
 CREATED:20220310T063816Z
-LAST-MODIFIED:20220310T063816Z
+LAST-MODIFIED:20220311T183622Z
 DTSTAMP:20220310T063816Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1485,6 +1486,28 @@ DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Wap Esports
 CREATED:20220311T014948Z
 LAST-MODIFIED:20220311T014948Z
 DTSTAMP:20220311T014948Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220312T010000Z
+DTEND:20220312T020000Z
+SUMMARY:[Master Flow League] PAM vs. 9Z
+UID:master_flow_league-107728324360521774@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Ualá Pampas 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220311T183622Z
+LAST-MODIFIED:20220311T183622Z
+DTSTAMP:20220311T183622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220312T020000Z
+DTEND:20220312T030000Z
+SUMMARY:[Master Flow League] STM vs. EBG
+UID:master_flow_league-107728324360521790@lol.ics.tools
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Stone Movistar
+  vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220311T183622Z
+LAST-MODIFIED:20220311T183622Z
+DTSTAMP:20220311T183622Z
 END:VEVENT
 NAME:Master Flow League Spielplan
 X-WR-CALNAME:Master Flow League Spielplan
