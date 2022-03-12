@@ -7973,9 +7973,10 @@ DTEND:20220312T140000Z
 SUMMARY:[LCK] HLE vs. GEN
 UID:lck-107418445248279786@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Woche 8\nTeams: Hanwha Life Esports vs. 
- Gen.G\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gen.G\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Hanwha 
+ Life Esports (0) vs. Gen.G (2)\n
 CREATED:20220311T183621Z
-LAST-MODIFIED:20220311T183621Z
+LAST-MODIFIED:20220312T183532Z
 DTSTAMP:20220311T183621Z
 END:VEVENT
 BEGIN:VEVENT

@@ -3319,9 +3319,10 @@ DTEND:20220312T130000Z
 SUMMARY:[PCS] JT vs. MFT
 UID:pcs-107693721182801348@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Meta Falcon
-  Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei J 
+ Team (1) vs. Meta Falcon Team (0)\n
 CREATED:20220311T183622Z
-LAST-MODIFIED:20220311T183622Z
+LAST-MODIFIED:20220312T183532Z
 DTSTAMP:20220311T183622Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3366,9 +3367,11 @@ DTEND:20220312T140000Z
 SUMMARY:[PCS] CFO vs. BYG
 UID:pcs-107693721183063546@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. Mega 
- Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: CTBC Flying Oyster (0) vs. Mega Bank Beyond Gaming 
+ (1)\n
 CREATED:20220311T183622Z
-LAST-MODIFIED:20220311T183622Z
+LAST-MODIFIED:20220312T183532Z
 DTSTAMP:20220311T183622Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3414,6 +3417,17 @@ DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. Frank
 CREATED:20220312T124758Z
 LAST-MODIFIED:20220312T124758Z
 DTSTAMP:20220312T124758Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220313T130000Z
+DTEND:20220313T140000Z
+SUMMARY:[PCS] BYG vs. IMP
+UID:pcs-107693721183063524@lol.ics.tools
+DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
+ Impunity Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220312T183532Z
+LAST-MODIFIED:20220312T183532Z
+DTSTAMP:20220312T183532Z
 END:VEVENT
 NAME:PCS Spielplan
 X-WR-CALNAME:PCS Spielplan

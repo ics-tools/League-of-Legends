@@ -11543,9 +11543,10 @@ DTEND:20220312T140000Z
 SUMMARY:[LPL] BLG vs. EDG
 UID:lpl-107417779634108378@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 8\nTeams: Bilibili Gaming vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Bilibili
+  Gaming (1) vs. Edward Gaming (2)\n
 CREATED:20220311T183621Z
-LAST-MODIFIED:20220312T063713Z
+LAST-MODIFIED:20220312T183532Z
 DTSTAMP:20220311T183621Z
 END:VEVENT
 BEGIN:VEVENT
