@@ -677,13 +677,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T170000Z
 DTEND:20220311T220000Z
-SUMMARY:[Elite Series] MCON vs. GENK
+SUMMARY:[Elite Series] GENK vs. MCON
 UID:elite_series-107563481239877193@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: mCon LG UltraGear vs. KRC Genk Esports\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 1\nTeams: KRC Genk Esports vs. mCon LG UltraGear\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: KRC Genk Esports (2) vs. mCon LG 
+ UltraGear (3)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T013712Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT

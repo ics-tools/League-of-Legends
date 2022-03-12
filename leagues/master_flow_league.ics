@@ -1448,9 +1448,10 @@ DTEND:20220311T230000Z
 SUMMARY:[Master Flow League] UBK vs. BOC
 UID:master_flow_league-107728324360521756@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Undead BK vs. 
- Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Undead BK (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T013713Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1459,32 +1460,34 @@ DTEND:20220312T010000Z
 SUMMARY:[Master Flow League] RIV vs. KRU
 UID:master_flow_league-107728324360521804@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: River Plate 
- Gaming vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: River Plate Gaming (0) vs. KRÜ Esports (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T013713Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T210000Z
 DTEND:20220311T220000Z
-SUMMARY:[Master Flow League] MVG vs. LEV
+SUMMARY:[Master Flow League] LEV vs. MVG
 UID:master_flow_league-107728324360521814@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Malvinas 
- Gaming vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Leviatán 
+ Esports vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Leviatán Esports (1) vs. Malvinas Gaming (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T013713Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220311T230000Z
 DTEND:20220312T000000Z
-SUMMARY:[Master Flow League] WAP vs. EV
+SUMMARY:[Master Flow League] EV vs. WAP
 UID:master_flow_league-107728324360587384@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Wap Esports 
- vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Maycam Evolve 
+ vs. Wap Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Maycam Evolve (1) vs. Wap Esports (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T013713Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT
