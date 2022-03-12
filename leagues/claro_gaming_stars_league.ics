@@ -615,13 +615,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220312T000000Z
 DTEND:20220312T030000Z
-SUMMARY:[Stars League] INS vs. SB
+SUMMARY:[Stars League] SB vs. INS
 UID:claro_gaming_stars_league-107651193187403593@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: Instinct Gaming vs. Spectacled Bears\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 1\nTeams: Spectacled Bears vs. Instinct Gaming\nSpiel-Strategie: bestOf 
+ 3\nStatus: completed\nErgebnisse: Spectacled Bears (1) vs. Instinct Gaming
+  (2)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T063714Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 NAME:Stars League Spielplan

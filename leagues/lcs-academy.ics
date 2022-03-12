@@ -7993,12 +7993,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220312T010000Z
 DTEND:20220312T030000Z
-SUMMARY:[LCS Academy] DIG vs. 100
+SUMMARY:[LCS Academy] 100 vs. DIG
 UID:lcs-academy-107424951278647318@lol.ics.tools
-DESCRIPTION:Liga: LCS Academy\nPhase: Woche 8\nTeams: DIG Academy vs. 100 
- Academy\nSpiel-Strategie: playAll 2\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS Academy\nPhase: Woche 8\nTeams: 100 Academy vs. DIG 
+ Academy\nSpiel-Strategie: playAll 2\nStatus: completed\nErgebnisse: 100 
+ Academy (0) vs. DIG Academy (2)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T063713Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 BEGIN:VEVENT

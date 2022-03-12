@@ -621,13 +621,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220312T000000Z
 DTEND:20220312T030000Z
-SUMMARY:[Volcano League] GSE vs. ACS
+SUMMARY:[Volcano League] ACS vs. GSE
 UID:volcano_discover_league-107682708470039124@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: GeekSide Esports vs. AceS GaminG\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 1\nTeams: AceS GaminG vs. GeekSide Esports\nSpiel-Strategie: bestOf 
+ 3\nStatus: completed\nErgebnisse: AceS GaminG (0) vs. GeekSide Esports 
+ (2)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220312T063714Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan

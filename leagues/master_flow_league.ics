@@ -1496,9 +1496,10 @@ DTEND:20220312T020000Z
 SUMMARY:[Master Flow League] PAM vs. 9Z
 UID:master_flow_league-107728324360521774@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Ualá Pampas 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Ualá Pampas (1) vs. 9z Gaming (0)\n
 CREATED:20220311T183622Z
-LAST-MODIFIED:20220311T183622Z
+LAST-MODIFIED:20220312T063714Z
 DTSTAMP:20220311T183622Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1507,9 +1508,10 @@ DTEND:20220312T030000Z
 SUMMARY:[Master Flow League] STM vs. EBG
 UID:master_flow_league-107728324360521790@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Stone Movistar
-  vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. eBRO Gaming (1)\n
 CREATED:20220311T183622Z
-LAST-MODIFIED:20220311T183622Z
+LAST-MODIFIED:20220312T063714Z
 DTSTAMP:20220311T183622Z
 END:VEVENT
 NAME:Master Flow League Spielplan
