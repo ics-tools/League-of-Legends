@@ -3380,9 +3380,10 @@ DTEND:20220313T100000Z
 SUMMARY:[PCS] CFO vs. PSG
 UID:pcs-107693721183063548@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. PSG 
- Talon\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Talon\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CTBC 
+ Flying Oyster (1) vs. PSG Talon (0)\n
 CREATED:20220312T063714Z
-LAST-MODIFIED:20220312T063714Z
+LAST-MODIFIED:20220313T124807Z
 DTSTAMP:20220312T063714Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3391,9 +3392,10 @@ DTEND:20220313T110000Z
 SUMMARY:[PCS] S9 vs. JT
 UID:pcs-107693721182801344@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: SEM9 vs. Taipei J 
- Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Team\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SEM9 (0) 
+ vs. Taipei J Team (1)\n
 CREATED:20220312T124758Z
-LAST-MODIFIED:20220312T124758Z
+LAST-MODIFIED:20220313T124807Z
 DTSTAMP:20220312T124758Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3413,9 +3415,10 @@ DTEND:20220313T120000Z
 SUMMARY:[PCS] MFT vs. FAK
 UID:pcs-107693721183063534@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. Frank 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Meta 
+ Falcon Team (1) vs. Frank Esports (0)\n
 CREATED:20220312T124758Z
-LAST-MODIFIED:20220312T124758Z
+LAST-MODIFIED:20220313T124807Z
 DTSTAMP:20220312T124758Z
 END:VEVENT
 BEGIN:VEVENT

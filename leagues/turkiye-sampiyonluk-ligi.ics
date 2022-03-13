@@ -7684,9 +7684,10 @@ DTEND:20220313T120000Z
 SUMMARY:[TCL] GS vs. BJK
 UID:turkiye-sampiyonluk-ligi-107566458490449267@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Galatasaray Espor vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. Beşiktaş (0)\n
 CREATED:20220312T124758Z
-LAST-MODIFIED:20220312T124758Z
+LAST-MODIFIED:20220313T124807Z
 DTSTAMP:20220312T124758Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7695,9 +7696,10 @@ DTEND:20220313T130000Z
 SUMMARY:[TCL] GAL vs. FB
 UID:turkiye-sampiyonluk-ligi-107566458490449235@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: GALAKTICOS vs. Fenerbahçe 
- Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ GALAKTICOS (0) vs. Fenerbahçe Espor (1)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220313T124807Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 BEGIN:VEVENT
