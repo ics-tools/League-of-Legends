@@ -7327,9 +7327,10 @@ DTEND:20220312T190000Z
 SUMMARY:[CBLOL] LLL vs. KBM
 UID:cblol-brazil-107405837336966069@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: LOUD vs. KaBuM! 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD 
+ (0) vs. KaBuM! Esports (1)\n
 CREATED:20220311T183621Z
-LAST-MODIFIED:20220311T183621Z
+LAST-MODIFIED:20220313T014043Z
 DTSTAMP:20220311T183621Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7350,9 +7351,10 @@ DTEND:20220312T200000Z
 SUMMARY:[CBLOL] FUR vs. RED
 UID:cblol-brazil-107405837336966049@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: FURIA vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: FURIA 
+ (1) vs. RED Kalunga (0)\n
 CREATED:20220312T013712Z
-LAST-MODIFIED:20220312T013712Z
+LAST-MODIFIED:20220313T014043Z
 DTSTAMP:20220312T013712Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7361,9 +7363,10 @@ DTEND:20220312T210000Z
 SUMMARY:[CBLOL] ITZ vs. PNG
 UID:cblol-brazil-107405837336966061@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 8\nTeams: INTZ vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ (0)
+  vs. paiN Gaming (1)\n
 CREATED:20220312T013712Z
-LAST-MODIFIED:20220312T013712Z
+LAST-MODIFIED:20220313T014043Z
 DTSTAMP:20220312T013712Z
 END:VEVENT
 BEGIN:VEVENT

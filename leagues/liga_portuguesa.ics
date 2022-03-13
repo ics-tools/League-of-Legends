@@ -2154,9 +2154,10 @@ DTEND:20220312T200000Z
 SUMMARY:[Liga Portuguesa] EGN vs. WD
 UID:liga_portuguesa-107417530554631227@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Halbfinale\nTeams: EGN Esports 
- vs. White Dragons\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. White Dragons\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: EGN Esports (3) vs. White Dragons (2)\n
 CREATED:20220311T183621Z
-LAST-MODIFIED:20220311T183621Z
+LAST-MODIFIED:20220313T014043Z
 DTSTAMP:20220311T183621Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan
