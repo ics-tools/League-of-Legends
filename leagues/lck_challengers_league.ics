@@ -4320,9 +4320,10 @@ DTEND:20220314T090000Z
 SUMMARY:[LCK Challengers] HLE vs. BRO
 UID:lck_challengers_league-107559433600200992@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: HLE Challengers 
- vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: HLE Challengers (0) vs. BRO Challengers (0)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4343,9 +4344,10 @@ SUMMARY:[LCK Challengers] KDF vs. DK
 UID:lck_challengers_league-107559433600200982@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: Kwangdong Freecs 
  Challengers vs. DWG KIA Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. DWG KIA 
+ Challengers (1)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4354,9 +4356,10 @@ DTEND:20220314T120000Z
 SUMMARY:[LCK Challengers] T1 vs. GEN
 UID:lck_challengers_league-107559433600201014@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: T1 Challengers 
- vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GEN Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: T1 Challengers (0) vs. GEN Challengers (1)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4365,9 +4368,10 @@ DTEND:20220314T100000Z
 SUMMARY:[LCK Challengers] NS vs. KT
 UID:lck_challengers_league-107559433600201030@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: NS Challengers 
- vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NS Challengers (1) vs. kt Challengers (0)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT

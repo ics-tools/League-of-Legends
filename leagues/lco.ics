@@ -2648,20 +2648,22 @@ DTEND:20220314T080000Z
 SUMMARY:[LCO] PGG vs. DW
 UID:lco-107439320898325000@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Pentanet.GG vs. Dire 
- Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pentanet.GG (1) vs. Dire Wolves (0)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220314T080000Z
 DTEND:20220314T090000Z
-SUMMARY:[LCO] KNG vs. CHF
+SUMMARY:[LCO] CHF vs. KNG
 UID:lco-107439320898325016@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Kanga Esports vs. The 
- Chiefs\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: The Chiefs vs. Kanga 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: The 
+ Chiefs (1) vs. Kanga Esports (0)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2670,20 +2672,22 @@ DTEND:20220314T100000Z
 SUMMARY:[LCO] PCE vs. ORD
 UID:lco-107439320898324982@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: PEACE vs. ORDER\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: PEACE (1) vs. ORDER 
+ (0)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220314T100000Z
 DTEND:20220314T110000Z
-SUMMARY:[LCO] MEC vs. GRV
+SUMMARY:[LCO] GRV vs. MEC
 UID:lco-107439320898325006@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: MAMMOTH vs. Gravitas\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Gravitas vs. MAMMOTH\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravitas (0) vs. 
+ MAMMOTH (1)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T124933Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT
