@@ -4321,9 +4321,9 @@ SUMMARY:[LCK Challengers] HLE vs. BRO
 UID:lck_challengers_league-107559433600200992@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: HLE Challengers 
  vs. BRO Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: HLE Challengers (0) vs. BRO Challengers (0)\n
+ completed\nErgebnisse: HLE Challengers (1) vs. BRO Challengers (0)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220314T184349Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -4332,9 +4332,10 @@ DTEND:20220314T130000Z
 SUMMARY:[LCK Challengers] LSB vs. DRX
 UID:lck_challengers_league-107559433600135432@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: LSB Challengers 
- vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. DRX Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LSB Challengers (0) vs. DRX Challengers (1)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T184349Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT

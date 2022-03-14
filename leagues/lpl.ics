@@ -11600,12 +11600,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220314T110000Z
 DTEND:20220314T140000Z
-SUMMARY:[LPL] UP vs. BLG
+SUMMARY:[LPL] BLG vs. UP
 UID:lpl-107417779634108426@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Ultra Prime vs. Bilibili 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Bilibili Gaming vs. Ultra 
+ Prime\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Bilibili 
+ Gaming (2) vs. Ultra Prime (1)\n
 CREATED:20220313T124807Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220314T184349Z
 DTSTAMP:20220313T124807Z
 END:VEVENT
 BEGIN:VEVENT
