@@ -2242,13 +2242,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220313T160000Z
 DTEND:20220313T210000Z
-SUMMARY:[Hitpoint Masters] ESB vs. EIQ
+SUMMARY:[Hitpoint Masters] EIQ vs. ESB
 UID:hitpoint_masters-107597929684883542@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: eSuba vs. Entropiq\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ 1\nTeams: Entropiq vs. eSuba\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Entropiq (3) vs. eSuba (1)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 NAME:Hitpoint Masters Spielplan

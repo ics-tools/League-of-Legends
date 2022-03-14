@@ -2259,12 +2259,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220313T180000Z
 DTEND:20220313T230000Z
-SUMMARY:[PG Nationals] GGE vs. ATE
+SUMMARY:[PG Nationals] ATE vs. GGE
 UID:pg_nationals-107457033676741335@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Halbfinale\nTeams: GGEsports vs. 
- Atleta Esport\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Halbfinale\nTeams: Atleta Esport vs.
+  GGEsports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Atleta Esport (3) vs. GGEsports (0)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 NAME:PG Nationals Spielplan

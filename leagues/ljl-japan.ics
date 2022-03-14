@@ -5817,9 +5817,10 @@ DTEND:20220313T130000Z
 SUMMARY:[LJL] DFM vs. CGA
 UID:ljl-japan-107455808283066359@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 5\nTeams: DetonatioN FocusMe vs. Crest 
- Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (1) vs. Crest Gaming Act (0)\n
 CREATED:20220312T124758Z
-LAST-MODIFIED:20220312T124758Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T124758Z
 END:VEVENT
 BEGIN:VEVENT

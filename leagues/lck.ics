@@ -8006,12 +8006,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220313T110000Z
 DTEND:20220313T140000Z
-SUMMARY:[LCK] KDF vs. DRX
+SUMMARY:[LCK] DRX vs. KDF
 UID:lck-107418445248214174@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Woche 8\nTeams: Kwangdong Freecs vs. 
- DRX\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK\nPhase: Woche 8\nTeams: DRX vs. Kwangdong 
+ Freecs\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: DRX (2) 
+ vs. Kwangdong Freecs (1)\n
 CREATED:20220312T124758Z
-LAST-MODIFIED:20220312T124758Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T124758Z
 END:VEVENT
 NAME:LCK Spielplan

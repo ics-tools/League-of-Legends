@@ -7708,9 +7708,10 @@ DTEND:20220313T160000Z
 SUMMARY:[TCL] 5R vs. IW
 UID:turkiye-sampiyonluk-ligi-107566458490449249@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: 5 Ronin vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 5 
+ Ronin (1) vs. fastPay Wildcats (0)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7719,9 +7720,10 @@ DTEND:20220313T150000Z
 SUMMARY:[TCL] AUR vs. DP
 UID:turkiye-sampiyonluk-ligi-107566458490449285@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Info Yatırım Aurora vs. Dark 
- Passage\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Passage\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (1) vs. Dark Passage (0)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7730,9 +7732,10 @@ DTEND:20220313T140000Z
 SUMMARY:[TCL] SMB vs. NSR
 UID:turkiye-sampiyonluk-ligi-107566458490449311@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 8\nTeams: Papara SuperMassive Blaze vs.
-  NASR ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  NASR ESPORTS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Papara SuperMassive Blaze (1) vs. NASR ESPORTS (0)\n
 CREATED:20220312T183532Z
-LAST-MODIFIED:20220312T183532Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220312T183532Z
 END:VEVENT
 NAME:TCL Spielplan

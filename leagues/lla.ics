@@ -6287,9 +6287,10 @@ DTEND:20220313T210000Z
 SUMMARY:[Liga Latinoamérica] AK vs. GET
 UID:lla-107530554768938905@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 7\nTeams: All Knights 
- vs. Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Globant Emerald Team\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: All Knights (0) vs. Globant Emerald Team (1)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6298,9 +6299,10 @@ DTEND:20220314T000000Z
 SUMMARY:[Liga Latinoamérica] INF vs. AZE
 UID:lla-107530554768938919@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 7\nTeams: INFINITY vs. 
- Team Aze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Team Aze\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ INFINITY (0) vs. Team Aze (1)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6309,9 +6311,10 @@ DTEND:20220313T220000Z
 SUMMARY:[Liga Latinoamérica] R7 vs. XTN
 UID:lla-107530554769004467@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 7\nTeams: Rainbow7  vs. 
- XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ XTEN Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Rainbow7  (1) vs. XTEN Esports (0)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220313T014043Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6320,10 +6323,23 @@ DTEND:20220313T230000Z
 SUMMARY:[Liga Latinoamérica] EST vs. ISG
 UID:lla-107530554769004477@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 7\nTeams: Estral Esports
-  vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Isurus\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Estral Esports (0) vs. Isurus (1)\n
 CREATED:20220313T014043Z
-LAST-MODIFIED:20220313T014043Z
+LAST-MODIFIED:20220314T014915Z
 DTSTAMP:20220313T014043Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220314T000000Z
+DTEND:20220314T010000Z
+SUMMARY:[Liga Latinoamérica] GET vs. AK
+UID:lla-107951597905367008@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Woche 7\nTeams: Globant 
+ Emerald Team vs. All Knights\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Globant Emerald Team (0) vs. All Knights (1)\n
+CREATED:20220314T014915Z
+LAST-MODIFIED:20220314T014915Z
+DTSTAMP:20220314T014915Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan
