@@ -11624,23 +11624,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T110000Z
 DTEND:20220315T140000Z
-SUMMARY:[LPL] LNG vs. EDG
+SUMMARY:[LPL] EDG vs. LNG
 UID:lpl-107417779634108454@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: LNG Esports vs. Edward 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Edward Gaming vs. LNG 
+ Esports\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Edward 
+ Gaming (0) vs. LNG Esports (2)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T090000Z
 DTEND:20220315T120000Z
-SUMMARY:[LPL] IG vs. FPX
+SUMMARY:[LPL] FPX vs. IG
 UID:lpl-107417779634108494@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Invictus Gaming vs. FunPlus 
- Phoenix\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: FunPlus Phoenix vs. Invictus 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: FunPlus 
+ Phoenix (2) vs. Invictus Gaming (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT

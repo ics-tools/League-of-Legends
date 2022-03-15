@@ -883,9 +883,10 @@ DTEND:20220315T020000Z
 SUMMARY:[Honor League] N5R vs. MAZ
 UID:entel_honor_leagu-107677841286829038@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Newstar vs. 
- Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Newstar (1) vs. Maze Gaming (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT

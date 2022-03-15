@@ -2696,9 +2696,10 @@ DTEND:20220315T090000Z
 SUMMARY:[LCO] PGG vs. ORD
 UID:lco-107439320898324988@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Pentanet.GG vs. ORDER\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Pentanet.GG (1) vs. 
+ ORDER (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,31 +2708,34 @@ DTEND:20220315T110000Z
 SUMMARY:[LCO] MEC vs. DW
 UID:lco-107439320898324996@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: MAMMOTH vs. Dire 
- Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wolves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH 
+ (0) vs. Dire Wolves (1)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T070000Z
 DTEND:20220315T080000Z
-SUMMARY:[LCO] KNG vs. GRV
+SUMMARY:[LCO] GRV vs. KNG
 UID:lco-107439320898325008@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Kanga Esports vs. 
- Gravitas\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: Gravitas vs. Kanga 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravitas (0) vs. Kanga Esports (1)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T090000Z
 DTEND:20220315T100000Z
-SUMMARY:[LCO] PCE vs. CHF
+SUMMARY:[LCO] CHF vs. PCE
 UID:lco-107439320898325012@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: PEACE vs. The Chiefs\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 8\nTeams: The Chiefs vs. PEACE\nSpiel-
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: The Chiefs (1) vs. 
+ PEACE (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 NAME:LCO Spielplan

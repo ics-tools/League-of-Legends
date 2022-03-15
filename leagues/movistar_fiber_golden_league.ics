@@ -633,21 +633,21 @@ SUMMARY:[Golden League] BRR vs. NOC
 UID:movistar_fiber_golden_league-107639438038238624@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Braves Rising vs. NOCTA\nSpiel-Strategie: bestOf 3\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Braves Rising (2) vs. NOCTA (1)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220316T000000Z
 DTEND:20220316T030000Z
-SUMMARY:[Golden League] TBD vs. KOG
+SUMMARY:[Golden League] KOG vs. BRR
 UID:movistar_fiber_golden_league-107639438038238632@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: TBD vs. King of Goats\nSpiel-Strategie: bestOf 3\nStatus: 
- unstarted\n
+ 2\nTeams: King of Goats vs. Braves Rising\nSpiel-Strategie: bestOf 
+ 3\nStatus: unstarted\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 NAME:Golden League Spielplan

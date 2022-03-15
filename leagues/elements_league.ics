@@ -691,9 +691,10 @@ DTEND:20220315T050000Z
 SUMMARY:[Elements League] GVE vs. JNS
 UID:elements_league-107651378621550522@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Halbfinale\nTeams: Gravity Elite 
- vs. Janus Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Janus Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Gravity Elite (1) vs. Janus Esports (3)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220315T014945Z
+LAST-MODIFIED:20220315T125124Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 NAME:Elements League Spielplan
