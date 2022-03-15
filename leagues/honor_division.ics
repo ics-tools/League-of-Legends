@@ -848,9 +848,10 @@ DTEND:20220312T030000Z
 SUMMARY:[Honor Division] TK vs. ARTC
 UID:honor_division-107593829779689653@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Woche 8\nTeams: The Kings vs. 
- Arctic Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Arctic Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ The Kings (2) vs. Arctic Gaming (1)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220315T014945Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 NAME:Honor Division Spielplan

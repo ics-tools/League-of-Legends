@@ -2334,13 +2334,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220314T170000Z
 DTEND:20220314T220000Z
-SUMMARY:[Greek Legends League] HIVE vs. TP
+SUMMARY:[Greek Legends League] TP vs. HIVE
 UID:greek_legends-107575410020761264@lol.ics.tools
-DESCRIPTION:Liga: Greek Legends League\nPhase: Halbfinale\nTeams: Hive 
- Athens EC vs. Team Phantasma\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: Greek Legends League\nPhase: Halbfinale\nTeams: Team 
+ Phantasma vs. Hive Athens EC\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Team Phantasma (3) vs. Hive Athens EC (0)\n
 CREATED:20220311T014948Z
-LAST-MODIFIED:20220313T124807Z
+LAST-MODIFIED:20220315T014945Z
 DTSTAMP:20220311T014948Z
 END:VEVENT
 NAME:Greek Legends League Spielplan
