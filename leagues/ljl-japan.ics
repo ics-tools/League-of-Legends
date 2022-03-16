@@ -5926,9 +5926,10 @@ DTEND:20220316T130000Z
 SUMMARY:[LJL] V3 vs. BC
 UID:ljl-japan-107455808283131949@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: V3 Esports vs. Burning 
- Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Core\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: V3 Esports
+  (0) vs. Burning Core (1)\n
 CREATED:20220314T184349Z
-LAST-MODIFIED:20220314T184349Z
+LAST-MODIFIED:20220316T183733Z
 DTSTAMP:20220314T184349Z
 END:VEVENT
 NAME:LJL Spielplan
