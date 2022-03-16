@@ -8021,9 +8021,10 @@ DTEND:20220316T110000Z
 SUMMARY:[LCK] NS vs. KT
 UID:lck-107418445248279838@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Woche 9\nTeams: NongShim REDFORCE vs. kt 
- Rolster\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Rolster\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ NongShim REDFORCE (1) vs. kt Rolster (2)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T125323Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT

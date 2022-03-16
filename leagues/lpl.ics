@@ -11651,9 +11651,10 @@ DTEND:20220316T140000Z
 SUMMARY:[LPL] TES vs. AL
 UID:lpl-107417779634042826@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Top Esports vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Top 
+ Esports (2) vs. Anyone's Legend (0)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T125323Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT

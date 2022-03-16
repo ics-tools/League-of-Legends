@@ -5890,9 +5890,10 @@ DTEND:20220316T110000Z
 SUMMARY:[LJL] SHG vs. AXZ
 UID:ljl-japan-107455808283131931@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Fukuoka SoftBank HAWKS gaming
-  vs. AXIZ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. AXIZ\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Fukuoka SoftBank HAWKS gaming (1) vs. AXIZ (0)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T125323Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5901,9 +5902,10 @@ DTEND:20220316T120000Z
 SUMMARY:[LJL] SG vs. CGA
 UID:ljl-japan-107455808283131957@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Sengoku Gaming vs. Crest 
- Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Sengoku Gaming (1) vs. Crest Gaming Act (0)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T125323Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5912,9 +5914,10 @@ DTEND:20220316T100000Z
 SUMMARY:[LJL] RJ vs. DFM
 UID:ljl-japan-107455808283131963@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Rascal Jester vs. DetonatioN 
- FocusMe\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ FocusMe\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Rascal 
+ Jester (1) vs. DetonatioN FocusMe (0)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T125323Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
