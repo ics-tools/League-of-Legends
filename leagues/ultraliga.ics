@@ -2595,12 +2595,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T160000Z
 DTEND:20220315T210000Z
-SUMMARY:[Ultraliga] FSK vs. TEG
+SUMMARY:[Ultraliga] TEG vs. FSK
 UID:ultraliga-107417581300807533@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Runde 1\nTeams: Forsaken vs. Team ESCA 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Runde 1\nTeams: Team ESCA Gaming vs. 
+ Forsaken\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Team 
+ ESCA Gaming (3) vs. Forsaken (1)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT

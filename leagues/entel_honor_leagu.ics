@@ -869,12 +869,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220315T210000Z
 DTEND:20220315T220000Z
-SUMMARY:[Honor League] N5R vs. DHX
+SUMMARY:[Honor League] DHX vs. N5R
 UID:entel_honor_leagu-107677841286763476@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Newstar vs. 
- Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Dark Horse vs. 
+ Newstar\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Horse (1) vs. Newstar (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220314T014915Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
@@ -919,9 +920,10 @@ DTEND:20220316T000000Z
 SUMMARY:[Honor League] MAZ vs. UC
 UID:entel_honor_leagu-107677841286763454@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Maze Gaming vs.
-  Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maze Gaming (0) vs. Cruzados Esports (1)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
@@ -930,20 +932,22 @@ DTEND:20220316T010000Z
 SUMMARY:[Honor League] MOX vs. FG
 UID:entel_honor_leagu-107677841286829024@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Movistar Optix 
- vs. Furious Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Furious Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Movistar Optix (0) vs. Furious Gaming (1)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220316T010000Z
 DTEND:20220316T020000Z
-SUMMARY:[Honor League] WCE vs. MG
+SUMMARY:[Honor League] MG vs. WCE
 UID:entel_honor_leagu-107677841286829054@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Wolf Club 
- Gaming vs. Meta Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Meta Gaming vs.
+  Wolf Club Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Meta Gaming (1) vs. Wolf Club Gaming (0)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
@@ -953,9 +957,9 @@ SUMMARY:[Honor League] SW vs. RBT
 UID:entel_honor_leagu-107677841286829070@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Santiago 
  Wanderers vs. Rebirth Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Santiago Wanderers (0) vs. Rebirth Esports (1)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220314T124933Z
+LAST-MODIFIED:20220316T015554Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 NAME:Honor League Spielplan
