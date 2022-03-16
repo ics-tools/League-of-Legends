@@ -641,13 +641,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220316T000000Z
 DTEND:20220316T030000Z
-SUMMARY:[Golden League] KOG vs. BRR
+SUMMARY:[Golden League] BRR vs. KOG
 UID:movistar_fiber_golden_league-107639438038238632@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: King of Goats vs. Braves Rising\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 2\nTeams: Braves Rising vs. King of Goats\nSpiel-Strategie: bestOf 
+ 3\nStatus: completed\nErgebnisse: Braves Rising (2) vs. King of Goats 
+ (1)\n
 CREATED:20220314T124933Z
-LAST-MODIFIED:20220315T125124Z
+LAST-MODIFIED:20220316T063836Z
 DTSTAMP:20220314T124933Z
 END:VEVENT
 NAME:Golden League Spielplan

@@ -677,12 +677,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220316T000000Z
 DTEND:20220316T050000Z
-SUMMARY:[Elements League] RRR vs. SAP
+SUMMARY:[Elements League] SAP vs. RRR
 UID:elements_league-107651378621484980@lol.ics.tools
-DESCRIPTION:Liga: Elements League\nPhase: Halbfinale\nTeams: Red Rooster 
- vs. Saprissa Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Elements League\nPhase: Halbfinale\nTeams: Saprissa 
+ Esports vs. Red Rooster\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (3) vs. Red Rooster (0)\n
 CREATED:20220314T014915Z
-LAST-MODIFIED:20220315T014945Z
+LAST-MODIFIED:20220316T063836Z
 DTSTAMP:20220314T014915Z
 END:VEVENT
 BEGIN:VEVENT
