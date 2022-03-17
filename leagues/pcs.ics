@@ -3477,9 +3477,10 @@ DTEND:20220317T140000Z
 SUMMARY:[PCS] PSG vs. IMP
 UID:pcs-107693721183063526@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Impunity 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Impunity Esports (0)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220317T185749Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3488,9 +3489,10 @@ DTEND:20220317T130000Z
 SUMMARY:[PCS] BYG vs. S9
 UID:pcs-107693721183063554@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
- SEM9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega Bank 
+ Beyond Gaming (1) vs. SEM9 (0)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220317T185749Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
