@@ -8,9 +8,10 @@ DTEND:20220317T010000Z
 SUMMARY:[Proving Grounds] MUS vs. EG
 UID:proving_grounds-107921288852490048@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Maryville Saints 
- vs. EG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ vs. EG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Maryville Saints (0) vs. EG Academy (2)\n
 CREATED:20220315T014945Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220317T125223Z
 DTSTAMP:20220315T014945Z
 END:VEVENT
 BEGIN:VEVENT
@@ -19,9 +20,10 @@ DTEND:20220317T030000Z
 SUMMARY:[Proving Grounds] WC vs. 100
 UID:proving_grounds-107921288852555588@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Wildcard Gaming 
- vs. 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ vs. 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse:
+  Wildcard Gaming (0) vs. 100 Academy (2)\n
 CREATED:20220315T125124Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220317T125223Z
 DTSTAMP:20220315T125124Z
 END:VEVENT
 BEGIN:VEVENT
