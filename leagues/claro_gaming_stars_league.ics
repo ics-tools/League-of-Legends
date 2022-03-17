@@ -632,21 +632,21 @@ SUMMARY:[Stars League] CCC vs. DD
 UID:claro_gaming_stars_league-107651193187403597@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Cienciano vs. Diamond Doves\nSpiel-Strategie: bestOf 3\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Cienciano (0) vs. Diamond Doves (2)\n
 CREATED:20220315T125124Z
-LAST-MODIFIED:20220315T125124Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220315T125124Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T000000Z
 DTEND:20220318T030000Z
-SUMMARY:[Stars League] TBD vs. CDM
+SUMMARY:[Stars League] CDM vs. DD
 UID:claro_gaming_stars_league-107651193187403601@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: TBD vs. Club Deportivo Municipal\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 2\nTeams: Club Deportivo Municipal vs. Diamond Doves\nSpiel-Strategie: 
+ bestOf 3\nStatus: unstarted\n
 CREATED:20220316T183734Z
-LAST-MODIFIED:20220316T183734Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220316T183734Z
 END:VEVENT
 NAME:Stars League Spielplan

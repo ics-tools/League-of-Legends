@@ -5,45 +5,45 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20220316T220000Z
 DTEND:20220317T010000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] MUS vs. EG
 UID:proving_grounds-107921288852490048@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Maryville Saints 
+ vs. EG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220315T014945Z
-LAST-MODIFIED:20220315T014945Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220315T014945Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220317T000000Z
 DTEND:20220317T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] WC vs. 100
 UID:proving_grounds-107921288852555588@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Wildcard Gaming 
+ vs. 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220315T125124Z
-LAST-MODIFIED:20220315T125124Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220315T125124Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220317T220000Z
 DTEND:20220318T010000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] WCA vs. FLY
 UID:proving_grounds-107921288852555592@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Wildcard Aces vs.
+  FLY Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T000000Z
 DTEND:20220318T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TSM vs. MU
 UID:proving_grounds-107921288852555596@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TSM Academy vs. 
+ Maryville University\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220317T063827Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 NAME:Proving Grounds Spielplan

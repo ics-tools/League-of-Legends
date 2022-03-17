@@ -3203,12 +3203,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220316T170000Z
 DTEND:20220316T220000Z
-SUMMARY:[NLC] VNR vs. DY
+SUMMARY:[NLC] DY vs. VNR
 UID:nlc-107417469713134313@lol.ics.tools
-DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Vanir 
- vs. Dusty\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: NLC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Dusty 
+ vs. Vanir\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Dusty
+  (3) vs. Vanir (0)\n
 CREATED:20220315T014945Z
-LAST-MODIFIED:20220315T014945Z
+LAST-MODIFIED:20220317T063826Z
 DTSTAMP:20220315T014945Z
 END:VEVENT
 NAME:NLC Spielplan
