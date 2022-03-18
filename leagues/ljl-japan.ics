@@ -5971,12 +5971,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T120000Z
 DTEND:20220318T130000Z
-SUMMARY:[LJL] V3 vs. SHG
+SUMMARY:[LJL] SHG vs. V3
 UID:ljl-japan-107455808283131973@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: V3 Esports vs. Fukuoka 
- SoftBank HAWKS gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Fukuoka SoftBank HAWKS gaming
+  vs. V3 Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Fukuoka SoftBank HAWKS gaming (1) vs. V3 Esports (0)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220318T183715Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 NAME:LJL Spielplan

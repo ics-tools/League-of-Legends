@@ -3537,9 +3537,10 @@ DTEND:20220318T130000Z
 SUMMARY:[PCS] CFO vs. S9
 UID:pcs-107693721183063540@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: CTBC Flying Oyster vs. 
- SEM9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ SEM9\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: CTBC 
+ Flying Oyster (1) vs. SEM9 (0)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220318T183715Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3548,9 +3549,10 @@ DTEND:20220318T140000Z
 SUMMARY:[PCS] BYG vs. PSG
 UID:pcs-107693721183063568@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Mega Bank Beyond Gaming vs. 
- PSG Talon\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ PSG Talon\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Mega 
+ Bank Beyond Gaming (0) vs. PSG Talon (1)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220318T183715Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
