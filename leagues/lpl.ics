@@ -11684,12 +11684,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T110000Z
 DTEND:20220318T140000Z
-SUMMARY:[LPL] WBG vs. IG
+SUMMARY:[LPL] IG vs. WBG
 UID:lpl-107417779634174126@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Weibo Gaming vs. Invictus 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Invictus Gaming vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Invictus
+  Gaming (0) vs. Weibo Gaming (2)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T130621Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -11698,9 +11699,10 @@ DTEND:20220318T120000Z
 SUMMARY:[LPL] TES vs. LGD
 UID:lpl-107417779634174198@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Top Esports vs. LGD 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Top 
+ Esports (2) vs. LGD Gaming (0)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T130621Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 BEGIN:VEVENT

@@ -5935,12 +5935,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T090000Z
 DTEND:20220318T100000Z
-SUMMARY:[LJL] SG vs. AXZ
+SUMMARY:[LJL] AXZ vs. SG
 UID:ljl-japan-107455808283131935@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Sengoku Gaming vs. 
- AXIZ\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: AXIZ vs. Sengoku 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: AXIZ (0)
+  vs. Sengoku Gaming (1)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T130622Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5949,20 +5950,22 @@ DTEND:20220318T110000Z
 SUMMARY:[LJL] DFM vs. BC
 UID:ljl-japan-107455808283131941@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: DetonatioN FocusMe vs. 
- Burning Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Burning Core\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (1) vs. Burning Core (0)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T130622Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220318T110000Z
 DTEND:20220318T120000Z
-SUMMARY:[LJL] RJ vs. CGA
+SUMMARY:[LJL] CGA vs. RJ
 UID:ljl-japan-107455808283131955@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Rascal Jester vs. Crest 
- Gaming Act\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Woche 6\nTeams: Crest Gaming Act vs. Rascal 
+ Jester\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Crest 
+ Gaming Act (0) vs. Rascal Jester (1)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T130622Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 BEGIN:VEVENT
