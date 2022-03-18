@@ -1570,9 +1570,10 @@ DTEND:20220318T020000Z
 SUMMARY:[Master Flow League] MVG vs. EBG
 UID:master_flow_league-107728324360521784@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Malvinas 
- Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Malvinas Gaming (0) vs. eBRO Gaming (1)\n
 CREATED:20220316T183734Z
-LAST-MODIFIED:20220316T183734Z
+LAST-MODIFIED:20220318T065655Z
 DTSTAMP:20220316T183734Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1581,9 +1582,10 @@ DTEND:20220318T030000Z
 SUMMARY:[Master Flow League] EV vs. BOC
 UID:master_flow_league-107728324360521748@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Maycam Evolve 
- vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maycam Evolve (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220317T063827Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T065655Z
 DTSTAMP:20220317T063827Z
 END:VEVENT
 NAME:Master Flow League Spielplan

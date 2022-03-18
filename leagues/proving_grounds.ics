@@ -32,9 +32,10 @@ DTEND:20220318T010000Z
 SUMMARY:[Proving Grounds] WCA vs. FLY
 UID:proving_grounds-107921288852555592@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: Wildcard Aces vs.
-  FLY Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+  FLY Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ Wildcard Aces (0) vs. FLY Academy (2)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T065655Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
@@ -43,9 +44,10 @@ DTEND:20220318T030000Z
 SUMMARY:[Proving Grounds] TSM vs. MU
 UID:proving_grounds-107921288852555596@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 1\nTeams: TSM Academy vs. 
- Maryville University\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Maryville University\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: TSM Academy (2) vs. Maryville University (1)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220318T065655Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
