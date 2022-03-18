@@ -3369,13 +3369,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220317T170000Z
 DTEND:20220317T220000Z
-SUMMARY:[La Ligue Française] VITB vs. MSFP
+SUMMARY:[La Ligue Française] MSFP vs. VITB
 UID:lfl-107468370561257660@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: Vitality.Bee vs. Misfits Premier\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 1\nTeams: Misfits Premier vs. Vitality.Bee\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Misfits Premier (0) vs. Vitality.Bee 
+ (3)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 NAME:La Ligue Française Spielplan

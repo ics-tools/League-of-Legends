@@ -3410,9 +3410,10 @@ DTEND:20220317T220000Z
 SUMMARY:[SuperLiga] G2AR vs. BSO
 UID:superliga-107468241211150301@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
- G2 Arctic vs. Bisons Eclub\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ G2 Arctic vs. Bisons Eclub\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: G2 Arctic (1) vs. Bisons Eclub (3)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 NAME:SuperLiga Spielplan

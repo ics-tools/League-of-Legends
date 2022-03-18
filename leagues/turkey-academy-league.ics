@@ -5623,13 +5623,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220317T150000Z
 DTEND:20220317T160000Z
-SUMMARY:[TAL] SMB vs. FB
+SUMMARY:[TAL] FB vs. SMB
 UID:turkey-academy-league-107566682549054995@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze 
- Akademi vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Fenerbahçe Espor Akademi vs. 
+ Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fenerbahçe Espor Akademi (1) vs. Papara 
+ SuperMassive Blaze Akademi (0)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5638,9 +5639,11 @@ DTEND:20220317T150000Z
 SUMMARY:[TAL] GS vs. 5R
 UID:turkey-academy-league-107566682549055007@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Galatasaray Espor Akademi vs.
-  5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  5 Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (1) vs. 5 Ronin Akademi 
+ (0)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5649,20 +5652,23 @@ DTEND:20220317T190000Z
 SUMMARY:[TAL] DP vs. BJK
 UID:turkey-academy-league-107566682549055015@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Dark Passage Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (0) vs. Beşiktaş Akademi (1)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220317T160000Z
 DTEND:20220317T170000Z
-SUMMARY:[TAL] NSR vs. IW
+SUMMARY:[TAL] IW vs. NSR
 UID:turkey-academy-league-107566682549120581@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: NASR ESPORTS Akademi vs. 
- fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: fastPay Wildcats Akademi vs. 
+ NASR ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: fastPay Wildcats Akademi (1) vs. NASR ESPORTS 
+ Akademi (0)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5671,9 +5677,11 @@ DTEND:20220317T180000Z
 SUMMARY:[TAL] AUR vs. GAL
 UID:turkey-academy-league-107566682549120593@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
- vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. GALAKTICOS 
+ Akademi (1)\n
 CREATED:20220316T015554Z
-LAST-MODIFIED:20220316T015554Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T015554Z
 END:VEVENT
 BEGIN:VEVENT

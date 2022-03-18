@@ -1522,9 +1522,10 @@ DTEND:20220318T000000Z
 SUMMARY:[Master Flow League] UBK vs. 9Z
 UID:master_flow_league-107728324360521776@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Undead BK vs. 
- 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Undead BK (0) vs. 9z Gaming (1)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,9 +1534,10 @@ DTEND:20220318T010000Z
 SUMMARY:[Master Flow League] WAP vs. KRU
 UID:master_flow_league-107728324360521812@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Wap Esports 
- vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Wap Esports (1) vs. KRÜ Esports (0)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,9 +1546,10 @@ DTEND:20220317T230000Z
 SUMMARY:[Master Flow League] PAM vs. LEV
 UID:master_flow_league-107728324360521822@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Ualá Pampas 
- vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Ualá Pampas (1) vs. Leviatán Esports (0)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1555,9 +1558,10 @@ DTEND:20220317T220000Z
 SUMMARY:[Master Flow League] STM vs. RIV
 UID:master_flow_league-107728324360587386@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Stone Movistar
-  vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Stone Movistar (0) vs. River Plate Gaming (1)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220316T125324Z
+LAST-MODIFIED:20220318T015653Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT
