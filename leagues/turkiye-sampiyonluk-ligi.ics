@@ -7744,9 +7744,11 @@ DTEND:20220319T130000Z
 SUMMARY:[TCL] SMB vs. FB
 UID:turkiye-sampiyonluk-ligi-107566458490449241@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze vs.
-  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Fenerbahçe Espor\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze (0) vs. Fenerbahçe Espor 
+ (1)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7755,9 +7757,10 @@ DTEND:20220319T120000Z
 SUMMARY:[TCL] GS vs. 5R
 UID:turkiye-sampiyonluk-ligi-107566458490449253@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Galatasaray Espor vs. 5 
- Ronin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (1) vs. 5 Ronin (0)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7766,9 +7769,10 @@ DTEND:20220319T160000Z
 SUMMARY:[TCL] DP vs. BJK
 UID:turkiye-sampiyonluk-ligi-107566458490449261@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. 
- Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dark 
+ Passage (0) vs. Beşiktaş (1)\n
 CREATED:20220318T065654Z
-LAST-MODIFIED:20220318T065654Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T065654Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7777,9 +7781,10 @@ DTEND:20220319T140000Z
 SUMMARY:[TCL] NSR vs. IW
 UID:turkiye-sampiyonluk-ligi-107566458490449291@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: NASR ESPORTS vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Wildcats\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: NASR 
+ ESPORTS (1) vs. fastPay Wildcats (0)\n
 CREATED:20220318T065654Z
-LAST-MODIFIED:20220318T065654Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T065654Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7788,10 +7793,66 @@ DTEND:20220319T150000Z
 SUMMARY:[TCL] AUR vs. GAL
 UID:turkiye-sampiyonluk-ligi-107566458490449303@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
- GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ GALAKTICOS\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Info
+  Yatırım Aurora (0) vs. GALAKTICOS (1)\n
 CREATED:20220318T065654Z
-LAST-MODIFIED:20220318T065654Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T065654Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T140000Z
+DTEND:20220320T150000Z
+SUMMARY:[TCL] NSR vs. FB
+UID:turkiye-sampiyonluk-ligi-107566458490449239@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: NASR ESPORTS vs. Fenerbahçe 
+ Espor\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T150000Z
+DTEND:20220320T160000Z
+SUMMARY:[TCL] DP vs. 5R
+UID:turkiye-sampiyonluk-ligi-107566458490449247@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Dark Passage vs. 5 
+ Ronin\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T130000Z
+DTEND:20220320T140000Z
+SUMMARY:[TCL] GAL vs. BJK
+UID:turkiye-sampiyonluk-ligi-107566458490449265@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: GALAKTICOS vs. 
+ Beşiktaş\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T110000Z
+DTEND:20220320T120000Z
+SUMMARY:[TCL] GS vs. IW
+UID:turkiye-sampiyonluk-ligi-107566458490449289@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Galatasaray Espor vs. fastPay
+  Wildcats\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T120000Z
+DTEND:20220320T130000Z
+SUMMARY:[TCL] AUR vs. SMB
+UID:turkiye-sampiyonluk-ligi-107566458490449315@lol.ics.tools
+DESCRIPTION:Liga: TCL\nPhase: Woche 9\nTeams: Info Yatırım Aurora vs. 
+ Papara SuperMassive Blaze\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:TCL Spielplan
 X-WR-CALNAME:TCL Spielplan

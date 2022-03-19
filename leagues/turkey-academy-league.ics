@@ -5690,9 +5690,11 @@ DTEND:20220318T180000Z
 SUMMARY:[TAL] NSR vs. FB
 UID:turkey-academy-league-107566682549054993@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: NASR ESPORTS Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: NASR ESPORTS Akademi (1) vs. Fenerbahçe Espor 
+ Akademi (0)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5701,9 +5703,10 @@ DTEND:20220318T170000Z
 SUMMARY:[TAL] GAL vs. BJK
 UID:turkey-academy-league-107566682549055019@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: GALAKTICOS Akademi vs. 
- Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Beşiktaş Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: GALAKTICOS Akademi (0) vs. Beşiktaş Akademi (1)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5712,9 +5715,11 @@ DTEND:20220318T150000Z
 SUMMARY:[TAL] GS vs. IW
 UID:turkey-academy-league-107566682549120579@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Galatasaray Espor Akademi vs.
-  fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Galatasaray Espor Akademi (1) vs. fastPay Wildcats 
+ Akademi (0)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5724,9 +5729,10 @@ SUMMARY:[TAL] AUR vs. SMB
 UID:turkey-academy-league-107566682549120605@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Info Yatırım Aurora Akademi 
  vs. Papara SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Info Yatırım Aurora Akademi (0) vs. Papara 
+ SuperMassive Blaze Akademi (1)\n
 CREATED:20220317T125223Z
-LAST-MODIFIED:20220317T125223Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T125223Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5735,10 +5741,49 @@ DTEND:20220318T190000Z
 SUMMARY:[TAL] DP vs. 5R
 UID:turkey-academy-league-107566682549055001@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Dark Passage Akademi vs. 5 
- Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Ronin Akademi\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dark Passage Akademi (1) vs. 5 Ronin Akademi (0)\n
 CREATED:20220317T185749Z
-LAST-MODIFIED:20220317T185749Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T185749Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220318T190000Z
+DTEND:20220318T200000Z
+SUMMARY:[TAL] BJK vs. GAL
+UID:turkey-academy-league-107979080663625386@lol.ics.tools
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Beşiktaş Akademi vs. 
+ GALAKTICOS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (1) vs. GALAKTICOS Akademi (0)\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220318T194500Z
+DTEND:20220318T204500Z
+SUMMARY:[TAL] SMB vs. NSR
+UID:turkey-academy-league-107979104967094437@lol.ics.tools
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Papara SuperMassive Blaze 
+ Akademi vs. NASR ESPORTS Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Papara SuperMassive Blaze Akademi (1) vs. NASR 
+ ESPORTS Akademi (0)\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220318T210000Z
+DTEND:20220318T220000Z
+SUMMARY:[TAL] BJK vs. SMB
+UID:turkey-academy-league-107979528135569152@lol.ics.tools
+DESCRIPTION:Liga: TAL\nPhase: Woche 9\nTeams: Beşiktaş Akademi vs. Papara 
+ SuperMassive Blaze Akademi\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Beşiktaş Akademi (0) vs. Papara SuperMassive Blaze 
+ Akademi (1)\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:TAL Spielplan
 X-WR-CALNAME:TAL Spielplan

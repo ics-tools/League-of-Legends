@@ -6360,9 +6360,9 @@ SUMMARY:[Liga Latinoamérica] XTN vs. ISG
 UID:lla-107530579842919063@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: XTEN Esports vs. Isurus\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: XTEN Esports (1) vs. Isurus (3)\n
 CREATED:20220317T185749Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T185749Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6376,6 +6376,18 @@ DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde
 CREATED:20220318T130622Z
 LAST-MODIFIED:20220318T130622Z
 DTSTAMP:20220318T130622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T200000Z
+DTEND:20220321T010000Z
+SUMMARY:[Liga Latinoamérica] AZE vs. INF
+UID:lla-107530554769004491@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Team Aze vs. INFINITY\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
+CREATED:20220319T183540Z
+LAST-MODIFIED:20220319T183540Z
+DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan

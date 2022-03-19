@@ -3561,9 +3561,10 @@ DTEND:20220319T100000Z
 SUMMARY:[PCS] JT vs. IMP
 UID:pcs-107693721182801338@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Taipei J Team vs. Impunity 
- Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Taipei 
+ J Team (1) vs. Impunity Esports (0)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3572,9 +3573,10 @@ DTEND:20220319T110000Z
 SUMMARY:[PCS] S9 vs. DCG
 UID:pcs-107693721182997968@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: SEM9 vs. Deep Cross 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: SEM9 (0)
+  vs. Deep Cross Gaming (1)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3583,9 +3585,10 @@ DTEND:20220319T120000Z
 SUMMARY:[PCS] PSG vs. HG
 UID:pcs-107693721183063562@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: PSG Talon vs. Hurricane 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSG 
+ Talon (1) vs. Hurricane Gaming (0)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3594,9 +3597,11 @@ DTEND:20220319T130000Z
 SUMMARY:[PCS] MFT vs. BYG
 UID:pcs-107693721183063564@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Meta Falcon Team vs. Mega 
- Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Bank Beyond Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Meta Falcon Team (1) vs. Mega Bank Beyond Gaming 
+ (0)\n
 CREATED:20220318T015653Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T015653Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3605,9 +3610,10 @@ DTEND:20220319T140000Z
 SUMMARY:[PCS] FAK vs. CFO
 UID:pcs-107693721183063528@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Runde 1\nTeams: Frank Esports vs. CTBC Flying
-  Oyster\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Oyster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Frank 
+ Esports (0) vs. CTBC Flying Oyster (1)\n
 CREATED:20220318T065655Z
-LAST-MODIFIED:20220318T065655Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220318T065655Z
 END:VEVENT
 NAME:PCS Spielplan

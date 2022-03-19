@@ -56,9 +56,10 @@ DTEND:20220319T010000Z
 SUMMARY:[Proving Grounds] IMT vs. TG
 UID:proving_grounds-107921310288463698@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: IMT Academy vs. 
- Taco Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Taco Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: IMT
+  Academy (2) vs. Taco Gaming (0)\n
 CREATED:20220317T185749Z
-LAST-MODIFIED:20220317T185749Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T185749Z
 END:VEVENT
 BEGIN:VEVENT
@@ -67,9 +68,10 @@ DTEND:20220319T030000Z
 SUMMARY:[Proving Grounds] EGP vs. GG
 UID:proving_grounds-107921310288529238@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: EG Prodigies vs. 
- GG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ GG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: EG 
+ Prodigies (0) vs. GG Academy (2)\n
 CREATED:20220317T185749Z
-LAST-MODIFIED:20220317T185749Z
+LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T185749Z
 END:VEVENT
 NAME:Proving Grounds Spielplan
