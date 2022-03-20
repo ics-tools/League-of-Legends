@@ -11747,9 +11747,10 @@ DTEND:20220320T100000Z
 SUMMARY:[LPL] LGD vs. BLG
 UID:lpl-107417779634108394@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: LGD Gaming vs. Bilibili 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: LGD 
+ Gaming (0) vs. Bilibili Gaming (2)\n
 CREATED:20220318T183715Z
-LAST-MODIFIED:20220318T183715Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T183715Z
 END:VEVENT
 BEGIN:VEVENT

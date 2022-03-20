@@ -3419,13 +3419,26 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220319T170000Z
 DTEND:20220319T220000Z
-SUMMARY:[SuperLiga] BAR vs. FNTQ
+SUMMARY:[SuperLiga] FNTQ vs. BAR
 UID:superliga-107468241211215843@lol.ics.tools
 DESCRIPTION:Liga: SuperLiga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
- Barça Esports vs. FnaticTQ\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ FnaticTQ vs. Barça Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: FnaticTQ (3) vs. Barça Esports (1)\n
 CREATED:20220318T130622Z
-LAST-MODIFIED:20220318T130622Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130622Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220321T170000Z
+DTEND:20220321T220000Z
+SUMMARY:[SuperLiga] BSO vs. KOI
+UID:superliga-107468241211215849@lol.ics.tools
+DESCRIPTION:Liga: SuperLiga\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ Bisons Eclub vs. Finetwork KOI\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
+CREATED:20220320T124736Z
+LAST-MODIFIED:20220320T124736Z
+DTSTAMP:20220320T124736Z
 END:VEVENT
 NAME:SuperLiga Spielplan
 X-WR-CALNAME:SuperLiga Spielplan

@@ -2166,9 +2166,10 @@ DTEND:20220319T200000Z
 SUMMARY:[Liga Portuguesa] EGN vs. FTW
 UID:liga_portuguesa-107417530554631233@lol.ics.tools
 DESCRIPTION:Liga: Liga Portuguesa\nPhase: Finale\nTeams: EGN Esports vs. 
- For The Win Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ For The Win Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: EGN Esports (2) vs. For The Win Esports (3)\n
 CREATED:20220318T130621Z
-LAST-MODIFIED:20220318T130621Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130621Z
 END:VEVENT
 NAME:Liga Portuguesa LOL Spielplan

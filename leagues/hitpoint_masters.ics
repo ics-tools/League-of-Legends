@@ -2258,20 +2258,20 @@ SUMMARY:[Hitpoint Masters] DNE vs. ESB
 UID:hitpoint_masters-107597929684883554@lol.ics.tools
 DESCRIPTION:Liga: Hitpoint Masters\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Dynamo Eclot vs. eSuba\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Dynamo Eclot (2) vs. eSuba (3)\n
 CREATED:20220318T130622Z
-LAST-MODIFIED:20220318T130622Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130622Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220320T170000Z
 DTEND:20220320T220000Z
-SUMMARY:[Hitpoint Masters] EIQ vs. TBD
+SUMMARY:[Hitpoint Masters] ESB vs. EIQ
 UID:hitpoint_masters-107597929684883560@lol.ics.tools
-DESCRIPTION:Liga: Hitpoint Masters\nPhase: Finale\nTeams: Entropiq vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Hitpoint Masters\nPhase: Finale\nTeams: eSuba vs. 
+ Entropiq\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:Hitpoint Masters Spielplan

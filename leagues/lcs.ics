@@ -8162,9 +8162,10 @@ DTEND:20220319T213000Z
 SUMMARY:[LCS] IMT vs. 100
 UID:lcs-107458367241281221@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Immortals Progressive vs. 100
-  Thieves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Thieves\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Immortals Progressive (0) vs. 100 Thieves (1)\n
 CREATED:20220318T130622Z
-LAST-MODIFIED:20220318T130622Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130622Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8173,31 +8174,34 @@ DTEND:20220319T233000Z
 SUMMARY:[LCS] C9 vs. TSM
 UID:lcs-107458367241281235@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Cloud9 vs. TSM\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 (0) vs. TSM 
+ (1)\n
 CREATED:20220318T183715Z
-LAST-MODIFIED:20220318T183715Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T183715Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220319T213000Z
 DTEND:20220319T223000Z
-SUMMARY:[LCS] TL vs. CLG
+SUMMARY:[LCS] CLG vs. TL
 UID:lcs-107458367241281247@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Team Liquid vs. Counter Logic
-  Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Counter Logic Gaming vs. Team
+  Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Counter
+  Logic Gaming (0) vs. Team Liquid (1)\n
 CREATED:20220318T183715Z
-LAST-MODIFIED:20220318T183715Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T183715Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220319T233000Z
 DTEND:20220320T003000Z
-SUMMARY:[LCS] EG vs. DIG
+SUMMARY:[LCS] DIG vs. EG
 UID:lcs-107458367241281255@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Evil Geniuses vs. Dignitas 
- QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Dignitas QNTMPAY vs. Evil 
+ Geniuses\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dignitas QNTMPAY (0) vs. Evil Geniuses (1)\n
 CREATED:20220318T183715Z
-LAST-MODIFIED:20220318T183715Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T183715Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8206,9 +8210,10 @@ DTEND:20220320T013000Z
 SUMMARY:[LCS] GG vs. FLY
 UID:lcs-107458367241281267@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 7\nTeams: Golden Guardians vs. 
- FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Golden
+  Guardians (1) vs. FlyQuest (0)\n
 CREATED:20220318T183715Z
-LAST-MODIFIED:20220318T183715Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T183715Z
 END:VEVENT
 BEGIN:VEVENT

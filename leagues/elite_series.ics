@@ -714,12 +714,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220319T170000Z
 DTEND:20220319T220000Z
-SUMMARY:[Elite Series] MCON vs. TBD
+SUMMARY:[Elite Series] MCON vs. GENK
 UID:elite_series-107563481239942747@lol.ics.tools
 DESCRIPTION:Liga: Elite Series\nPhase: Finale\nTeams: mCon LG UltraGear vs.
-  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  KRC Genk Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: mCon LG UltraGear (1) vs. KRC Genk Esports (3)\n
 CREATED:20220318T130622Z
-LAST-MODIFIED:20220318T130622Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130622Z
 END:VEVENT
 NAME:Elite Series Spielplan

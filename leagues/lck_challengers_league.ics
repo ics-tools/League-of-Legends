@@ -4565,9 +4565,10 @@ SUMMARY:[LCK Challengers] KDF vs. KT
 UID:lck_challengers_league-107977447665594189@lol.ics.tools
 DESCRIPTION:Liga: LCK Challengers\nPhase: Woche 9\nTeams: Kwangdong Freecs 
  Challengers vs. kt Challengers\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Kwangdong Freecs Challengers (0) vs. kt Challengers
+  (1)\n
 CREATED:20220318T130622Z
-LAST-MODIFIED:20220318T130622Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130622Z
 END:VEVENT
 BEGIN:VEVENT

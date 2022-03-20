@@ -7435,9 +7435,10 @@ DTEND:20220319T190000Z
 SUMMARY:[CBLOL] FLA vs. LBR
 UID:cblol-brazil-107405837336966037@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Flamengo Esports vs. 
- Liberty\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Liberty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Flamengo Esports (0) vs. Liberty (1)\n
 CREATED:20220318T130621Z
-LAST-MODIFIED:20220318T130621Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130621Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7458,9 +7459,10 @@ DTEND:20220319T200000Z
 SUMMARY:[CBLOL] ITZ vs. RED
 UID:cblol-brazil-107405837336966063@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: INTZ vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Kalunga\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: INTZ 
+ (0) vs. RED Kalunga (1)\n
 CREATED:20220318T130621Z
-LAST-MODIFIED:20220318T130621Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130621Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7469,9 +7471,10 @@ DTEND:20220319T210000Z
 SUMMARY:[CBLOL] LLL vs. NMG
 UID:cblol-brazil-107405837336966081@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: LOUD vs. Netshoes 
- Miners\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Miners\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: LOUD (0)
+  vs. Netshoes Miners (1)\n
 CREATED:20220318T130621Z
-LAST-MODIFIED:20220318T130621Z
+LAST-MODIFIED:20220320T124736Z
 DTSTAMP:20220318T130621Z
 END:VEVENT
 BEGIN:VEVENT
