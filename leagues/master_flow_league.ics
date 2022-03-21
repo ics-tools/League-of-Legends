@@ -104,11 +104,11 @@ DTSTART:20220209T210000Z
 DTEND:20220209T220000Z
 SUMMARY:[Master Flow League] PAM vs. BOC
 UID:master_flow_league-107728324360390550@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Ualá Pampas 
- vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (0) vs. Boca Juniors Gaming (1)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Pampas vs. 
+ Boca Juniors Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pampas (0) vs. Boca Juniors Gaming (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -224,11 +224,11 @@ DTSTART:20220217T010000Z
 DTEND:20220217T020000Z
 SUMMARY:[Master Flow League] PAM vs. 9Z
 UID:master_flow_league-107728324360390570@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Ualá Pampas (0) vs. 9z Gaming (1)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Pampas vs. 9z 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Pampas 
+ (0) vs. 9z Gaming (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -332,11 +332,11 @@ DTSTART:20220211T020000Z
 DTEND:20220211T030000Z
 SUMMARY:[Master Flow League] PAM vs. EBG
 UID:master_flow_league-107728324360390588@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Ualá Pampas 
- vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Ualá Pampas (1) vs. eBRO Gaming (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Pampas vs. 
+ eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (1) vs. eBRO Gaming (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -428,11 +428,11 @@ DTSTART:20220202T230000Z
 DTEND:20220203T000000Z
 SUMMARY:[Master Flow League] PAM vs. KRU
 UID:master_flow_league-107728324360456140@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Ualá Pampas 
- vs. KRÜ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Ualá Pampas (1) vs. KRÜ Esports (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Pampas vs. KRÜ
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Pampas
+  (1) vs. KRÜ Esports (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -512,11 +512,11 @@ DTSTART:20220217T220000Z
 DTEND:20220217T230000Z
 SUMMARY:[Master Flow League] PAM vs. LEV
 UID:master_flow_league-107728324360456154@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
- vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Leviatán Esports (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Pampas vs. 
+ Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pampas (1) vs. Leviatán Esports (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -584,11 +584,11 @@ DTSTART:20220126T230000Z
 DTEND:20220127T000000Z
 SUMMARY:[Master Flow League] PAM vs. MVG
 UID:master_flow_league-107728324360456166@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
- vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Malvinas Gaming (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Pampas vs. 
+ Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Pampas (1) vs. Malvinas Gaming (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -644,11 +644,11 @@ DTSTART:20220128T210000Z
 DTEND:20220128T220000Z
 SUMMARY:[Master Flow League] PAM vs. EV
 UID:master_flow_league-107728324360456176@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
- vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Maycam Evolve (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Pampas vs. 
+ Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (1) vs. Maycam Evolve (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -692,11 +692,11 @@ DTSTART:20220128T010000Z
 DTEND:20220128T020000Z
 SUMMARY:[Master Flow League] PAM vs. RIV
 UID:master_flow_league-107728324360456184@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Ualá Pampas 
- vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. River Plate Gaming (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 1\nTeams: Pampas vs. 
+ River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pampas (1) vs. River Plate Gaming (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -728,11 +728,11 @@ DTSTART:20220205T000000Z
 DTEND:20220205T010000Z
 SUMMARY:[Master Flow League] PAM vs. STM
 UID:master_flow_league-107728324360456190@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Ualá Pampas 
- vs. Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Stone Movistar (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Pampas vs. 
+ Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (1) vs. Stone Movistar (0)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -765,10 +765,10 @@ DTEND:20220204T020000Z
 SUMMARY:[Master Flow League] UBK vs. PAM
 UID:master_flow_league-107728324360456196@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 2\nTeams: Undead BK vs. 
- Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Undead BK (0) vs. Ualá Pampas (1)\n
+ Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Undead 
+ BK (0) vs. Pampas (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -777,10 +777,10 @@ DTEND:20220212T030000Z
 SUMMARY:[Master Flow League] WAP vs. PAM
 UID:master_flow_league-107728324360456198@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 3\nTeams: Wap Esports 
- vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Wap Esports (0) vs. Ualá Pampas (1)\n
+ vs. Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wap 
+ Esports (0) vs. Pampas (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -848,11 +848,11 @@ DTSTART:20220218T230000Z
 DTEND:20220219T000000Z
 SUMMARY:[Master Flow League] PAM vs. MVG
 UID:master_flow_league-107728324360587370@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Ualá Pampas 
- vs. Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (0) vs. Malvinas Gaming (1)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 4\nTeams: Pampas vs. 
+ Malvinas Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Pampas (0) vs. Malvinas Gaming (1)\n
 CREATED:20220220T231233Z
-LAST-MODIFIED:20220220T231233Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220220T231233Z
 END:VEVENT
 BEGIN:VEVENT
@@ -968,11 +968,11 @@ DTSTART:20220316T230000Z
 DTEND:20220317T000000Z
 SUMMARY:[Master Flow League] PAM vs. EV
 UID:master_flow_league-107728324360587380@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Ualá Pampas 
- vs. Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Maycam Evolve (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Pampas vs. 
+ Maycam Evolve\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (1) vs. Maycam Evolve (0)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -980,11 +980,11 @@ DTSTART:20220224T010000Z
 DTEND:20220224T020000Z
 SUMMARY:[Master Flow League] PAM vs. RIV
 UID:master_flow_league-107728324360587388@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Ualá Pampas 
- vs. River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. River Plate Gaming (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: Pampas vs. 
+ River Plate Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pampas (1) vs. River Plate Gaming (0)\n
 CREATED:20220224T063701Z
-LAST-MODIFIED:20220224T063701Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220224T063701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,10 +1029,10 @@ DTEND:20220226T000000Z
 SUMMARY:[Master Flow League] KRU vs. PAM
 UID:master_flow_league-107728324360521808@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 5\nTeams: KRÜ Esports 
- vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  KRÜ Esports (0) vs. Ualá Pampas (1)\n
+ vs. Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KRÜ 
+ Esports (0) vs. Pampas (1)\n
 CREATED:20220225T014147Z
-LAST-MODIFIED:20220226T013258Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220225T014147Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,10 +1138,10 @@ DTEND:20220303T020000Z
 SUMMARY:[Master Flow League] UBK vs. PAM
 UID:master_flow_league-107728324360587400@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Undead BK vs. 
- Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Undead BK (0) vs. Ualá Pampas (1)\n
+ Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Undead 
+ BK (0) vs. Pampas (1)\n
 CREATED:20220302T124937Z
-LAST-MODIFIED:20220303T063803Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220302T124937Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1209,11 +1209,11 @@ DTSTART:20220304T000000Z
 DTEND:20220304T010000Z
 SUMMARY:[Master Flow League] PAM vs. STM
 UID:master_flow_league-107728324360587394@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Ualá Pampas 
- vs. Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Stone Movistar (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Pampas vs. 
+ Stone Movistar\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (1) vs. Stone Movistar (0)\n
 CREATED:20220303T063803Z
-LAST-MODIFIED:20220304T015304Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220303T063803Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,10 +1234,10 @@ DTEND:20220304T220000Z
 SUMMARY:[Master Flow League] BOC vs. PAM
 UID:master_flow_league-107728324360521754@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 6\nTeams: Boca Juniors 
- Gaming vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Boca Juniors Gaming (0) vs. Ualá Pampas (1)\n
+ Gaming vs. Pampas\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Boca Juniors Gaming (0) vs. Pampas (1)\n
 CREATED:20220304T015304Z
-LAST-MODIFIED:20220305T014430Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220304T015304Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,11 +1365,11 @@ DTSTART:20220316T210000Z
 DTEND:20220316T220000Z
 SUMMARY:[Master Flow League] PAM vs. EBG
 UID:master_flow_league-107728324360521792@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Ualá Pampas 
- vs. eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Ualá Pampas (0) vs. eBRO Gaming (1)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Pampas vs. 
+ eBRO Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Pampas (0) vs. eBRO Gaming (1)\n
 CREATED:20220309T124925Z
-LAST-MODIFIED:20220317T063827Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220309T124925Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1438,10 +1438,10 @@ DTEND:20220311T010000Z
 SUMMARY:[Master Flow League] WAP vs. PAM
 UID:master_flow_league-107728324360587402@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Wap Esports 
- vs. Ualá Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
-  Wap Esports (0) vs. Ualá Pampas (1)\n
+ vs. Pampas\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Wap 
+ Esports (0) vs. Pampas (1)\n
 CREATED:20220310T063816Z
-LAST-MODIFIED:20220311T014948Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220310T063816Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1497,11 +1497,11 @@ DTSTART:20220312T010000Z
 DTEND:20220312T020000Z
 SUMMARY:[Master Flow League] PAM vs. 9Z
 UID:master_flow_league-107728324360521774@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Ualá Pampas 
- vs. 9z Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
- Ualá Pampas (1) vs. 9z Gaming (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 7\nTeams: Pampas vs. 9z 
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Pampas 
+ (1) vs. 9z Gaming (0)\n
 CREATED:20220311T183622Z
-LAST-MODIFIED:20220312T063714Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220311T183622Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1545,11 +1545,11 @@ DTSTART:20220317T220000Z
 DTEND:20220317T230000Z
 SUMMARY:[Master Flow League] PAM vs. LEV
 UID:master_flow_league-107728324360521822@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Ualá Pampas 
- vs. Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
- completed\nErgebnisse: Ualá Pampas (1) vs. Leviatán Esports (0)\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Woche 8\nTeams: Pampas vs. 
+ Leviatán Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Pampas (1) vs. Leviatán Esports (0)\n
 CREATED:20220316T125324Z
-LAST-MODIFIED:20220318T015653Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220316T125324Z
 END:VEVENT
 BEGIN:VEVENT

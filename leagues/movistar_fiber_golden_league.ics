@@ -653,14 +653,14 @@ DTSTAMP:20220314T124933Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220322T000000Z
-DTEND:20220322T030000Z
+DTEND:20220322T050000Z
 SUMMARY:[Golden League] AWK vs. Z5
 UID:movistar_fiber_golden_league-107639438038238628@lol.ics.tools
 DESCRIPTION:Liga: Golden League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: Awake Gaming vs. Zeu5 Bogotá\nSpiel-Strategie: bestOf 3\nStatus:
+ 2\nTeams: Awake Gaming vs. Zeu5 Bogotá\nSpiel-Strategie: bestOf 5\nStatus:
   unstarted\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220321T183809Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 NAME:Golden League Spielplan
