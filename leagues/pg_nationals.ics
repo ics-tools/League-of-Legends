@@ -2271,12 +2271,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220320T180000Z
 DTEND:20220320T230000Z
-SUMMARY:[PG Nationals] ATE vs. MCK
+SUMMARY:[PG Nationals] MCK vs. ATE
 UID:pg_nationals-107457033676741341@lol.ics.tools
-DESCRIPTION:Liga: PG Nationals\nPhase: Finale\nTeams: Atleta Esport vs. 
- Macko Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PG Nationals\nPhase: Finale\nTeams: Macko Esports vs. 
+ Atleta Esport\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Macko Esports (0) vs. Atleta Esport (3)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:PG Nationals Spielplan

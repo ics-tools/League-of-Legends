@@ -7495,9 +7495,10 @@ DTEND:20220320T200000Z
 SUMMARY:[CBLOL] KBM vs. FLA
 UID:cblol-brazil-107405837336966025@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: KaBuM! Esports vs. Flamengo
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: KaBuM!
+  Esports (1) vs. Flamengo Esports (0)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7506,9 +7507,10 @@ DTEND:20220320T190000Z
 SUMMARY:[CBLOL] NMG vs. FUR
 UID:cblol-brazil-107405837336966045@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Netshoes Miners vs. 
- FURIA\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ FURIA\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Netshoes 
+ Miners (0) vs. FURIA (1)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7517,9 +7519,10 @@ DTEND:20220320T170000Z
 SUMMARY:[CBLOL] LBR vs. ITZ
 UID:cblol-brazil-107405837336966067@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: Liberty vs. INTZ\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: Liberty (1) vs. INTZ 
+ (0)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7528,9 +7531,10 @@ DTEND:20220320T180000Z
 SUMMARY:[CBLOL] RNS vs. LLL
 UID:cblol-brazil-107405837336966087@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: RENSGA vs. LOUD\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: RENSGA (0) vs. LOUD 
+ (1)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -7539,9 +7543,10 @@ DTEND:20220320T210000Z
 SUMMARY:[CBLOL] RED vs. PNG
 UID:cblol-brazil-107405837337031635@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Woche 9\nTeams: RED Kalunga vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: RED 
+ Kalunga (0) vs. paiN Gaming (1)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:CBLOL Spielplan

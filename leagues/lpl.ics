@@ -11759,9 +11759,10 @@ DTEND:20220320T120000Z
 SUMMARY:[LPL] WE vs. AL
 UID:lpl-107417779634042818@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Team WE vs. Anyone's 
- Legend\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Legend\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Team WE 
+ (2) vs. Anyone's Legend (0)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -11770,9 +11771,10 @@ DTEND:20220320T140000Z
 SUMMARY:[LPL] WBG vs. JDG
 UID:lpl-107417779634174170@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: Woche 9\nTeams: Weibo Gaming vs. JD 
- Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Weibo 
+ Gaming (0) vs. JD Gaming (2)\n
 CREATED:20220319T183540Z
-LAST-MODIFIED:20220319T183540Z
+LAST-MODIFIED:20220321T020242Z
 DTSTAMP:20220319T183540Z
 END:VEVENT
 NAME:LPL Spielplan
