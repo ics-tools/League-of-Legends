@@ -968,9 +968,10 @@ DTEND:20220322T010000Z
 SUMMARY:[Honor League] MG vs. UC
 UID:entel_honor_leagu-107677841286763456@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Meta Gaming vs.
-  Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  Cruzados Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Meta Gaming (1) vs. Cruzados Esports (0)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T020142Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
@@ -979,9 +980,10 @@ DTEND:20220322T020000Z
 SUMMARY:[Honor League] WCE vs. DHX
 UID:entel_honor_leagu-107677841286829018@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Wolf Club 
- Gaming vs. Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Gaming vs. Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Wolf Club Gaming (0) vs. Dark Horse (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T020142Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
@@ -990,20 +992,22 @@ DTEND:20220321T230000Z
 SUMMARY:[Honor League] N5R vs. FG
 UID:entel_honor_leagu-107677841286829026@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Newstar vs. 
- Furious Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Furious Gaming\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Newstar (0) vs. Furious Gaming (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T020142Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220321T210000Z
 DTEND:20220321T220000Z
-SUMMARY:[Honor League] RBT vs. MAZ
+SUMMARY:[Honor League] MAZ vs. RBT
 UID:entel_honor_leagu-107677841286829040@lol.ics.tools
-DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Rebirth Esports
-  vs. Maze Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Maze Gaming vs.
+  Rebirth Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Maze Gaming (0) vs. Rebirth Esports (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T020142Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1013,9 +1017,9 @@ SUMMARY:[Honor League] SW vs. MOX
 UID:entel_honor_leagu-107677841286829060@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Santiago 
  Wanderers vs. Movistar Optix\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Santiago Wanderers (0) vs. Movistar Optix (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T020142Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT

@@ -656,6 +656,18 @@ CREATED:20220317T185749Z
 LAST-MODIFIED:20220319T183540Z
 DTSTAMP:20220317T185749Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220324T000000Z
+DTEND:20220324T050000Z
+SUMMARY:[Volcano League] SKC vs. DSC
+UID:volcano_discover_league-107682708470039132@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Skull Cracker Clan vs.  Descuydado Esports\nSpiel-Strategie: 
+ bestOf 5\nStatus: unstarted\n
+CREATED:20220322T020142Z
+LAST-MODIFIED:20220322T020142Z
+DTSTAMP:20220322T020142Z
+END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan
 END:VCALENDAR
