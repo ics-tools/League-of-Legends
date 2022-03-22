@@ -2619,12 +2619,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220322T160000Z
 DTEND:20220322T210000Z
-SUMMARY:[Ultraliga] WOLF vs. RGO
+SUMMARY:[Ultraliga] RGO vs. WOLF
 UID:ultraliga-107417581300873081@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Runde 2\nTeams: Topo Centras Iron 
- Wolves vs. AGO Rogue\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Runde 2\nTeams: AGO Rogue vs. Topo 
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT

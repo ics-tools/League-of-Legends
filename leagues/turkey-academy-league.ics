@@ -5791,9 +5791,11 @@ DTEND:20220321T190000Z
 SUMMARY:[TAL] DP vs. FB
 UID:turkey-academy-league-107566682549120607@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Dark Passage Akademi vs. 
- Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Dark Passage Akademi (1) vs. Fenerbahçe Espor 
+ Akademi (3)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
@@ -5811,12 +5813,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220323T140000Z
 DTEND:20220323T190000Z
-SUMMARY:[TAL] TBD vs. TBD
+SUMMARY:[TAL] FB vs. TBD
 UID:turkey-academy-league-107566682549120619@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: TBD vs. TBD\nSpiel-Strategie: 
- bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: Fenerbahçe Espor Akademi vs. 
+ TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220321T183809Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 NAME:TAL Spielplan

@@ -2780,20 +2780,22 @@ DTEND:20220322T090000Z
 SUMMARY:[LCO] MEC vs. ORD
 UID:lco-107439320898324984@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: MAMMOTH vs. ORDER\nSpiel-
- Strategie: bestOf 1\nStatus: unstarted\n
+ Strategie: bestOf 1\nStatus: completed\nErgebnisse: MAMMOTH (0) vs. ORDER 
+ (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220322T070000Z
 DTEND:20220322T080000Z
-SUMMARY:[LCO] CHF vs. DW
+SUMMARY:[LCO] DW vs. CHF
 UID:lco-107439320898324992@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: The Chiefs vs. Dire 
- Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: Dire Wolves vs. The 
+ Chiefs\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dire 
+ Wolves (0) vs. The Chiefs (1)\n
 CREATED:20220320T124736Z
-LAST-MODIFIED:20220320T124736Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220320T124736Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2814,9 +2816,10 @@ DTEND:20220322T100000Z
 SUMMARY:[LCO] GRV vs. PGG
 UID:lco-107439320898325010@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: Gravitas vs. 
- Pentanet.GG\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Pentanet.GG\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravitas (0) vs. Pentanet.GG (1)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2825,9 +2828,10 @@ DTEND:20220322T110000Z
 SUMMARY:[LCO] KNG vs. PCE
 UID:lco-107439320898325022@lol.ics.tools
 DESCRIPTION:Liga: LCO\nPhase: Woche 9\nTeams: Kanga Esports vs. 
- PEACE\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ PEACE\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Kanga 
+ Esports (0) vs. PEACE (1)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220322T125335Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 NAME:LCO Spielplan
