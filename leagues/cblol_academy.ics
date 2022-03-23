@@ -3264,9 +3264,10 @@ DTEND:20220322T230000Z
 SUMMARY:[CBLOL Academy] FLA vs. LBR
 UID:cblol_academy-107565607661108968@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 9\nTeams: Flamengo Academy 
- vs. Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ vs. Liberty Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Flamengo Academy (1) vs. Liberty Academy (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3275,9 +3276,10 @@ DTEND:20220322T220000Z
 SUMMARY:[CBLOL Academy] FUR vs. KBM
 UID:cblol_academy-107565607661174518@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 9\nTeams: FURIA Academy vs. 
- KaBuM! Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ KaBuM! Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ FURIA Academy (1) vs. KaBuM! Academy (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3286,9 +3288,10 @@ DTEND:20220323T000000Z
 SUMMARY:[CBLOL Academy] ITZ vs. RED
 UID:cblol_academy-107565607661174542@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 9\nTeams: INTZ Academy vs. 
- RED Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ RED Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ INTZ Academy (1) vs. RED Academy (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3297,9 +3300,10 @@ DTEND:20220323T010000Z
 SUMMARY:[CBLOL Academy] LLL vs. NMG
 UID:cblol_academy-107565607661240104@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 9\nTeams: LOUD Academy vs. 
- Netshoes Miners Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Netshoes Miners Academy\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: LOUD Academy (0) vs. Netshoes Miners Academy (1)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3308,9 +3312,10 @@ DTEND:20220322T210000Z
 SUMMARY:[CBLOL Academy] PNG vs. RNS
 UID:cblol_academy-107565607661240120@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Woche 9\nTeams: paiN Academy vs. 
- Rensga Academy\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Rensga Academy\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ paiN Academy (1) vs. Rensga Academy (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT

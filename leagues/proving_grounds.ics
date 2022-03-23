@@ -104,9 +104,10 @@ DTEND:20220323T010000Z
 SUMMARY:[Proving Grounds] CLG vs. EG
 UID:proving_grounds-107921310288529250@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: CLG Academy vs. 
- EG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ EG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: CLG 
+ Academy (2) vs. EG Academy (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020505Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -115,9 +116,10 @@ DTEND:20220323T030000Z
 SUMMARY:[Proving Grounds] 100 vs. NOT
 UID:proving_grounds-107921310288529254@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: 100 Academy vs. 
- No Team\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ No Team\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
+ Academy (2) vs. No Team (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T020505Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
@@ -145,23 +147,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220324T230000Z
 DTEND:20220325T020000Z
-SUMMARY:[Proving Grounds] TBD vs. IMT
+SUMMARY:[Proving Grounds] IMT vs. CLG
 UID:proving_grounds-107921365941662656@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: TBD vs. IMT 
- Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: IMT Academy vs. 
+ CLG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220323T020505Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220325T000000Z
 DTEND:20220325T030000Z
-SUMMARY:[Proving Grounds] GG vs. TBD
+SUMMARY:[Proving Grounds] 100 vs. GG
 UID:proving_grounds-107921365941662660@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: GG Academy vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: 100 Academy vs. 
+ GG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220323T020505Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 NAME:Proving Grounds Spielplan

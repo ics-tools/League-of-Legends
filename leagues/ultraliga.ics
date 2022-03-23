@@ -2622,9 +2622,10 @@ DTEND:20220322T210000Z
 SUMMARY:[Ultraliga] RGO vs. WOLF
 UID:ultraliga-107417581300873081@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Runde 2\nTeams: AGO Rogue vs. Topo 
- Centras Iron Wolves\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Centras Iron Wolves\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: AGO Rogue (3) vs. Topo Centras Iron Wolves (0)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220323T020504Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
