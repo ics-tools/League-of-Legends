@@ -6096,9 +6096,11 @@ DTEND:20220323T130000Z
 SUMMARY:[LJL] SHG vs. BC
 UID:ljl-japan-107455808283131943@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Woche 7\nTeams: Fukuoka SoftBank HAWKS gaming
-  vs. Burning Core\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+  vs. Burning Core\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fukuoka SoftBank HAWKS gaming (0) vs. Burning Core 
+ (1)\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220321T183809Z
+LAST-MODIFIED:20220323T184205Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 BEGIN:VEVENT
