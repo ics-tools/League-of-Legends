@@ -666,12 +666,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220323T000000Z
 DTEND:20220323T050000Z
-SUMMARY:[Golden League] AWK vs. BRR
+SUMMARY:[Golden League] BRR vs. AWK
 UID:movistar_fiber_golden_league-107639438038238636@lol.ics.tools
-DESCRIPTION:Liga: Golden League\nPhase: Halbfinale\nTeams: Awake Gaming vs.
-  Braves Rising\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Golden League\nPhase: Halbfinale\nTeams: Braves Rising 
+ vs. Awake Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Braves Rising (3) vs. Awake Gaming (2)\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220323T063956Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 NAME:Golden League Spielplan
