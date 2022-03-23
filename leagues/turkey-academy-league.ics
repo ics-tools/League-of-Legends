@@ -5805,20 +5805,22 @@ SUMMARY:[TAL] SMB vs. IW
 UID:turkey-academy-league-107566682549120613@lol.ics.tools
 DESCRIPTION:Liga: TAL\nPhase: Halbfinale\nTeams: Papara SuperMassive Blaze 
  Akademi vs. fastPay Wildcats Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Papara SuperMassive Blaze Akademi (3) vs. fastPay 
+ Wildcats Akademi (1)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220321T020242Z
+LAST-MODIFIED:20220323T125357Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220323T140000Z
 DTEND:20220323T190000Z
-SUMMARY:[TAL] FB vs. TBD
+SUMMARY:[TAL] SMB vs. FB
 UID:turkey-academy-league-107566682549120619@lol.ics.tools
-DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: Fenerbahçe Espor Akademi vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: TAL\nPhase: Finale\nTeams: Papara SuperMassive Blaze 
+ Akademi vs. Fenerbahçe Espor Akademi\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220323T125357Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 NAME:TAL Spielplan
