@@ -2631,12 +2631,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220323T160000Z
 DTEND:20220323T210000Z
-SUMMARY:[Ultraliga] Z10 vs. TEG
+SUMMARY:[Ultraliga] TEG vs. Z10
 UID:ultraliga-107417581300873087@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Runde 2\nTeams: Zero Tenacity vs. Team 
- ESCA Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Runde 2\nTeams: Team ESCA Gaming vs. 
+ Zero Tenacity\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Team ESCA Gaming (3) vs. Zero Tenacity (0)\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220321T183809Z
+LAST-MODIFIED:20220324T020116Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 NAME:Ultraliga Spielplan

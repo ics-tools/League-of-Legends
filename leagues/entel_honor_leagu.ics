@@ -1082,6 +1082,30 @@ CREATED:20220321T020242Z
 LAST-MODIFIED:20220323T020505Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220323T210000Z
+DTEND:20220323T220000Z
+SUMMARY:[Honor League] MOX vs. DHX
+UID:entel_honor_leagu-108008816017827462@lol.ics.tools
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Movistar Optix 
+ vs. Dark Horse\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Movistar Optix (0) vs. Dark Horse (1)\n
+CREATED:20220324T020116Z
+LAST-MODIFIED:20220324T020116Z
+DTSTAMP:20220324T020116Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220323T220000Z
+DTEND:20220323T230000Z
+SUMMARY:[Honor League] UC vs. RBT
+UID:entel_honor_leagu-108008819393980010@lol.ics.tools
+DESCRIPTION:Liga: Honor League\nPhase: Gruppenphase\nTeams: Cruzados 
+ Esports vs. Rebirth Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Cruzados Esports (0) vs. Rebirth Esports (1)\n
+CREATED:20220324T020116Z
+LAST-MODIFIED:20220324T020116Z
+DTSTAMP:20220324T020116Z
+END:VEVENT
 NAME:Honor League Spielplan
 X-WR-CALNAME:Honor League Spielplan
 END:VCALENDAR

@@ -3382,13 +3382,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220323T170000Z
 DTEND:20220323T220000Z
-SUMMARY:[La Ligue Française] KC vs. LDLC
+SUMMARY:[La Ligue Française] LDLC vs. KC
 UID:lfl-107468370561257666@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: Karmine Corp vs. LDLC OL\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ 2\nTeams: LDLC OL vs. Karmine Corp\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: LDLC OL (3) vs. Karmine Corp (0)\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220321T183809Z
+LAST-MODIFIED:20220324T020116Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 BEGIN:VEVENT

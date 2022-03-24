@@ -3242,9 +3242,10 @@ DTEND:20220323T220000Z
 SUMMARY:[NLC] DY vs. BFR
 UID:nlc-107417469713134331@lol.ics.tools
 DESCRIPTION:Liga: NLC\nPhase: Halbfinale\nTeams: Dusty vs. Bifrost\nSpiel-
- Strategie: bestOf 5\nStatus: unstarted\n
+ Strategie: bestOf 5\nStatus: completed\nErgebnisse: Dusty (0) vs. Bifrost 
+ (3)\n
 CREATED:20220322T020142Z
-LAST-MODIFIED:20220322T020142Z
+LAST-MODIFIED:20220324T020116Z
 DTSTAMP:20220322T020142Z
 END:VEVENT
 NAME:NLC Spielplan
