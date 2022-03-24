@@ -128,9 +128,10 @@ DTEND:20220324T010000Z
 SUMMARY:[Proving Grounds] FLY vs. 100X
 UID:proving_grounds-107921310288529258@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: FLY Academy vs. 
- 100 Next\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ 100 Next\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: FLY 
+ Academy (2) vs. 100 Next (0)\n
 CREATED:20220321T183809Z
-LAST-MODIFIED:20220321T183809Z
+LAST-MODIFIED:20220324T183755Z
 DTSTAMP:20220321T183809Z
 END:VEVENT
 BEGIN:VEVENT
@@ -139,9 +140,10 @@ DTEND:20220324T030000Z
 SUMMARY:[Proving Grounds] TSM vs. C9
 UID:proving_grounds-107921310288529262@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 2\nTeams: TSM Academy vs. 
- C9 Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ C9 Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: TSM 
+ Academy (0) vs. C9 Academy (2)\n
 CREATED:20220322T020142Z
-LAST-MODIFIED:20220322T020142Z
+LAST-MODIFIED:20220324T183755Z
 DTSTAMP:20220322T020142Z
 END:VEVENT
 BEGIN:VEVENT

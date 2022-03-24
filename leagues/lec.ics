@@ -8153,12 +8153,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220325T170000Z
 DTEND:20220325T220000Z
-SUMMARY:[LEC] MSF vs. RGE
+SUMMARY:[LEC] RGE vs. MSF
 UID:lec-107417293272826572@lol.ics.tools
-DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Misfits
-  Gaming vs. Rogue\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Rogue 
+ vs. Misfits Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220324T183755Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT

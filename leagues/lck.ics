@@ -8137,12 +8137,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220324T080000Z
 DTEND:20220324T130000Z
-SUMMARY:[LCK] KDF vs. DRX
+SUMMARY:[LCK] DRX vs. KDF
 UID:lck-107418445248279870@lol.ics.tools
-DESCRIPTION:Liga: LCK\nPhase: Viertelfinale\nTeams: Kwangdong Freecs vs. 
- DRX\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCK\nPhase: Viertelfinale\nTeams: DRX vs. Kwangdong 
+ Freecs\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: DRX (2) 
+ vs. Kwangdong Freecs (3)\n
 CREATED:20220321T020242Z
-LAST-MODIFIED:20220322T020142Z
+LAST-MODIFIED:20220324T183755Z
 DTSTAMP:20220321T020242Z
 END:VEVENT
 BEGIN:VEVENT
