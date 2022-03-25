@@ -152,9 +152,10 @@ DTEND:20220325T020000Z
 SUMMARY:[Proving Grounds] IMT vs. CLG
 UID:proving_grounds-107921365941662656@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: IMT Academy vs. 
- CLG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ CLG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: IMT
+  Academy (2) vs. CLG Academy (1)\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220323T020505Z
+LAST-MODIFIED:20220325T063956Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 BEGIN:VEVENT
@@ -163,9 +164,10 @@ DTEND:20220325T030000Z
 SUMMARY:[Proving Grounds] 100 vs. GG
 UID:proving_grounds-107921365941662660@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: 100 Academy vs. 
- GG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ GG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
+ Academy (0) vs. GG Academy (2)\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220323T020505Z
+LAST-MODIFIED:20220325T063956Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 NAME:Proving Grounds Spielplan

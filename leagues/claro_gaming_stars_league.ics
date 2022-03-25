@@ -670,20 +670,20 @@ SUMMARY:[Stars League] INS vs. INC
 UID:claro_gaming_stars_league-107651193187403605@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Entscheidungsspiele – Runde 
  3\nTeams: Instinct Gaming vs. Incubus\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Instinct Gaming (3) vs. Incubus (1)\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220325T063956Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220326T000000Z
 DTEND:20220326T030000Z
-SUMMARY:[Stars League] DD vs. TBD
+SUMMARY:[Stars League] INC vs. DD
 UID:claro_gaming_stars_league-107651193189304159@lol.ics.tools
-DESCRIPTION:Liga: Stars League\nPhase: Halbfinale\nTeams: Diamond Doves vs.
-  TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Stars League\nPhase: Halbfinale\nTeams: Incubus vs. 
+ Diamond Doves\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220325T063956Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 NAME:Stars League Spielplan
