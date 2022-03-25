@@ -1594,9 +1594,10 @@ DTEND:20220325T020000Z
 SUMMARY:[Master Flow League] UBK vs. BOC
 UID:master_flow_league-107728324360587406@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Viertelfinale\nTeams: Undead 
- BK vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ BK vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Undead BK (0) vs. Boca Juniors Gaming (3)\n
 CREATED:20220322T020142Z
-LAST-MODIFIED:20220322T020142Z
+LAST-MODIFIED:20220325T015630Z
 DTSTAMP:20220322T020142Z
 END:VEVENT
 BEGIN:VEVENT

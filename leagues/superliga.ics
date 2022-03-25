@@ -3443,12 +3443,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220324T170000Z
 DTEND:20220324T220000Z
-SUMMARY:[SuperLiga] BSO vs. BAR
+SUMMARY:[SuperLiga] BAR vs. BSO
 UID:superliga-107468241211215855@lol.ics.tools
-DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Bisons Eclub vs. 
- Barça Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: SuperLiga\nPhase: Halbfinale\nTeams: Barça Esports vs. 
+ Bisons Eclub\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Barça Esports (0) vs. Bisons Eclub (3)\n
 CREATED:20220322T125335Z
-LAST-MODIFIED:20220322T125335Z
+LAST-MODIFIED:20220325T015630Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 NAME:SuperLiga Spielplan
