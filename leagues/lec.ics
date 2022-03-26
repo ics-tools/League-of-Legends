@@ -8156,20 +8156,21 @@ DTEND:20220325T220000Z
 SUMMARY:[LEC] RGE vs. MSF
 UID:lec-107417293272826572@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Rogue 
- vs. Misfits Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Misfits Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Rogue (3) vs. Misfits Gaming (1)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220324T183755Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220326T160000Z
 DTEND:20220326T210000Z
-SUMMARY:[LEC] G2 vs. FNC
+SUMMARY:[LEC] FNC vs. G2
 UID:lec-107417293272826578@lol.ics.tools
-DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: G2 
- Esports vs. Fnatic\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Fnatic 
+ vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220323T125357Z
-LAST-MODIFIED:20220323T125357Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T125357Z
 END:VEVENT
 BEGIN:VEVENT

@@ -7555,9 +7555,10 @@ DTEND:20220325T210000Z
 SUMMARY:[CBLOL] NMG vs. LBR
 UID:cblol-brazil-107405912049922106@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Gruppenphase der Vorrunde\nTeams: Netshoes 
- Miners vs. Liberty\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Miners vs. Liberty\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Netshoes Miners (0) vs. Liberty (3)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT

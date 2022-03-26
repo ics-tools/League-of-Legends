@@ -8290,12 +8290,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220325T233000Z
 DTEND:20220326T003000Z
-SUMMARY:[LCS] DIG vs. C9
+SUMMARY:[LCS] C9 vs. DIG
 UID:lcs-107458367241281225@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Dignitas QNTMPAY vs. 
- Cloud9\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Cloud9 vs. Dignitas 
+ QNTMPAY\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Cloud9 
+ (1) vs. Dignitas QNTMPAY (0)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
@@ -8304,31 +8305,35 @@ DTEND:20220326T013000Z
 SUMMARY:[LCS] IMT vs. CLG
 UID:lcs-107458367241281251@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Immortals Progressive vs. 
- Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+ Counter Logic Gaming\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Immortals Progressive (0) vs. Counter Logic Gaming 
+ (1)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220325T223000Z
 DTEND:20220325T233000Z
-SUMMARY:[LCS] FLY vs. EG
+SUMMARY:[LCS] EG vs. FLY
 UID:lcs-107458367241281265@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: FlyQuest vs. Evil 
- Geniuses\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Evil Geniuses vs. 
+ FlyQuest\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Evil 
+ Geniuses (1) vs. FlyQuest (0)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220325T213000Z
 DTEND:20220325T223000Z
-SUMMARY:[LCS] TL vs. GG
+SUMMARY:[LCS] GG vs. TL
 UID:lcs-107458367241871107@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Team Liquid vs. Golden 
- Guardians\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Woche 8\nTeams: Golden Guardians vs. Team 
+ Liquid\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Golden 
+ Guardians (0) vs. Team Liquid (1)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220323T020504Z
+LAST-MODIFIED:20220326T015701Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
