@@ -672,13 +672,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220330T230000Z
 DTEND:20220331T040000Z
-SUMMARY:[Volcano League] DSC vs. TBD
+SUMMARY:[Volcano League] PD vs. DSC
 UID:volcano_discover_league-107682708470104684@lol.ics.tools
-DESCRIPTION:Liga: Volcano League\nPhase: Finale\nTeams:  Descuydado Esports
-  vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Volcano League\nPhase: Finale\nTeams: Pirate Dream vs.  
+ Descuydado Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220326T063733Z
 DTSTAMP:20220326T015701Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220326T000000Z
+DTEND:20220326T050000Z
+SUMMARY:[Volcano League] SKC vs. PD
+UID:volcano_discover_league-107682708470104678@lol.ics.tools
+DESCRIPTION:Liga: Volcano League\nPhase: Halbfinale\nTeams: Skull Cracker 
+ Clan vs. Pirate Dream\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Skull Cracker Clan (2) vs. Pirate Dream (3)\n
+CREATED:20220326T063733Z
+LAST-MODIFIED:20220326T063733Z
+DTSTAMP:20220326T063733Z
 END:VEVENT
 NAME:Volcano Discover League Spielplan
 X-WR-CALNAME:Volcano Discover League Spielplan
