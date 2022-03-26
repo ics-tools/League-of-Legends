@@ -8176,9 +8176,10 @@ DTEND:20220326T130000Z
 SUMMARY:[LCK] KDF vs. T1
 UID:lck-107418445248279882@lol.ics.tools
 DESCRIPTION:Liga: LCK\nPhase: Halbfinale\nTeams: Kwangdong Freecs vs. 
- T1\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ T1\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Kwangdong 
+ Freecs (0) vs. T1 (3)\n
 CREATED:20220323T020504Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220326T124821Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
