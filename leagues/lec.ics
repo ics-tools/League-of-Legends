@@ -8168,21 +8168,33 @@ DTEND:20220326T210000Z
 SUMMARY:[LEC] FNC vs. G2
 UID:lec-107417293272826578@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Fnatic 
- vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Fnatic (3) vs. G2 Esports (1)\n
 CREATED:20220323T125357Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220327T015855Z
 DTSTAMP:20220323T125357Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220327T150000Z
 DTEND:20220327T200000Z
-SUMMARY:[LEC] VIT vs. XL
+SUMMARY:[LEC] XL vs. VIT
 UID:lec-107417293272826584@lol.ics.tools
-DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: Team 
- Vitality vs. EXCEL\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 1\nTeams: EXCEL 
+ vs. Team Vitality\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220324T020116Z
-LAST-MODIFIED:20220324T020116Z
+LAST-MODIFIED:20220327T015855Z
 DTSTAMP:20220324T020116Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220401T160000Z
+DTEND:20220401T210000Z
+SUMMARY:[LEC] TBD vs. TBD
+UID:lec-107417293272826596@lol.ics.tools
+DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 2\nTeams: TBD vs.
+  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+CREATED:20220327T015855Z
+LAST-MODIFIED:20220327T015855Z
+DTSTAMP:20220327T015855Z
 END:VEVENT
 NAME:LEC Spielplan
 X-WR-CALNAME:LEC Spielplan

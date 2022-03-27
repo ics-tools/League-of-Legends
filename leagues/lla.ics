@@ -6396,21 +6396,21 @@ SUMMARY:[Liga Latinoamérica] INF vs. ISG
 UID:lla-107530579842919069@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: INFINITY vs. Isurus\nSpiel-Strategie: bestOf 5\nStatus: 
- completed\nErgebnisse: INFINITY (0) vs. Isurus (0)\n
+ completed\nErgebnisse: INFINITY (0) vs. Isurus (3)\n
 CREATED:20220323T184206Z
-LAST-MODIFIED:20220323T184206Z
+LAST-MODIFIED:20220327T015855Z
 DTSTAMP:20220323T184206Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220327T190000Z
-DTEND:20220328T000000Z
+DTSTART:20220327T200000Z
+DTEND:20220328T010000Z
 SUMMARY:[Liga Latinoamérica] AZE vs. EST
 UID:lla-107530579842984611@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Team Aze vs. Estral Esports\nSpiel-Strategie: bestOf 5\nStatus: 
  unstarted\n
 CREATED:20220324T020116Z
-LAST-MODIFIED:20220324T020116Z
+LAST-MODIFIED:20220327T015855Z
 DTSTAMP:20220324T020116Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
