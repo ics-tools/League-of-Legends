@@ -6408,10 +6408,21 @@ SUMMARY:[Liga Latinoamérica] AZE vs. EST
 UID:lla-107530579842984611@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Team Aze vs. Estral Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Team Aze (3) vs. Estral Esports (1)\n
 CREATED:20220324T020116Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220328T020644Z
 DTSTAMP:20220324T020116Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220402T200000Z
+DTEND:20220403T010000Z
+SUMMARY:[Liga Latinoamérica] R7 vs. ISG
+UID:lla-107530579842984617@lol.ics.tools
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Halbfinale\nTeams: Rainbow7  
+ vs. Isurus\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+CREATED:20220328T020644Z
+LAST-MODIFIED:20220328T020644Z
+DTSTAMP:20220328T020644Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
 X-WR-CALNAME:Liga Latinoamérica Spielplan

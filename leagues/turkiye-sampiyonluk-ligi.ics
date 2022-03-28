@@ -7890,9 +7890,10 @@ DTEND:20220327T160000Z
 SUMMARY:[TCL] AUR vs. 5R
 UID:turkiye-sampiyonluk-ligi-107566430981123284@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Viertelfinale\nTeams: Info Yatırım Aurora vs.
-  5 Ronin\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  5 Ronin\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Info 
+ Yatırım Aurora (3) vs. 5 Ronin (2)\n
 CREATED:20220324T020116Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220328T020644Z
 DTSTAMP:20220324T020116Z
 END:VEVENT
 NAME:TCL Spielplan
