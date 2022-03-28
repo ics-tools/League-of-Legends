@@ -2837,34 +2837,36 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220328T060000Z
 DTEND:20220328T110000Z
-SUMMARY:[LCO] PGG vs. PCE
+SUMMARY:[LCO] PCE vs. PGG
 UID:lco-107439320898325032@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
- Pentanet.GG vs. PEACE\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: PEACE 
+ vs. Pentanet.GG\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  PEACE (0) vs. Pentanet.GG (3)\n
 CREATED:20220325T015630Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220328T125415Z
 DTSTAMP:20220325T015630Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220328T090000Z
 DTEND:20220328T140000Z
-SUMMARY:[LCO] DW vs. ORD
+SUMMARY:[LCO] ORD vs. DW
 UID:lco-107439320898325038@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: Dire 
- Wolves vs. ORDER\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: ORDER 
+ vs. Dire Wolves\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  ORDER (3) vs. Dire Wolves (0)\n
 CREATED:20220325T015630Z
-LAST-MODIFIED:20220328T064046Z
+LAST-MODIFIED:20220328T125415Z
 DTSTAMP:20220325T015630Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220329T070000Z
 DTEND:20220329T120000Z
-SUMMARY:[LCO] CHF vs. TBD
+SUMMARY:[LCO] PGG vs. CHF
 UID:lco-107439320898325042@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: The 
- Chiefs vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ Pentanet.GG vs. The Chiefs\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220328T125415Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 NAME:LCO Spielplan
