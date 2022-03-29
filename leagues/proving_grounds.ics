@@ -176,9 +176,10 @@ DTEND:20220329T010000Z
 SUMMARY:[Proving Grounds] TL vs. FLY
 UID:proving_grounds-107921365941662664@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: TL Academy vs. 
- FLY Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ FLY Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: TL 
+ Academy (2) vs. FLY Academy (0)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -187,9 +188,10 @@ DTEND:20220329T030000Z
 SUMMARY:[Proving Grounds] C9 vs. DIG
 UID:proving_grounds-107921365941662668@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: C9 Academy vs. 
- DIG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ DIG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: C9 
+ Academy (2) vs. DIG Academy (0)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -239,23 +241,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220331T220000Z
 DTEND:20220401T010000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TBD vs. DIG
 UID:proving_grounds-107921365941728232@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. DIG 
+ Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220401T000000Z
 DTEND:20220401T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TBD vs. FLY
 UID:proving_grounds-107921365941728236@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. FLY 
+ Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT

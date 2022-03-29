@@ -704,9 +704,10 @@ DTEND:20220324T050000Z
 SUMMARY:[Elements League] JNS vs. SAP
 UID:elements_league-107651378621550528@lol.ics.tools
 DESCRIPTION:Liga: Elements League\nPhase: Finale\nTeams: Janus Esports vs. 
- Saprissa Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Saprissa Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Janus Esports (1) vs. Saprissa Esports (3)\n
 CREATED:20220322T020142Z
-LAST-MODIFIED:20220322T020142Z
+LAST-MODIFIED:20220329T064020Z
 DTSTAMP:20220322T020142Z
 END:VEVENT
 NAME:Elements League Spielplan

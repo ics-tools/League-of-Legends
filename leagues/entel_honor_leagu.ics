@@ -1113,9 +1113,10 @@ SUMMARY:[Honor League] MOX vs. FG
 UID:entel_honor_leagu-108035548029874484@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Movistar Optix vs. Furious Gaming\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 5\nStatus: completed\nErgebnisse: Movistar Optix (2) vs. Furious Gaming 
+ (3)\n
 CREATED:20220328T183906Z
-LAST-MODIFIED:20220328T183906Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220328T183906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1133,13 +1134,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220330T210000Z
 DTEND:20220331T020000Z
-SUMMARY:[Honor League] TBD vs. SW
+SUMMARY:[Honor League] SW vs. MOX
 UID:entel_honor_leagu-108035548029874496@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
- 1\nTeams: TBD vs. Santiago Wanderers\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ 1\nTeams: Santiago Wanderers vs. Movistar Optix\nSpiel-Strategie: bestOf 
+ 5\nStatus: unstarted\n
 CREATED:20220328T183906Z
-LAST-MODIFIED:20220328T183906Z
+LAST-MODIFIED:20220329T064021Z
 DTSTAMP:20220328T183906Z
 END:VEVENT
 BEGIN:VEVENT
