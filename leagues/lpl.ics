@@ -11845,9 +11845,10 @@ DTEND:20220329T143000Z
 SUMMARY:[LPL] EDG vs. WBG
 UID:lpl-107417779634305484@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: K.-o.-Phase\nTeams: Edward Gaming vs. Weibo 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Edward 
+ Gaming (1) vs. Weibo Gaming (3)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220329T183748Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -11864,12 +11865,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220331T093000Z
 DTEND:20220331T143000Z
-SUMMARY:[LPL] TBD vs. JDG
+SUMMARY:[LPL] JDG vs. WBG
 UID:lpl-107417779634305496@lol.ics.tools
-DESCRIPTION:Liga: LPL\nPhase: K.-o.-Phase\nTeams: TBD vs. JD Gaming\nSpiel-
- Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LPL\nPhase: K.-o.-Phase\nTeams: JD Gaming vs. Weibo 
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220326T124821Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220329T183748Z
 DTSTAMP:20220326T124821Z
 END:VEVENT
 BEGIN:VEVENT
