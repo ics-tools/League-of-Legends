@@ -6179,24 +6179,37 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220330T090000Z
 DTEND:20220330T140000Z
-SUMMARY:[LJL] RJ vs. TBD
+SUMMARY:[LJL] CGA vs. RJ
 UID:ljl-japan-107455808283131987@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Rascal 
- Jester vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Crest 
+ Gaming Act vs. Rascal Jester\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220329T064020Z
-LAST-MODIFIED:20220329T064020Z
+LAST-MODIFIED:20220329T125415Z
 DTSTAMP:20220329T064020Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220401T090000Z
 DTEND:20220401T140000Z
-SUMMARY:[LJL] BC vs. TBD
+SUMMARY:[LJL] SHG vs. BC
 UID:ljl-japan-107455808283197529@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Burning
-  Core vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Fukuoka
+  SoftBank HAWKS gaming vs. Burning Core\nSpiel-Strategie: bestOf 
+ 5\nStatus: unstarted\n
 CREATED:20220329T064020Z
-LAST-MODIFIED:20220329T064020Z
+LAST-MODIFIED:20220329T125415Z
 DTSTAMP:20220329T064020Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220403T090000Z
+DTEND:20220403T140000Z
+SUMMARY:[LJL] SG vs. DFM
+UID:ljl-japan-107455808283131981@lol.ics.tools
+DESCRIPTION:Liga: LJL\nPhase: Runde 2\nTeams: Sengoku Gaming vs. DetonatioN
+  FocusMe\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+CREATED:20220329T125415Z
+LAST-MODIFIED:20220329T125415Z
+DTSTAMP:20220329T125415Z
 END:VEVENT
 NAME:LJL Spielplan
 X-WR-CALNAME:LJL Spielplan
