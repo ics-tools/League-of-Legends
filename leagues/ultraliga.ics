@@ -2647,20 +2647,21 @@ SUMMARY:[Ultraliga] WOLF vs. TEG
 UID:ultraliga-107417581300873093@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Halbfinale\nTeams: Topo Centras Iron 
  Wolves vs. Team ESCA Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Topo Centras Iron Wolves (2) vs. Team ESCA Gaming 
+ (3)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220329T125415Z
+LAST-MODIFIED:20220330T020554Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220330T150000Z
 DTEND:20220330T200000Z
-SUMMARY:[Ultraliga] TBD vs. RGO
+SUMMARY:[Ultraliga] RGO vs. TEG
 UID:ultraliga-107417581300873099@lol.ics.tools
-DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: TBD vs. AGO 
- Rogue\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: AGO Rogue vs. Team ESCA 
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220330T020554Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 NAME:Ultraliga Spielplan
