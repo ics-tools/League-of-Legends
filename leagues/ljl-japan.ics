@@ -6179,13 +6179,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220330T090000Z
 DTEND:20220330T140000Z
-SUMMARY:[LJL] CGA vs. RJ
+SUMMARY:[LJL] RJ vs. CGA
 UID:ljl-japan-107455808283131987@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Crest 
- Gaming Act vs. Rascal Jester\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Entscheidungsspiele – Runde 1\nTeams: Rascal 
+ Jester vs. Crest Gaming Act\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Rascal Jester (3) vs. Crest Gaming Act (0)\n
 CREATED:20220329T064020Z
-LAST-MODIFIED:20220329T125415Z
+LAST-MODIFIED:20220330T125440Z
 DTSTAMP:20220329T064020Z
 END:VEVENT
 BEGIN:VEVENT

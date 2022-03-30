@@ -200,9 +200,10 @@ DTEND:20220330T010000Z
 SUMMARY:[Proving Grounds] TG vs. EG
 UID:proving_grounds-107921365941662672@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: Taco Gaming vs. 
- EG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ EG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: Taco
+  Gaming (2) vs. EG Academy (1)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220330T125440Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -211,9 +212,10 @@ DTEND:20220330T030000Z
 SUMMARY:[Proving Grounds] NOT vs. EGP
 UID:proving_grounds-107921365941662676@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 3\nTeams: No Team vs. EG 
- Prodigies\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Prodigies\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: No 
+ Team (1) vs. EG Prodigies (2)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220330T125440Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
@@ -241,23 +243,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220331T220000Z
 DTEND:20220401T010000Z
-SUMMARY:[Proving Grounds] TBD vs. DIG
+SUMMARY:[Proving Grounds] DIG vs. TG
 UID:proving_grounds-107921365941728232@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. DIG 
- Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: DIG Academy vs. 
+ Taco Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220329T064021Z
+LAST-MODIFIED:20220330T125440Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220401T000000Z
 DTEND:20220401T030000Z
-SUMMARY:[Proving Grounds] TBD vs. FLY
+SUMMARY:[Proving Grounds] FLY vs. EGP
 UID:proving_grounds-107921365941728236@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. FLY 
- Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: FLY Academy vs. 
+ EG Prodigies\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220329T064021Z
+LAST-MODIFIED:20220330T125440Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -281,6 +283,28 @@ DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: TBD vs. CLG
 CREATED:20220328T020644Z
 LAST-MODIFIED:20220328T020644Z
 DTSTAMP:20220328T020644Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T220000Z
+DTEND:20220405T010000Z
+SUMMARY:[Proving Grounds] GG vs. IMT
+UID:proving_grounds-107921365941728224@lol.ics.tools
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: GG Academy vs. 
+ IMT Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220330T125440Z
+LAST-MODIFIED:20220330T125440Z
+DTSTAMP:20220330T125440Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T000000Z
+DTEND:20220405T030000Z
+SUMMARY:[Proving Grounds] C9 vs. TL
+UID:proving_grounds-107921365941728228@lol.ics.tools
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: C9 Academy vs. TL
+  Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+CREATED:20220330T125440Z
+LAST-MODIFIED:20220330T125440Z
+DTSTAMP:20220330T125440Z
 END:VEVENT
 NAME:Proving Grounds Spielplan
 X-WR-CALNAME:Proving Grounds Spielplan
