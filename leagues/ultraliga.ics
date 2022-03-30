@@ -2659,9 +2659,10 @@ DTEND:20220330T200000Z
 SUMMARY:[Ultraliga] RGO vs. TEG
 UID:ultraliga-107417581300873099@lol.ics.tools
 DESCRIPTION:Liga: Ultraliga\nPhase: Finale\nTeams: AGO Rogue vs. Team ESCA 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: AGO 
+ Rogue (3) vs. Team ESCA Gaming (0)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220330T020554Z
+LAST-MODIFIED:20220330T183814Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 NAME:Ultraliga Spielplan
