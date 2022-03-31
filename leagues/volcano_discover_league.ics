@@ -675,9 +675,10 @@ DTEND:20220331T040000Z
 SUMMARY:[Volcano League] PD vs. DSC
 UID:volcano_discover_league-107682708470104684@lol.ics.tools
 DESCRIPTION:Liga: Volcano League\nPhase: Finale\nTeams: Pirate Dream vs.  
- Descuydado Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Descuydado Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Pirate Dream (0) vs.  Descuydado Esports (3)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T063733Z
+LAST-MODIFIED:20220331T063923Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
