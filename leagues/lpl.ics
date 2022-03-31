@@ -11869,9 +11869,10 @@ DTEND:20220331T143000Z
 SUMMARY:[LPL] JDG vs. WBG
 UID:lpl-107417779634305496@lol.ics.tools
 DESCRIPTION:Liga: LPL\nPhase: K.-o.-Phase\nTeams: JD Gaming vs. Weibo 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: JD 
+ Gaming (3) vs. Weibo Gaming (2)\n
 CREATED:20220326T124821Z
-LAST-MODIFIED:20220329T183748Z
+LAST-MODIFIED:20220331T183827Z
 DTSTAMP:20220326T124821Z
 END:VEVENT
 BEGIN:VEVENT

@@ -8189,12 +8189,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220401T160000Z
 DTEND:20220401T210000Z
-SUMMARY:[LEC] VIT vs. G2
+SUMMARY:[LEC] G2 vs. VIT
 UID:lec-107417293272826596@lol.ics.tools
-DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 2\nTeams: Team 
- Vitality vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 2\nTeams: G2 
+ Esports vs. Team Vitality\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220331T183827Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT

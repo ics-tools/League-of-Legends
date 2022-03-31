@@ -3631,13 +3631,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220331T090000Z
 DTEND:20220331T140000Z
-SUMMARY:[PCS] BYG vs. DCG
+SUMMARY:[PCS] DCG vs. BYG
 UID:pcs-107693721183063570@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Mega 
- Bank Beyond Gaming vs. Deep Cross Gaming\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Deep 
+ Cross Gaming vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: Deep Cross Gaming (3) vs. Mega Bank 
+ Beyond Gaming (1)\n
 CREATED:20220326T124822Z
-LAST-MODIFIED:20220326T124822Z
+LAST-MODIFIED:20220331T183827Z
 DTSTAMP:20220326T124822Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3666,12 +3667,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220403T090000Z
 DTEND:20220403T140000Z
-SUMMARY:[PCS] IMP vs. TBD
+SUMMARY:[PCS] BYG vs. IMP
 UID:pcs-107693721183063594@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
- Impunity Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Mega 
+ Bank Beyond Gaming vs. Impunity Esports\nSpiel-Strategie: bestOf 
+ 5\nStatus: unstarted\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220331T183827Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 NAME:PCS Spielplan
