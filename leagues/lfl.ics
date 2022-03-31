@@ -3411,20 +3411,21 @@ SUMMARY:[La Ligue Française] BDSA vs. KC
 UID:lfl-107468370561257678@lol.ics.tools
 DESCRIPTION:Liga: La Ligue Française\nPhase: Entscheidungsspiele – Runde 
  3\nTeams: Team BDS Academy vs. Karmine Corp\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 5\nStatus: completed\nErgebnisse: Team BDS Academy (3) vs. Karmine Corp 
+ (1)\n
 CREATED:20220326T015701Z
-LAST-MODIFIED:20220326T015701Z
+LAST-MODIFIED:20220331T020055Z
 DTSTAMP:20220326T015701Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220331T160000Z
 DTEND:20220331T210000Z
-SUMMARY:[La Ligue Française] TBD vs. LDLC
+SUMMARY:[La Ligue Française] LDLC vs. BDSA
 UID:lfl-107468370561257684@lol.ics.tools
-DESCRIPTION:Liga: La Ligue Française\nPhase: Finale\nTeams: TBD vs. LDLC 
- OL\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: La Ligue Française\nPhase: Finale\nTeams: LDLC OL vs. 
+ Team BDS Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220331T020055Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 NAME:La Ligue Française Spielplan

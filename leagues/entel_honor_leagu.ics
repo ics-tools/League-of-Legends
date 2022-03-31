@@ -1138,9 +1138,10 @@ SUMMARY:[Honor League] SW vs. MOX
 UID:entel_honor_leagu-108035548029874496@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
  1\nTeams: Santiago Wanderers vs. Movistar Optix\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 5\nStatus: completed\nErgebnisse: Santiago Wanderers (0) vs. Movistar 
+ Optix (3)\n
 CREATED:20220328T183906Z
-LAST-MODIFIED:20220329T064021Z
+LAST-MODIFIED:20220331T020055Z
 DTSTAMP:20220328T183906Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,12 +1159,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220404T210000Z
 DTEND:20220405T020000Z
-SUMMARY:[Honor League] TBD vs. TBD
+SUMMARY:[Honor League] MOX vs. TBD
 UID:entel_honor_leagu-108035548029874514@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: TBD vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ 2\nTeams: Movistar Optix vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220330T020554Z
-LAST-MODIFIED:20220330T020554Z
+LAST-MODIFIED:20220331T020055Z
 DTSTAMP:20220330T020554Z
 END:VEVENT
 BEGIN:VEVENT
