@@ -3648,20 +3648,21 @@ SUMMARY:[PCS] MFT vs. CFO
 UID:pcs-107693721183063574@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Meta 
  Falcon Team vs. CTBC Flying Oyster\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Meta Falcon Team (0) vs. CTBC Flying Oyster (3)\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220327T015855Z
+LAST-MODIFIED:20220401T183855Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220402T090000Z
 DTEND:20220402T140000Z
-SUMMARY:[PCS] FAK vs. TBD
+SUMMARY:[PCS] MFT vs. FAK
 UID:pcs-107693721183063590@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Frank 
- Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Meta 
+ Falcon Team vs. Frank Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220401T183855Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT

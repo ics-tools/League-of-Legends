@@ -248,9 +248,10 @@ DTEND:20220401T010000Z
 SUMMARY:[Proving Grounds] DIG vs. TG
 UID:proving_grounds-107921365941728232@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: DIG Academy vs. 
- Taco Gaming\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Taco Gaming\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: DIG
+  Academy (2) vs. Taco Gaming (0)\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220330T125440Z
+LAST-MODIFIED:20220401T183855Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
@@ -259,9 +260,10 @@ DTEND:20220401T030000Z
 SUMMARY:[Proving Grounds] FLY vs. EGP
 UID:proving_grounds-107921365941728236@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: FLY Academy vs. 
- EG Prodigies\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ EG Prodigies\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ FLY Academy (2) vs. EG Prodigies (0)\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220330T125440Z
+LAST-MODIFIED:20220401T183855Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT

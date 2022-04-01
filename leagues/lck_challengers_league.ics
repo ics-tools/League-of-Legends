@@ -4623,13 +4623,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220401T080000Z
 DTEND:20220401T130000Z
-SUMMARY:[LCK Challengers] DK vs. NS
+SUMMARY:[LCK Challengers] NS vs. DK
 UID:lck_challengers_league-107439257588333983@lol.ics.tools
-DESCRIPTION:Liga: LCK Challengers\nPhase: Finale\nTeams: DWG KIA 
- Challengers vs. NS Challengers\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: LCK Challengers\nPhase: Finale\nTeams: NS Challengers vs.
+  DWG KIA Challengers\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: NS Challengers (1) vs. DWG KIA Challengers (3)\n
 CREATED:20220327T015855Z
-LAST-MODIFIED:20220329T125415Z
+LAST-MODIFIED:20220401T183854Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 NAME:LCK Challengers Spielplan
