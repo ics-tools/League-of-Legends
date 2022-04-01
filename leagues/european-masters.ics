@@ -6118,10 +6118,11 @@ DTSTART:20220404T170000Z
 DTEND:20220404T180000Z
 SUMMARY:[European Masters] MCK vs. BAR
 UID:european-masters-107893136890671567@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Macko Esports vs. 
- Barça Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Macko Esports vs. Barça Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6129,10 +6130,11 @@ DTSTART:20220404T150000Z
 DTEND:20220404T160000Z
 SUMMARY:[European Masters] WLG vs. BAR
 UID:european-masters-107893136890999249@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: We Love Gaming vs.
-  Barça Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: We Love Gaming vs. Barça Esports\nSpiel-Strategie: bestOf
+  1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6140,10 +6142,11 @@ DTSTART:20220404T160000Z
 DTEND:20220404T170000Z
 SUMMARY:[European Masters] EIQ vs. MCK
 UID:european-masters-107893136890999255@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Entropiq vs. Macko
-  Esports\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Entropiq vs. Macko Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6151,10 +6154,11 @@ DTSTART:20220404T180000Z
 DTEND:20220404T190000Z
 SUMMARY:[European Masters] EIQ vs. WLG
 UID:european-masters-107893136890999257@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Entropiq vs. We 
- Love Gaming\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Entropiq vs. We Love Gaming\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6162,11 +6166,11 @@ DTSTART:20220404T170000Z
 DTEND:20220404T180000Z
 SUMMARY:[European Masters] BFR vs. USE
 UID:european-masters-107893136890999271@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Bifrost vs. 
- Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Bifrost vs. Unicorns of Love Sexy Edition\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6174,11 +6178,11 @@ DTSTART:20220404T150000Z
 DTEND:20220404T160000Z
 SUMMARY:[European Masters] VPG vs. USE
 UID:european-masters-107893136890999275@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Valiance PRO GAME 
- vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Valiance PRO GAME vs. Unicorns of Love Sexy 
+ Edition\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6186,10 +6190,11 @@ DTSTART:20220404T160000Z
 DTEND:20220404T170000Z
 SUMMARY:[European Masters] ESB vs. BFR
 UID:european-masters-107893136890999277@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: eSuba vs. 
- Bifrost\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: eSuba vs. Bifrost\nSpiel-Strategie: bestOf 1\nStatus: 
+ unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6197,10 +6202,11 @@ DTSTART:20220404T170000Z
 DTEND:20220404T180000Z
 SUMMARY:[European Masters] VITB vs. WOLF
 UID:european-masters-107893136890999295@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Vitality.Bee vs. 
- Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Vitality.Bee vs. Topo Centras Iron Wolves\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6208,11 +6214,11 @@ DTSTART:20220404T150000Z
 DTEND:20220404T160000Z
 SUMMARY:[European Masters] GENK vs. WOLF
 UID:european-masters-107893136890999299@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: KRC Genk Esports 
- vs. Topo Centras Iron Wolves\nSpiel-Strategie: bestOf 1\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: KRC Genk Esports vs. Topo Centras Iron Wolves\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6220,10 +6226,11 @@ DTSTART:20220404T160000Z
 DTEND:20220404T170000Z
 SUMMARY:[European Masters] FTW vs. VITB
 UID:european-masters-107893136890999301@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: For The Win 
- Esports vs. Vitality.Bee\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: For The Win Esports vs. Vitality.Bee\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6231,10 +6238,11 @@ DTSTART:20220404T160000Z
 DTEND:20220404T170000Z
 SUMMARY:[European Masters] Z10 vs. KC
 UID:european-masters-107893136890999319@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: Zero Tenacity vs. 
- Karmine Corp\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Zero Tenacity vs. Karmine Corp\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6242,10 +6250,11 @@ DTSTART:20220404T170000Z
 DTEND:20220404T180000Z
 SUMMARY:[European Masters] MCON vs. Z10
 UID:european-masters-107893136890999325@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: mCon LG UltraGear 
- vs. Zero Tenacity\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: mCon LG UltraGear vs. Zero Tenacity\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6253,11 +6262,60 @@ DTSTART:20220404T150000Z
 DTEND:20220404T160000Z
 SUMMARY:[European Masters] EGN vs. MCON
 UID:european-masters-107893136891064865@lol.ics.tools
-DESCRIPTION:Liga: European Masters\nPhase: Tag 1\nTeams: EGN Esports vs. 
- mCon LG UltraGear\nSpiel-Strategie: bestOf 1\nStatus: unstarted\n
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: EGN Esports vs. mCon LG UltraGear\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
 CREATED:20220331T183827Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220331T183827Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T190000Z
+DTEND:20220404T200000Z
+SUMMARY:[European Masters] EIQ vs. BAR
+UID:european-masters-107893136890999251@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Entropiq vs. Barça Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220401T064010Z
+LAST-MODIFIED:20220401T064010Z
+DTSTAMP:20220401T064010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T180000Z
+DTEND:20220404T190000Z
+SUMMARY:[European Masters] VPG vs. ESB
+UID:european-masters-107893136890999281@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Valiance PRO GAME vs. eSuba\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220401T064010Z
+LAST-MODIFIED:20220401T064010Z
+DTSTAMP:20220401T064010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T180000Z
+DTEND:20220404T190000Z
+SUMMARY:[European Masters] GENK vs. FTW
+UID:european-masters-107893136890999305@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: KRC Genk Esports vs. For The Win Esports\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220401T064010Z
+LAST-MODIFIED:20220401T064010Z
+DTSTAMP:20220401T064010Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T180000Z
+DTEND:20220404T190000Z
+SUMMARY:[European Masters] EGN vs. KC
+UID:european-masters-107893136890999323@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: EGN Esports vs. Karmine Corp\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220401T064010Z
+LAST-MODIFIED:20220401T064010Z
+DTSTAMP:20220401T064010Z
 END:VEVENT
 NAME:European Masters Spielplan
 X-WR-CALNAME:European Masters Spielplan
