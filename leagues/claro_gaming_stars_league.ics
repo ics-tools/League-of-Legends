@@ -688,14 +688,15 @@ LAST-MODIFIED:20220326T063733Z
 DTSTAMP:20220323T020504Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220401T230000Z
-DTEND:20220402T040000Z
+DTSTART:20220402T000000Z
+DTEND:20220402T050000Z
 SUMMARY:[Stars League] DD vs. INS
 UID:claro_gaming_stars_league-107651193189304163@lol.ics.tools
 DESCRIPTION:Liga: Stars League\nPhase: Finale\nTeams: Diamond Doves vs. 
- Instinct Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Instinct Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  Diamond Doves (3) vs. Instinct Gaming (2)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220402T063757Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 NAME:Stars League Spielplan
