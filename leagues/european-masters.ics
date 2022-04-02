@@ -6365,6 +6365,42 @@ CREATED:20220401T183855Z
 LAST-MODIFIED:20220401T183855Z
 DTSTAMP:20220401T183855Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T200000Z
+DTEND:20220404T210000Z
+SUMMARY:[European Masters] ESB vs. USE
+UID:european-masters-107893136890999273@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: eSuba vs. Unicorns of Love Sexy Edition\nSpiel-Strategie:
+  bestOf 1\nStatus: unstarted\n
+CREATED:20220402T020307Z
+LAST-MODIFIED:20220402T020307Z
+DTSTAMP:20220402T020307Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T200000Z
+DTEND:20220404T210000Z
+SUMMARY:[European Masters] FTW vs. WOLF
+UID:european-masters-107893136890999297@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: For The Win Esports vs. Topo Centras Iron Wolves\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220402T020307Z
+LAST-MODIFIED:20220402T020307Z
+DTSTAMP:20220402T020307Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T200000Z
+DTEND:20220404T210000Z
+SUMMARY:[European Masters] MCON vs. KC
+UID:european-masters-107893136890999321@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: mCon LG UltraGear vs. Karmine Corp\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
+CREATED:20220402T020307Z
+LAST-MODIFIED:20220402T020307Z
+DTSTAMP:20220402T020307Z
+END:VEVENT
 NAME:European Masters Spielplan
 X-WR-CALNAME:European Masters Spielplan
 END:VCALENDAR

@@ -1160,13 +1160,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220404T210000Z
 DTEND:20220405T020000Z
-SUMMARY:[Honor League] MOX vs. TBD
+SUMMARY:[Honor League] MG vs. MOX
 UID:entel_honor_leagu-108035548029874514@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: Movistar Optix vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ 2\nTeams: Meta Gaming vs. Movistar Optix\nSpiel-Strategie: bestOf 
+ 5\nStatus: unstarted\n
 CREATED:20220330T020554Z
-LAST-MODIFIED:20220331T020055Z
+LAST-MODIFIED:20220402T020307Z
 DTSTAMP:20220330T020554Z
 END:VEVENT
 BEGIN:VEVENT

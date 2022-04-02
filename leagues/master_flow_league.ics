@@ -1625,14 +1625,15 @@ LAST-MODIFIED:20220401T064010Z
 DTSTAMP:20220327T015855Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220401T200000Z
-DTEND:20220402T010000Z
-SUMMARY:[Master Flow League] 9Z vs. PAM
+DTSTART:20220401T210000Z
+DTEND:20220402T020000Z
+SUMMARY:[Master Flow League] PAM vs. 9Z
 UID:master_flow_league-107728324360587424@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Viertelfinale\nTeams: 9z 
- Gaming vs. Pampas\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Viertelfinale\nTeams: Pampas 
+ vs. 9z Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Pampas (3) vs. 9z Gaming (0)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220402T020307Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 NAME:Master Flow League Spielplan
