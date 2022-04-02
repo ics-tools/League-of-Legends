@@ -272,9 +272,10 @@ DTEND:20220402T010000Z
 SUMMARY:[Proving Grounds] 100 vs. 100X
 UID:proving_grounds-107921365941728240@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: 100 Academy vs. 
- 100 Next\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ 100 Next\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 100 
+ Academy (2) vs. 100 Next (0)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220402T183547Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT
@@ -283,9 +284,10 @@ DTEND:20220402T030000Z
 SUMMARY:[Proving Grounds] CLG vs. IMA
 UID:proving_grounds-107921365941728244@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: CLG Academy vs. 
- Immortals AOE\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Immortals AOE\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: 
+ CLG Academy (2) vs. Immortals AOE (1)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220331T183827Z
+LAST-MODIFIED:20220402T183547Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT
