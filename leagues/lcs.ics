@@ -8461,12 +8461,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220402T203000Z
 DTEND:20220403T013000Z
-SUMMARY:[LCS] 100 vs. C9
+SUMMARY:[LCS] C9 vs. 100
 UID:lcs-107458367241871125@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: 100 
- Thieves vs. Cloud9\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Cloud9 
+ vs. 100 Thieves\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  Cloud9 (0) vs. 100 Thieves (3)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T125415Z
+LAST-MODIFIED:20220403T020442Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT

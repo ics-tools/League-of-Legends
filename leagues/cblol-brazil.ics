@@ -7591,9 +7591,10 @@ DTEND:20220402T210000Z
 SUMMARY:[CBLOL] RED vs. LBR
 UID:cblol-brazil-107405912049987666@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Vorrunde: K.-o.-Phase\nTeams: RED Kalunga 
- vs. Liberty\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Liberty\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: RED
+  Kalunga (3) vs. Liberty (2)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220403T020442Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT

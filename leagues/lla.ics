@@ -6419,20 +6419,21 @@ DTEND:20220403T010000Z
 SUMMARY:[Liga Latinoamérica] R7 vs. ISG
 UID:lla-107530579842984617@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Halbfinale\nTeams: Rainbow7  
- vs. Isurus\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Isurus\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Rainbow7  (3) vs. Isurus (2)\n
 CREATED:20220328T020644Z
-LAST-MODIFIED:20220328T020644Z
+LAST-MODIFIED:20220403T020442Z
 DTSTAMP:20220328T020644Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220403T190000Z
 DTEND:20220404T000000Z
-SUMMARY:[Liga Latinoamérica] EST vs. TBD
+SUMMARY:[Liga Latinoamérica] R7 vs. EST
 UID:lla-107530579842984623@lol.ics.tools
-DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Halbfinale\nTeams: Estral 
- Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Halbfinale\nTeams: Rainbow7  
+ vs. Estral Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220329T183748Z
-LAST-MODIFIED:20220329T183748Z
+LAST-MODIFIED:20220403T020442Z
 DTSTAMP:20220329T183748Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan
