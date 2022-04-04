@@ -6485,6 +6485,54 @@ CREATED:20220403T124943Z
 LAST-MODIFIED:20220403T124943Z
 DTSTAMP:20220403T124943Z
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T170000Z
+DTEND:20220405T180000Z
+SUMMARY:[European Masters] MCK vs. BAR
+UID:european-masters-107893136890999259@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Macko Esports vs. Barça Esports\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220404T021137Z
+LAST-MODIFIED:20220404T021137Z
+DTSTAMP:20220404T021137Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T170000Z
+DTEND:20220405T180000Z
+SUMMARY:[European Masters] VPG vs. ESB
+UID:european-masters-107893136890999293@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: Valiance PRO GAME vs. eSuba\nSpiel-Strategie: bestOf 
+ 1\nStatus: unstarted\n
+CREATED:20220404T021137Z
+LAST-MODIFIED:20220404T021137Z
+DTSTAMP:20220404T021137Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T170000Z
+DTEND:20220405T180000Z
+SUMMARY:[European Masters] GENK vs. FTW
+UID:european-masters-107893136890999317@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: KRC Genk Esports vs. For The Win Esports\nSpiel-
+ Strategie: bestOf 1\nStatus: unstarted\n
+CREATED:20220404T021137Z
+LAST-MODIFIED:20220404T021137Z
+DTSTAMP:20220404T021137Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220405T160000Z
+DTEND:20220405T170000Z
+SUMMARY:[European Masters] MCON vs. KC
+UID:european-masters-107893136891064869@lol.ics.tools
+DESCRIPTION:Liga: European Masters\nPhase: Gruppenphase der 
+ Vorrunde\nTeams: mCon LG UltraGear vs. Karmine Corp\nSpiel-Strategie: 
+ bestOf 1\nStatus: unstarted\n
+CREATED:20220404T021137Z
+LAST-MODIFIED:20220404T021137Z
+DTSTAMP:20220404T021137Z
+END:VEVENT
 NAME:European Masters Spielplan
 X-WR-CALNAME:European Masters Spielplan
 END:VCALENDAR

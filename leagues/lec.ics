@@ -8216,9 +8216,10 @@ DTEND:20220403T200000Z
 SUMMARY:[LEC] MSF vs. G2
 UID:lec-107417293272826602@lol.ics.tools
 DESCRIPTION:Liga: LEC\nPhase: Entscheidungsspiele – Runde 2\nTeams: Misfits
-  Gaming vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  Gaming vs. G2 Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Misfits Gaming (0) vs. G2 Esports (3)\n
 CREATED:20220328T064046Z
-LAST-MODIFIED:20220403T020442Z
+LAST-MODIFIED:20220404T021137Z
 DTSTAMP:20220328T064046Z
 END:VEVENT
 NAME:LEC Spielplan

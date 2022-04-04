@@ -7603,9 +7603,10 @@ DTEND:20220403T210000Z
 SUMMARY:[CBLOL] KBM vs. PNG
 UID:cblol-brazil-107405912049987660@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: KaBuM! Esports vs. paiN 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: KaBuM! 
+ Esports (0) vs. paiN Gaming (3)\n
 CREATED:20220328T125415Z
-LAST-MODIFIED:20220328T125415Z
+LAST-MODIFIED:20220404T021137Z
 DTSTAMP:20220328T125415Z
 END:VEVENT
 NAME:CBLOL Spielplan

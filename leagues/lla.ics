@@ -6431,9 +6431,10 @@ DTEND:20220404T000000Z
 SUMMARY:[Liga Latinoamérica] R7 vs. EST
 UID:lla-107530579842984623@lol.ics.tools
 DESCRIPTION:Liga: Liga Latinoamérica\nPhase: Halbfinale\nTeams: Rainbow7  
- vs. Estral Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Estral Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Rainbow7  (2) vs. Estral Esports (3)\n
 CREATED:20220329T183748Z
-LAST-MODIFIED:20220403T020442Z
+LAST-MODIFIED:20220404T021137Z
 DTSTAMP:20220329T183748Z
 END:VEVENT
 NAME:Liga Latinoamérica Spielplan

@@ -8500,9 +8500,10 @@ DTEND:20220404T003000Z
 SUMMARY:[LCS] EG vs. TL
 UID:lcs-107458367241871119@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Evil 
- Geniuses vs. Team Liquid\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Geniuses vs. Team Liquid\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Evil Geniuses (2) vs. Team Liquid (3)\n
 CREATED:20220330T020554Z
-LAST-MODIFIED:20220330T020554Z
+LAST-MODIFIED:20220404T021137Z
 DTSTAMP:20220330T020554Z
 END:VEVENT
 NAME:LCS Spielplan
