@@ -315,24 +315,35 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220405T220000Z
 DTEND:20220406T010000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] FLY vs. DIG
 UID:proving_grounds-107921365941728254@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: FLY Academy vs. 
+ DIG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220331T020055Z
+LAST-MODIFIED:20220405T020046Z
 DTSTAMP:20220331T020055Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220406T000000Z
 DTEND:20220406T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] CLG vs. 100
 UID:proving_grounds-107921365941728258@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: CLG Academy vs. 
+ 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220331T020055Z
+LAST-MODIFIED:20220405T020046Z
 DTSTAMP:20220331T020055Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220406T220000Z
+DTEND:20220407T030000Z
+SUMMARY:[Proving Grounds] TBD vs. TBD
+UID:proving_grounds-107921365941728248@lol.ics.tools
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: TBD vs. 
+ TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+CREATED:20220405T020046Z
+LAST-MODIFIED:20220405T020046Z
+DTSTAMP:20220405T020046Z
 END:VEVENT
 NAME:Proving Grounds Spielplan
 X-WR-CALNAME:Proving Grounds Spielplan
