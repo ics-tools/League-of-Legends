@@ -296,9 +296,10 @@ DTEND:20220405T010000Z
 SUMMARY:[Proving Grounds] GG vs. IMT
 UID:proving_grounds-107921365941728224@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: GG Academy vs. 
- IMT Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ IMT Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: GG 
+ Academy (2) vs. IMT Academy (1)\n
 CREATED:20220330T125440Z
-LAST-MODIFIED:20220330T125440Z
+LAST-MODIFIED:20220405T064011Z
 DTSTAMP:20220330T125440Z
 END:VEVENT
 BEGIN:VEVENT
@@ -307,9 +308,10 @@ DTEND:20220405T030000Z
 SUMMARY:[Proving Grounds] C9 vs. TL
 UID:proving_grounds-107921365941728228@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 4\nTeams: C9 Academy vs. TL
-  Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+  Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: C9 
+ Academy (1) vs. TL Academy (2)\n
 CREATED:20220330T125440Z
-LAST-MODIFIED:20220330T125440Z
+LAST-MODIFIED:20220405T064011Z
 DTSTAMP:20220330T125440Z
 END:VEVENT
 BEGIN:VEVENT
@@ -337,12 +339,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220406T220000Z
 DTEND:20220407T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TL vs. GG
 UID:proving_grounds-107921365941728248@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: TL Academy vs. GG
+  Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220405T064011Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 NAME:Proving Grounds Spielplan
