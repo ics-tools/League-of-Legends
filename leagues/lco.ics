@@ -2885,12 +2885,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220405T070000Z
 DTEND:20220405T120000Z
-SUMMARY:[LCO] ORD vs. PGG
+SUMMARY:[LCO] PGG vs. ORD
 UID:lco-107439320898325054@lol.ics.tools
-DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 2\nTeams: ORDER 
- vs. Pentanet.GG\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCO\nPhase: Entscheidungsspiele – Runde 2\nTeams: 
+ Pentanet.GG vs. ORDER\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Pentanet.GG (0) vs. ORDER (3)\n
 CREATED:20220330T183814Z
-LAST-MODIFIED:20220404T125424Z
+LAST-MODIFIED:20220405T125246Z
 DTSTAMP:20220330T183814Z
 END:VEVENT
 NAME:LCO Spielplan
