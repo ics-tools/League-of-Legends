@@ -6734,12 +6734,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220407T150000Z
 DTEND:20220407T180000Z
-SUMMARY:[European Masters] BFR vs. BAR
+SUMMARY:[European Masters] BAR vs. BFR
 UID:european-masters-107893166002418230@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
- Bifrost vs. Barça Esports\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Barça Esports vs. Bifrost\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220406T183619Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT

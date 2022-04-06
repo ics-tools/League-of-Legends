@@ -6216,12 +6216,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220406T090000Z
 DTEND:20220406T140000Z
-SUMMARY:[LJL] RJ vs. BC
+SUMMARY:[LJL] BC vs. RJ
 UID:ljl-japan-107455808283197535@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Runde 2\nTeams: Rascal Jester vs. Burning 
- Core\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Runde 2\nTeams: Burning Core vs. Rascal 
+ Jester\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Burning 
+ Core (1) vs. Rascal Jester (3)\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220406T183619Z
 DTSTAMP:20220331T020055Z
 END:VEVENT
 BEGIN:VEVENT
