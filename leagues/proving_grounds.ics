@@ -320,9 +320,10 @@ DTEND:20220406T010000Z
 SUMMARY:[Proving Grounds] FLY vs. DIG
 UID:proving_grounds-107921365941728254@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: FLY Academy vs. 
- DIG Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ DIG Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: FLY
+  Academy (2) vs. DIG Academy (1)\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220406T125543Z
 DTSTAMP:20220331T020055Z
 END:VEVENT
 BEGIN:VEVENT
@@ -331,9 +332,10 @@ DTEND:20220406T030000Z
 SUMMARY:[Proving Grounds] CLG vs. 100
 UID:proving_grounds-107921365941728258@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 5\nTeams: CLG Academy vs. 
- 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ 100 Academy\nSpiel-Strategie: bestOf 3\nStatus: completed\nErgebnisse: CLG
+  Academy (0) vs. 100 Academy (2)\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220406T125543Z
 DTSTAMP:20220331T020055Z
 END:VEVENT
 BEGIN:VEVENT
@@ -350,23 +352,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220407T220000Z
 DTEND:20220408T030000Z
-SUMMARY:[Proving Grounds] IMT vs. TBD
+SUMMARY:[Proving Grounds] FLY vs. IMT
 UID:proving_grounds-107921365941728262@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: IMT Academy vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: FLY Academy vs. 
+ IMT Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220406T125543Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220408T220000Z
 DTEND:20220409T030000Z
-SUMMARY:[Proving Grounds] C9 vs. TBD
+SUMMARY:[Proving Grounds] 100 vs. C9
 UID:proving_grounds-107921365941728268@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: C9 Academy vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: 100 Academy vs. 
+ C9 Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220406T125543Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
