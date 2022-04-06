@@ -1164,9 +1164,9 @@ SUMMARY:[Honor League] MG vs. MOX
 UID:entel_honor_leagu-108035548029874514@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
  2\nTeams: Meta Gaming vs. Movistar Optix\nSpiel-Strategie: bestOf 
- 5\nStatus: unstarted\n
+ 5\nStatus: completed\nErgebnisse: Meta Gaming (2) vs. Movistar Optix (3)\n
 CREATED:20220330T020554Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220406T063836Z
 DTSTAMP:20220330T020554Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,13 +1184,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220406T220000Z
 DTEND:20220407T030000Z
-SUMMARY:[Honor League] TBD vs. DHX
+SUMMARY:[Honor League] DHX vs. MOX
 UID:entel_honor_leagu-108035548029874520@lol.ics.tools
 DESCRIPTION:Liga: Honor League\nPhase: Entscheidungsspiele – Runde 
- 2\nTeams: TBD vs. Dark Horse\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ 2\nTeams: Dark Horse vs. Movistar Optix\nSpiel-Strategie: bestOf 
+ 5\nStatus: unstarted\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220406T063836Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 NAME:Honor League Spielplan

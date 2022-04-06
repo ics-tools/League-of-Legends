@@ -676,14 +676,15 @@ LAST-MODIFIED:20220323T063956Z
 DTSTAMP:20220322T125335Z
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220405T230000Z
-DTEND:20220406T040000Z
-SUMMARY:[Golden League] BRR vs. Z5
+DTSTART:20220406T000000Z
+DTEND:20220406T050000Z
+SUMMARY:[Golden League] Z5 vs. BRR
 UID:movistar_fiber_golden_league-107639438038238640@lol.ics.tools
-DESCRIPTION:Liga: Golden League\nPhase: Finale\nTeams: Braves Rising vs. 
- Zeu5 Bogotá\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Golden League\nPhase: Finale\nTeams: Zeu5 Bogotá vs. 
+ Braves Rising\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Zeu5 Bogotá (3) vs. Braves Rising (0)\n
 CREATED:20220331T020055Z
-LAST-MODIFIED:20220331T020055Z
+LAST-MODIFIED:20220406T063836Z
 DTSTAMP:20220331T020055Z
 END:VEVENT
 NAME:Golden League Spielplan
