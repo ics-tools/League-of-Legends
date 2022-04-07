@@ -3681,13 +3681,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220407T090000Z
 DTEND:20220407T140000Z
-SUMMARY:[PCS] CFO vs. JT
+SUMMARY:[PCS] JT vs. CFO
 UID:pcs-107693721183063584@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: CTBC 
- Flying Oyster vs. Taipei J Team\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Taipei 
+ J Team vs. CTBC Flying Oyster\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Taipei J Team (0) vs. CTBC Flying Oyster (3)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220407T130413Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3715,23 +3715,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220409T090000Z
 DTEND:20220409T140000Z
-SUMMARY:[PCS] BYG vs. TBD
+SUMMARY:[PCS] JT vs. BYG
 UID:pcs-107693721183063604@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Mega 
- Bank Beyond Gaming vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Taipei 
+ J Team vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220407T130413Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220414T090000Z
 DTEND:20220414T140000Z
-SUMMARY:[PCS] TBD vs. TBD
+SUMMARY:[PCS] TBD vs. CFO
 UID:pcs-107693721183063610@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: TBD vs.
-  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  CTBC Flying Oyster\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220407T130413Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
