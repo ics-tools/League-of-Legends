@@ -344,9 +344,10 @@ DTEND:20220407T030000Z
 SUMMARY:[Proving Grounds] TL vs. GG
 UID:proving_grounds-107921365941728248@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: TL Academy vs. GG
-  Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: TL 
+ Academy (3) vs. GG Academy (1)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T064011Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -385,23 +386,23 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220414T220000Z
 DTEND:20220415T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TBD vs. GG
 UID:proving_grounds-107921365941728280@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 8\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 8\nTeams: TBD vs. GG 
+ Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220415T220000Z
 DTEND:20220416T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] TL vs. TBD
 UID:proving_grounds-107921365941728286@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Finale\nTeams: TBD vs. 
+DESCRIPTION:Liga: Proving Grounds\nPhase: Finale\nTeams: TL Academy vs. 
  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 NAME:Proving Grounds Spielplan

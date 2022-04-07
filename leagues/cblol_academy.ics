@@ -3396,9 +3396,10 @@ DTEND:20220407T010000Z
 SUMMARY:[CBLOL Academy] PNG vs. ITZ
 UID:cblol_academy-107565618487656259@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Viertelfinale\nTeams: paiN Academy 
- vs. INTZ Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. INTZ Academy\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: paiN Academy (3) vs. INTZ Academy (2)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3415,12 +3416,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220413T200000Z
 DTEND:20220414T010000Z
-SUMMARY:[CBLOL Academy] NMG vs. TBD
+SUMMARY:[CBLOL Academy] NMG vs. PNG
 UID:cblol_academy-107565618488246095@lol.ics.tools
 DESCRIPTION:Liga: CBLOL Academy\nPhase: Halbfinale\nTeams: Netshoes Miners 
- Academy vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Academy vs. paiN Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT

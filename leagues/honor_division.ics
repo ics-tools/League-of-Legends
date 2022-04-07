@@ -885,9 +885,10 @@ DTEND:20220407T040000Z
 SUMMARY:[Honor Division] TK vs. ATH
 UID:honor_division-107593829779755221@lol.ics.tools
 DESCRIPTION:Liga: Honor Division\nPhase: Finale\nTeams: The Kings vs. 
- Atheris Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Atheris Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse:
+  The Kings (3) vs. Atheris Esports (0)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220405T020046Z
+LAST-MODIFIED:20220407T063927Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 NAME:Honor Division Spielplan
