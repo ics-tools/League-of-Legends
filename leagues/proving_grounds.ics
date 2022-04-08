@@ -356,9 +356,10 @@ DTEND:20220408T030000Z
 SUMMARY:[Proving Grounds] FLY vs. IMT
 UID:proving_grounds-107921365941728262@lol.ics.tools
 DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: FLY Academy vs. 
- IMT Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ IMT Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: FLY
+  Academy (2) vs. IMT Academy (3)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T125543Z
+LAST-MODIFIED:20220408T063953Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
@@ -375,12 +376,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220413T220000Z
 DTEND:20220414T030000Z
-SUMMARY:[Proving Grounds] TBD vs. TBD
+SUMMARY:[Proving Grounds] IMT vs. TBD
 UID:proving_grounds-107921365941728274@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 7\nTeams: TBD vs. 
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 7\nTeams: IMT Academy vs. 
  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T063953Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
