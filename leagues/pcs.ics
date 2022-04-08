@@ -3693,23 +3693,25 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220408T090000Z
 DTEND:20220408T140000Z
-SUMMARY:[PCS] DCG vs. PSG
+SUMMARY:[PCS] PSG vs. DCG
 UID:pcs-107693721183063578@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Deep 
- Cross Gaming vs. PSG Talon\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: PSG 
+ Talon vs. Deep Cross Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: PSG Talon (3) vs. Deep Cross Gaming (0)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T125655Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220410T090000Z
 DTEND:20220410T140000Z
-SUMMARY:[PCS] FAK vs. TBD
+SUMMARY:[PCS] DCG vs. FAK
 UID:pcs-107693721183063598@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Frank 
- Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Deep 
+ Cross Gaming vs. Frank Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T125655Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3727,12 +3729,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220414T090000Z
 DTEND:20220414T140000Z
-SUMMARY:[PCS] TBD vs. CFO
+SUMMARY:[PCS] CFO vs. PSG
 UID:pcs-107693721183063610@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: TBD vs.
-  CTBC Flying Oyster\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: CTBC 
+ Flying Oyster vs. PSG Talon\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220407T130413Z
+LAST-MODIFIED:20220408T125655Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
