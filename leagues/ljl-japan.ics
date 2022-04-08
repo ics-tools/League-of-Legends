@@ -6231,20 +6231,21 @@ DTEND:20220408T140000Z
 SUMMARY:[LJL] RJ vs. SG
 UID:ljl-japan-107455808283197541@lol.ics.tools
 DESCRIPTION:Liga: LJL\nPhase: Runde 3\nTeams: Rascal Jester vs. Sengoku 
- Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Rascal 
+ Jester (2) vs. Sengoku Gaming (3)\n
 CREATED:20220406T020400Z
-LAST-MODIFIED:20220406T125543Z
+LAST-MODIFIED:20220408T183858Z
 DTSTAMP:20220406T020400Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220410T090000Z
 DTEND:20220410T140000Z
-SUMMARY:[LJL] DFM vs. TBD
+SUMMARY:[LJL] SG vs. DFM
 UID:ljl-japan-107455808283197547@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Finale\nTeams: DetonatioN FocusMe vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Finale\nTeams: Sengoku Gaming vs. DetonatioN 
+ FocusMe\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020400Z
-LAST-MODIFIED:20220406T020400Z
+LAST-MODIFIED:20220408T183858Z
 DTSTAMP:20220406T020400Z
 END:VEVENT
 NAME:LJL Spielplan
