@@ -1643,9 +1643,9 @@ SUMMARY:[Master Flow League] LEV vs. BOC
 UID:master_flow_league-107728324360587430@lol.ics.tools
 DESCRIPTION:Liga: Master Flow League\nPhase: Halbfinale\nTeams: Leviatán 
  Esports vs. Boca Juniors Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Leviatán Esports (3) vs. Boca Juniors Gaming (0)\n
 CREATED:20220405T125246Z
-LAST-MODIFIED:20220405T125246Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220405T125246Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1662,12 +1662,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220414T200000Z
 DTEND:20220415T010000Z
-SUMMARY:[Master Flow League] TBD vs. TBD
+SUMMARY:[Master Flow League] LEV vs. TBD
 UID:master_flow_league-107728324360587442@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Finale\nTeams: TBD vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Finale\nTeams: Leviatán 
+ Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 NAME:Master Flow League Spielplan

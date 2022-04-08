@@ -6726,9 +6726,9 @@ SUMMARY:[European Masters] EGN vs. VITB
 UID:european-masters-107893166002418226@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
  EGN Esports vs. Vitality.Bee\nSpiel-Strategie: bestOf 3\nStatus: 
- unstarted\n
+ completed\nErgebnisse: EGN Esports (0) vs. Vitality.Bee (2)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6737,9 +6737,10 @@ DTEND:20220407T180000Z
 SUMMARY:[European Masters] BAR vs. BFR
 UID:european-masters-107893166002418230@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
- Barça Esports vs. Bifrost\nSpiel-Strategie: bestOf 3\nStatus: unstarted\n
+ Barça Esports vs. Bifrost\nSpiel-Strategie: bestOf 3\nStatus: 
+ completed\nErgebnisse: Barça Esports (0) vs. Bifrost (2)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220406T183619Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6749,9 +6750,10 @@ SUMMARY:[European Masters] WOLF vs. KC
 UID:european-masters-107893166002418234@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
  Topo Centras Iron Wolves vs. Karmine Corp\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 3\nStatus: completed\nErgebnisse: Topo Centras Iron Wolves (0) vs. Karmine
+  Corp (2)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
@@ -6761,9 +6763,10 @@ SUMMARY:[European Masters] EIQ vs. USE
 UID:european-masters-107893166002418238@lol.ics.tools
 DESCRIPTION:Liga: European Masters\nPhase: Vorrunde: K.-o.-Phase\nTeams: 
  Entropiq vs. Unicorns of Love Sexy Edition\nSpiel-Strategie: bestOf 
- 3\nStatus: unstarted\n
+ 3\nStatus: completed\nErgebnisse: Entropiq (0) vs. Unicorns of Love Sexy 
+ Edition (2)\n
 CREATED:20220405T020046Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220408T020604Z
 DTSTAMP:20220405T020046Z
 END:VEVENT
 BEGIN:VEVENT
