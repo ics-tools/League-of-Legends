@@ -365,23 +365,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220408T220000Z
 DTEND:20220409T030000Z
-SUMMARY:[Proving Grounds] 100 vs. C9
+SUMMARY:[Proving Grounds] C9 vs. 100
 UID:proving_grounds-107921365941728268@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: 100 Academy vs. 
- C9 Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 6\nTeams: C9 Academy vs. 
+ 100 Academy\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: C9 
+ Academy (1) vs. 100 Academy (3)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T125543Z
+LAST-MODIFIED:20220409T015743Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220413T220000Z
 DTEND:20220414T030000Z
-SUMMARY:[Proving Grounds] IMT vs. TBD
+SUMMARY:[Proving Grounds] 100 vs. IMT
 UID:proving_grounds-107921365941728274@lol.ics.tools
-DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 7\nTeams: IMT Academy vs. 
- TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Proving Grounds\nPhase: Runde 7\nTeams: 100 Academy vs. 
+ IMT Academy\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220408T063953Z
+LAST-MODIFIED:20220409T015743Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
