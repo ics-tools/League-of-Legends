@@ -3721,9 +3721,9 @@ SUMMARY:[PCS] JT vs. BYG
 UID:pcs-107693721183063604@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Taipei 
  J Team vs. Mega Bank Beyond Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Taipei J Team (3) vs. Mega Bank Beyond Gaming (2)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220407T130413Z
+LAST-MODIFIED:20220409T183700Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3741,12 +3741,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220415T090000Z
 DTEND:20220415T140000Z
-SUMMARY:[PCS] TBD vs. TBD
+SUMMARY:[PCS] TBD vs. JT
 UID:pcs-107693721183129152@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: TBD vs.
-  TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+  Taipei J Team\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220409T183700Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT

@@ -7926,9 +7926,10 @@ DTEND:20220409T160000Z
 SUMMARY:[TCL] GS vs. IW
 UID:turkiye-sampiyonluk-ligi-107566430981123302@lol.ics.tools
 DESCRIPTION:Liga: TCL\nPhase: Finale\nTeams: Galatasaray Espor vs. fastPay 
- Wildcats\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Wildcats\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ Galatasaray Espor (0) vs. fastPay Wildcats (3)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220409T183700Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 NAME:TCL Spielplan
