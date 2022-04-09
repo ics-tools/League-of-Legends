@@ -1651,23 +1651,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220408T200000Z
 DTEND:20220409T010000Z
-SUMMARY:[Master Flow League] PAM vs. EBG
+SUMMARY:[Master Flow League] EBG vs. PAM
 UID:master_flow_league-107728324360587436@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Halbfinale\nTeams: Pampas vs. 
- eBRO Gaming\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Halbfinale\nTeams: eBRO Gaming
+  vs. Pampas\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ eBRO Gaming (3) vs. Pampas (2)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220409T063841Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220414T200000Z
 DTEND:20220415T010000Z
-SUMMARY:[Master Flow League] LEV vs. TBD
+SUMMARY:[Master Flow League] EBG vs. LEV
 UID:master_flow_league-107728324360587442@lol.ics.tools
-DESCRIPTION:Liga: Master Flow League\nPhase: Finale\nTeams: Leviatán 
- Esports vs. TBD\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: Master Flow League\nPhase: Finale\nTeams: eBRO Gaming vs.
+  Leviatán Esports\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220408T020604Z
+LAST-MODIFIED:20220409T063841Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 NAME:Master Flow League Spielplan
