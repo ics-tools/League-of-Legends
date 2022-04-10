@@ -8512,9 +8512,10 @@ DTEND:20220410T013000Z
 SUMMARY:[LCS] C9 vs. GG
 UID:lcs-107458367241871137@lol.ics.tools
 DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Cloud9 
- vs. Golden Guardians\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ vs. Golden Guardians\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Cloud9 (3) vs. Golden Guardians (0)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220410T020541Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
