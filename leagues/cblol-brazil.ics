@@ -7627,9 +7627,10 @@ DTEND:20220410T210000Z
 SUMMARY:[CBLOL] KBM vs. RED
 UID:cblol-brazil-107405912049987678@lol.ics.tools
 DESCRIPTION:Liga: CBLOL\nPhase: Halbfinale\nTeams: KaBuM! Esports vs. RED 
- Kalunga\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+ Kalunga\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: KaBuM! 
+ Esports (1) vs. RED Kalunga (3)\n
 CREATED:20220406T020400Z
-LAST-MODIFIED:20220410T020541Z
+LAST-MODIFIED:20220411T021521Z
 DTSTAMP:20220406T020400Z
 END:VEVENT
 BEGIN:VEVENT

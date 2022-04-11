@@ -3709,9 +3709,9 @@ SUMMARY:[PCS] DCG vs. FAK
 UID:pcs-107693721183063598@lol.ics.tools
 DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 2\nTeams: Deep 
  Cross Gaming vs. Frank Esports\nSpiel-Strategie: bestOf 5\nStatus: 
- unstarted\n
+ completed\nErgebnisse: Deep Cross Gaming (3) vs. Frank Esports (0)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220408T125655Z
+LAST-MODIFIED:20220411T021522Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3741,12 +3741,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220415T090000Z
 DTEND:20220415T140000Z
-SUMMARY:[PCS] TBD vs. JT
+SUMMARY:[PCS] JT vs. DCG
 UID:pcs-107693721183129152@lol.ics.tools
-DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: TBD vs.
-  Taipei J Team\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: PCS\nPhase: Entscheidungsspiele – Runde 3\nTeams: Taipei 
+ J Team vs. Deep Cross Gaming\nSpiel-Strategie: bestOf 5\nStatus: 
+ unstarted\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220409T183700Z
+LAST-MODIFIED:20220411T021522Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT

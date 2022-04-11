@@ -6240,12 +6240,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220410T090000Z
 DTEND:20220410T140000Z
-SUMMARY:[LJL] SG vs. DFM
+SUMMARY:[LJL] DFM vs. SG
 UID:ljl-japan-107455808283197547@lol.ics.tools
-DESCRIPTION:Liga: LJL\nPhase: Finale\nTeams: Sengoku Gaming vs. DetonatioN 
- FocusMe\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LJL\nPhase: Finale\nTeams: DetonatioN FocusMe vs. Sengoku
+  Gaming\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ DetonatioN FocusMe (3) vs. Sengoku Gaming (2)\n
 CREATED:20220406T020400Z
-LAST-MODIFIED:20220408T183858Z
+LAST-MODIFIED:20220411T021521Z
 DTSTAMP:20220406T020400Z
 END:VEVENT
 NAME:LJL Spielplan

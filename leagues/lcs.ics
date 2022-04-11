@@ -8521,12 +8521,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20220410T193000Z
 DTEND:20220411T003000Z
-SUMMARY:[LCS] EG vs. FLY
+SUMMARY:[LCS] FLY vs. EG
 UID:lcs-107458367241936679@lol.ics.tools
-DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: Evil 
- Geniuses vs. FlyQuest\nSpiel-Strategie: bestOf 5\nStatus: unstarted\n
+DESCRIPTION:Liga: LCS\nPhase: Entscheidungsspiele – Runde 1\nTeams: 
+ FlyQuest vs. Evil Geniuses\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: FlyQuest (1) vs. Evil Geniuses (3)\n
 CREATED:20220406T020401Z
-LAST-MODIFIED:20220406T020401Z
+LAST-MODIFIED:20220411T021521Z
 DTSTAMP:20220406T020401Z
 END:VEVENT
 BEGIN:VEVENT
