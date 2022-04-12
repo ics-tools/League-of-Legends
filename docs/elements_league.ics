@@ -1,0 +1,715 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20220125T000000Z
+DTEND:20220125T010000Z
+SUMMARY:[Elements League] BAN vs. FUE
+UID:elements_league-107651358743136111@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Bandits vs. 
+ Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bandits 
+ (0) vs. Fuego (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T010000Z
+DTEND:20220126T020000Z
+SUMMARY:[Elements League] SAP vs. BAN
+UID:elements_league-107651358743136121@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Saprissa Esports 
+ vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Saprissa Esports (1) vs. Bandits (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T030000Z
+DTEND:20220126T040000Z
+SUMMARY:[Elements League] FUE vs. VAN
+UID:elements_league-107651358743201671@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Fuego vs. Vandals
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (1) vs. Vandals Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T000000Z
+DTEND:20220201T010000Z
+SUMMARY:[Elements League] GVE vs. GOT
+UID:elements_league-107651358743201673@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Gravity Elite vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Goat Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T000000Z
+DTEND:20220126T010000Z
+SUMMARY:[Elements League] JNS vs. GOT
+UID:elements_league-107651358743201675@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Janus Esports vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Janus Esports (1) vs. Goat Esports (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T030000Z
+DTEND:20220125T040000Z
+SUMMARY:[Elements League] GOT vs. SAP
+UID:elements_league-107651358743201679@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Goat Esports vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Goat Esports (0) vs. Saprissa Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220126T020000Z
+DTEND:20220126T030000Z
+SUMMARY:[Elements League] GVE vs. RRR
+UID:elements_league-107651358743201685@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Gravity Elite vs.
+  Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Red Rooster (0)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T010000Z
+DTEND:20220125T020000Z
+SUMMARY:[Elements League] VAN vs. GVE
+UID:elements_league-107651358743201689@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Vandals Esports 
+ vs. Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Gravity Elite (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220125T020000Z
+DTEND:20220125T030000Z
+SUMMARY:[Elements League] RRR vs. JNS
+UID:elements_league-107651358743201691@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 1\nTeams: Red Rooster vs. 
+ Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Red Rooster (0) vs. Janus Esports (1)\n
+CREATED:20220131T063601Z
+LAST-MODIFIED:20220131T063601Z
+DTSTAMP:20220131T063601Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T010000Z
+DTEND:20220215T020000Z
+SUMMARY:[Elements League] BAN vs. GOT
+UID:elements_league-107651358743136113@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Bandits vs. Goat 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bandits
+  (1) vs. Goat Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T020000Z
+DTEND:20220209T030000Z
+SUMMARY:[Elements League] GVE vs. BAN
+UID:elements_league-107651358743136115@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Gravity Elite vs.
+  Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Bandits (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T030000Z
+DTEND:20220202T040000Z
+SUMMARY:[Elements League] JNS vs. BAN
+UID:elements_league-107651358743136117@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Janus Esports vs.
+  Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Janus 
+ Esports (1) vs. Bandits (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T030000Z
+DTEND:20220208T040000Z
+SUMMARY:[Elements League] BAN vs. RRR
+UID:elements_league-107651358743136119@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Bandits vs. Red 
+ Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Bandits
+  (0) vs. Red Rooster (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T020000Z
+DTEND:20220201T030000Z
+SUMMARY:[Elements League] VAN vs. BAN
+UID:elements_league-107651358743201659@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Vandals Esports 
+ vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vandals Esports (0) vs. Bandits (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T020000Z
+DTEND:20220202T030000Z
+SUMMARY:[Elements League] GOT vs. FUE
+UID:elements_league-107651358743201661@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Goat Esports vs. 
+ Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goat 
+ Esports (0) vs. Fuego (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T030000Z
+DTEND:20220215T040000Z
+SUMMARY:[Elements League] GVE vs. FUE
+UID:elements_league-107651358743201663@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Gravity Elite vs.
+  Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Gravity 
+ Elite (1) vs. Fuego (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T010000Z
+DTEND:20220209T020000Z
+SUMMARY:[Elements League] FUE vs. JNS
+UID:elements_league-107651358743201665@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Fuego vs. Janus 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (0) vs. Janus Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T010000Z
+DTEND:20220201T020000Z
+SUMMARY:[Elements League] RRR vs. FUE
+UID:elements_league-107651358743201667@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Red Rooster vs. 
+ Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Red 
+ Rooster (1) vs. Fuego (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T020000Z
+DTEND:20220208T030000Z
+SUMMARY:[Elements League] SAP vs. FUE
+UID:elements_league-107651358743201669@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Saprissa Esports 
+ vs. Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Saprissa Esports (1) vs. Fuego (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T030000Z
+DTEND:20220209T040000Z
+SUMMARY:[Elements League] RRR vs. GOT
+UID:elements_league-107651358743201677@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Red Rooster vs. 
+ Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Red Rooster (1) vs. Goat Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T010000Z
+DTEND:20220208T020000Z
+SUMMARY:[Elements League] GOT vs. VAN
+UID:elements_league-107651358743201681@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Goat Esports vs. 
+ Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Goat Esports (0) vs. Vandals Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220208T000000Z
+DTEND:20220208T010000Z
+SUMMARY:[Elements League] JNS vs. GVE
+UID:elements_league-107651358743201683@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Janus Esports vs.
+  Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Janus Esports (0) vs. Gravity Elite (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T010000Z
+DTEND:20220202T020000Z
+SUMMARY:[Elements League] SAP vs. GVE
+UID:elements_league-107651358743201687@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Saprissa Esports 
+ vs. Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Gravity Elite (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220201T030000Z
+DTEND:20220201T040000Z
+SUMMARY:[Elements League] SAP vs. JNS
+UID:elements_league-107651358743201693@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Saprissa Esports 
+ vs. Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Janus Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T020000Z
+DTEND:20220215T030000Z
+SUMMARY:[Elements League] JNS vs. VAN
+UID:elements_league-107651358743201695@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Janus Esports vs.
+  Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Janus Esports (1) vs. Vandals Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220215T000000Z
+DTEND:20220215T010000Z
+SUMMARY:[Elements League] SAP vs. RRR
+UID:elements_league-107651358743201697@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Saprissa Esports 
+ vs. Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Saprissa Esports (1) vs. Red Rooster (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220202T000000Z
+DTEND:20220202T010000Z
+SUMMARY:[Elements League] VAN vs. RRR
+UID:elements_league-107651358743201699@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 2\nTeams: Vandals Esports 
+ vs. Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Vandals Esports (0) vs. Red Rooster (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220209T000000Z
+DTEND:20220209T010000Z
+SUMMARY:[Elements League] VAN vs. SAP
+UID:elements_league-107651358743201701@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 3\nTeams: Vandals Esports 
+ vs. Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Saprissa Esports (1)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T030000Z
+DTEND:20220216T040000Z
+SUMMARY:[Elements League] FUE vs. BAN
+UID:elements_league-107659745139363202@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Fuego vs. 
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (1) vs. Bandits (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T000000Z
+DTEND:20220216T010000Z
+SUMMARY:[Elements League] SAP vs. GOT
+UID:elements_league-107659745139428770@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Saprissa Esports 
+ vs. Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Goat Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T020000Z
+DTEND:20220216T030000Z
+SUMMARY:[Elements League] GVE vs. VAN
+UID:elements_league-107659745139428780@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Gravity Elite vs.
+  Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Gravity Elite (1) vs. Vandals Esports (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T010000Z
+DTEND:20220216T020000Z
+SUMMARY:[Elements League] JNS vs. RRR
+UID:elements_league-107659745139428782@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 4\nTeams: Janus Esports vs.
+  Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Janus Esports (1) vs. Red Rooster (0)\n
+CREATED:20220220T231233Z
+LAST-MODIFIED:20220220T231233Z
+DTSTAMP:20220220T231233Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T020000Z
+DTEND:20220222T030000Z
+SUMMARY:[Elements League] BAN vs. SAP
+UID:elements_league-107659745139428748@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Bandits vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Bandits (0) vs. Saprissa Esports (1)\n
+CREATED:20220221T124756Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220221T124756Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T000000Z
+DTEND:20220222T010000Z
+SUMMARY:[Elements League] VAN vs. FUE
+UID:elements_league-107659745139428762@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Vandals Esports 
+ vs. Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vandals Esports (1) vs. Fuego (0)\n
+CREATED:20220221T124756Z
+LAST-MODIFIED:20220222T013439Z
+DTSTAMP:20220221T124756Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T010000Z
+DTEND:20220222T020000Z
+SUMMARY:[Elements League] RRR vs. GVE
+UID:elements_league-107659745139428776@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Red Rooster vs. 
+ Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Red Rooster (1) vs. Gravity Elite (0)\n
+CREATED:20220221T124756Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220221T124756Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220222T030000Z
+DTEND:20220222T040000Z
+SUMMARY:[Elements League] GOT vs. JNS
+UID:elements_league-107659745139428766@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Goat Esports vs. 
+ Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goat Esports (0) vs. Janus Esports (1)\n
+CREATED:20220222T013439Z
+LAST-MODIFIED:20220222T124934Z
+DTSTAMP:20220222T013439Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T010000Z
+DTEND:20220223T020000Z
+SUMMARY:[Elements League] VAN vs. BAN
+UID:elements_league-107659745139428750@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Vandals Esports 
+ vs. Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Vandals Esports (0) vs. Bandits (1)\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T020000Z
+DTEND:20220223T030000Z
+SUMMARY:[Elements League] FUE vs. RRR
+UID:elements_league-107659745139428758@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Fuego vs. Red 
+ Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (1) vs. Red Rooster (0)\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T030000Z
+DTEND:20220223T040000Z
+SUMMARY:[Elements League] GVE vs. GOT
+UID:elements_league-107659745139428764@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Gravity Elite vs.
+  Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (1) vs. Goat Esports (0)\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220223T124906Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220223T000000Z
+DTEND:20220223T010000Z
+SUMMARY:[Elements League] JNS vs. SAP
+UID:elements_league-107659745139428784@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 5\nTeams: Janus Esports vs.
+  Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Janus Esports (0) vs. Saprissa Esports (1)\n
+CREATED:20220222T124934Z
+LAST-MODIFIED:20220223T014417Z
+DTSTAMP:20220222T124934Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T000000Z
+DTEND:20220301T010000Z
+SUMMARY:[Elements League] BAN vs. JNS
+UID:elements_league-107659745139428744@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Bandits vs. Janus
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Bandits (0) vs. Janus Esports (1)\n
+CREATED:20220228T124906Z
+LAST-MODIFIED:20220301T015226Z
+DTSTAMP:20220228T124906Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T000000Z
+DTEND:20220302T010000Z
+SUMMARY:[Elements League] RRR vs. BAN
+UID:elements_league-107659745139428746@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Red Rooster vs. 
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Red 
+ Rooster (1) vs. Bandits (0)\n
+CREATED:20220228T124906Z
+LAST-MODIFIED:20220302T014751Z
+DTSTAMP:20220228T124906Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T010000Z
+DTEND:20220301T020000Z
+SUMMARY:[Elements League] GOT vs. FUE
+UID:elements_league-107659745139428752@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Goat Esports vs. 
+ Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goat 
+ Esports (0) vs. Fuego (1)\n
+CREATED:20220228T124906Z
+LAST-MODIFIED:20220301T124919Z
+DTSTAMP:20220228T124906Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T010000Z
+DTEND:20220302T020000Z
+SUMMARY:[Elements League] FUE vs. SAP
+UID:elements_league-107659745139428760@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Fuego vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Fuego (0) vs. Saprissa Esports (1)\n
+CREATED:20220228T124906Z
+LAST-MODIFIED:20220302T124937Z
+DTSTAMP:20220228T124906Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T020000Z
+DTEND:20220301T030000Z
+SUMMARY:[Elements League] SAP vs. GVE
+UID:elements_league-107659745139428778@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Saprissa Esports 
+ vs. Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Gravity Elite (0)\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T124919Z
+DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220301T030000Z
+DTEND:20220301T040000Z
+SUMMARY:[Elements League] RRR vs. VAN
+UID:elements_league-107659745139428790@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Red Rooster vs. 
+ Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse:
+  Red Rooster (1) vs. Vandals Esports (0)\n
+CREATED:20220301T015226Z
+LAST-MODIFIED:20220301T124919Z
+DTSTAMP:20220301T015226Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T020000Z
+DTEND:20220302T030000Z
+SUMMARY:[Elements League] VAN vs. GOT
+UID:elements_league-107659745139428772@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Vandals Esports 
+ vs. Goat Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Goat Esports (1)\n
+CREATED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
+DTSTAMP:20220301T124919Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220302T030000Z
+DTEND:20220302T040000Z
+SUMMARY:[Elements League] GVE vs. JNS
+UID:elements_league-107659745139428774@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 6\nTeams: Gravity Elite vs.
+  Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Gravity Elite (0) vs. Janus Esports (1)\n
+CREATED:20220301T124919Z
+LAST-MODIFIED:20220302T124937Z
+DTSTAMP:20220301T124919Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T010000Z
+DTEND:20220308T020000Z
+SUMMARY:[Elements League] BAN vs. GVE
+UID:elements_league-107659745139428742@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Bandits vs. 
+ Gravity Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Bandits (1) vs. Gravity Elite (0)\n
+CREATED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
+DTSTAMP:20220307T014706Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T020000Z
+DTEND:20220308T030000Z
+SUMMARY:[Elements League] JNS vs. FUE
+UID:elements_league-107659745139428756@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Janus Esports vs.
+  Fuego\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Janus 
+ Esports (1) vs. Fuego (0)\n
+CREATED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
+DTSTAMP:20220307T014706Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T000000Z
+DTEND:20220308T010000Z
+SUMMARY:[Elements League] GOT vs. RRR
+UID:elements_league-107659745139428768@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Goat Esports vs. 
+ Red Rooster\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Goat Esports (1) vs. Red Rooster (0)\n
+CREATED:20220307T014706Z
+LAST-MODIFIED:20220308T014453Z
+DTSTAMP:20220307T014706Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T030000Z
+DTEND:20220308T040000Z
+SUMMARY:[Elements League] SAP vs. VAN
+UID:elements_league-107659745139428792@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Saprissa Esports 
+ vs. Vandals Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (1) vs. Vandals Esports (0)\n
+CREATED:20220307T014706Z
+LAST-MODIFIED:20220308T125052Z
+DTSTAMP:20220307T014706Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T020000Z
+DTEND:20220309T030000Z
+SUMMARY:[Elements League] GOT vs. BAN
+UID:elements_league-107659745139428740@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Goat Esports vs. 
+ Bandits\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Goat 
+ Esports (0) vs. Bandits (1)\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T000000Z
+DTEND:20220309T010000Z
+SUMMARY:[Elements League] FUE vs. GVE
+UID:elements_league-107659745139428754@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Fuego vs. Gravity
+  Elite\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Fuego 
+ (0) vs. Gravity Elite (1)\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T010000Z
+DTEND:20220309T020000Z
+SUMMARY:[Elements League] VAN vs. JNS
+UID:elements_league-107659745139428786@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Vandals Esports 
+ vs. Janus Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Vandals Esports (0) vs. Janus Esports (1)\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220309T030000Z
+DTEND:20220309T040000Z
+SUMMARY:[Elements League] RRR vs. SAP
+UID:elements_league-107659745139428788@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Woche 7\nTeams: Red Rooster vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 1\nStatus: 
+ completed\nErgebnisse: Red Rooster (0) vs. Saprissa Esports (1)\n
+CREATED:20220308T014453Z
+LAST-MODIFIED:20220309T063804Z
+DTSTAMP:20220308T014453Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220316T000000Z
+DTEND:20220316T050000Z
+SUMMARY:[Elements League] SAP vs. RRR
+UID:elements_league-107651378621484980@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Halbfinale\nTeams: Saprissa 
+ Esports vs. Red Rooster\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Saprissa Esports (3) vs. Red Rooster (0)\n
+CREATED:20220314T014915Z
+LAST-MODIFIED:20220316T063836Z
+DTSTAMP:20220314T014915Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220315T000000Z
+DTEND:20220315T050000Z
+SUMMARY:[Elements League] GVE vs. JNS
+UID:elements_league-107651378621550522@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Halbfinale\nTeams: Gravity Elite 
+ vs. Janus Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Gravity Elite (1) vs. Janus Esports (3)\n
+CREATED:20220314T124933Z
+LAST-MODIFIED:20220315T125124Z
+DTSTAMP:20220314T124933Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220324T000000Z
+DTEND:20220324T050000Z
+SUMMARY:[Elements League] JNS vs. SAP
+UID:elements_league-107651378621550528@lol.ics.tools
+DESCRIPTION:Liga: Elements League\nPhase: Finale\nTeams: Janus Esports vs. 
+ Saprissa Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Janus Esports (1) vs. Saprissa Esports (3)\n
+CREATED:20220322T020142Z
+LAST-MODIFIED:20220329T064020Z
+DTSTAMP:20220322T020142Z
+END:VEVENT
+NAME:Elements League Spielplan
+X-WR-CALNAME:Elements League Spielplan
+END:VCALENDAR

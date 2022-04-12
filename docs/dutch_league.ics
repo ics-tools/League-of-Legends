@@ -1,0 +1,823 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.tools Combinder v1.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20210126T190000Z
+DTEND:20210126T200000Z
+SUMMARY:[Dutch League] DYN vs. LION
+UID:dutch_league-105522932965498815@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: Dynasty vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynasty (1) vs. LowLandLions (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210112T210000Z
+DTEND:20210112T220000Z
+SUMMARY:[Dutch League] EZ vs. LION
+UID:dutch_league-105522932965892033@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Echo Zulu vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Echo Zulu (1) vs. LowLandLions (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T190000Z
+DTEND:20210119T200000Z
+SUMMARY:[Dutch League] LION vs. MCN
+UID:dutch_league-105522932965892035@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: LowLandLions vs. 
+ mCon Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (0) vs. mCon Rotterdam (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T210000Z
+DTEND:20210126T220000Z
+SUMMARY:[Dutch League] PSV vs. LION
+UID:dutch_league-105522932965892037@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: PSV Esports vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PSV Esports (1) vs. LowLandLions (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T190000Z
+DTEND:20210202T200000Z
+SUMMARY:[Dutch League] TRL vs. LION
+UID:dutch_league-105522932965892039@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: Team THRLL vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team THRLL (0) vs. LowLandLions (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T180000Z
+DTEND:20210202T190000Z
+SUMMARY:[Dutch League] DYN vs. EZ
+UID:dutch_league-105522932965892041@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: Dynasty vs. Echo 
+ Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty 
+ (1) vs. Echo Zulu (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210112T180000Z
+DTEND:20210112T190000Z
+SUMMARY:[Dutch League] DYN vs. MCN
+UID:dutch_league-105522932965892043@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Dynasty vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynasty (1) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T200000Z
+DTEND:20210119T210000Z
+SUMMARY:[Dutch League] PSV vs. DYN
+UID:dutch_league-105522932965892045@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: PSV Esports vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (0) vs. Dynasty (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210112T200000Z
+DTEND:20210112T210000Z
+SUMMARY:[Dutch League] DYN vs. TRL
+UID:dutch_league-105522932965892047@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Dynasty vs. Team 
+ THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty 
+ (1) vs. Team THRLL (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T210000Z
+DTEND:20210119T220000Z
+SUMMARY:[Dutch League] EZ vs. MCN
+UID:dutch_league-105522932965892049@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: Echo Zulu vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (0) vs. mCon Rotterdam (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210112T190000Z
+DTEND:20210112T200000Z
+SUMMARY:[Dutch League] EZ vs. PSV
+UID:dutch_league-105522932965957587@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Echo Zulu vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (0) vs. PSV Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T180000Z
+DTEND:20210126T190000Z
+SUMMARY:[Dutch League] EZ vs. TRL
+UID:dutch_league-105522932965957589@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: Echo Zulu vs. Team 
+ THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo Zulu
+  (1) vs. Team THRLL (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210202T200000Z
+DTEND:20210202T210000Z
+SUMMARY:[Dutch League] MCN vs. PSV
+UID:dutch_league-105522932965957591@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: mCon Rotterdam vs. 
+ PSV Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (1) vs. PSV Esports (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210126T200000Z
+DTEND:20210126T210000Z
+SUMMARY:[Dutch League] TRL vs. MCN
+UID:dutch_league-105522932965957593@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: Team THRLL vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (0) vs. mCon Rotterdam (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210119T180000Z
+DTEND:20210119T190000Z
+SUMMARY:[Dutch League] TRL vs. PSV
+UID:dutch_league-105522932965957595@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: Team THRLL vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (0) vs. PSV Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T200000Z
+DTEND:20210223T210000Z
+SUMMARY:[Dutch League] DYN vs. LION
+UID:dutch_league-105522932965957597@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: Dynasty vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynasty (1) vs. LowLandLions (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T180000Z
+DTEND:20210209T190000Z
+SUMMARY:[Dutch League] EZ vs. LION
+UID:dutch_league-105522932965957599@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: Echo Zulu vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Echo Zulu (0) vs. LowLandLions (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T200000Z
+DTEND:20210216T210000Z
+SUMMARY:[Dutch League] MCN vs. LION
+UID:dutch_league-105522932965957601@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: mCon Rotterdam vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (0) vs. LowLandLions (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T180000Z
+DTEND:20210223T190000Z
+SUMMARY:[Dutch League] LION vs. PSV
+UID:dutch_league-105522932965957603@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: LowLandLions vs. PSV
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (0) vs. PSV Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T190000Z
+DTEND:20210302T200000Z
+SUMMARY:[Dutch League] LION vs. TRL
+UID:dutch_league-105522932965957605@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: LowLandLions vs. 
+ Team THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (1) vs. Team THRLL (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T200000Z
+DTEND:20210302T210000Z
+SUMMARY:[Dutch League] DYN vs. EZ
+UID:dutch_league-105522932965957607@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: Dynasty vs. Echo 
+ Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty 
+ (1) vs. Echo Zulu (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T210000Z
+DTEND:20210209T220000Z
+SUMMARY:[Dutch League] DYN vs. MCN
+UID:dutch_league-105522932965957609@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: Dynasty vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynasty (0) vs. mCon Rotterdam (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T190000Z
+DTEND:20210216T200000Z
+SUMMARY:[Dutch League] DYN vs. PSV
+UID:dutch_league-105522932965957611@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: Dynasty vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty
+  (0) vs. PSV Esports (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T190000Z
+DTEND:20210209T200000Z
+SUMMARY:[Dutch League] TRL vs. DYN
+UID:dutch_league-105522932965957613@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: Team THRLL vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (0) vs. Dynasty (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T180000Z
+DTEND:20210216T190000Z
+SUMMARY:[Dutch League] EZ vs. MCN
+UID:dutch_league-105522932965957615@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: Echo Zulu vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (1) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210209T200000Z
+DTEND:20210209T210000Z
+SUMMARY:[Dutch League] PSV vs. EZ
+UID:dutch_league-105522932965957617@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: PSV Esports vs. Echo
+  Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (0) vs. Echo Zulu (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T210000Z
+DTEND:20210223T220000Z
+SUMMARY:[Dutch League] TRL vs. EZ
+UID:dutch_league-105522932965957619@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: Team THRLL vs. Echo 
+ Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team THRLL
+  (0) vs. Echo Zulu (1)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T180000Z
+DTEND:20210302T190000Z
+SUMMARY:[Dutch League] PSV vs. MCN
+UID:dutch_league-105522932965957621@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: PSV Esports vs. mCon
+  Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (1) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T190000Z
+DTEND:20210223T200000Z
+SUMMARY:[Dutch League] MCN vs. TRL
+UID:dutch_league-105522932965957623@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: mCon Rotterdam vs. 
+ Team THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: mCon
+  Rotterdam (1) vs. Team THRLL (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210216T210000Z
+DTEND:20210216T220000Z
+SUMMARY:[Dutch League] PSV vs. TRL
+UID:dutch_league-105522932965957625@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: PSV Esports vs. Team
+  THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (1) vs. Team THRLL (0)\n
+CREATED:20211129T025651Z
+LAST-MODIFIED:20211129T025651Z
+DTSTAMP:20211129T025651Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210309T180000Z
+DTEND:20210309T230000Z
+SUMMARY:[Dutch League] DYN vs. PSV
+UID:dutch_league-105826247501214816@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Dynasty vs. PSV Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Dynasty (2) vs. PSV Esports (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210310T180000Z
+DTEND:20210310T230000Z
+SUMMARY:[Dutch League] EZ vs. MCN
+UID:dutch_league-105826247501280358@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Echo Zulu vs. mCon Rotterdam\nSpiel-Strategie: bestOf 5\nStatus:
+  completed\nErgebnisse: Echo Zulu (3) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210316T180000Z
+DTEND:20210316T230000Z
+SUMMARY:[Dutch League] DYN vs. EZ
+UID:dutch_league-105826247501280364@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: Dynasty vs. Echo Zulu\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Dynasty (1) vs. Echo Zulu (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210323T180000Z
+DTEND:20210323T230000Z
+SUMMARY:[Dutch League] EZ vs. PSV
+UID:dutch_league-105826247501280370@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Finale\nTeams: Echo Zulu vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: Echo 
+ Zulu (0) vs. PSV Esports (3)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T170000Z
+DTEND:20210601T180000Z
+SUMMARY:[Dutch League] DYN vs. LION
+UID:dutch_league-106306653060886899@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Dynasty vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Dynasty (0) vs. LowLandLions (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T170000Z
+DTEND:20210622T180000Z
+SUMMARY:[Dutch League] TRL vs. DYN
+UID:dutch_league-106306653060886901@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: Team THRLL vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T190000Z
+DTEND:20210608T200000Z
+SUMMARY:[Dutch League] MCN vs. DYN
+UID:dutch_league-106306653060886903@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: mCon Rotterdam vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: mCon 
+ Rotterdam (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T180000Z
+DTEND:20210615T190000Z
+SUMMARY:[Dutch League] EZ vs. DYN
+UID:dutch_league-106306653060886905@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: Echo Zulu vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T190000Z
+DTEND:20210601T200000Z
+SUMMARY:[Dutch League] DYN vs. PSV
+UID:dutch_league-106306653060886907@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Dynasty vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty
+  (0) vs. PSV Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T200000Z
+DTEND:20210608T210000Z
+SUMMARY:[Dutch League] TRL vs. LION
+UID:dutch_league-106306653060886909@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: Team THRLL vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Team THRLL (1) vs. LowLandLions (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T190000Z
+DTEND:20210622T200000Z
+SUMMARY:[Dutch League] MCN vs. LION
+UID:dutch_league-106306653060886911@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: mCon Rotterdam vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (1) vs. LowLandLions (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T180000Z
+DTEND:20210608T190000Z
+SUMMARY:[Dutch League] EZ vs. LION
+UID:dutch_league-106306653060886913@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: Echo Zulu vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ Echo Zulu (1) vs. LowLandLions (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T190000Z
+DTEND:20210615T200000Z
+SUMMARY:[Dutch League] LION vs. PSV
+UID:dutch_league-106306653060886915@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: LowLandLions vs. PSV
+  Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (0) vs. PSV Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T180000Z
+DTEND:20210601T190000Z
+SUMMARY:[Dutch League] TRL vs. MCN
+UID:dutch_league-106306653060886917@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Team THRLL vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (0) vs. mCon Rotterdam (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210601T200000Z
+DTEND:20210601T210000Z
+SUMMARY:[Dutch League] EZ vs. TRL
+UID:dutch_league-106306653060886919@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 1\nTeams: Echo Zulu vs. Team 
+ THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo Zulu
+  (1) vs. Team THRLL (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T170000Z
+DTEND:20210615T180000Z
+SUMMARY:[Dutch League] TRL vs. PSV
+UID:dutch_league-106306653060886921@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: Team THRLL vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (0) vs. PSV Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210615T200000Z
+DTEND:20210615T210000Z
+SUMMARY:[Dutch League] MCN vs. EZ
+UID:dutch_league-106306653060886923@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 3\nTeams: mCon Rotterdam vs. 
+ Echo Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: mCon 
+ Rotterdam (1) vs. Echo Zulu (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210608T170000Z
+DTEND:20210608T180000Z
+SUMMARY:[Dutch League] MCN vs. PSV
+UID:dutch_league-106306653060886925@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 2\nTeams: mCon Rotterdam vs. 
+ PSV Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (0) vs. PSV Esports (1)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210622T180000Z
+DTEND:20210622T190000Z
+SUMMARY:[Dutch League] PSV vs. EZ
+UID:dutch_league-106306653060886927@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 4\nTeams: PSV Esports vs. Echo
+  Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (1) vs. Echo Zulu (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T200000Z
+DTEND:20210629T210000Z
+SUMMARY:[Dutch League] LION vs. DYN
+UID:dutch_league-106306653060886929@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: LowLandLions vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T190000Z
+DTEND:20210720T200000Z
+SUMMARY:[Dutch League] TRL vs. DYN
+UID:dutch_league-106306653060886931@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: Team THRLL vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team 
+ THRLL (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025652Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T180000Z
+DTEND:20210706T190000Z
+SUMMARY:[Dutch League] MCN vs. DYN
+UID:dutch_league-106306653060886933@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: mCon Rotterdam vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: mCon 
+ Rotterdam (1) vs. Dynasty (0)\n
+CREATED:20211129T025652Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025652Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T190000Z
+DTEND:20210713T200000Z
+SUMMARY:[Dutch League] EZ vs. DYN
+UID:dutch_league-106306653060886935@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: Echo Zulu vs. 
+ Dynasty\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (1) vs. Dynasty (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T180000Z
+DTEND:20210629T190000Z
+SUMMARY:[Dutch League] DYN vs. PSV
+UID:dutch_league-106306653060886937@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: Dynasty vs. PSV 
+ Esports\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Dynasty
+  (0) vs. PSV Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T170000Z
+DTEND:20210706T180000Z
+SUMMARY:[Dutch League] LION vs. TRL
+UID:dutch_league-106306653060886939@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: LowLandLions vs. 
+ Team THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (1) vs. Team THRLL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T170000Z
+DTEND:20210720T180000Z
+SUMMARY:[Dutch League] MCN vs. LION
+UID:dutch_league-106306653060886941@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: mCon Rotterdam vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (0) vs. LowLandLions (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T190000Z
+DTEND:20210706T200000Z
+SUMMARY:[Dutch League] LION vs. EZ
+UID:dutch_league-106306653060886943@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: LowLandLions vs. 
+ Echo Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ LowLandLions (0) vs. Echo Zulu (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T180000Z
+DTEND:20210713T190000Z
+SUMMARY:[Dutch League] PSV vs. LION
+UID:dutch_league-106306653060886945@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: PSV Esports vs. 
+ LowLandLions\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: 
+ PSV Esports (1) vs. LowLandLions (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T190000Z
+DTEND:20210629T200000Z
+SUMMARY:[Dutch League] MCN vs. TRL
+UID:dutch_league-106306653060886947@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: mCon Rotterdam vs. 
+ Team THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: mCon
+  Rotterdam (1) vs. Team THRLL (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210629T170000Z
+DTEND:20210629T180000Z
+SUMMARY:[Dutch League] TRL vs. EZ
+UID:dutch_league-106306653060886949@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 5\nTeams: Team THRLL vs. Echo 
+ Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Team THRLL
+  (0) vs. Echo Zulu (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T200000Z
+DTEND:20210713T210000Z
+SUMMARY:[Dutch League] PSV vs. TRL
+UID:dutch_league-106306653060886951@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: PSV Esports vs. Team
+  THRLL\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (0) vs. Team THRLL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210713T170000Z
+DTEND:20210713T180000Z
+SUMMARY:[Dutch League] EZ vs. MCN
+UID:dutch_league-106306653060886953@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 7\nTeams: Echo Zulu vs. mCon 
+ Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: Echo 
+ Zulu (1) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210706T200000Z
+DTEND:20210706T210000Z
+SUMMARY:[Dutch League] PSV vs. MCN
+UID:dutch_league-106306653060886955@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 6\nTeams: PSV Esports vs. mCon
+  Rotterdam\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (1) vs. mCon Rotterdam (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210720T180000Z
+DTEND:20210720T190000Z
+SUMMARY:[Dutch League] PSV vs. EZ
+UID:dutch_league-106306653060886957@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Woche 8\nTeams: PSV Esports vs. Echo
+  Zulu\nSpiel-Strategie: bestOf 1\nStatus: completed\nErgebnisse: PSV 
+ Esports (1) vs. Echo Zulu (0)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210727T170000Z
+DTEND:20210727T220000Z
+SUMMARY:[Dutch League] EZ vs. PSV
+UID:dutch_league-106306653060886959@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: Echo Zulu vs. PSV Esports\nSpiel-Strategie: bestOf 5\nStatus: 
+ completed\nErgebnisse: Echo Zulu (1) vs. PSV Esports (3)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210729T170000Z
+DTEND:20210729T220000Z
+SUMMARY:[Dutch League] MCN vs. TRL
+UID:dutch_league-106306653060886965@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 1\nTeams: mCon Rotterdam vs. Team THRLL\nSpiel-Strategie: bestOf 
+ 5\nStatus: completed\nErgebnisse: mCon Rotterdam (3) vs. Team THRLL (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210803T170000Z
+DTEND:20210803T220000Z
+SUMMARY:[Dutch League] MCN vs. EZ
+UID:dutch_league-106306653060886971@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Entscheidungsspiele – Runde 
+ 2\nTeams: mCon Rotterdam vs. Echo Zulu\nSpiel-Strategie: bestOf 5\nStatus:
+  completed\nErgebnisse: mCon Rotterdam (3) vs. Echo Zulu (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210810T170000Z
+DTEND:20210810T220000Z
+SUMMARY:[Dutch League] MCN vs. PSV
+UID:dutch_league-106306653060952513@lol.ics.tools
+DESCRIPTION:Liga: Dutch League\nPhase: Finale\nTeams: mCon Rotterdam vs. 
+ PSV Esports\nSpiel-Strategie: bestOf 5\nStatus: completed\nErgebnisse: 
+ mCon Rotterdam (3) vs. PSV Esports (1)\n
+CREATED:20211129T025653Z
+LAST-MODIFIED:20211129T025653Z
+DTSTAMP:20211129T025653Z
+END:VEVENT
+NAME:Dutch League Spielplan
+X-WR-CALNAME:Dutch League Spielplan
+END:VCALENDAR
