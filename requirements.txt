@@ -2,4 +2,4 @@ git+https://github.com/ics-py/ics-py.git@a0738f135996ae601deea027d1243ac0d27ed5f
 arrow==1.2.1
 jupyter==1.0.0
 nbconvert==6.3.0
-requests==2.26.0
+requests==2.31.0
